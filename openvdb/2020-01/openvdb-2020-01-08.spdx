@@ -1,0 +1,5550 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_openvdb-2020-01-08.zip_1578598570.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-09T19:36:10Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openvdb-2020-01-08.zip
+PackageFileName: openvdb-2020-01-08.zip
+SPDXID: SPDXRef-upload2057
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 687773424cced4d062b58e2c91c921b4b12a28fa
+PackageChecksum: SHA1: 61b32491bcb0ba2e94843be5a91047a44b0d7101
+PackageChecksum: MD5: fdebf25af4d4cb2ee682b81a4806a955
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2057
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: openvdb/README.md
+SPDXID: SPDXRef-item7975892
+FileChecksum: SHA1: aa6392a8db61677dea412d6a000606b367a550f2
+FileChecksum: MD5: d30ea2f06a9c90db1c86ce207998248c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/CONTRIBUTING.md
+SPDXID: SPDXRef-item7975858
+FileChecksum: SHA1: d21f3ecd0092caa7b1ebeed2a87809befad99f34
+FileChecksum: MD5: dc0acbda3251e80587c6d1f70ad32e26
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/ccla.md
+SPDXID: SPDXRef-item7976022
+FileChecksum: SHA1: 5bbd315aa378222013868cfebd9e37e30314f232
+FileChecksum: MD5: 07adc600223bc92bca69323415e1c53b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project. </text>
+ 
+
+##File
+
+FileName: openvdb/tsc/icla.md
+SPDXID: SPDXRef-item7975980
+FileChecksum: SHA1: ec3129cc2f2d30363597e45025ed776a6d70fb11
+FileChecksum: MD5: 626836ac7c48a0a2f4f2767b45c4d9f1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Rebuild_Level_Set.cc
+SPDXID: SPDXRef-item7975897
+FileChecksum: SHA1: f4595890b7c6bc66686e6bd997cfdda9c8e6881d
+FileChecksum: MD5: bb150989a522a1c5f0ea3ec6d938dfab
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_LOD.cc
+SPDXID: SPDXRef-item7975899
+FileChecksum: SHA1: a0274c70ce7ba7babc3322a7a485b7897c8982cf
+FileChecksum: MD5: df029b6529777cc98b629e619d14ca7e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/VolumeToSpheres.h
+SPDXID: SPDXRef-item7976150
+FileChecksum: SHA1: b07b3eae663b918d73c3a9adc4c7dde8c0c8bfa3
+FileChecksum: MD5: 11df63fb42fb0cd4b3888a77ac4966e8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetUtil.h
+SPDXID: SPDXRef-item7976113
+FileChecksum: SHA1: bfa4d72b468ca80ed56ac62551b25b62896a2fa3
+FileChecksum: MD5: f313f9dce69ce54349e55b419eeb6e64
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Clip.h
+SPDXID: SPDXRef-item7976144
+FileChecksum: SHA1: a27686db72b71bd89e3cb270186d829c39ee7711
+FileChecksum: MD5: 195c43e114ff92f2141351e1a2485a29
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/doc/faq.txt
+SPDXID: SPDXRef-item7976073
+FileChecksum: SHA1: 3a57ac9beab02405d7ac6dec416d5e8290dd2657
+FileChecksum: MD5: efe92e9daa2dee61b99c14530676452c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/cmake/OpenVDBMayaSetup.cmake
+SPDXID: SPDXRef-item7975876
+FileChecksum: SHA1: 8da63291f7487e0cbacf593bb3cc89ee479f5d9e
+FileChecksum: MD5: a98c5c00707ccd6bf2ca9c85116e8ec5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindCppUnit.cmake
+SPDXID: SPDXRef-item7975877
+FileChecksum: SHA1: 6962378cd2ac62fe8a23b466433af75f411b1a86
+FileChecksum: MD5: 8bec161eb89f767587913a02b8572eac
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindOpenEXR.cmake
+SPDXID: SPDXRef-item7975878
+FileChecksum: SHA1: 16251f8c39bfaa940d0f6a896f5ce43f4fbdb4d1
+FileChecksum: MD5: 8177f9865c979ee537a7ee31d41098be
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindJemalloc.cmake
+SPDXID: SPDXRef-item7975879
+FileChecksum: SHA1: 3d6326361af5ec61e7a99ab75ab52345a27624f1
+FileChecksum: MD5: 39312a3ef0df1c18650031bd480f46b4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/backports/FindNumPy.cmake
+SPDXID: SPDXRef-item7975882
+FileChecksum: SHA1: 7f0d3db22a97c07ba6e31dd6a1a64445ec03ef0e
+FileChecksum: MD5: cc0b2d0a8029d2db5a6704a74a2a52ce
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/Uninstall.cmake
+SPDXID: SPDXRef-item7975880
+FileChecksum: SHA1: fa8cb7456976698ef4d7265e2148c8251f72aba8
+FileChecksum: MD5: df3acadb008022afb3f5b135a9a5b591
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindBlosc.cmake
+SPDXID: SPDXRef-item7975884
+FileChecksum: SHA1: 1adc54b7df4977e460df44026e38c545b54c1043
+FileChecksum: MD5: 55a728dfb30cf6f2c13072a3b9fb25b9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindIlmBase.cmake
+SPDXID: SPDXRef-item7975885
+FileChecksum: SHA1: e59cb8bd211d6ba4920b31a43e0a2cb399326b58
+FileChecksum: MD5: dadd8c73d2cc2471529830520b66b4bd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindLog4cplus.cmake
+SPDXID: SPDXRef-item7975887
+FileChecksum: SHA1: 26817033bfb300e6d4c9a2e851961bbd258395eb
+FileChecksum: MD5: bb89932a59fd52c0e884882cee419af9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindOpenVDB.cmake
+SPDXID: SPDXRef-item7975886
+FileChecksum: SHA1: 1ed7fbf369dd0e49f54ba5714573e8248863d2fd
+FileChecksum: MD5: 48f3e7450bb3efcda685ddab427593fb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/OpenVDBGLFW3Setup.cmake
+SPDXID: SPDXRef-item7975888
+FileChecksum: SHA1: a7d4e2cd47d42de13eacded7fc533c05e4d57eea
+FileChecksum: MD5: 2ab19959d0acd8397cdae0e362374c58
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/OpenVDBUtils.cmake
+SPDXID: SPDXRef-item7975890
+FileChecksum: SHA1: 6431a46d25bc82db33280e3dcba5754b818eb761
+FileChecksum: MD5: ffaf5dff3e1c143756a78993341780bc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/OpenVDBHoudiniSetup.cmake
+SPDXID: SPDXRef-item7975891
+FileChecksum: SHA1: 4634ede53548e0f410d9b466a7d841e4071c33b7
+FileChecksum: MD5: 902f72acc0613d5d10964dd22bf14c2d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/cmake/FindTBB.cmake
+SPDXID: SPDXRef-item7975889
+FileChecksum: SHA1: dd24f4760600bd45e9239134914f5ccd75152e09
+FileChecksum: MD5: 84f067d62d5fbc082c99aa598995a02f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GeometryUtil.h
+SPDXID: SPDXRef-item7975896
+FileChecksum: SHA1: 5d78c075c905ec75e391b41f2b7150979cdf0097
+FileChecksum: MD5: 6df661bd0641b7138b7eba8efb8f2fef
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GeometryUtil.cc
+SPDXID: SPDXRef-item7975900
+FileChecksum: SHA1: c528db0e9785234b90d263e8780e1d5319a7c3c5
+FileChecksum: MD5: e4442505348a350229c988ab863f97ff
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Analysis.cc
+SPDXID: SPDXRef-item7975901
+FileChecksum: SHA1: 5fce050afda424577ad5782fe3ffde7a5d9e6646
+FileChecksum: MD5: 8d08bfc7d846ad2fc9dbaf7d1bde3566
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Clip.cc
+SPDXID: SPDXRef-item7975902
+FileChecksum: SHA1: 689571b20d83f35537294485b2c85eaa4f8a11ce
+FileChecksum: MD5: 8166cbe55cd33301ccf210e1384e85c0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_From_Particles.cc
+SPDXID: SPDXRef-item7975904
+FileChecksum: SHA1: 383f7df60365ea2af7743c75ca8b19135e63b355
+FileChecksum: MD5: de9a0cca417ad8dfd140e8d8edad7141
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/COPYRIGHT
+SPDXID: SPDXRef-item7976100
+FileChecksum: SHA1: 3f56629555d378cc83511f4cd6d0aed755df58e6
+FileChecksum: MD5: 75c4ebac343b7993a98fae1ecd209749
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/COPYRIGHT
+SPDXID: SPDXRef-item7975903
+FileChecksum: SHA1: 3f56629555d378cc83511f4cd6d0aed755df58e6
+FileChecksum: MD5: 75c4ebac343b7993a98fae1ecd209749
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/COPYRIGHT
+SPDXID: SPDXRef-item7976030
+FileChecksum: SHA1: 3f56629555d378cc83511f4cd6d0aed755df58e6
+FileChecksum: MD5: 75c4ebac343b7993a98fae1ecd209749
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/Makefile
+SPDXID: SPDXRef-item7975898
+FileChecksum: SHA1: 319071ac3b0aca4ad7db2af7b4f6158eda433e3b
+FileChecksum: MD5: 9bb4a7a4b304204978d90707019a9c2a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Diagnostics.cc
+SPDXID: SPDXRef-item7975905
+FileChecksum: SHA1: 0c0f34ddbf1450dbd2d3a2b5e39cfd7ea3e80bd1
+FileChecksum: MD5: 948ed089e9509a9edd6097db52d67bbf
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/UT_VDBUtils.cc
+SPDXID: SPDXRef-item7975908
+FileChecksum: SHA1: 65e57e5a1c837f9eaa645735d3a901197ae4d3a7
+FileChecksum: MD5: 54c4eb57e5288b92e789157bbb359348
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/AttributeTransferUtil.h
+SPDXID: SPDXRef-item7975906
+FileChecksum: SHA1: abca1b2f92fd89de9e96a4a502e98b3713efee84
+FileChecksum: MD5: 12da7868f515b52f3b00b18d26510468
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Write.cc
+SPDXID: SPDXRef-item7975910
+FileChecksum: SHA1: 1e3caa1cfb9ded8684ae84a61cef69f6c0130111
+FileChecksum: MD5: dce2f7e89708510e5d13870a7264a4e8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/PointUtils.cc
+SPDXID: SPDXRef-item7975907
+FileChecksum: SHA1: d49fb983b49f190aedf10beab2ebbef60821bcdd
+FileChecksum: MD5: 611cce4f8674bb632260aed63d7e7707
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Ray.cc
+SPDXID: SPDXRef-item7975911
+FileChecksum: SHA1: 78990b63256eafcad971c662a4b767589e820d38
+FileChecksum: MD5: 571c2831a46dbc432420de07755d8645
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GEO_VDBTranslator.cc
+SPDXID: SPDXRef-item7975912
+FileChecksum: SHA1: 1fb47bf64e95b8c464e78cc67e0ee336c5e2a38b
+FileChecksum: MD5: 8433cbb54f6aec1e002b666b238c16e8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Platonic.cc
+SPDXID: SPDXRef-item7975913
+FileChecksum: SHA1: 2f5f7e00826a492325bfc3a11e5dd3f80013f00f
+FileChecksum: MD5: 536395d709a2ce4f1d78266e781bf6ee
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Rasterize_Points.cc
+SPDXID: SPDXRef-item7975909
+FileChecksum: SHA1: 53aa863f64b4b00f06bca80ccf1dfe164912d49e
+FileChecksum: MD5: 5f2f824b59095edff37280b2820767ca
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Potential_Flow.cc
+SPDXID: SPDXRef-item7975915
+FileChecksum: SHA1: 7a2df9bbd7e840084930182558e376e3233c25c0
+FileChecksum: MD5: dd0a510a41c07a3222e0961f0b3a0cff
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Resample.cc
+SPDXID: SPDXRef-item7975914
+FileChecksum: SHA1: a22adb5190b62a5f63d2b5b8b44b366802153c3f
+FileChecksum: MD5: 46d2cb8fa7d0b3ea806c49be642395b1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/OP_NodeChain.h
+SPDXID: SPDXRef-item7975917
+FileChecksum: SHA1: c4d01ec78ff449ac433cee03cc953828527d7b45
+FileChecksum: MD5: 01097e726cac4d5855c954149221bb74
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Scatter.cc
+SPDXID: SPDXRef-item7975916
+FileChecksum: SHA1: c71ba49a83c0b31be65ad211f05ef4522037eb81
+FileChecksum: MD5: 87ad4874f5e776361a0327adf9800018
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Metadata.cc
+SPDXID: SPDXRef-item7975919
+FileChecksum: SHA1: 49a218d055467657a0f79567933fb8aba527f60a
+FileChecksum: MD5: 88b0bbf2b8022fac7f2c3b94289963ea
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GU_PrimVDB.cc
+SPDXID: SPDXRef-item7975918
+FileChecksum: SHA1: ebd2d7f0f5054f68bbb011df8528dc3bfbc4bd9d
+FileChecksum: MD5: f607322c13cd2efe211717777a78be95
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Advect_Points.cc
+SPDXID: SPDXRef-item7975920
+FileChecksum: SHA1: a3e516881a9e8a2a12af7173660534efb876445d
+FileChecksum: MD5: 877b7b9626517583b64c8bb14eb6733e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Densify.cc
+SPDXID: SPDXRef-item7975921
+FileChecksum: SHA1: 92e470348e50f279fd876bae99425f4cfa20096a
+FileChecksum: MD5: d292e2eb01ae0abaf0a855d8edd750f2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GT_GEOPrimCollectVDB.cc
+SPDXID: SPDXRef-item7975922
+FileChecksum: SHA1: 806f09e3c3cb81900e3cd5132e8dc56e6e29edc0
+FileChecksum: MD5: f88ad3832fe27ba6c68eea5c4218a977
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/geometry.h
+SPDXID: SPDXRef-item7975923
+FileChecksum: SHA1: d91b977c7e54812a5a593d831b9a40f8ff1219fc
+FileChecksum: MD5: a6593c4441e79676803fcf1c65b3aba5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_NodeVDB.h
+SPDXID: SPDXRef-item7975925
+FileChecksum: SHA1: 8dd87c4cceeba5e83b12eed50309e0292452b2b3
+FileChecksum: MD5: 3c569522cb85a7834824118c3eec28ba
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Combine.cc
+SPDXID: SPDXRef-item7975926
+FileChecksum: SHA1: a39e764249102d91e35e222c381f39d7bc8ffcbe
+FileChecksum: MD5: e7c45b7952b5e5c92b97270481237d46
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Prune.cc
+SPDXID: SPDXRef-item7975928
+FileChecksum: SHA1: 751b749f6010404f4c7c6ea5ce438b66491704a8
+FileChecksum: MD5: 0218d1d8430d5880479bc038b4c9a767
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/VRAY_OpenVDB_Points.cc
+SPDXID: SPDXRef-item7975929
+FileChecksum: SHA1: 6d4b143a733be7d46c16629f5809f498a24e2bf0
+FileChecksum: MD5: 1ff35f70f9c77bc267e2463080a7a52d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/ParmFactory.cc
+SPDXID: SPDXRef-item7975927
+FileChecksum: SHA1: d2875b97ba79153e9004ba7a889f0fc4826dee72
+FileChecksum: MD5: 7b97143ffd0086ea7085e8147ee31066
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Topology_To_Level_Set.cc
+SPDXID: SPDXRef-item7975930
+FileChecksum: SHA1: d4411a46750f66cc05ed93f4cec8503c3d450afc
+FileChecksum: MD5: 8c1a952ea9d922f91d7096c9a0569168
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SHOP_OpenVDB_Points.cc
+SPDXID: SPDXRef-item7975931
+FileChecksum: SHA1: c64530045d90617035f7ef364300734187dca203
+FileChecksum: MD5: 019daad8abc751c010c11a0b69896bd8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/UT_VDBUtils.h
+SPDXID: SPDXRef-item7975934
+FileChecksum: SHA1: 0d599d5f46b8dffb3443a728767aec5b671db949
+FileChecksum: MD5: dc3ddab3d4d7a01479b0f84398e8db45
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GU_VDBPointTools.cc
+SPDXID: SPDXRef-item7975935
+FileChecksum: SHA1: 6c6f820d431ad247dea87cf7720fce2b32376096
+FileChecksum: MD5: 3a85ccd207975e48bc41aac8a597cca5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Convert.cc
+SPDXID: SPDXRef-item7975933
+FileChecksum: SHA1: 09337ee754fcc592f9f07d1d7eb6015c2cd9306c
+FileChecksum: MD5: 21c7d31638252c5fdc247366c3d67174
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Filter.cc
+SPDXID: SPDXRef-item7975936
+FileChecksum: SHA1: 84e4e2d154817ef9bbbde70ab006bdd038718c14
+FileChecksum: MD5: 259ad757c819ed517d2174843aa01cd2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_From_Polygons.cc
+SPDXID: SPDXRef-item7975932
+FileChecksum: SHA1: ba14248dae050fe8cd4eacd72d3188ebecde5529
+FileChecksum: MD5: 25935df8905d1767daf16b41e31b788e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/Utils.h
+SPDXID: SPDXRef-item7975938
+FileChecksum: SHA1: 08af6f7ff81337930ec3e793991060e4336343f7
+FileChecksum: MD5: d2284e2776f28c3ad6cca6226e69829a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_NodeVDB.cc
+SPDXID: SPDXRef-item7975937
+FileChecksum: SHA1: 653f5d2d42b7604e9c8a6400f410a4dfb3fe8d49
+FileChecksum: MD5: 2b1ff0296304c82ac1b54159b5cf489f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Read.cc
+SPDXID: SPDXRef-item7975940
+FileChecksum: SHA1: a008ea5321829f1a0b0b336eecac10237e3a7ce4
+FileChecksum: MD5: eacc420dca6ccb947eaa356cefbd74de
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Filter_Level_Set.cc
+SPDXID: SPDXRef-item7975939
+FileChecksum: SHA1: 29ddcdc82ee7185b77107fe0d8e7f9753e562a83
+FileChecksum: MD5: 41e8cef726e866e45781cfd070eb91d8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Fill.cc
+SPDXID: SPDXRef-item7975941
+FileChecksum: SHA1: 39d732801f43c76a07d1865e7e54658908671266
+FileChecksum: MD5: 6a241ce4ed8a00e26728f56a3ff0de6a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Sort_Points.cc
+SPDXID: SPDXRef-item7975943
+FileChecksum: SHA1: d1592ebc6545174bb8f6b99e490fc35b1995e335
+FileChecksum: MD5: cd6b365b5ac63477c913164ff09dc6d9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_VDBVerbUtils.h
+SPDXID: SPDXRef-item7975942
+FileChecksum: SHA1: e2e2216061b6cef00e5fe62e8b65aa6104534f1d
+FileChecksum: MD5: bd49fb404959998f2066b32feb8fd5ea
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Points_Convert.cc
+SPDXID: SPDXRef-item7975944
+FileChecksum: SHA1: 1a202f16da71787eb79266b0073d2c040db7c072
+FileChecksum: MD5: a5ac9fe9939ecb092e697888290ded81
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Points_Delete.cc
+SPDXID: SPDXRef-item7975946
+FileChecksum: SHA1: dc2dcc7d5027c804ae83808fe1e755d7e5e6dc5c
+FileChecksum: MD5: 9f51df60afd20a01128b1060bbb3fd89
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Create.cc
+SPDXID: SPDXRef-item7975945
+FileChecksum: SHA1: d931a3c31beecada06cc839308b62b82c0c7f8c1
+FileChecksum: MD5: bbd7669253576987b920c07f3fb38dd7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Occlusion_Mask.cc
+SPDXID: SPDXRef-item7975948
+FileChecksum: SHA1: cd4f9e7547e3ba2c8515e5cbcaec7b8bacb1c18f
+FileChecksum: MD5: 0196f182f4b03ec8ab0b449c42ac71fc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Segment.cc
+SPDXID: SPDXRef-item7975949
+FileChecksum: SHA1: 9b7051abb45997649f2b49263f071bf0ff675588
+FileChecksum: MD5: 0d759ed61ed148f5b75e9a3d58e81c1b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Advect.cc
+SPDXID: SPDXRef-item7975950
+FileChecksum: SHA1: 6efa8ce0810548c29399bc94722812f129548944
+FileChecksum: MD5: d2a1f6b89ec2528ca3d573f8806576e4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/geometry.cc
+SPDXID: SPDXRef-item7975952
+FileChecksum: SHA1: 5c9d9ee5b1f9818ffd65dbdb2e937d0378c3bdd9
+FileChecksum: MD5: 640b1bfd37526d955f4543d39fa42ab4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Vector_Split.cc
+SPDXID: SPDXRef-item7975951
+FileChecksum: SHA1: 1b83d453b9e55199691a2ff2b1eecf704dc0ef38
+FileChecksum: MD5: d65d0038c719da66dec55a647c7201ca
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/CMakeLists.txt
+SPDXID: SPDXRef-item7975947
+FileChecksum: SHA1: 5b737715979875637b1731fcb8ec3ed241b5768b
+FileChecksum: MD5: 1666700ead806d0174809d709af582f8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/Utils.cc
+SPDXID: SPDXRef-item7975955
+FileChecksum: SHA1: c00d7d977a3eb70c44ca089cd40f0872ba33ebeb
+FileChecksum: MD5: e43a3ed3bbac67652df3e950dec0cdb9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Remove_Divergence.cc
+SPDXID: SPDXRef-item7975954
+FileChecksum: SHA1: 3a6885bb95601cf41217b60d763849055d0aaf7d
+FileChecksum: MD5: 188f2f555a7bde66428f7c4fb2c13713
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/PointUtils.h
+SPDXID: SPDXRef-item7975953
+FileChecksum: SHA1: 918fa6b02bb1b58d9632153ff62ca2897a3d9f45
+FileChecksum: MD5: f063c2f9dbdab65be3234bffbe323a4d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Visualize.cc
+SPDXID: SPDXRef-item7975957
+FileChecksum: SHA1: c0c9bfb7b08ea92346b6fab32ae79173501a93fd
+FileChecksum: MD5: 40b2e733a2f870a421264e39e77e5cbb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_To_Polygons.cc
+SPDXID: SPDXRef-item7975959
+FileChecksum: SHA1: 39d8592ce6de11344a1e59385cac57509aa4181d
+FileChecksum: MD5: 180ced784fa87d6a71b2f0c0d48075db
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Sample_Points.cc
+SPDXID: SPDXRef-item7975958
+FileChecksum: SHA1: 5e18778ecf3730e1ce652d53c4b36b3a2e6b6d30
+FileChecksum: MD5: 8efee4dfa7ac47eb54f0ac7a28b827eb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Points_Group.cc
+SPDXID: SPDXRef-item7975961
+FileChecksum: SHA1: 3d38357e256b665c255c2cd3453d81b69734ae65
+FileChecksum: MD5: f9fbfa4f62c83cfc2d22c27a7402358d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Transform.cc
+SPDXID: SPDXRef-item7975960
+FileChecksum: SHA1: a84a4f8e1030b82597113ef0458994d9cd68c659
+FileChecksum: MD5: 02d482366fc50ff296a61802820c1ab8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GU_VDBPointTools.h
+SPDXID: SPDXRef-item7975962
+FileChecksum: SHA1: 406f6179d98b9a1da0cdcfaa67862f4404208472
+FileChecksum: MD5: 230990bbaf5f50b7d22e012f07a4b6e4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Remap.cc
+SPDXID: SPDXRef-item7975963
+FileChecksum: SHA1: 4d9f48e7a7361fbd4b5e60b0ba2aa9e0ad4407fa
+FileChecksum: MD5: 483ee986d02d2b0d162ff4aba24e1c81
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Fracture.cc
+SPDXID: SPDXRef-item7975964
+FileChecksum: SHA1: 85cbbb46f605b7a5dfa136eea09d8db99020d9f5
+FileChecksum: MD5: 9d53929c194a244e404f9b003ee26ac9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/UT_VDBTools.h
+SPDXID: SPDXRef-item7975965
+FileChecksum: SHA1: d782886d398171a79b5575ebc9561199ecb740c7
+FileChecksum: MD5: 5e0b8d0c49ecf544a6bc5e8d08ab6275
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Noise.cc
+SPDXID: SPDXRef-item7975968
+FileChecksum: SHA1: d7a7e67c03ac191ad40f712ba2e5edfac19a73f8
+FileChecksum: MD5: 150d7bad4fd2cfa939f8f11b75c13daa
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GU_PrimVDB.h
+SPDXID: SPDXRef-item7975967
+FileChecksum: SHA1: 531e88db25054d45bb6ad7652a33b9cd59220efe
+FileChecksum: MD5: 6f539accfee3a9880554df2be7e59df0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Vector_Merge.cc
+SPDXID: SPDXRef-item7975969
+FileChecksum: SHA1: 4243133d60eaf2cd5e7a526f60dbeab346ec5c36
+FileChecksum: MD5: 222f264e246829be73cc76c3c8f33c1e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GEO_PrimVDB.h
+SPDXID: SPDXRef-item7975966
+FileChecksum: SHA1: b0df474c82438f0e3e74027fcd8f1f0a2a4d27c2
+FileChecksum: MD5: 182afc31a6a94c60448ba7e96bfcf6f4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_To_Spheres.cc
+SPDXID: SPDXRef-item7975970
+FileChecksum: SHA1: f47d1b1ef16fc3f8949a4d576aedab37380b8904
+FileChecksum: MD5: 03cc323588dbf9afd3b37b51b66ceac3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/ParmFactory.h
+SPDXID: SPDXRef-item7975972
+FileChecksum: SHA1: 1f31f9ad7a7d671b24e6b593f6764e16ec46001f
+FileChecksum: MD5: e5a42d600a02f74f54342abdae21ebaa
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GR_PrimVDBPoints.cc
+SPDXID: SPDXRef-item7975973
+FileChecksum: SHA1: 9c45a61d8e04f9612707259f278cd478454933fb
+FileChecksum: MD5: 3428575aa6196aa51dc9a8705677bd01
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GEO_PrimVDB.cc
+SPDXID: SPDXRef-item7975971
+FileChecksum: SHA1: 3f41a1a775e274cfe963b9f79fe2de3697fc91f4
+FileChecksum: MD5: 8739cc1efa8abea10e1bd716f5499a59
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/pythonrc.py
+SPDXID: SPDXRef-item7975974
+FileChecksum: SHA1: 8a5247135e1de6c0c24a6e3b6b71124ad16f0bc9
+FileChecksum: MD5: 118a62fc45fc7e78d3371f122af85699
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/GT_GEOPrimCollectVDB.h
+SPDXID: SPDXRef-item7975975
+FileChecksum: SHA1: b35bcced4c3b66cf14709dcc34878dc0260b384e
+FileChecksum: MD5: 883bf3779fde57d76b349372ed05eddb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project
+Copyright (c) Side Effects Software Inc. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB_Morph_Level_Set.cc
+SPDXID: SPDXRef-item7975977
+FileChecksum: SHA1: f4c6345dce1668a5d5bfa930139cd38e14eda8c3
+FileChecksum: MD5: ddaf380eb889f1d169435dd034ac0c3f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBCopyNode.cc
+SPDXID: SPDXRef-item7976028
+FileChecksum: SHA1: 111510046782719551e0d46e0dbf7b0f5c1d0032
+FileChecksum: MD5: d5c61da8659efd12def2d10beb28ffdb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBFromPolygonsNode.cc
+SPDXID: SPDXRef-item7976036
+FileChecksum: SHA1: 697628666e0897eff0b75a0f342587277a3d3aa2
+FileChecksum: MD5: 334fee990a9fe7a3406e09d437ae2e41
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/CMakeLists.txt
+SPDXID: SPDXRef-item7976025
+FileChecksum: SHA1: bd1bde60b15317de1173135fadd17f0f8de96cc2
+FileChecksum: MD5: e5c6ebd7c307bfc555fdda0605577586
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBFromMayaFluidNode.cc
+SPDXID: SPDXRef-item7976038
+FileChecksum: SHA1: 1109389d9d5d48af73f4c2c877e68c23544bd130
+FileChecksum: MD5: c521b7e86e3fbbdbfef6f6e539fd10b0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBData.cc
+SPDXID: SPDXRef-item7976040
+FileChecksum: SHA1: c800675b8ea4429a18d4de233d366bcb03e58d04
+FileChecksum: MD5: e2d31627cd0ea6046e041cd1433145f4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBReadNode.cc
+SPDXID: SPDXRef-item7976039
+FileChecksum: SHA1: 9f650a79b2766e8e037275b056c649591e139513
+FileChecksum: MD5: 6c50eef3d39d81d95a7cca59f5c05731
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBPlugin.cc
+SPDXID: SPDXRef-item7976041
+FileChecksum: SHA1: f23371679602341d62394d9fac0b254d48c66eac
+FileChecksum: MD5: 792ad6fe0db38f0c31463696828bcecb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBWriteNode.cc
+SPDXID: SPDXRef-item7976042
+FileChecksum: SHA1: e1538aea1b064de681322ee4d014793bc67c583f
+FileChecksum: MD5: a5df47dc9eb5f1c7c4fd8b8989fc41ff
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/Makefile
+SPDXID: SPDXRef-item7976029
+FileChecksum: SHA1: 3b25ff65fa55d60d4903a974f099cfcacaab4040
+FileChecksum: MD5: fd6519a3ee81d780493b46342e1d4b45
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBFilterNode.cc
+SPDXID: SPDXRef-item7976045
+FileChecksum: SHA1: b988e7dab4a50c4129569f693f68a1dd18bcb533
+FileChecksum: MD5: 8abc3cb4b256fb7b562226be43f63c57
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBUtil.cc
+SPDXID: SPDXRef-item7976046
+FileChecksum: SHA1: 296ac0223106da9990b382441c6a3f677adf049c
+FileChecksum: MD5: d8c5c782d5a0889cf830a9665dbc6c25
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBVisualizeNode.cc
+SPDXID: SPDXRef-item7976048
+FileChecksum: SHA1: 590bb7bf0a6d6148d49d03b4db6d7e216cd01a30
+FileChecksum: MD5: e002a02a841cbafdd296f0f7cb6a8e1a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBData.h
+SPDXID: SPDXRef-item7976047
+FileChecksum: SHA1: 5ee9f27bd85a4b746596fc078c4415ad46f75138
+FileChecksum: MD5: 8330b4dfe4f97b88fa85923a59b2ecd9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBTransformNode.cc
+SPDXID: SPDXRef-item7976050
+FileChecksum: SHA1: 518449598ab28c71411c3d4665de5a92be17f69e
+FileChecksum: MD5: 92c2319eb104e36d5e87a5e59bc3cbce
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBToPolygonsNode.cc
+SPDXID: SPDXRef-item7976051
+FileChecksum: SHA1: 7db9b5b5384736918380ed205cb41044fe03cc36
+FileChecksum: MD5: 0dcc49334358303b6d93cd4eb3557907
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBPlugin.h
+SPDXID: SPDXRef-item7976052
+FileChecksum: SHA1: 561aea47d7995a01245b3ca73b2860f41333cc9e
+FileChecksum: MD5: e3b9e1d8cc72d015e055ae9aa14b92d5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/OpenVDBUtil.h
+SPDXID: SPDXRef-item7976053
+FileChecksum: SHA1: 3a6036136ab254e29d5f48a44caaa3859d47ea5c
+FileChecksum: MD5: 7cd73da29ad0ce1ba25501767d2071c0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/CMakeLists.txt
+SPDXID: SPDXRef-item7976044
+FileChecksum: SHA1: e61a1515c275550ef6ed26724b9fad2244f9efad
+FileChecksum: MD5: 2e25b67e353ee928e75ec86e5a14ad8f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/version.h
+SPDXID: SPDXRef-item7976081
+FileChecksum: SHA1: e719d574e86ba565e2c76ec42e4551724a2a2b93
+FileChecksum: MD5: 4a431de2911bcc3f421254adc96dd7fb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/doc/CMakeLists.txt
+SPDXID: SPDXRef-item7976070
+FileChecksum: SHA1: d0c4e18f5578f4769a5fb30c9fdcc5f2991dacea
+FileChecksum: MD5: 70c3f6ed0bb82c46f46fb754406f5958
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Metadata.cc
+SPDXID: SPDXRef-item7976083
+FileChecksum: SHA1: dd608d4d9a66c0b53e3a6a0b571253a304d73e21
+FileChecksum: MD5: cacc7f4ce9da31e994bb52c5d3b40c5d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/PlatformConfig.h
+SPDXID: SPDXRef-item7976084
+FileChecksum: SHA1: d4ce9c7d925ad49cc66fc7aa5565c13c97974c86
+FileChecksum: MD5: d07ac37ce783bc13a3723c23e4af3413
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Makefile
+SPDXID: SPDXRef-item7976082
+FileChecksum: SHA1: 678783d45a972d19f0f9d3906d9e719985ad9214
+FileChecksum: MD5: 913769367f98579f8ff957a00063e3de
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/NodeUnion.h
+SPDXID: SPDXRef-item7976088
+FileChecksum: SHA1: c76553a14ec3f3bb51fd6bf3b14d9227f82531f5
+FileChecksum: MD5: 7bc049eedcb26a27e3e407ca19a1edc7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/NodeManager.h
+SPDXID: SPDXRef-item7976089
+FileChecksum: SHA1: b00315d19700e936cf2c8ed7d0305066af247ab0
+FileChecksum: MD5: 91dc0ed967a744d5cc146bb016661514
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/RootNode.h
+SPDXID: SPDXRef-item7976086
+FileChecksum: SHA1: 4deeb31ca620c906d12eabe807acd58e4544550f
+FileChecksum: MD5: d36f663b5e2f2b4ed468abf44c25477b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/LeafManager.h
+SPDXID: SPDXRef-item7976087
+FileChecksum: SHA1: 1f417d50b56d65ff3876ac4e95c5cc301b1b576a
+FileChecksum: MD5: f51b2d9bf9374e9e94623a5fdce40090
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/LeafBuffer.h
+SPDXID: SPDXRef-item7976090
+FileChecksum: SHA1: 3f6231e09177de1d4834c2538424e76f7cab0e47
+FileChecksum: MD5: 849f2d55446a27fa33b5e0753242e2db
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/Iterator.h
+SPDXID: SPDXRef-item7976092
+FileChecksum: SHA1: ce3f9c4da3ac745cf6e337cf529b558ceffbfde3
+FileChecksum: MD5: d76f15f5c1cb3cbb2d672553736ab8e2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/ValueAccessor.h
+SPDXID: SPDXRef-item7976091
+FileChecksum: SHA1: 9e14a0ba6e8739891fcc53fabb2c8dfdb1188678
+FileChecksum: MD5: 791aa38af9c8dc862ba57e998f7e423d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/InternalNode.h
+SPDXID: SPDXRef-item7976093
+FileChecksum: SHA1: 1bdc6667bf49ac17d40a6c9b18d133ba38e1357f
+FileChecksum: MD5: c9954246685f2efb3fa7108d4d353115
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/LeafNodeMask.h
+SPDXID: SPDXRef-item7976096
+FileChecksum: SHA1: c2075424b5131c07dba3242465b4b85db5d510c5
+FileChecksum: MD5: 2086b5e18a4e3da44138e9b4bdad201d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/LeafNode.h
+SPDXID: SPDXRef-item7976094
+FileChecksum: SHA1: ba1783c2518b037a0b627f94bc5acb022296fe0b
+FileChecksum: MD5: 401364eb654ba92a31ce707750652a7b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/TreeIterator.h
+SPDXID: SPDXRef-item7976095
+FileChecksum: SHA1: d46a8240c1978568c6bfe12e625da03fcf5f9910
+FileChecksum: MD5: 6c72a65a4540c330e03e0ab85cf606be
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/MetaMap.h
+SPDXID: SPDXRef-item7976099
+FileChecksum: SHA1: b2d97b46bd7a1240c08207480aab9d7d438e0945
+FileChecksum: MD5: 20f8392d30d6373d9d4667f9d1ecebb6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/openvdb.cc
+SPDXID: SPDXRef-item7976102
+FileChecksum: SHA1: 708eb36dcd0a511762ed9552f7982ca0c8d8d664
+FileChecksum: MD5: ca1b64db296b84e0413dc15fcc90887b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/Tree.h
+SPDXID: SPDXRef-item7976097
+FileChecksum: SHA1: dedcb9c20700f99499e5764aa59959a25c7b94ad
+FileChecksum: MD5: bd7ae52e0f1d2ffe6d8125341b06a850
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tree/LeafNodeBool.h
+SPDXID: SPDXRef-item7976098
+FileChecksum: SHA1: 5bd9c44c0b302e77e19a46c928f89dc863c80883
+FileChecksum: MD5: 868931c7bfd24acc1adb046dc6571de3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/MetaMap.cc
+SPDXID: SPDXRef-item7976103
+FileChecksum: SHA1: e60eede0de4254b2de24c59e9b9876dad8613f45
+FileChecksum: MD5: 1cf39f9ccdd97ab920de8b785a8fb555
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/cmd/openvdb_render.cc
+SPDXID: SPDXRef-item7976106
+FileChecksum: SHA1: d5637cb93b81cf8aeed02aca32574696cc42c81c
+FileChecksum: MD5: 8559ab6e3d2e175bfe488960dd506a8d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/cmd/openvdb_view.cc
+SPDXID: SPDXRef-item7976108
+FileChecksum: SHA1: df12039386cde84bb29538e3581f3e4a1366f318
+FileChecksum: MD5: 4a7d7f0fd9199442448ae03a95f1429c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/cmd/openvdb_lod.cc
+SPDXID: SPDXRef-item7976105
+FileChecksum: SHA1: 37c7339f164612073b39c29bf1b4d06388cfd908
+FileChecksum: MD5: 95f2b532eaaefebb493e6d088025fdc9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/cmd/openvdb_print.cc
+SPDXID: SPDXRef-item7976109
+FileChecksum: SHA1: 8961688f1b4097b0a7345b296109fce239f508eb
+FileChecksum: MD5: 65ef3c6d7c686e6b7e52efad38ce5c39
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/GridOperators.h
+SPDXID: SPDXRef-item7976111
+FileChecksum: SHA1: aadace4e6f111b5ac77369308d41e771fe26c234
+FileChecksum: MD5: 71b998fae1b7262f256e770c879cb8dd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetPlatonic.h
+SPDXID: SPDXRef-item7976112
+FileChecksum: SHA1: 320641d55db544e5463970d7ba71a25ba41b0b88
+FileChecksum: MD5: 63bd0d39ea5dc0c5ce8171a26464dd6f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/PotentialFlow.h
+SPDXID: SPDXRef-item7976114
+FileChecksum: SHA1: 07f4e31e111d8d98085e9c5ef5acbc227d5fcfb5
+FileChecksum: MD5: dca227c518e7d9b36c57462ee5b368a2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/PoissonSolver.h
+SPDXID: SPDXRef-item7976116
+FileChecksum: SHA1: 580ac16e67404eb239fc1ed20f9263155ed23bb5
+FileChecksum: MD5: 4846cc88dd184cf4dbca5829e63955df
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Morphology.h
+SPDXID: SPDXRef-item7976117
+FileChecksum: SHA1: 5c8edb6c7f02122ea037f61a68066ff974ac958d
+FileChecksum: MD5: fca2cdd94d8deaf1ca700b11bc795b8c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/cmd/CMakeLists.txt
+SPDXID: SPDXRef-item7976107
+FileChecksum: SHA1: e851d938c2ca81f16b659396fc47f37deb9bfbee
+FileChecksum: MD5: 8673819a8080db3a68b5ffd20164a338
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetSphere.h
+SPDXID: SPDXRef-item7976118
+FileChecksum: SHA1: 8993060505b3eb9c3740d1cdbd687118684ffb10
+FileChecksum: MD5: 9b9a74f68e169e938b505d80fa1d25bf
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/ValueTransformer.h
+SPDXID: SPDXRef-item7976120
+FileChecksum: SHA1: 3249d0f8b5a5a4722b8eaf4dd359f21496425406
+FileChecksum: MD5: ceb7012516ebeb734e5975d9ea6400c2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/MeshToVolume.h
+SPDXID: SPDXRef-item7976115
+FileChecksum: SHA1: 9fadcca2c4d0e95763d97728440946a83d62b1e4
+FileChecksum: MD5: fea9e78d3772daa278fe4296614e9f90
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Statistics.h
+SPDXID: SPDXRef-item7976121
+FileChecksum: SHA1: dea2ad6ce97aa030a19e929008371c54d8abfc52
+FileChecksum: MD5: 09022e94c049e5648857380909f22369
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Filter.h
+SPDXID: SPDXRef-item7976123
+FileChecksum: SHA1: 7ec8e0f4e966861afb83485e6d8e5dc660def407
+FileChecksum: MD5: 44fe33768244e7e085eeaae8bbace822
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/TopologyToLevelSet.h
+SPDXID: SPDXRef-item7976124
+FileChecksum: SHA1: 18ad0745eaa1985265985b7f1f7b1bf4074f3106
+FileChecksum: MD5: 596624bb044c03bcfd926cfacfc5ed44
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/VolumeToMesh.h
+SPDXID: SPDXRef-item7976119
+FileChecksum: SHA1: 039af4c395e14b86f10015d5707ddc77131a4431
+FileChecksum: MD5: d6f86fe6f3db4253d8be66b6430c7278
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Prune.h
+SPDXID: SPDXRef-item7976122
+FileChecksum: SHA1: ea917076f34e6d6eb409896c6d4fac165f1e3298
+FileChecksum: MD5: 9aba6c25c2ce62247dcfd93f3988c404
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Composite.h
+SPDXID: SPDXRef-item7976125
+FileChecksum: SHA1: 341a641fe00a45190d09c73e85c40f07314e9ec4
+FileChecksum: MD5: 314fae52b0c5707a5ae50a5d02350d55
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/PointIndexGrid.h
+SPDXID: SPDXRef-item7976126
+FileChecksum: SHA1: 9da023a4d6e80a3600980fadb5b4c41864bc5e73
+FileChecksum: MD5: f7ebc80856c0ab078a8f695ddbec7e77
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/PointAdvect.h
+SPDXID: SPDXRef-item7976127
+FileChecksum: SHA1: b175f7a03b38c501297ac5d9121dc71915c98e6e
+FileChecksum: MD5: 2671fdde31168d034665cf233ff6668a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/VectorTransformer.h
+SPDXID: SPDXRef-item7976129
+FileChecksum: SHA1: 6649c44347a49b2d604fd4925f2592fdbfc3b48e
+FileChecksum: MD5: f6dc49dafe8c645c3c698a0e06ff1247
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetAdvect.h
+SPDXID: SPDXRef-item7976128
+FileChecksum: SHA1: d9c31f2d7f6e9a00f616b2bc4fdcd46dd17298b9
+FileChecksum: MD5: 9ec574fc513105a436e95223f6d25966
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/VelocityFields.h
+SPDXID: SPDXRef-item7976133
+FileChecksum: SHA1: c27c1534233a2d16d2df3588e8816bcb03823ce2
+FileChecksum: MD5: 73acda0f507cbe299adda4843c1ad16d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/VolumeAdvect.h
+SPDXID: SPDXRef-item7976131
+FileChecksum: SHA1: b08d19d47eb402088e825d68fd3664f1f61556ff
+FileChecksum: MD5: 2f6d276ceb98350a33831364053e9c7a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/ParticlesToLevelSet.h
+SPDXID: SPDXRef-item7976130
+FileChecksum: SHA1: 3da9f62917b4c0b0d49eca96746f149e62b0c611
+FileChecksum: MD5: 6f04c420784b57587a647f87cde79f9d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Dense.h
+SPDXID: SPDXRef-item7976132
+FileChecksum: SHA1: a50f304207518d1b6a9d9e39b9116127500a0560
+FileChecksum: MD5: ddf5ca0a8bf1c98d790d7e78279ce77d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/SignedFloodFill.h
+SPDXID: SPDXRef-item7976135
+FileChecksum: SHA1: e2ae0999b4bc135f42b3454eadc849193ff29670
+FileChecksum: MD5: 50a74373d0515f77cadfce64a7dc1992
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/RayIntersector.h
+SPDXID: SPDXRef-item7976134
+FileChecksum: SHA1: 6820075917b9d0629dd1e5586cdf3bcdd4c804d6
+FileChecksum: MD5: fc745bc8933f96e1e1537863b5996ce9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Mask.h
+SPDXID: SPDXRef-item7976136
+FileChecksum: SHA1: 9fb256670d28d47afba61ad0a7b95d68237d48f4
+FileChecksum: MD5: e7b1b396a7355b6802ade24fe8771a2b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/PointsToMask.h
+SPDXID: SPDXRef-item7976137
+FileChecksum: SHA1: 3a4051cfaffbbcbdae3458f8d4f5f9f1e5254146
+FileChecksum: MD5: 990ed1d585e3f610f88c4d32597cbcaa
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetRebuild.h
+SPDXID: SPDXRef-item7976138
+FileChecksum: SHA1: 58aa3c9d7cee9ed4413d883c8dce7f803645f74c
+FileChecksum: MD5: 785eebcbf3a18168bc3111c888fb2856
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetMeasure.h
+SPDXID: SPDXRef-item7976140
+FileChecksum: SHA1: 00455d8256d42e72f3a719317243accaf1eb07d0
+FileChecksum: MD5: b105a957936ab7b70479e89bec43070d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetMorph.h
+SPDXID: SPDXRef-item7976139
+FileChecksum: SHA1: 04956be6c07330034bc00de17688edd2d89439ba
+FileChecksum: MD5: a774dba443bf8141efe2e0110bf653e0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/PointPartitioner.h
+SPDXID: SPDXRef-item7976141
+FileChecksum: SHA1: 546f6889c56fc7a9bfa78b40452541718f0718ca
+FileChecksum: MD5: 497760edd9fa01b0b94f2b8c214d398d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetFilter.h
+SPDXID: SPDXRef-item7976143
+FileChecksum: SHA1: 46e81036b2bbd4177e0749f310723c38131c6abe
+FileChecksum: MD5: ceb737a298228565a8fcf240e2cc5604
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetTracker.h
+SPDXID: SPDXRef-item7976145
+FileChecksum: SHA1: 7d52d16aa4ddf1fc9a9f375591e4426b8697b32d
+FileChecksum: MD5: db1b20fce1e8f492679fedaef8a679c0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/MultiResGrid.h
+SPDXID: SPDXRef-item7976142
+FileChecksum: SHA1: e3ecc6770d6a75957bcf557774e40d0fdf1e8f15
+FileChecksum: MD5: 210cf60907ae7c7291e6651c635ba70b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/LevelSetFracture.h
+SPDXID: SPDXRef-item7976148
+FileChecksum: SHA1: e93a1333de94d7cbe715732b3fbd97540eaa7c4b
+FileChecksum: MD5: e02eca1b43582dd4c9d3dbd560f3e277
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Interpolation.h
+SPDXID: SPDXRef-item7976147
+FileChecksum: SHA1: 2e11a5aad0a2151d1bd1876c98e0ae98a4f23d66
+FileChecksum: MD5: fb44b57e25e4b85ea33e706c33ebb7c0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/DenseSparseTools.h
+SPDXID: SPDXRef-item7976149
+FileChecksum: SHA1: bf816e0cee7a2b926c1dbfa7daae542386650aa5
+FileChecksum: MD5: b114beb47e3ead9688e0e54b53b970b1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/ChangeBackground.h
+SPDXID: SPDXRef-item7976151
+FileChecksum: SHA1: dbbf1ab258835337a1c79983a475a710d373bb8f
+FileChecksum: MD5: e797208b0ab112572399e52879569842
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/GridTransformer.h
+SPDXID: SPDXRef-item7976153
+FileChecksum: SHA1: dda2b03ceeed4b85ec1fcb493db9ccc1b5f8a09e
+FileChecksum: MD5: b4b5b6182be7a8301744a1553c9ff6ae
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/RayTracer.h
+SPDXID: SPDXRef-item7976152
+FileChecksum: SHA1: b8562326061f3660fbdae52744d309fed3a1b898
+FileChecksum: MD5: 47e50c28e20b8a8e4873fe9b61328a08
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/Diagnostics.h
+SPDXID: SPDXRef-item7976154
+FileChecksum: SHA1: 2740aa538a185f7ae46a517e2ba0b7f757d38acc
+FileChecksum: MD5: e7f9bf365087ac7bff4fc026d1c87f63
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/ParticleAtlas.h
+SPDXID: SPDXRef-item7976156
+FileChecksum: SHA1: 8098bd675b25196290d3a0eeb2431e80363a8b8a
+FileChecksum: MD5: 5101caa9eebcfe53e93a18dfa19f7cc0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/openvdb.h
+SPDXID: SPDXRef-item7976157
+FileChecksum: SHA1: e6f7427aec2ea18ae5365515b3e14032cda0a079
+FileChecksum: MD5: e21ce68e43d5b3e1ff1aa155c3f5e305
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Platform.cc
+SPDXID: SPDXRef-item7976159
+FileChecksum: SHA1: 8a48419cc2f78c951bbc602a410171da7162da74
+FileChecksum: MD5: 6ebab3e8e23cf349555077ae65c6972c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Exceptions.h
+SPDXID: SPDXRef-item7976160
+FileChecksum: SHA1: c054c659be18d88150f4e51e37ac60be162fb973
+FileChecksum: MD5: b01ce3c756c62aa238573efa1dc25840
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/PointScatter.h
+SPDXID: SPDXRef-item7976155
+FileChecksum: SHA1: 503ea87014eafe577f3d879c7ae2b57f802387a3
+FileChecksum: MD5: 16d02fb64603e63e9ba5baccef4016c3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/IndexIterator.h
+SPDXID: SPDXRef-item7976163
+FileChecksum: SHA1: 60c40d7f4a32595e380faab6c951d1b49940c070
+FileChecksum: MD5: 9f8601953d82ad66a789571f53d54db6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Grid.cc
+SPDXID: SPDXRef-item7976161
+FileChecksum: SHA1: bd2173d27e62397aca5f95423a129040464e99ce
+FileChecksum: MD5: e866f9228f754bf985ad79678c14e671
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/points.cc
+SPDXID: SPDXRef-item7976164
+FileChecksum: SHA1: fcce072afa7f6ff469e7fc24460ddbf6a67f1965
+FileChecksum: MD5: 8aebab15353654273c5d6efe9644eae7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointAttribute.h
+SPDXID: SPDXRef-item7976166
+FileChecksum: SHA1: ceee8c6632d3b31f0105b598895bdec2db18665e
+FileChecksum: MD5: ce92268dd79f7591ee993a5b1c05f770
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeGroup.h
+SPDXID: SPDXRef-item7976167
+FileChecksum: SHA1: f944346c2aa5b84984497492b953054d5be2bf22
+FileChecksum: MD5: 2cc5880bdfd67ab4d7bc6c86139bb8aa
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeGroup.cc
+SPDXID: SPDXRef-item7976169
+FileChecksum: SHA1: ece65042da53dfc96b58a11c03c7e80aaebfd1a7
+FileChecksum: MD5: 634d9bac5095aa677266583bf7841612
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/StreamCompression.h
+SPDXID: SPDXRef-item7976168
+FileChecksum: SHA1: 6f8627b70c8d3e574f9f07434f3d18d330694133
+FileChecksum: MD5: 5894156da2c17b72d5fe23720705d350
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointAdvect.h
+SPDXID: SPDXRef-item7976170
+FileChecksum: SHA1: ac65d2cfd7111045de1f06b035e87f2412bcb5ee
+FileChecksum: MD5: 397cb91576a4d1042d3c74cb834cf46f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeArrayString.h
+SPDXID: SPDXRef-item7976171
+FileChecksum: SHA1: afee7e82ef2f1f349a74a92927ce54a5fec5c823
+FileChecksum: MD5: 8016e9a7dfc26ffd4cd40732929d85df
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointSample.h
+SPDXID: SPDXRef-item7976172
+FileChecksum: SHA1: 825e6d26f722b20d4835474d00e690de87b43a86
+FileChecksum: MD5: 6fd560991f6fd1134a091f64805c8ccf
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointDataGrid.h
+SPDXID: SPDXRef-item7976165
+FileChecksum: SHA1: 32cfc5edaeb9e9c742bf739a947ed2d2495c4610
+FileChecksum: MD5: d12fbbfde1dac3a13bba25a9ef171abf
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeArrayString.cc
+SPDXID: SPDXRef-item7976173
+FileChecksum: SHA1: 01d561ba75a0adc9478e82f41eb28ef734d4fadd
+FileChecksum: MD5: c94f15904c2adce05e0be62428748158
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeSet.cc
+SPDXID: SPDXRef-item7976174
+FileChecksum: SHA1: e38fe11aa5220d8023eeed45c9ab8a5ece80e2e9
+FileChecksum: MD5: be318c84056de959ba03e5e547873f68
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointCount.h
+SPDXID: SPDXRef-item7976176
+FileChecksum: SHA1: 67b1451a66f66ec4eb57d76422df5aefdbfc94ec
+FileChecksum: MD5: 164f33b902f7d5dd428a77828b1f80ac
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/StreamCompression.cc
+SPDXID: SPDXRef-item7976175
+FileChecksum: SHA1: ba660a7f524329ac3c37fd8574459e35faa655f9
+FileChecksum: MD5: 0d6a80208f9c51c8d6b519dbd8f22b7f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointMask.h
+SPDXID: SPDXRef-item7976177
+FileChecksum: SHA1: 5791d3f8b521ce1c444c1954372bcd8c837be430
+FileChecksum: MD5: 65738c38c3eec43c3c884d3f62bdc0be
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointGroup.h
+SPDXID: SPDXRef-item7976178
+FileChecksum: SHA1: 854e3db6c6705e839f730ebd9954fc6c283c7035
+FileChecksum: MD5: f22738d46a5a6cb895ea045aa768d00a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeArray.cc
+SPDXID: SPDXRef-item7976180
+FileChecksum: SHA1: 024bfef1305ade1d7b0d497b72b9afce47e1763d
+FileChecksum: MD5: 82dc77a14a2066a11a7e7472d744dbfb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointMove.h
+SPDXID: SPDXRef-item7976179
+FileChecksum: SHA1: aa720d782005a8820c3b50ecbb1714771bb1579a
+FileChecksum: MD5: e87fc2fffd0a5c83456262b46588a130
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/IndexFilter.h
+SPDXID: SPDXRef-item7976182
+FileChecksum: SHA1: f803f5a6ec2ce4ef49fb73feba3e68080f8e7ef0
+FileChecksum: MD5: fcb50be49bb842e6d1caa29982eb42ff
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointConversion.h
+SPDXID: SPDXRef-item7976183
+FileChecksum: SHA1: 0ee0ec85b4e3dc0672028a9eee173d1d14c1561c
+FileChecksum: MD5: be724ce546b3acdcff3bcb403e3c4864
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeSet.h
+SPDXID: SPDXRef-item7976181
+FileChecksum: SHA1: 75d046a485b501c19e332c5fa1271df0332c0e36
+FileChecksum: MD5: 0e0e94edb62f47e4302a7ae8e8ea9451
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointDelete.h
+SPDXID: SPDXRef-item7976185
+FileChecksum: SHA1: c52ae59e34403e9ea9f400e01f932822dd0cb607
+FileChecksum: MD5: 95bc9ce74b63e788cc909cba1c0a23e4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/Camera.h
+SPDXID: SPDXRef-item7976189
+FileChecksum: SHA1: ee3250bc6eed9e48c4f7a41d664648575b031030
+FileChecksum: MD5: e7f789936c94c1544207f3f88974735b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/ClipBox.h
+SPDXID: SPDXRef-item7976188
+FileChecksum: SHA1: e44ef37cea3a935c4feb692705ef62bbc36b961d
+FileChecksum: MD5: 67d5971cf13e9d544f06e968b69e9872
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/PointScatter.h
+SPDXID: SPDXRef-item7976186
+FileChecksum: SHA1: 68e244d4512d81ab19c6739e3dce8b7e0536c1d8
+FileChecksum: MD5: d2c27715d4e160f13025f287e4db8521
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/points/AttributeArray.h
+SPDXID: SPDXRef-item7976184
+FileChecksum: SHA1: c026e0750eef9772fc11127056a73f17ca647b9d
+FileChecksum: MD5: f72352e12320a8761feb881cb2d77bc5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/Viewer.cc
+SPDXID: SPDXRef-item7976190
+FileChecksum: SHA1: 1c754d84f6071b0cc86858d18934232cf795c8ec
+FileChecksum: MD5: bb41760747aeedd361d9ba827c06193d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/ClipBox.cc
+SPDXID: SPDXRef-item7976191
+FileChecksum: SHA1: c98b6f3ecd75620e69857da27a4293c314766005
+FileChecksum: MD5: 8f181a88e093cee15039c3ac2bd679b7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/Font.h
+SPDXID: SPDXRef-item7976193
+FileChecksum: SHA1: 8d661d2f2063ae19ecb68caea92cabdfe3890fbe
+FileChecksum: MD5: fcad750236a7079aebe486a56161d929
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/Camera.cc
+SPDXID: SPDXRef-item7976195
+FileChecksum: SHA1: 5183cb41d1b57ab046d9b904c9c72e8fcfc099af
+FileChecksum: MD5: 3f883b10f8910124f471d5899ed88ad0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/Font.cc
+SPDXID: SPDXRef-item7976194
+FileChecksum: SHA1: b4a6f8e01f4c8a76dd380896f59aa99e719dec12
+FileChecksum: MD5: c55f88a6f3b9a3dfd85b64a12a88ec0f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/Viewer.h
+SPDXID: SPDXRef-item7976197
+FileChecksum: SHA1: 8edeb2a434155634b1d1a6c8fb24e011de361777
+FileChecksum: MD5: 7fc3fc7ac32da82eb3a786e895d0d03d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Platform.h
+SPDXID: SPDXRef-item7976198
+FileChecksum: SHA1: 2ec2daf905bd98679d38c8af8a2f2ce7ba336703
+FileChecksum: MD5: 84546f5b36781c42f27487098f9561fb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/RenderModules.h
+SPDXID: SPDXRef-item7976196
+FileChecksum: SHA1: cab9891aa3c44afc0497fc6435bfc625611e4f61
+FileChecksum: MD5: f09eead03ac21fdec7ad0d4810f71962
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/viewer/RenderModules.cc
+SPDXID: SPDXRef-item7976192
+FileChecksum: SHA1: c5b034cd17ec58ac856b13974aab09779fefcaaa
+FileChecksum: MD5: a587103734372b37ba1a902daa193691
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyVec3Grid.cc
+SPDXID: SPDXRef-item7976200
+FileChecksum: SHA1: 187df1a8cc1efa95cce1cd1ec9f725f64d85249b
+FileChecksum: MD5: 326cc52b6d326f6092b0743978f3fcbc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyIntGrid.cc
+SPDXID: SPDXRef-item7976201
+FileChecksum: SHA1: 201791ec9b34dd6a9ccd01218e994d42a73a76ef
+FileChecksum: MD5: 807fdedc9cf1913543fe21a988384303
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyTransform.cc
+SPDXID: SPDXRef-item7976202
+FileChecksum: SHA1: 72c1def796907a005d438f76532f01ae246b6074
+FileChecksum: MD5: 55bf73e9325faddded8785de70369e6f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/test/TestOpenVDB.py
+SPDXID: SPDXRef-item7976205
+FileChecksum: SHA1: 723c3b792e7fb5ce124e7bc61e8c7f08074c2c83
+FileChecksum: MD5: 8353457dd3758117978b9335db74668b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyFloatGrid.cc
+SPDXID: SPDXRef-item7976203
+FileChecksum: SHA1: 7b3d563630bb1153f072cba2772162398a43e61a
+FileChecksum: MD5: 8f551db6dbc4e569deb44d8a3448bd6a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyopenvdb.h
+SPDXID: SPDXRef-item7976206
+FileChecksum: SHA1: b7b5ab5aace4d1ffb841d4374e4b3e98935644bf
+FileChecksum: MD5: 6bc181a28db78c4cd79f7198e76054ba
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyutil.h
+SPDXID: SPDXRef-item7976207
+FileChecksum: SHA1: c882a7b1778e4f1d81bda8bc9ff0c64c1a55a382
+FileChecksum: MD5: 9a96ad048449e3dc3e06502983de6a11
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyPointGrid.cc
+SPDXID: SPDXRef-item7976209
+FileChecksum: SHA1: 186ad6cf030d24da3e7f2155f385d09dd87ca481
+FileChecksum: MD5: 3cdc87c0e2ff5054be5e9a20664af81f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyAccessor.h
+SPDXID: SPDXRef-item7976211
+FileChecksum: SHA1: 8d9c98f4d41f287e5a85ff1d475526326489d97e
+FileChecksum: MD5: 06f37de3655661ea1c2677cfdbc35234
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyOpenVDBModule.cc
+SPDXID: SPDXRef-item7976212
+FileChecksum: SHA1: 6550621750f0da546094da18d345eae71139213a
+FileChecksum: MD5: dbf76985e2596af3fb975a20c17d7e53
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyMetadata.cc
+SPDXID: SPDXRef-item7976213
+FileChecksum: SHA1: 357c9859838ee448021e5304f338dcea31bb9842
+FileChecksum: MD5: cb7c6eba09993189df0c64bf6436be27
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/CMakeLists.txt
+SPDXID: SPDXRef-item7976208
+FileChecksum: SHA1: 2ed2d2cdaf57db4a5917a933e9730a5f142ed0b6
+FileChecksum: MD5: 0bd46e1a6af45961b206f6004f62b2e4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/python/pyGrid.h
+SPDXID: SPDXRef-item7976210
+FileChecksum: SHA1: ae6d15f027f10169eae9d5ac6ac94926563892ce
+FileChecksum: MD5: bce9cb48c1bb14d731a87bbe7542f552
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/logging.h
+SPDXID: SPDXRef-item7976216
+FileChecksum: SHA1: 220651092a6b0e4b408e27fd41502ac3d7393b43
+FileChecksum: MD5: bc31c0089ee434021713d91009ab9729
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/NullInterrupter.h
+SPDXID: SPDXRef-item7976217
+FileChecksum: SHA1: 7e6a508563f143a508951fa515c7805bd91b8439
+FileChecksum: MD5: b2eb0e2bb4b318c47869890268655038
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/Name.h
+SPDXID: SPDXRef-item7976218
+FileChecksum: SHA1: 292780bd1566610fae757dad54b07dc19fd8b09a
+FileChecksum: MD5: effc97623dfb9bd99238b3774bea29a0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/Util.cc
+SPDXID: SPDXRef-item7976220
+FileChecksum: SHA1: bc8e78e1d4dcde4a76a0435393206883671560b6
+FileChecksum: MD5: 2646fed138deac1cb2b111eb255d3973
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/Formats.h
+SPDXID: SPDXRef-item7976219
+FileChecksum: SHA1: 0ea84670a59f2026c4a5d5bd11d5ca0982cf3a32
+FileChecksum: MD5: 541b5dd0d9ac742b8a8a585b93dfabd6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/CMakeLists.txt
+SPDXID: SPDXRef-item7976214
+FileChecksum: SHA1: 7bf95242e36298ffc569b95708a1bb0c7ef2c50c
+FileChecksum: MD5: 4b9ea92c53690da92beefab686938eaf
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/Formats.cc
+SPDXID: SPDXRef-item7976221
+FileChecksum: SHA1: fa9d69815de3e68c51af4fe2bf28c3880adeb2c7
+FileChecksum: MD5: 31e8d578cad7bc524fb61dec63b7b066
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/PagedArray.h
+SPDXID: SPDXRef-item7976222
+FileChecksum: SHA1: 8bf9bbe517bd4b207cc56b48b9957e37f19d97d8
+FileChecksum: MD5: e543d5bcb77a6e7d8df02def28fbecfa
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/CpuTimer.h
+SPDXID: SPDXRef-item7976224
+FileChecksum: SHA1: b77cee6f09e835a88ba376902d9d239b29e19870
+FileChecksum: MD5: f30dd1e455b63b367cb4881143b7f294
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/MapsUtil.h
+SPDXID: SPDXRef-item7976223
+FileChecksum: SHA1: 601439894b6387be5effbc6c5177b67bff647775
+FileChecksum: MD5: 9921711f2191ce15a49c75864579cb46
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestGridDescriptor.cc
+SPDXID: SPDXRef-item7976228
+FileChecksum: SHA1: 534cfea05df91e66731ea29543b3bc5b1a31cc19
+FileChecksum: MD5: b63f5c913024462ed5f75d330115df1a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/NodeMasks.h
+SPDXID: SPDXRef-item7976225
+FileChecksum: SHA1: c5b14e2cb9e32d2b387e20a1d88d8285b46c1e38
+FileChecksum: MD5: 9badb6395e49f07cb8342c23895fc846
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/util/Util.h
+SPDXID: SPDXRef-item7976226
+FileChecksum: SHA1: faf2f2d62d2722d19d21347f8012eaa5df43fcaa
+FileChecksum: MD5: 6158dcbc9c637e39cece9c1c9d692dcf
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMultiResGrid.cc
+SPDXID: SPDXRef-item7976229
+FileChecksum: SHA1: 8fe4b48c063b9251a8a37414e6a055e1bf139ab6
+FileChecksum: MD5: 4c9a072a5cf54e1017870f4ef3f9e0a4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestVolumeToMesh.cc
+SPDXID: SPDXRef-item7976232
+FileChecksum: SHA1: 38ec6ce27588418b40eafcb63124b99fd77112f2
+FileChecksum: MD5: e90bd967e7ff1e46ef088ade4a114b3e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPrePostAPI.cc
+SPDXID: SPDXRef-item7976231
+FileChecksum: SHA1: 03c24670e01f918c5c45c6c2fc2970ab05bb7e7c
+FileChecksum: MD5: 8a9d5ed5863971ace75e3fa1dc301f21
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLeafOrigin.cc
+SPDXID: SPDXRef-item7976230
+FileChecksum: SHA1: 04ca72dd33932990b1413d957a6bd4d8aaf4c254
+FileChecksum: MD5: 9812d172b593d7cd9ea6834391e7ff25
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestVec3Metadata.cc
+SPDXID: SPDXRef-item7976233
+FileChecksum: SHA1: 865a9eb939c035965ff271e83feaf6d473011aeb
+FileChecksum: MD5: 8eb8152d44e1659f834a7a9f0f8f3576
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointScatter.cc
+SPDXID: SPDXRef-item7976235
+FileChecksum: SHA1: 513c5ed134215de59ad4ac82cd3932d126fee175
+FileChecksum: MD5: 5c58def992ff0234afa4531e722e6b0a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestGridBbox.cc
+SPDXID: SPDXRef-item7976237
+FileChecksum: SHA1: bcb34f51af1c7441120c0c67906e8be221c76906
+FileChecksum: MD5: 00d69cab2044ce3e10401936cb93396b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLinearInterp.cc
+SPDXID: SPDXRef-item7976234
+FileChecksum: SHA1: efdd760468f6ce481e1d30364eabd552ad7ef8d4
+FileChecksum: MD5: a7113e4dd340aebb6547c14e28f19f41
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTreeGetSetValues.cc
+SPDXID: SPDXRef-item7976236
+FileChecksum: SHA1: 282dc61399691a1dee46f924950de14bd618a884
+FileChecksum: MD5: b70ff18e50c1561ebf24764d493446da
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestStringMetadata.cc
+SPDXID: SPDXRef-item7976239
+FileChecksum: SHA1: 5fcd7c441ba4524b0ec75e9ccb0e0b00f533a458
+FileChecksum: MD5: e8acd49296c0306ee63b699cdc9e8c5f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestAttributeGroup.cc
+SPDXID: SPDXRef-item7976238
+FileChecksum: SHA1: 5b3d6a79597fd343040ef86b01b0a75d5617786f
+FileChecksum: MD5: 42538e3e2daad11e6080b7b8fecda4cc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLeafManager.cc
+SPDXID: SPDXRef-item7976243
+FileChecksum: SHA1: 7cf26e270b70b0991cf03b1c13d1ff423478bc3e
+FileChecksum: MD5: 9b4d803cc37403b8a971a20ff58e9b44
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointIndexGrid.cc
+SPDXID: SPDXRef-item7976242
+FileChecksum: SHA1: c103581508a87a8a6fa1facce1dfdfd6fa4d99db
+FileChecksum: MD5: 95eba97bc20e13a12538a292ceb88412
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestQuantizedUnitVec.cc
+SPDXID: SPDXRef-item7976241
+FileChecksum: SHA1: b53f1267d5aed3ca442a82e33d4aa040e040c6c3
+FileChecksum: MD5: 5fb774f8a06ed15b99bb8838e10f8b89
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMetadata.cc
+SPDXID: SPDXRef-item7976245
+FileChecksum: SHA1: 6cf3e0772c91ab064323e16779a4b8551ebd693d
+FileChecksum: MD5: 97517ca15bb901b734962f0514c1df61
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestAttributeArray.cc
+SPDXID: SPDXRef-item7976240
+FileChecksum: SHA1: 18c8f98ac9689b175fc2666d4e7f1b18b5dee7db
+FileChecksum: MD5: 01cd180c4c7c0da70a55717979fe995c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMeanCurvature.cc
+SPDXID: SPDXRef-item7976244
+FileChecksum: SHA1: 7be331b966ab984ea51b387818fb53ae6c151f33
+FileChecksum: MD5: 4982a64d5b2cf45015c30803a4b96fc6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTransform.cc
+SPDXID: SPDXRef-item7976246
+FileChecksum: SHA1: 30867ca6abe2e42b492985e51b23f393a2338e14
+FileChecksum: MD5: 7879eed9fe18c640ca920f076d712f47
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestFile.cc
+SPDXID: SPDXRef-item7976247
+FileChecksum: SHA1: f8722d12f95c46323950eef3462a904721aabf80
+FileChecksum: MD5: b6d81d25ed8ba5e2a79cf57b5321ef01
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/main.cc
+SPDXID: SPDXRef-item7976250
+FileChecksum: SHA1: cd388d630287ce397b6a41f4ea9f011280b28fb5
+FileChecksum: MD5: 33ef3d6b8c7df98ae396a7bd41c0e9a9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestVec2Metadata.cc
+SPDXID: SPDXRef-item7976251
+FileChecksum: SHA1: f053ed42e40171a360eb41ffc2cccd6fbb20cc57
+FileChecksum: MD5: caac8db77c9b38f4270f2ea8d6bb8d7e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestVolumeToSpheres.cc
+SPDXID: SPDXRef-item7976249
+FileChecksum: SHA1: 308dc3b5bbc318c392f97172f4b48c1529868e99
+FileChecksum: MD5: 606f37ba8885e0b91092a60055a544d0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointConversion.cc
+SPDXID: SPDXRef-item7976248
+FileChecksum: SHA1: 34f96fc343c51707e2f60d7159c48eb8c8249d76
+FileChecksum: MD5: b428519ca9738f13ff4c43bcc5bd5efa
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestBBox.cc
+SPDXID: SPDXRef-item7976252
+FileChecksum: SHA1: 39e644c0b458bde516f1b87f1577f99d742052e6
+FileChecksum: MD5: 5ae9223698bca25eb540e4cf3fc12283
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestParticleAtlas.cc
+SPDXID: SPDXRef-item7976253
+FileChecksum: SHA1: 3dd8d70db2c56300017a7a3813d6e1bfe2bf6951
+FileChecksum: MD5: 1d0783dc6f8c1ef792ce0dc3cba70b88
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestNodeIterator.cc
+SPDXID: SPDXRef-item7976256
+FileChecksum: SHA1: 9554cbfe87971dc82897f0f94c33708420654069
+FileChecksum: MD5: 52000797dde74c734cf815e82931ce59
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestClip.cc
+SPDXID: SPDXRef-item7976255
+FileChecksum: SHA1: f38be7735023064ab3011e89e04b533f049d0d9f
+FileChecksum: MD5: 1d5f465f5549279115ae9081790809c6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestAttributeSet.cc
+SPDXID: SPDXRef-item7976254
+FileChecksum: SHA1: d07861290232fb5d1b8b4dfcc1f49dac4917e4f1
+FileChecksum: MD5: 7572e17fe3615394c0318163ee0a02b3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointDelete.cc
+SPDXID: SPDXRef-item7976257
+FileChecksum: SHA1: 35a217c8b926fb8d487e0655ca16059e6adfff9d
+FileChecksum: MD5: 554d568ccec3ee82751385918f59af15
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestDense.cc
+SPDXID: SPDXRef-item7976259
+FileChecksum: SHA1: 3f723d85241e60e841c9bc8987aa645a8127cc3f
+FileChecksum: MD5: 53935dd11bdceeb338c76c6eefe76ef1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLeafIO.cc
+SPDXID: SPDXRef-item7976260
+FileChecksum: SHA1: b08677c95f30230e33a6db1f8b52e742bfa92c2d
+FileChecksum: MD5: 1e2cd80adbe39956283caecce1b8f39a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTreeVisitor.cc
+SPDXID: SPDXRef-item7976258
+FileChecksum: SHA1: ffc3671c20efb174ca1458ed47017cb9b1e19592
+FileChecksum: MD5: e1b12bebce6ad685243695fc33eda0e0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestInternalOrigin.cc
+SPDXID: SPDXRef-item7976262
+FileChecksum: SHA1: eabf555c3732e86fe786114def3c86d6e595baf1
+FileChecksum: MD5: edba6208af702773a4b2be001a4b0303
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLeafMask.cc
+SPDXID: SPDXRef-item7976261
+FileChecksum: SHA1: 2189c9d9ece41276b71064c3b1de0cdf7b67c339
+FileChecksum: MD5: 2f752790e14000ded5db5e8cca8a239e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTypes.cc
+SPDXID: SPDXRef-item7976263
+FileChecksum: SHA1: 4753150f8008714dff46dc5ab90c5ad8b5c45acf
+FileChecksum: MD5: 876b463adac0f7de6f0ce7bf9bca2cd5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTopologyToLevelSet.cc
+SPDXID: SPDXRef-item7976265
+FileChecksum: SHA1: 61caa879c8c21c25b676a4ecf00c88abd37dd924
+FileChecksum: MD5: 6e53792db9baa2e16ad82a12eae8caa2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestDenseSparseTools.cc
+SPDXID: SPDXRef-item7976266
+FileChecksum: SHA1: d200d2ec44f66e96d223dd83476a1f157c417229
+FileChecksum: MD5: b53b3f039c9d64f2ec1cd839558446ba
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestParticlesToLevelSet.cc
+SPDXID: SPDXRef-item7976264
+FileChecksum: SHA1: caee8c148d4ac1f8143801e918a4eacdac623a21
+FileChecksum: MD5: ca3354c959d159f5d11c281b71f98db0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestConjGradient.cc
+SPDXID: SPDXRef-item7976267
+FileChecksum: SHA1: ff6a1712a930b19ef3a1b44d9dee0929f34c67f2
+FileChecksum: MD5: 78bd9a929fa1275154e7b3564ec9b4c5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointCount.cc
+SPDXID: SPDXRef-item7976268
+FileChecksum: SHA1: 5a04c454c16c6a59af48fe226ab471a3cfeb0ba3
+FileChecksum: MD5: 4dd8f013bdcb273b7fb879f26fde9474
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestGradient.cc
+SPDXID: SPDXRef-item7976269
+FileChecksum: SHA1: 7050e880744ce94248a4faa565493ddaaec0384d
+FileChecksum: MD5: 1d3359d91468e652640fef03bc72ea2b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestStream.cc
+SPDXID: SPDXRef-item7976271
+FileChecksum: SHA1: 57845d8cf2a36ccc91bf17ecca962fdeecda46a7
+FileChecksum: MD5: f40875e5badaaa261474a21d1d58df2b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestNodeMask.cc
+SPDXID: SPDXRef-item7976270
+FileChecksum: SHA1: 8cd412fb5df2e761780aa2a95fb83f40f5ac4672
+FileChecksum: MD5: 1ee7dd088481bf1f387b19b0ea6570d9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointsToMask.cc
+SPDXID: SPDXRef-item7976274
+FileChecksum: SHA1: 70023ac86f401567097026baccc6093769587a6e
+FileChecksum: MD5: c61cf9e68ff79b4168675ebb7e7e1c6c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMaps.cc
+SPDXID: SPDXRef-item7976273
+FileChecksum: SHA1: b254fa3fab3e618048f6379666e52ed29e2e764e
+FileChecksum: MD5: 5ccf6c3d87e9c94a8e9b29f63f128dcd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLaplacian.cc
+SPDXID: SPDXRef-item7976272
+FileChecksum: SHA1: 1438b1a7733da54bf7f88baa70e1b69d537945be
+FileChecksum: MD5: 34622ac08beca5fe7d4b08d68f8bb342
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestName.cc
+SPDXID: SPDXRef-item7976275
+FileChecksum: SHA1: 4aa0db957afab68347ff5f2ff51d90ab3a024fbc
+FileChecksum: MD5: 0e311abebab41fcdd7b5b278a123b963
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTreeIterators.cc
+SPDXID: SPDXRef-item7976276
+FileChecksum: SHA1: 449104d7fa5b4a0db345de253d4103ed0d75bb53
+FileChecksum: MD5: d2ef6314d50133dfa51c2124a4f6da16
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestValueAccessor.cc
+SPDXID: SPDXRef-item7976277
+FileChecksum: SHA1: 068de64f31c0b30623e144537346c5c6327318ff
+FileChecksum: MD5: 00e4821cbd78e66bd5a5765a577db3a7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestDiagnostics.cc
+SPDXID: SPDXRef-item7976278
+FileChecksum: SHA1: 8f5ec8e1b6349ec00753d3fdc719d532f91ab4d2
+FileChecksum: MD5: 0176300a4de72a2f80cbe78b5cea5bf4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestAttributeArrayString.cc
+SPDXID: SPDXRef-item7976280
+FileChecksum: SHA1: 742b74bd26b1091e20af2c55fb32a0185d5117d0
+FileChecksum: MD5: ef5ae63c0cc0cd2db1e2d6a85a93d87c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPoissonSolver.cc
+SPDXID: SPDXRef-item7976279
+FileChecksum: SHA1: 4742ab58a03581d50d7f63b1924d51cad88fd4df
+FileChecksum: MD5: 54f34e162bd6d9e3076ab1d50cfecb82
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestNodeManager.cc
+SPDXID: SPDXRef-item7976281
+FileChecksum: SHA1: d3a73e74a9bb17d7ad3408a3c6f38fb1cd1e67a6
+FileChecksum: MD5: e89b97b0d765315fd20f7d6b5a871efd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/util.h
+SPDXID: SPDXRef-item7976282
+FileChecksum: SHA1: 555f6a70afe57374a238d64f77eefeab7edc5d9c
+FileChecksum: MD5: c2dbbb512eaf70dc68de967035450f51
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointAttribute.cc
+SPDXID: SPDXRef-item7976283
+FileChecksum: SHA1: 1d97c8e2ee378b7ee3eb182a102d587fd45c215e
+FileChecksum: MD5: e78f7e9efdb28eabd366d28e9c15a2df
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestGridIO.cc
+SPDXID: SPDXRef-item7976284
+FileChecksum: SHA1: ed94137fad2abed2cd51d2275be9752a175b53e6
+FileChecksum: MD5: d95280d6d42c0c4525c38e8a83c9206f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestDelayedLoadMetadata.cc
+SPDXID: SPDXRef-item7976286
+FileChecksum: SHA1: c49f8aea0151773cf5fb15378a08e16f44361d93
+FileChecksum: MD5: 453ff4fbaca93fc986964c8ac121791b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLevelSetUtil.cc
+SPDXID: SPDXRef-item7976287
+FileChecksum: SHA1: 9025a47dc93bf9edf587685a95d4c344e263783b
+FileChecksum: MD5: ec364da82fe7333909428aeca085eb4e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMetadataIO.cc
+SPDXID: SPDXRef-item7976288
+FileChecksum: SHA1: 2acf52d05b06e925430f82bf2a3c6e6484d142ac
+FileChecksum: MD5: 4c79b5a0f6d1d156558a5f1e4f4fa0fc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestIndexIterator.cc
+SPDXID: SPDXRef-item7976289
+FileChecksum: SHA1: d13a6e3d4784a9c767ead86515fed9d53204232a
+FileChecksum: MD5: 7de7cf2e8b96beba4555d803368928b9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLeafBool.cc
+SPDXID: SPDXRef-item7976290
+FileChecksum: SHA1: 277dacb993875e0e03ffa8e7cda3fdf04877a7cd
+FileChecksum: MD5: b0bb81512f58c77c768e1782a4fb99c4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/CMakeLists.txt
+SPDXID: SPDXRef-item7976285
+FileChecksum: SHA1: 32d38462359587c739cda84ae12d62f6c675ec88
+FileChecksum: MD5: 8d5b2c5eec4e3136f557341551e9f295
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMetaMap.cc
+SPDXID: SPDXRef-item7976292
+FileChecksum: SHA1: 24a4855fcec596940e705ec1bcf504e956b56c09
+FileChecksum: MD5: d78e5aa56a7243c69d358e8d2a9035b5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestFloatMetadata.cc
+SPDXID: SPDXRef-item7976293
+FileChecksum: SHA1: a58221e1064f0a65ece39529d62c956de180ae28
+FileChecksum: MD5: 064b14d2f6e646e5954711fcf8071036
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestStreamCompression.cc
+SPDXID: SPDXRef-item7976294
+FileChecksum: SHA1: 56ba2eb3a44d105a3482d98a4dc412e59e7508db
+FileChecksum: MD5: fc726e04dc73a6e6f067426a6c42a146
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTools.cc
+SPDXID: SPDXRef-item7976291
+FileChecksum: SHA1: 30d5efcb4904ecafebd609c9d71e507f6a6ca99f
+FileChecksum: MD5: ea706c76e5d479e6f3e973b2f82314e6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestRay.cc
+SPDXID: SPDXRef-item7976297
+FileChecksum: SHA1: 8c39a941645d8f38930fc80db5a52a3248d36013
+FileChecksum: MD5: 1505dd35a8ca36245c8474baba8d9a2b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestCoord.cc
+SPDXID: SPDXRef-item7976296
+FileChecksum: SHA1: 73c41f1781c8d36223609a8db8e29f180bb3ae9f
+FileChecksum: MD5: 2eba439f82a983d367da765e239dc076
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestCurl.cc
+SPDXID: SPDXRef-item7976295
+FileChecksum: SHA1: 51f3d88f7615ee4babbde44f79b387004c465d45
+FileChecksum: MD5: 0bddb9f96996a15ff97e5570a74f4bdc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestInt64Metadata.cc
+SPDXID: SPDXRef-item7976299
+FileChecksum: SHA1: a6b6e13804cbb55672a8b1f110937652154a8323
+FileChecksum: MD5: 949b671ceff374944e02314da2aaca6e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestVolumeRayIntersector.cc
+SPDXID: SPDXRef-item7976300
+FileChecksum: SHA1: 15275c3577a4d525fcc81c1c971fac3f9e3e1eae
+FileChecksum: MD5: ad0df86290e050731f0602bac1e8490a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMat4Metadata.cc
+SPDXID: SPDXRef-item7976301
+FileChecksum: SHA1: d08946b9b9533c21bc7f37383db69d2b7583a86e
+FileChecksum: MD5: 54fe906ab0250902f4944b71665427e1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestExceptions.cc
+SPDXID: SPDXRef-item7976302
+FileChecksum: SHA1: 7759702d53d890820f1e3990a64f7415e519eb92
+FileChecksum: MD5: 8914e1d1e262c6c154e005d7dd6e970b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestUtil.cc
+SPDXID: SPDXRef-item7976298
+FileChecksum: SHA1: fdf1692db988786585458754fdb0cbae00556176
+FileChecksum: MD5: 1ece1e7f6add0566df07558644e77c89
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMath.cc
+SPDXID: SPDXRef-item7976303
+FileChecksum: SHA1: b8064a97bbba5e0b9b3ff6d09299245c31247441
+FileChecksum: MD5: 78c9b7bca90e84a1884897eeb9387705
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestInit.cc
+SPDXID: SPDXRef-item7976304
+FileChecksum: SHA1: 271ba378d69e3fb1a06e01b712230dac92b49707
+FileChecksum: MD5: e43816d9af3592b863485fadc244d18c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestStats.cc
+SPDXID: SPDXRef-item7976305
+FileChecksum: SHA1: 715cf563aa12ebb80e90b946a8dc0972af1f9441
+FileChecksum: MD5: c4f9b44a8c8929db1af5796070a99bb4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointMove.cc
+SPDXID: SPDXRef-item7976306
+FileChecksum: SHA1: ca81a821e4bd8dd17d82c0a50e2c41e218daa57e
+FileChecksum: MD5: 90bf539b998cbd2b1e082fd8b4f80386
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLeaf.cc
+SPDXID: SPDXRef-item7976307
+FileChecksum: SHA1: 01ae0750436314bd3694bcf6be95a491c2a6b316
+FileChecksum: MD5: b3d73e552dd4348d9d0d4c7976d1a274
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestGrid.cc
+SPDXID: SPDXRef-item7976308
+FileChecksum: SHA1: 54d229948c37ccfeffecdbd2ae8b33125e94a521
+FileChecksum: MD5: 857876e3758e8caac5118c9cebda534a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestIndexFilter.cc
+SPDXID: SPDXRef-item7976309
+FileChecksum: SHA1: 3fc2740355fa6dbf4546e5a8e6c49b70a0ae7e1b
+FileChecksum: MD5: 8556a9b572218fc757807942defb4ae3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestDivergence.cc
+SPDXID: SPDXRef-item7976310
+FileChecksum: SHA1: 304c56deb9443c4716b4537b5deac7f58333ee55
+FileChecksum: MD5: ee648a2ba33c5ab6abcd5f923a900f7f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestGridTransformer.cc
+SPDXID: SPDXRef-item7976311
+FileChecksum: SHA1: d4621ddd5888df2bd0ae7570a9aa9c82f14834c9
+FileChecksum: MD5: 10e21ccbdfbe0033dba03748c0ce0a8a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPotentialFlow.cc
+SPDXID: SPDXRef-item7976312
+FileChecksum: SHA1: d549040768e8834d1d791f7694e35e62f259827c
+FileChecksum: MD5: 3c675a7e0679b2e7fc68dd3a46c6844b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointSample.cc
+SPDXID: SPDXRef-item7976313
+FileChecksum: SHA1: d19e52c84a9ff674268a0fd421bdfaf70e5a3045
+FileChecksum: MD5: 59c8604fce35db9401fb4f4fcf8d9d62
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestMeshToVolume.cc
+SPDXID: SPDXRef-item7976314
+FileChecksum: SHA1: 4ac104b8c034970c0e8238a7b23f8a85c70e4076
+FileChecksum: MD5: 7df464c9e55e91d60f8e5ba14ff6c6e8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestCpt.cc
+SPDXID: SPDXRef-item7976315
+FileChecksum: SHA1: a7d6501a4d9ddae17abef2f1cb02a8a180c03a5f
+FileChecksum: MD5: 258a1fc6837f8e3153cdfd14aaf34e5d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestQuadraticInterp.cc
+SPDXID: SPDXRef-item7976316
+FileChecksum: SHA1: cd08c2fe920a6c67e90e93972ffe0592af394528
+FileChecksum: MD5: 52e644a84d5555fcdf71fda36119b478
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestInt32Metadata.cc
+SPDXID: SPDXRef-item7976319
+FileChecksum: SHA1: 723ae041e6acbf4cead5b4654d75663188d40a67
+FileChecksum: MD5: 02ee5a67a706455dd0328c7b7dfcd4a6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestQuat.cc
+SPDXID: SPDXRef-item7976320
+FileChecksum: SHA1: 071536920d816f87c844baa261c1c93f40bc4a83
+FileChecksum: MD5: 299180727f12ff95e41d42905a5a72de
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointMask.cc
+SPDXID: SPDXRef-item7976321
+FileChecksum: SHA1: cbe30fdffa772afebd9a27f5ef7b3cfb72383f13
+FileChecksum: MD5: c63837c05bfb57318a1bdeba66a5d336
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestLevelSetRayIntersector.cc
+SPDXID: SPDXRef-item7976322
+FileChecksum: SHA1: d4f10e77ddd5991f953c1ba1083cb5c8b0d1987a
+FileChecksum: MD5: d893b3cc2b9c1d95950b092e340ffc88
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTree.cc
+SPDXID: SPDXRef-item7976318
+FileChecksum: SHA1: 5f87c82bcbaec93c5ec3f693d4ae89758b347e22
+FileChecksum: MD5: 43c0ed4cc7f1332c36f43de418da3035
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) DreamWorks Animation LLC All rights reserved.
+Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestDoubleMetadata.cc
+SPDXID: SPDXRef-item7976323
+FileChecksum: SHA1: 2c9c3c3cbbbdc495267514315904bb05fae77a25
+FileChecksum: MD5: b2ddb0f2970be28eb66a16428fd120ba
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointAdvect.cc
+SPDXID: SPDXRef-item7976324
+FileChecksum: SHA1: a555b89c57af1743ebb4a8f30646d5ad42e51f7b
+FileChecksum: MD5: 2ab85ceacc4b1ae090dd47d4140a98dc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointPartitioner.cc
+SPDXID: SPDXRef-item7976327
+FileChecksum: SHA1: f2a9182a9fb5952ab75b66e382988347050c6064
+FileChecksum: MD5: f7e3abc524e1ce0f7138909edc5cee09
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointDataLeaf.cc
+SPDXID: SPDXRef-item7976325
+FileChecksum: SHA1: b373782891346715285fcf24027b3d4a17b37192
+FileChecksum: MD5: 4b85c2dc715ac4e02a1d10af224ccfe8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestPointGroup.cc
+SPDXID: SPDXRef-item7976328
+FileChecksum: SHA1: 1f4c23cb3b7c5c6f7701a2030de02c212ba9ccd7
+FileChecksum: MD5: d3f4d0bdeade6fd86fee43f4639836be
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestTreeCombine.cc
+SPDXID: SPDXRef-item7976326
+FileChecksum: SHA1: d0271230acc9fa9194a257f4d74dee840f094d81
+FileChecksum: MD5: ca3376e14128ca47e214de2ed4eb665c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Coord.h
+SPDXID: SPDXRef-item7976332
+FileChecksum: SHA1: 4805aeb94f039823b4ad540c5216d463b25b6217
+FileChecksum: MD5: 42dab8237939c16098f78a7fe9fe6d12
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Mat4.h
+SPDXID: SPDXRef-item7976331
+FileChecksum: SHA1: 455f53f85404da6cdaa263d2d3dd6c5e5cead2e1
+FileChecksum: MD5: 0fc706692ee96aed300f9e6c1f7f221d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Vec4.h
+SPDXID: SPDXRef-item7976333
+FileChecksum: SHA1: 9e426562c08a546704766b84596a1ba321083f99
+FileChecksum: MD5: 40876b1de6eb6ae7948a8c9c6ed84308
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Grid.h
+SPDXID: SPDXRef-item7976329
+FileChecksum: SHA1: db81e10914e2fc81686feebd1497f8149eb56eb1
+FileChecksum: MD5: 7e6ff32ebe8b7bb4ed5f02e97fd73257
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Transform.cc
+SPDXID: SPDXRef-item7976334
+FileChecksum: SHA1: afea014a8c898fad22c6752ec27db85b73211442
+FileChecksum: MD5: dd25b1375a98b4f8847b30fe89d17be0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Ray.h
+SPDXID: SPDXRef-item7976335
+FileChecksum: SHA1: dd67ce1d3f06c8b74e4d21025fef2c35428f517c
+FileChecksum: MD5: cc0800c7522955e9e380d0e220bae2a3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/DDA.h
+SPDXID: SPDXRef-item7976336
+FileChecksum: SHA1: d668ae22f40e00719d0c6bd1643deb2e04b9812b
+FileChecksum: MD5: 7b59decceca77759c81dff2c5461ef8c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Proximity.h
+SPDXID: SPDXRef-item7976340
+FileChecksum: SHA1: 2164623de5038d34953f2c4a7757315860f5252f
+FileChecksum: MD5: 4c49df0680f30f982761bc15d848a56f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Operators.h
+SPDXID: SPDXRef-item7976339
+FileChecksum: SHA1: 95c4b0317c17cc424262906df30ed5e771a2c854
+FileChecksum: MD5: 441141873cd10eb200646298dcb3ee20
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/QuantizedUnitVec.cc
+SPDXID: SPDXRef-item7976338
+FileChecksum: SHA1: 28f6d92a19718941b26ac746f402eadbb729b815
+FileChecksum: MD5: f629cda284a08d89fc7c99f9e729e3a9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Stencils.h
+SPDXID: SPDXRef-item7976337
+FileChecksum: SHA1: 120fc5353812703d8073baf9a856a497372fb1c8
+FileChecksum: MD5: 6874546629d8c32966dc1bb08d1391f2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Quat.h
+SPDXID: SPDXRef-item7976341
+FileChecksum: SHA1: 5811b3e630145d9fae7a9381768f726d558dccfd
+FileChecksum: MD5: c503bdefa2d1cb5f1ea3364ea0518829
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Transform.h
+SPDXID: SPDXRef-item7976343
+FileChecksum: SHA1: 0a45341880b5556464c9122fbec25208c4f0b80a
+FileChecksum: MD5: b55276efa06740ab7fc7f0f799b1240f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Stats.h
+SPDXID: SPDXRef-item7976342
+FileChecksum: SHA1: 2a65e8c0304326121e697837d0f399bd1042be27
+FileChecksum: MD5: 4cfd8a73ae147202fe1e33acbb8b12da
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Tuple.h
+SPDXID: SPDXRef-item7976345
+FileChecksum: SHA1: a7861b37efe3a4bca798a21ae1b6c7a856310314
+FileChecksum: MD5: dae7c509c86349a035ccda09ac5a78c8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/LegacyFrustum.h
+SPDXID: SPDXRef-item7976347
+FileChecksum: SHA1: c9895f4839fbc06d2b2e1d6189dbf23cd7c7dfd3
+FileChecksum: MD5: c4052b118e737fc369e3f1c025487829
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/ConjGradient.h
+SPDXID: SPDXRef-item7976344
+FileChecksum: SHA1: 092d8e83a1189db22e1d6cd8cfef976e2bec17d6
+FileChecksum: MD5: fdfe7c36f110e4db9138f0116b100d80
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Vec3.h
+SPDXID: SPDXRef-item7976346
+FileChecksum: SHA1: 420e9213f95ed7ddb5bb4ae2c4b75b4a2fbdfbd7
+FileChecksum: MD5: 2b2ed036aae63a77493ecfa6a8f52031
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Mat.h
+SPDXID: SPDXRef-item7976348
+FileChecksum: SHA1: ca18def819868e2fbf65b1cbc60705aa436f951d
+FileChecksum: MD5: a0d4591bb9aa897d616029c7ded2bf12
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Proximity.cc
+SPDXID: SPDXRef-item7976350
+FileChecksum: SHA1: 8aa834160149f33f79e1e91af6f0c20c699f1f31
+FileChecksum: MD5: b4c569c9d26c592ab06b7c3dbebb0112
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Mat3.h
+SPDXID: SPDXRef-item7976351
+FileChecksum: SHA1: f99a5bcb271ec81d79dfa4426e3c9c6e277618f2
+FileChecksum: MD5: 23f75992c401f6e417a3fa1c71da1e67
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Vec2.h
+SPDXID: SPDXRef-item7976352
+FileChecksum: SHA1: 114f985eaf995928dda7cbdeea8d042dd3b9c058
+FileChecksum: MD5: 8684f8456ec261be79df4f521c1e1b2c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/BBox.h
+SPDXID: SPDXRef-item7976353
+FileChecksum: SHA1: d77438a0eb66e7e529ee29df7c2af70050f97e7b
+FileChecksum: MD5: 9e7f647bb4e068b7375630a506598b8e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Maps.h
+SPDXID: SPDXRef-item7976349
+FileChecksum: SHA1: e54c715909256070832666cc567b05f30c55001e
+FileChecksum: MD5: 1ce7a930cb67d47053f866ef72944598
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Math.h
+SPDXID: SPDXRef-item7976354
+FileChecksum: SHA1: 3722cafdfbe33e9619854d1d7eb4bb86a8526cb0
+FileChecksum: MD5: e0f5bcfd55fae66c841b42d656e4fd4e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/Maps.cc
+SPDXID: SPDXRef-item7976356
+FileChecksum: SHA1: a92cf1eb5bc372c0179e9ea15a356ca92fd82981
+FileChecksum: MD5: 5972625459b4fe30dfc7f2bd0c8b6fd2
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/QuantizedUnitVec.h
+SPDXID: SPDXRef-item7976357
+FileChecksum: SHA1: bf8b13aaad6e4d2bf6fd897c8aa95538ece883d0
+FileChecksum: MD5: aada8f6fd2b548f6fbe293f008035415
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/GridDescriptor.h
+SPDXID: SPDXRef-item7976359
+FileChecksum: SHA1: 1ba1d0800d578ace623bec659c9d1582762c0721
+FileChecksum: MD5: dc3d849c7015c53afe03c044e9dc0ab9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Queue.cc
+SPDXID: SPDXRef-item7976360
+FileChecksum: SHA1: a680925f10a87ab9e7b7009552c570b489aafa66
+FileChecksum: MD5: 757169d6a2f2b4cffef0923bceff0fde
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/math/FiniteDifference.h
+SPDXID: SPDXRef-item7976355
+FileChecksum: SHA1: 4f95b68ea7f2e2401d25191fd76c5ea0f8afdb69
+FileChecksum: MD5: 6c7b631c289e20f827e51a12d6cc491e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Compression.cc
+SPDXID: SPDXRef-item7976361
+FileChecksum: SHA1: 88357bc181b17dd39cc43f279208721f6a1f0d6a
+FileChecksum: MD5: 14e9507a894215e4d5b30a94ebbbebd8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/File.cc
+SPDXID: SPDXRef-item7976362
+FileChecksum: SHA1: fc72a51790689fbc44fa680ec1c5fc39ce83f16f
+FileChecksum: MD5: 0314405ddaacb44bfd485be7d1b19ee8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Stream.cc
+SPDXID: SPDXRef-item7976363
+FileChecksum: SHA1: 2e21b9844770b386498968e6d4b283c286e41a60
+FileChecksum: MD5: d3a9148ef0abd6cd0fdb6bc7ce609778
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Archive.h
+SPDXID: SPDXRef-item7976365
+FileChecksum: SHA1: 2dd280a6adbd49c3563522b39a4858cc1e8bfbdd
+FileChecksum: MD5: f340310c38290c21fd67c6e2e620dcd8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/TempFile.h
+SPDXID: SPDXRef-item7976366
+FileChecksum: SHA1: 74178f4896d61d2f7d17997e88edc3aaf00c6f23
+FileChecksum: MD5: df4eeadc6fe1bd834db8af67641c8ddd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/File.h
+SPDXID: SPDXRef-item7976367
+FileChecksum: SHA1: 4240d5dd34284d49d1adecab6cc093b7a39a4e04
+FileChecksum: MD5: 383ae5f869b963aa91a2b4b4752f246b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Archive.cc
+SPDXID: SPDXRef-item7976364
+FileChecksum: SHA1: 37b976ce8168eb317eedbe679ba49a1864ccc008
+FileChecksum: MD5: 56508297e79085c5d6e48255f485d681
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/TempFile.cc
+SPDXID: SPDXRef-item7976368
+FileChecksum: SHA1: 4822e6f44f6de6d254e87849e6ab7f8ec2b68b11
+FileChecksum: MD5: ef544556ce205344da4656c94607fe67
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/GridDescriptor.cc
+SPDXID: SPDXRef-item7976370
+FileChecksum: SHA1: e05138709ba15c93e6cfd5459464fa4b66efb25f
+FileChecksum: MD5: 182a1c82a3c28cd4d530035856d57dfb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Queue.h
+SPDXID: SPDXRef-item7976369
+FileChecksum: SHA1: 3bc9355a81fbca59059d2c824cc47f7dbef8007b
+FileChecksum: MD5: 298829d390eadaf25164cad875a0c7fa
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Stream.h
+SPDXID: SPDXRef-item7976371
+FileChecksum: SHA1: f038944d3899d77ef852a16e446767c2abddd8bb
+FileChecksum: MD5: 78942a1abc035c4d71bdb5c8400c39b9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/Compression.h
+SPDXID: SPDXRef-item7976373
+FileChecksum: SHA1: 57e5c7f4508e5ef909dd3745147fc0c3bf953c51
+FileChecksum: MD5: 046617f8a0439afe9b0870ecbd532e66
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/DelayedLoadMetadata.cc
+SPDXID: SPDXRef-item7976372
+FileChecksum: SHA1: 9315b84f49d85fc8a42e2d6ee162e128ca83a351
+FileChecksum: MD5: 904bc53191920cb9c61a9e6e3256cd3c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/DelayedLoadMetadata.h
+SPDXID: SPDXRef-item7976374
+FileChecksum: SHA1: 76071e495609e0dc828a14574974129b3a6faf53
+FileChecksum: MD5: 615c231479e6f6892bfe8362833fe43f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Metadata.h
+SPDXID: SPDXRef-item7976376
+FileChecksum: SHA1: 3ef9c21eb51d55aaa6438f7c4c113db80ddc338c
+FileChecksum: MD5: e5d25242fde5ee4a3fa0203773a197b7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/io/io.h
+SPDXID: SPDXRef-item7976375
+FileChecksum: SHA1: 13adaeb3617d33270f6217b564883b280f071d73
+FileChecksum: MD5: 9d329759bae6a6c0fc0db82145f713df
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/Types.h
+SPDXID: SPDXRef-item7976377
+FileChecksum: SHA1: 8cbb5c64bb5b6a825123bc4c73023cd9ce1b1420
+FileChecksum: MD5: c709fb65ab69703870151e1556d87b08
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB Project </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/tools/FindActiveValues.h
+SPDXID: SPDXRef-item7976146
+FileChecksum: SHA1: e3c79cd9448bd091776da8e48a5f68957aa7073f
+FileChecksum: MD5: 9b2eed6e8f8e3cbeedb2b98966c680e1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) Ken Museth
+Copyright (c) Ken Museth All rights reserved. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/unittest/TestFindActiveValues.cc
+SPDXID: SPDXRef-item7976317
+FileChecksum: SHA1: 90c63c921fa71ca4310ca1a4dda8eece661ceaf0
+FileChecksum: MD5: cb1b20bc2816755f4c2147344bf0b3eb
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) Ken Museth
+Copyright (c) Ken Museth All rights reserved. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/LICENSE
+SPDXID: SPDXRef-item7976037
+FileChecksum: SHA1: d22157abc0fc0b4ae96380c09528e23cf77290a9
+FileChecksum: MD5: 9741c346eef56131163e13b9db1241b3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/cmake/backports/FindOpenGL.cmake
+SPDXID: SPDXRef-item7975883
+FileChecksum: SHA1: dc6e1621b51a423472bbf943df77b85e2971f002
+FileChecksum: MD5: 8680fb77b3839310a381a6ab0949fbd5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2000-2019 Kitware, Inc. and Contributors All rights reserved. </text>
+ 
+
+##File
+
+FileName: openvdb/openvdb/LICENSE
+SPDXID: SPDXRef-item7976158
+FileChecksum: SHA1: d22157abc0fc0b4ae96380c09528e23cf77290a9
+FileChecksum: MD5: 9741c346eef56131163e13b9db1241b3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/LICENSE
+SPDXID: SPDXRef-item7975924
+FileChecksum: SHA1: d22157abc0fc0b4ae96380c09528e23cf77290a9
+FileChecksum: MD5: 9741c346eef56131163e13b9db1241b3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/LICENSE
+SPDXID: SPDXRef-item7975894
+FileChecksum: SHA1: d22157abc0fc0b4ae96380c09528e23cf77290a9
+FileChecksum: MD5: 9741c346eef56131163e13b9db1241b3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/MAINTAINERS.md
+SPDXID: SPDXRef-item7976060
+FileChecksum: SHA1: 8df07aace169a8e3b1f50eff78de86ba8fd87c40
+FileChecksum: MD5: d982f1acd27ee6eced0fe22f0ed0b6fe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the OpenVDB project. </text>
+ 
+
+##File
+
+FileName: openvdb/ci/install_boost.sh
+SPDXID: SPDXRef-item7975860
+FileChecksum: SHA1: d24d8629d0a8b66e5aaa613556bf78a0643a9294
+FileChecksum: MD5: 147389b343d5217b962d439561ff4541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/install_blosc.sh
+SPDXID: SPDXRef-item7975861
+FileChecksum: SHA1: a288707db89f93b7f3afc3d09f953554eb82572a
+FileChecksum: MD5: 00fc4da706325a3c4cdb7130ce1dcaa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/test_sonar.sh
+SPDXID: SPDXRef-item7975862
+FileChecksum: SHA1: 6942ec298b3f7c6e1e0572450feeb8aa331ffe7d
+FileChecksum: MD5: b50c5ab6657fe907c595f97f94c45c7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/download_houdini.py
+SPDXID: SPDXRef-item7975863
+FileChecksum: SHA1: c97a404de90d668b169c4f5c4f9597e4a0eafafb
+FileChecksum: MD5: 29cf2f402b0bc130d3b4143619aaed4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/build_houdini.sh
+SPDXID: SPDXRef-item7975864
+FileChecksum: SHA1: 880fe73ab3b0f7a7fefcac8ddec03bd70d5ee43b
+FileChecksum: MD5: aef016a8710ce125a6ba7390642d28b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/install_jemalloc.sh
+SPDXID: SPDXRef-item7975865
+FileChecksum: SHA1: 3ad0200a64aa4cabcb599e280660edce5c00c283
+FileChecksum: MD5: d4af52c6f1501723e8aa4f4b96eb0c66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/install_cmake.sh
+SPDXID: SPDXRef-item7975866
+FileChecksum: SHA1: f1b3b6df28d9ea4dcb4c7bba4363612253c1915a
+FileChecksum: MD5: 23394c4751fc131b3d651aeec3aef1a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/build_sonar.sh
+SPDXID: SPDXRef-item7975867
+FileChecksum: SHA1: bde4b1fd48f6ceaedf537ef59bf6615a0a13baf3
+FileChecksum: MD5: dcb8c8ddb9e712ac13db886d3290d4a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/build.sh
+SPDXID: SPDXRef-item7975868
+FileChecksum: SHA1: 8ba682cccf6fbebd565225ac04372a7de6fe9420
+FileChecksum: MD5: f9e00e1ba6e3f80ed3f8d5a35af5d485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/install_openexr.sh
+SPDXID: SPDXRef-item7975869
+FileChecksum: SHA1: 50c2896e8c04b9858e23c102f6e143e15e405ce8
+FileChecksum: MD5: a16561321a1385fc311418a8426cc1a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/install_tbb.sh
+SPDXID: SPDXRef-item7975870
+FileChecksum: SHA1: eb61e6fac57722093422646f3145ffe50edb8a91
+FileChecksum: MD5: 77d73f0f29179dc2f3979a1496db63f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/install.sh
+SPDXID: SPDXRef-item7975871
+FileChecksum: SHA1: f542e15e3adbfbb028a4ec22b1e520600101c5c2
+FileChecksum: MD5: 5a6665047f39bb32d770855fd31f5f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/ci/install_houdini.sh
+SPDXID: SPDXRef-item7975872
+FileChecksum: SHA1: 55c84464405045cf55e8e98b0e133d50112d39e5
+FileChecksum: MD5: 36c7da934dff9aad64537645ea0c49e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/.circleci/config.yml
+SPDXID: SPDXRef-item7975874
+FileChecksum: SHA1: 5d457b416ab0e1d3a194e4d4c452198411d5570b
+FileChecksum: MD5: e8a6845f3cd6bf408db41336ead18056
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/.cirrus.yml
+SPDXID: SPDXRef-item7975893
+FileChecksum: SHA1: 475de18388ae47e5ee828e80da6d3255b4d476e9
+FileChecksum: MD5: 88aaeb1aabf6da95804a536c74dd16c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/SOP_OpenVDB.svg
+SPDXID: SPDXRef-item7975956
+FileChecksum: SHA1: f29644d384c5ecf70277055c7418c7ece40320d0
+FileChecksum: MD5: 1349e814b95e919ead5d2833588fca89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_houdini/DW_OpenVDBRasterizePoints.cmd
+SPDXID: SPDXRef-item7975976
+FileChecksum: SHA1: f5cec2836971a285697f8f5b453c49513ce696a2
+FileChecksum: MD5: e6d6a1bc9ba99fdffc4e8aecfbb1a608
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/charter.md
+SPDXID: SPDXRef-item7975979
+FileChecksum: SHA1: 4bc2b3f5dc134da10480077353e32d9f6c71731a
+FileChecksum: MD5: 6878508dd098cc8e904e4b5eeaa98871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-06-20.md
+SPDXID: SPDXRef-item7975982
+FileChecksum: SHA1: f2e16221c1fed15f4bb34b284a1d3513c547c3c7
+FileChecksum: MD5: 7f38cf00849e634fdedd2d89ee736c8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-09-12.md
+SPDXID: SPDXRef-item7975983
+FileChecksum: SHA1: 9d4cb896e9649f24ce33443511326925a89643f7
+FileChecksum: MD5: 0993ca945951f6b4c9280862cee9f930
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-06-27.md
+SPDXID: SPDXRef-item7975984
+FileChecksum: SHA1: ab30bc9b255830a84639e61c0e30492f5139a94f
+FileChecksum: MD5: 88cc3296e3c060496b0c7bb8738e59e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-01-31.md
+SPDXID: SPDXRef-item7975985
+FileChecksum: SHA1: 31695bb5c9a78ba2a59e77bf9efc449225a10ea2
+FileChecksum: MD5: 2efc85cb2c21764c91d5dd87669be7ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2018-12-06.md
+SPDXID: SPDXRef-item7975986
+FileChecksum: SHA1: c28d8ef487a664cd2e6e6d1816d9814779946fbf
+FileChecksum: MD5: ee6c5868d828a7d7899d32027077debf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-12-05.md
+SPDXID: SPDXRef-item7975987
+FileChecksum: SHA1: 069ea4999910834c7e8bf59ba123999e03b4dfef
+FileChecksum: MD5: 9f6ba08d652ea825606c213da63e50c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2018-11-30.md
+SPDXID: SPDXRef-item7975988
+FileChecksum: SHA1: f4965e99a5010f9d4ca59046c91006549b3bd36c
+FileChecksum: MD5: 73844d6e7036dd520ae78a82455a54ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-05-02.md
+SPDXID: SPDXRef-item7975989
+FileChecksum: SHA1: 479436391bf86ebdc53c52edf20a442522db7e32
+FileChecksum: MD5: d5fbd84a096e9e7db26f63c5f72ca729
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-04-25.md
+SPDXID: SPDXRef-item7975990
+FileChecksum: SHA1: 5d5ce6a622cc8257d1f4e1a95abaa410cb0a8616
+FileChecksum: MD5: 5108aaa723b77ddec1b709147b43d98b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-03-07.md
+SPDXID: SPDXRef-item7975991
+FileChecksum: SHA1: 454b794b08d226ebe2c3667a79940ecba4bba642
+FileChecksum: MD5: e30ab48b1c8cb9c8b2a17ab2ce6e700d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-02-28.md
+SPDXID: SPDXRef-item7975992
+FileChecksum: SHA1: 33c915dbd32fb3f1acbc404d0364eec9746b7083
+FileChecksum: MD5: af4fc4ea1f167d6c715133bd376e4f02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-05-09.md
+SPDXID: SPDXRef-item7975993
+FileChecksum: SHA1: 61f70c7d633a589e7e7bbe931f94914a64b8334b
+FileChecksum: MD5: c96bcc41969a6dd14024ad02af7f5151
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-04-18.md
+SPDXID: SPDXRef-item7975994
+FileChecksum: SHA1: f2a87cbf47e0f39f2db14433496f7e93d641c020
+FileChecksum: MD5: fa46504321faeeb3415a305b4a81b0f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2018-12-13.md
+SPDXID: SPDXRef-item7975995
+FileChecksum: SHA1: ac395a6422ee6831ef7f495efad6c825ed6c4c65
+FileChecksum: MD5: 7438ea034e5bb7eb269ddc8448604c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-01-24.md
+SPDXID: SPDXRef-item7975996
+FileChecksum: SHA1: 17ca3741a690ceca7f0406d224db6d9d2c7494b2
+FileChecksum: MD5: 2634a8d2965f7251be8a8940dd25cd5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-07-25.md
+SPDXID: SPDXRef-item7975997
+FileChecksum: SHA1: c3ecb8d3adaaa3d2de98789b39651a19bb43c7db
+FileChecksum: MD5: ac04b73a207fa01e1e694af31e8e88aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-05-30.md
+SPDXID: SPDXRef-item7975998
+FileChecksum: SHA1: e6acd51fe96b54031962846b4d5b3753513939c7
+FileChecksum: MD5: cc609ca2c633bcf37d500a0bbf561edf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-05-23.md
+SPDXID: SPDXRef-item7975999
+FileChecksum: SHA1: 54b6a8e27cab325057461a0cd4f657b212e0a8fa
+FileChecksum: MD5: 757060cc0b05808749b94fc0ffbf2a1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-01-17.md
+SPDXID: SPDXRef-item7976000
+FileChecksum: SHA1: 5382a0b4029a1754a268eb52c93099e3b2da017c
+FileChecksum: MD5: 58cd8cd23b7aeff3a739c3be9f7ff59e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-10-31.md
+SPDXID: SPDXRef-item7976001
+FileChecksum: SHA1: cba87a00c068cdd0f951e5ddab9443d79fad663c
+FileChecksum: MD5: 5b7b495493eedaa89d75f71efd813662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-03-28.md
+SPDXID: SPDXRef-item7976002
+FileChecksum: SHA1: 6479782a76fca34f0888aa526bff1d9ed53bf456
+FileChecksum: MD5: eb8e6c787be6e8a050e111dba08e2fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-08-22.md
+SPDXID: SPDXRef-item7976003
+FileChecksum: SHA1: 1d2fb7818570421da81503f2442f8195fa9ddadc
+FileChecksum: MD5: 29f25519d2010c4725e58c701aa1a35b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-08-29.md
+SPDXID: SPDXRef-item7976004
+FileChecksum: SHA1: 68bab8790398d9f8883ee05a149788c700558688
+FileChecksum: MD5: 07e1a5b879ecf6f811b5eff33f2676bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-11-14.md
+SPDXID: SPDXRef-item7976005
+FileChecksum: SHA1: 658eb8e71fa3dba3f6c3560badfa5311273c7b74
+FileChecksum: MD5: 3907ee5b46a91cd2ceaa28741ba22034
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-11-28.md
+SPDXID: SPDXRef-item7976006
+FileChecksum: SHA1: 339e817d588e4489c1e76d65a2c2802c3c94cadb
+FileChecksum: MD5: 1482b9dbd2e07d5759807ecb8a6df248
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-09-26.md
+SPDXID: SPDXRef-item7976007
+FileChecksum: SHA1: 7cc2a358acab5e80633caa20c084ff747c6e964a
+FileChecksum: MD5: 32446e5a04e1ddaf6423c91cc493db29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-02-14.md
+SPDXID: SPDXRef-item7976008
+FileChecksum: SHA1: df884b982f1f1ad50c9fe4b5b9990f11d9578af5
+FileChecksum: MD5: ae5808a544d67d8ee7a531f5a5889dd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2018-11-17.md
+SPDXID: SPDXRef-item7976009
+FileChecksum: SHA1: aee7880226019255260e0bda339c33bf338bd466
+FileChecksum: MD5: 17c8f66f857e8f8812b646bfeb6f7599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-03-21.md
+SPDXID: SPDXRef-item7976010
+FileChecksum: SHA1: b343c0e8c45e0cad72a626eeef5b7fbaa647c38f
+FileChecksum: MD5: 26662656067f6361380dcafb8e6dc2ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-11-21.md
+SPDXID: SPDXRef-item7976011
+FileChecksum: SHA1: 2f0b5128c0f6c6350b2b8e5af0d7912cb67971c8
+FileChecksum: MD5: 8702b1daa48b5a415ab9a101e6977b7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-06-13.md
+SPDXID: SPDXRef-item7976012
+FileChecksum: SHA1: bab0d1cdfa63a317a6024e9044083207620c1ccb
+FileChecksum: MD5: d381437bb2bbf7f7d528ff549b52c11a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-07-11.md
+SPDXID: SPDXRef-item7976013
+FileChecksum: SHA1: 5d70a782f6a55f64709d108f5300994d58d7554c
+FileChecksum: MD5: 75fc9cee3edfbc4973fd9901d54a1a54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-10-24.md
+SPDXID: SPDXRef-item7976014
+FileChecksum: SHA1: 264e638b29135aa75aa95ff3b93332c73026a92e
+FileChecksum: MD5: 757b5f66570cbc077a078afafa8aba6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-06-06.md
+SPDXID: SPDXRef-item7976015
+FileChecksum: SHA1: 1edb483a925d0a49b414b12c13f9ee160e54b87f
+FileChecksum: MD5: fa94c46c433d0a269aa6c61df0a01997
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/meetings/2019-10-10.md
+SPDXID: SPDXRef-item7976016
+FileChecksum: SHA1: 9ceca59cc488415e7ec218845b0396814a7fd666
+FileChecksum: MD5: 442009481f3ceb3f3f14a0e492ff3d93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/process/deprecation.md
+SPDXID: SPDXRef-item7976018
+FileChecksum: SHA1: 6e4ed7c4e10e171fe4ca43750428226ea26513c0
+FileChecksum: MD5: c2fc3db6dec0addad38c6faaf6f935d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/process/codereview.md
+SPDXID: SPDXRef-item7976019
+FileChecksum: SHA1: 065e0feefd0a57ad3c4f44781ecb7fed86938e81
+FileChecksum: MD5: edac7bfa8b246668e2651d6c82cc88cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/process/security.md
+SPDXID: SPDXRef-item7976020
+FileChecksum: SHA1: 75eaa8b8cf211c19d9f57fbd5d67998ec2739008
+FileChecksum: MD5: 49639f2047d669222e8949ec5dff7a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/tsc/process/release.md
+SPDXID: SPDXRef-item7976021
+FileChecksum: SHA1: 2b4da675384a72a74f8ad47925ac3d55339fb564
+FileChecksum: MD5: 4f3ab0fd925f62031be26e55d7ff4a88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/azure-pipelines.yml
+SPDXID: SPDXRef-item7976023
+FileChecksum: SHA1: a854d22ebaea6403c8525e49230235758588fa23
+FileChecksum: MD5: 0adaa6ab965c3fb4c9c6f80010fd27dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/CODEOWNERS
+SPDXID: SPDXRef-item7976024
+FileChecksum: SHA1: 67ed7077d884e8fac736a90d62d1741b017695ef
+FileChecksum: MD5: 140712e8f3dfc9bd5becd1c75e5fdc9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBTransformTemplate.mel
+SPDXID: SPDXRef-item7976027
+FileChecksum: SHA1: c43baa224ded19e2fa72d70848a034b6aff27d45
+FileChecksum: MD5: 605c88a5f3ffa82fd84bfc6d976e5eb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBWriteTemplate.mel
+SPDXID: SPDXRef-item7976031
+FileChecksum: SHA1: 24ef8f133983a00fcaea7260666509fcb250da9b
+FileChecksum: MD5: d28765f0d1d53b6c3c2b82639b6266a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBFromMayaFluidTemplate.mel
+SPDXID: SPDXRef-item7976032
+FileChecksum: SHA1: 99c28a99fab4816ff8fa39e80ae5f11c04084b73
+FileChecksum: MD5: dc619aec6ddbda68bea20c27982b5b83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBCopyTemplate.mel
+SPDXID: SPDXRef-item7976033
+FileChecksum: SHA1: 9a5038e1d4af5dbb12956c40a763ebc93cfa53e3
+FileChecksum: MD5: 691ef139f40b84650bd24133d3306c24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBFromPolygonsTemplate.mel
+SPDXID: SPDXRef-item7976034
+FileChecksum: SHA1: 2198add2361642408198e46aa19fe3530d19400c
+FileChecksum: MD5: 48a12fc9739fd0187d24ad623e82d9a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBToPolygonsTemplate.mel
+SPDXID: SPDXRef-item7976035
+FileChecksum: SHA1: 5a8462a3833008c8351c98bf30b2364a75e835ec
+FileChecksum: MD5: 4bd536d7173f251fbc4fb3590ddadeeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBReadTemplate.mel
+SPDXID: SPDXRef-item7976043
+FileChecksum: SHA1: 9c4a36e83d1883a813bd6fe278f70438c9cbdbc2
+FileChecksum: MD5: ec83ccf903f86f57d3ed4a228d1e7b6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBFilterTemplate.mel
+SPDXID: SPDXRef-item7976049
+FileChecksum: SHA1: 0cffd3f0e090894e5222398580345a2f44023fda
+FileChecksum: MD5: 1dea2eee6576c7abdf9260d543112564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb_maya/AEOpenVDBVisualizeTemplate.mel
+SPDXID: SPDXRef-item7976054
+FileChecksum: SHA1: 668d3fd9252cabed709588d2594f77a7ba279171
+FileChecksum: MD5: 5d16aa26f004dfc16fd9923c8c16c861
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item7976055
+FileChecksum: SHA1: d9b697ff8996eb7f5394872c8f3d1a9774cc4e71
+FileChecksum: MD5: 4bd2222a2b0e7aa2fff98d276cadf7cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/appveyor.yml
+SPDXID: SPDXRef-item7976056
+FileChecksum: SHA1: bca72976e44979a68f4d29a684499fd6e4a3e5a4
+FileChecksum: MD5: aba35af93e4f9d468292b31cd86e66d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/.github/workflows/build.yml
+SPDXID: SPDXRef-item7976059
+FileChecksum: SHA1: 227636bb3c243e07f76ddf70e53f8ba885b5cd1f
+FileChecksum: MD5: fc548aa7216d75d729dc38bf711f5c0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/CHANGES
+SPDXID: SPDXRef-item7976061
+FileChecksum: SHA1: 4bcd286865e02fbec2b733dcdb8c31c3e1a5b97a
+FileChecksum: MD5: ad1f96b7f5c7514eebe47857d47b1e6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/points.txt
+SPDXID: SPDXRef-item7976063
+FileChecksum: SHA1: f471a9865a989bd83a22726b480a62b37fe172d8
+FileChecksum: MD5: a78415db830b9607bfef561d992a9fee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/changes.txt
+SPDXID: SPDXRef-item7976064
+FileChecksum: SHA1: 148e51dc0d79642a906ec86ddee0d8e8b6749551
+FileChecksum: MD5: a1270fccb120c4f72efcfe922aec259d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/codingstyle.txt
+SPDXID: SPDXRef-item7976065
+FileChecksum: SHA1: 32a6b055f76525fe3fa2249d48be17907ec8052d
+FileChecksum: MD5: e80f2e189367858c25d66743cd133318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/doxygen-config
+SPDXID: SPDXRef-item7976066
+FileChecksum: SHA1: d4c2f3c55a0640321f240b38dae6c5481a5c099e
+FileChecksum: MD5: 9d4898f0e4c11daa8b90b4011b788e90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/img/multiparm.png
+SPDXID: SPDXRef-item7976068
+FileChecksum: SHA1: ca181d76d8f54983b05a0696cbd99c06b0ccc1b6
+FileChecksum: MD5: ef4e73876b21fff89f4076a20b6c60b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/img/tabmenu.png
+SPDXID: SPDXRef-item7976069
+FileChecksum: SHA1: 6921133d1095d899cf029e3b0d20800871d4a81c
+FileChecksum: MD5: ea778008dfd29dee71d54ebafc3a2f98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/build.txt
+SPDXID: SPDXRef-item7976071
+FileChecksum: SHA1: 9bd8a4a91786595ad3656ddee24802dd1c4d48b4
+FileChecksum: MD5: 7c878870c987fb4ec5f26d885b2b49b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/houdini.txt
+SPDXID: SPDXRef-item7976072
+FileChecksum: SHA1: 411709bb51932f34eb3c19b9dca1ff1099675f4e
+FileChecksum: MD5: 6d3e1006d33d7aa27675ac774acc0c77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/math.txt
+SPDXID: SPDXRef-item7976074
+FileChecksum: SHA1: d899db29819c6df4b68932eeef6bfd1502a8c432
+FileChecksum: MD5: 1e94a9a0830673179e3c041a4ee020e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/doc.txt
+SPDXID: SPDXRef-item7976075
+FileChecksum: SHA1: 39a61917cd25c30a9416ab19ecaa8240c118b5e2
+FileChecksum: MD5: 641073ba839bd1426c068c6c57aef840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/dependencies.txt
+SPDXID: SPDXRef-item7976076
+FileChecksum: SHA1: 66a4c34769e09cfc24a5a6b5c1bdd5960cbb7962
+FileChecksum: MD5: 351d4734cd10e2b14699bec6928a60dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/python.txt
+SPDXID: SPDXRef-item7976077
+FileChecksum: SHA1: 51143971b15d9cf17e5a13834ae50c57f230ec11
+FileChecksum: MD5: fda8adf1a1177f1df2b696a9651b361b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/doxygen-config-houdini
+SPDXID: SPDXRef-item7976078
+FileChecksum: SHA1: 4e1add273cb2ec76bd8a3005f6b3b52be957773d
+FileChecksum: MD5: e9b9be71ef441ab7dfd7f203f38f9da8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/doc/examplecode.txt
+SPDXID: SPDXRef-item7976079
+FileChecksum: SHA1: 872cb99da27c2ba414936f371900a74b06024799
+FileChecksum: MD5: 275ad1ea84866c019764d3817b247f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: openvdb/openvdb/README
+SPDXID: SPDXRef-item7976101
+FileChecksum: SHA1: 4e58d0619b70d81324023b1f1027a764fea1dc99
+FileChecksum: MD5: 947cffdd61310803ef896d754c3cda8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
