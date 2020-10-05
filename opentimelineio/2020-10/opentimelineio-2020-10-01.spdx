@@ -1,0 +1,5374 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_opentimelineio-2020-10-01.zip_1601907349.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-10-05T14:15:50Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: opentimelineio-2020-10-01.zip
+PackageFileName: opentimelineio-2020-10-01.zip
+SPDXID: SPDXRef-upload2889
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: e854fb7f7d92c50093f485e0ead2849db5aadae5
+PackageChecksum: SHA1: 4ef141f3570618861c05b5c497b161c429fec207
+PackageChecksum: MD5: 3d5fc758a47d2f97dbe23a7b108bec6a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2889
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/media_linker.py
+SPDXID: SPDXRef-item11187115
+FileChecksum: SHA1: 9a3df735ef7dc83f5b8355f8e48f743485dda959
+FileChecksum: MD5: e7b0723115e04b40818e806a451e2757
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/__init__.py
+SPDXID: SPDXRef-item11187122
+FileChecksum: SHA1: d482af737ef87ca08f49ba4cfb57f5e37f91be77
+FileChecksum: MD5: 7ba17d1543f384cdc2a471f8e8c352c6
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/otiostat.py
+SPDXID: SPDXRef-item11187121
+FileChecksum: SHA1: 2a72a9bdfb9174b58e53909a820490e8b73f3ec5
+FileChecksum: MD5: b0dfbba360faa0c2b2ee00ee1a456c1e
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/autogen_serialized_datamodel.py
+SPDXID: SPDXRef-item11187124
+FileChecksum: SHA1: b36f14764d875401cb2f872303d0317c71a09a29
+FileChecksum: MD5: 4d551e9a5130f17f9870cd1ab46887cf
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/test_utils.py
+SPDXID: SPDXRef-item11187141
+FileChecksum: SHA1: 7b90db62d52cfe79c0bbe6dc0c92b2ad3ff140a7
+FileChecksum: MD5: 195d42a80d388ee4be8c523cc102af47
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/console_utils.py
+SPDXID: SPDXRef-item11187118
+FileChecksum: SHA1: e66f45a061476e8f72916227a180f9d689c2c99c
+FileChecksum: MD5: af1bf425dadbe9448bc4ba12fac09cc3
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/plugins/__init__.py
+SPDXID: SPDXRef-item11187144
+FileChecksum: SHA1: de07eb0e77348831bc3300d5f7a80959f53154b3
+FileChecksum: MD5: 361febb735f2eaa50ad2ac1d80a11597
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/hooks.py
+SPDXID: SPDXRef-item11187125
+FileChecksum: SHA1: 520c1d8702fb616b4a860e6cca486d65f1f495cb
+FileChecksum: MD5: 566337b1bc4f9b025cb36db1b477669a
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/plugins/python_plugin.py
+SPDXID: SPDXRef-item11187145
+FileChecksum: SHA1: 0383ecf1b56a7d84f4164945532b2ca4b45cc152
+FileChecksum: MD5: 0ab0f221a2940fcb428e0a7a48fe2466
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/plugins/manifest.py
+SPDXID: SPDXRef-item11187143
+FileChecksum: SHA1: 9e481892556f39fd0a77892827cb112d75d88ecd
+FileChecksum: MD5: eb64308731e76dcedf0561d6ac7719ec
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/__init__.py
+SPDXID: SPDXRef-item11187162
+FileChecksum: SHA1: 57af2b67d0bceedb8ada2a469577729229c60298
+FileChecksum: MD5: 82cc5a8f4b3ad970204e89cba9bd3336
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/adapters/__init__.py
+SPDXID: SPDXRef-item11187149
+FileChecksum: SHA1: 5a1caca8ad829fa1a3b3d2ac217d21c0bf3ef7d2
+FileChecksum: MD5: e5f3f009c24aaf9e02593b34ea1c909c
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/algorithms/timeline_algo.py
+SPDXID: SPDXRef-item11187166
+FileChecksum: SHA1: 1cbca868ecc1e797d750ab9f8c733af473a65ccd
+FileChecksum: MD5: 68f12ae370b48c98f40912cca73a38c3
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/algorithms/stack_algo.py
+SPDXID: SPDXRef-item11187164
+FileChecksum: SHA1: efd3840850f8c3695e0c5460f388e616ceeaa8de
+FileChecksum: MD5: f4b065c029de38c6c1da9eb27115017d
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/exceptions.py
+SPDXID: SPDXRef-item11187169
+FileChecksum: SHA1: 9403f955c9e87ba8e25bf2eb54150fe014d8cdbc
+FileChecksum: MD5: 69417f4465b6c1ee20c308f3e8df1640
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/algorithms/__init__.py
+SPDXID: SPDXRef-item11187167
+FileChecksum: SHA1: efe6e79ed2eb3b13fb664762935fbeb0893f6b40
+FileChecksum: MD5: 82d30f127dc2d143a679c2cc15121fff
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/algorithms/filter.py
+SPDXID: SPDXRef-item11187168
+FileChecksum: SHA1: e3f706eca84b466a9c33367ee5e99bfe949ee756
+FileChecksum: MD5: 77f588f6cd39b7eb7ea48e64d90b5199
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineview/details_widget.py
+SPDXID: SPDXRef-item11187350
+FileChecksum: SHA1: 450fa7facb517698e4c4d501e37d23d64119213d
+FileChecksum: MD5: 32a70316e40a509325be7af6ad1fd8f9
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineview/__init__.py
+SPDXID: SPDXRef-item11187354
+FileChecksum: SHA1: 40ec2bbe7f838889b467e9d1836d206f5f5f3748
+FileChecksum: MD5: c1499cc6ad99b41700dd0d3b0c2882ab
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/summarize_timing.py
+SPDXID: SPDXRef-item11187360
+FileChecksum: SHA1: bb104d74d139be7dd638427cbca281efc599851c
+FileChecksum: MD5: deb4c064637cf8da7bf34d4664d536a9
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/shot_detect.py
+SPDXID: SPDXRef-item11187369
+FileChecksum: SHA1: 393df7af80fd29a1339c7cdb198aacfa0f6fdd95
+FileChecksum: MD5: 98754d819bf3e83155ecd3ddb181bb84
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_console.py
+SPDXID: SPDXRef-item11187381
+FileChecksum: SHA1: 392e2e334d8d6b2d83ecdb3cf53b6225554aece7
+FileChecksum: MD5: b99c93bd9099a2867dd235c675efbfee
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_multithreading.py
+SPDXID: SPDXRef-item11187382
+FileChecksum: SHA1: 6bb9cc8295e5524f7644e8df8e3bc54febf43249
+FileChecksum: MD5: 04b2d62b8e4c139e85e3d158435b3885
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_composition.py
+SPDXID: SPDXRef-item11187383
+FileChecksum: SHA1: dd07188788cbccca44adbee0a74fd61bc69d1c68
+FileChecksum: MD5: 9040e8d14b41d4066d59da4cf31cea15
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/flatten_video_tracks.py
+SPDXID: SPDXRef-item11187368
+FileChecksum: SHA1: 405e30c7287d22094d9a2d7ab90999075adf314d
+FileChecksum: MD5: 1b7466072f7adce2a15d8066d027d064
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_adapter_plugin.py
+SPDXID: SPDXRef-item11187384
+FileChecksum: SHA1: aacec5bb07a16be4d5c1e0d3f5c0c13aac3c301c
+FileChecksum: MD5: b75318882cc7b0661f0ac57d1b884ca6
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_json_backend.py
+SPDXID: SPDXRef-item11187392
+FileChecksum: SHA1: 611c210d02c557655e7910f4ac2a72f1d417d04f
+FileChecksum: MD5: 6d3be15714f00cab7050911a0a578172
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_effect.py
+SPDXID: SPDXRef-item11187393
+FileChecksum: SHA1: 2f49d5d62d629166bd4e65b80d4848ab4d011f42
+FileChecksum: MD5: c4804359b2e4d5b37d3c5aa8c7be09e7
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_serialized_schema.py
+SPDXID: SPDXRef-item11187389
+FileChecksum: SHA1: 25c7d961df0a447d2c0b914330124569026439a4
+FileChecksum: MD5: 4742f1c5c4acf98e320967cf55c8f8cd
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_item.py
+SPDXID: SPDXRef-item11187385
+FileChecksum: SHA1: 29d5d2eb967cdf1f3e874dad494fe8e598e7c09f
+FileChecksum: MD5: cf50feac29bebe55bf5d7e13336eea5f
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_unknown_schema.py
+SPDXID: SPDXRef-item11187394
+FileChecksum: SHA1: e0f7217d7b51d977857070bb635754eb570f2b7a
+FileChecksum: MD5: 99a4d047c2626a88da97fb079a359b4f
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_documentation.py
+SPDXID: SPDXRef-item11187390
+FileChecksum: SHA1: cdeeb9ff582ac5e73c628d2c376ab871c49dd98b
+FileChecksum: MD5: a75d1b030057c6552e3e4bcd8f4138d7
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_track_algo.py
+SPDXID: SPDXRef-item11187395
+FileChecksum: SHA1: fdeb674028c24905ba95fe1ac371837f019d1da4
+FileChecksum: MD5: 1ec58a1eb73bac86b9565b405d679ee2
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_composable.py
+SPDXID: SPDXRef-item11187397
+FileChecksum: SHA1: d8f20a8d058ba55f7c4697f3b19d1ee2b903ceab
+FileChecksum: MD5: 89174fc91d620853f1988cf461b7ac52
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_plugin_detection.py
+SPDXID: SPDXRef-item11187400
+FileChecksum: SHA1: fd7f7f4d8bc2108e6b94a09ba3b2f7b9f298aa0f
+FileChecksum: MD5: dd174d09d648ad09755614eafd3f1d87
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_filter_algorithms.py
+SPDXID: SPDXRef-item11187398
+FileChecksum: SHA1: 1890a8ad4f9328fae658f8f065fa236846ae0123
+FileChecksum: MD5: 446885e0c160ee8b6a786eb49e90e269
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_serializable_collection.py
+SPDXID: SPDXRef-item11187404
+FileChecksum: SHA1: 5c84d4559dabd9f13c043d6e6719e7873548a4c8
+FileChecksum: MD5: 58b27e991dba8f537aaf6021909d4476
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_stack_algo.py
+SPDXID: SPDXRef-item11187402
+FileChecksum: SHA1: 88252fe126cff0a808456126abfda339ed654d78
+FileChecksum: MD5: 39fec7c0e5dd53a495320403f85a7317
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baseline_reader.py
+SPDXID: SPDXRef-item11187399
+FileChecksum: SHA1: 3ad93931a41294ef873d242a7f13e4b0a3a5893c
+FileChecksum: MD5: 7ec6322d4ba692eaae80705678ade2eb
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_serializable_object.py
+SPDXID: SPDXRef-item11187437
+FileChecksum: SHA1: f175e9857d0832709e938ca5163bebdf5c201705
+FileChecksum: MD5: b6e33b858bf17fed9ec7e320020c0b71
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_timeline_algo.py
+SPDXID: SPDXRef-item11187438
+FileChecksum: SHA1: b8619afab30a4970af7eb258de5f841d9e6cc703
+FileChecksum: MD5: 95f659d6f19689d7ffe964fd8a510125
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_transition.py
+SPDXID: SPDXRef-item11187406
+FileChecksum: SHA1: 7de0a6d372cca30409477cee36d937b67ca96550
+FileChecksum: MD5: 3bc0140a477cf2c6e5476e5891d221ab
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_builtin_adapters.py
+SPDXID: SPDXRef-item11187439
+FileChecksum: SHA1: 2d6b6c7eaa5b84bdb9e33a530389b7699b8663d1
+FileChecksum: MD5: f84cd5b7e6d84eca3ccfcccae7bc5061
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_timeline.py
+SPDXID: SPDXRef-item11187441
+FileChecksum: SHA1: f5f1d43981f4dfc3c4bb4d3412e8d5160b11ef3a
+FileChecksum: MD5: d173b4b962c19290188390d456a052aa
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/example_schemadef.py
+SPDXID: SPDXRef-item11187467
+FileChecksum: SHA1: 7e0392b13c5a09aba5ef305976df61cd3c98ff6f
+FileChecksum: MD5: aa62e526441e46839b650847ec46fd3c
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_media_linker.py
+SPDXID: SPDXRef-item11187440
+FileChecksum: SHA1: 9558516152c39e7f64d5482c5ddf5682236997bc
+FileChecksum: MD5: 973bae093467d2bc8a3a5169cd60c0b7
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/utils.py
+SPDXID: SPDXRef-item11187479
+FileChecksum: SHA1: 95ce31caa487c349360df25d90413269d8b2bbe4
+FileChecksum: MD5: f53b336f8e72baabf255027e21001331
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_schemadef_plugin.py
+SPDXID: SPDXRef-item11187480
+FileChecksum: SHA1: 555ef358a2804c569f5b3615f6f3651c24e9b98f
+FileChecksum: MD5: 1926b04cdcca08957ee0da495a409a88
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/aaf_adapter/aaf_writer.py
+SPDXID: SPDXRef-item11187492
+FileChecksum: SHA1: fd8413292c9eed37cc11eca2efedd74a9843395c
+FileChecksum: MD5: 14b3650331229568519f04eac5cf2ded
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/extern_maya_sequencer.py
+SPDXID: SPDXRef-item11187488
+FileChecksum: SHA1: f3f66873a006d19f26011abbc8104b0ad9afe501
+FileChecksum: MD5: 9d7fa95ef18ec68ef38ae45123645b56
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/maya_sequencer.py
+SPDXID: SPDXRef-item11187486
+FileChecksum: SHA1: 87989cb3016e68a44f96262c2261b63025f3d583
+FileChecksum: MD5: 9ddc0ca083338167138f64918d0c5024
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/rv.py
+SPDXID: SPDXRef-item11187494
+FileChecksum: SHA1: b958a3930cf3d7c4ee0139fddf6ad3d7b21a78ac
+FileChecksum: MD5: 3212d8f17ba51599c60213218df89989
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_ale_adapter.py
+SPDXID: SPDXRef-item11187502
+FileChecksum: SHA1: b471bd31d1e74c088f1e69367c9d51ac3ab1048e
+FileChecksum: MD5: a6dc6054dbc617294c3bee8084404e9b
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/__init__.py
+SPDXID: SPDXRef-item11187563
+FileChecksum: SHA1: a84c2072a40b42a55e77ce4dd50e420eea59d078
+FileChecksum: MD5: a167b0417935fe7b36f91b950c34ae7a
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/application_plugins/rv/example_otio_reader/example_otio_reader_plugin.py
+SPDXID: SPDXRef-item11187569
+FileChecksum: SHA1: 5dfb1ed8312aaa4f3e9abb00db454cbd2b87265e
+FileChecksum: MD5: 4f460c106aed39efaf8353a3b99818ba
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/otiopluginfo.py
+SPDXID: SPDXRef-item11187119
+FileChecksum: SHA1: 6b5f34bec6a65214025bba9cb2977705779585b0
+FileChecksum: MD5: de7d7a4b3d5f9c02e5d3bd82f023eb74
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/otiocat.py
+SPDXID: SPDXRef-item11187117
+FileChecksum: SHA1: 88f1b787ee591dbb06a48df197b50ca706ea786c
+FileChecksum: MD5: 2d6edcacc37020f93375282f85830154
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/otioconvert.py
+SPDXID: SPDXRef-item11187120
+FileChecksum: SHA1: 619191acacfdf787fd58b9c725f9f2ac526397c8
+FileChecksum: MD5: 87e8dff5f857e8bcb04ebae01ec6bf14
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/adapters/fcp_xml.py
+SPDXID: SPDXRef-item11187151
+FileChecksum: SHA1: 71a4d3c0b5ec933324cbcfbfdd4936a8725cccd7
+FileChecksum: MD5: 165231bdb57aa87853335166247f6a6b
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_burnins.py
+SPDXID: SPDXRef-item11187559
+FileChecksum: SHA1: 433e40a2d0ca58f64e7b4fe19d039ade0144f0a5
+FileChecksum: MD5: 7ee654b241827eaf587002f0358c92af
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/burnins.py
+SPDXID: SPDXRef-item11187484
+FileChecksum: SHA1: 00295f6b950be0821d9899738a3e37549740c212
+FileChecksum: MD5: 1637f7333970717ea9418fdd8bcff49b
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineview/console.py
+SPDXID: SPDXRef-item11187352
+FileChecksum: SHA1: 59c1059032f627321a4b3bd3ec405d85f5274d49
+FileChecksum: MD5: ab6a38ed1cfd241b255a9a8e8fca9e4b
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineview/ruler_widget.py
+SPDXID: SPDXRef-item11187355
+FileChecksum: SHA1: 6ffbaa924cb0679eaa28be4cd1a991aea0047cc3
+FileChecksum: MD5: f5d8c1603ddbc98bc0c8e73c3820319d
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/conform.py
+SPDXID: SPDXRef-item11187367
+FileChecksum: SHA1: 2e60075d972d075217290833dfe75f2795cbdefa
+FileChecksum: MD5: e4ce647eca0d8b0bee95afa4d27c3be9
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineview/timeline_widget.py
+SPDXID: SPDXRef-item11187356
+FileChecksum: SHA1: 0fc93765dab8386a0c61222eb26b89fc6d399a30
+FileChecksum: MD5: 4d20a2ef233920733ea53f93a1f01622
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_fcp7_xml_adapter.py
+SPDXID: SPDXRef-item11187401
+FileChecksum: SHA1: 2efcd8c6cb2921b1e72c0bc98cbf62730d001e8a
+FileChecksum: MD5: 2ed7dc91f33f83c214d3dc0b5b919d46
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/ale.py
+SPDXID: SPDXRef-item11187489
+FileChecksum: SHA1: fc527713707e8876a06db7e52261b967f04159cb
+FileChecksum: MD5: 788f5f9c3c79f7553af74cd28e7eb302
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/example.py
+SPDXID: SPDXRef-item11187472
+FileChecksum: SHA1: d680ba200916df91717640dfb56596a01b02432d
+FileChecksum: MD5: df7114674c45eee71525829abaea6155
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/ffmpeg_burnins.py
+SPDXID: SPDXRef-item11187493
+FileChecksum: SHA1: b54eb9c068c8d212b4bf06f595d177dbc6cb03d6
+FileChecksum: MD5: d47423d014d634a485f8ed760d8ddd33
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/console/autogen_plugin_documentation.py
+SPDXID: SPDXRef-item11187123
+FileChecksum: SHA1: b14f5204c0fe2d5bd2a03775e06715050b1fb94c
+FileChecksum: MD5: 3d2d0006f596d35338dfc4c15da2205a
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/__init__.py
+SPDXID: SPDXRef-item11187136
+FileChecksum: SHA1: 95e8e08e422b3048e1ce9a145b683478a03d1660
+FileChecksum: MD5: 1803dd14d0dbe3c55c5d99d24f1c54fa
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/adapters/adapter.py
+SPDXID: SPDXRef-item11187148
+FileChecksum: SHA1: ce510e76f198d08fa764b0fd2e06055e58bf4f67
+FileChecksum: MD5: 4dcd3f1d19f717674a507d853d08a8fe
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/adapters/otio_json.py
+SPDXID: SPDXRef-item11187152
+FileChecksum: SHA1: d45a1a44aff6d9bf1b2b0bf95a38bd46ddbcdb75
+FileChecksum: MD5: 89b20c1218f23a9bc4f0989138e2dab3
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_media_reference.py
+SPDXID: SPDXRef-item11187403
+FileChecksum: SHA1: 683a8f4d49d468ed021d79294570f79a2c046be6
+FileChecksum: MD5: 96ed7a4508042abc02e1044d41c2040e
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineview/track_widgets.py
+SPDXID: SPDXRef-item11187351
+FileChecksum: SHA1: d41c9ae72d71d0b153f542e8ac40b9ec228f1aeb
+FileChecksum: MD5: e2177a1863d1b26cb701a2b628021e51
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_marker.py
+SPDXID: SPDXRef-item11187391
+FileChecksum: SHA1: 53b4f8e3d1bd2a64177b10806d4900171c16f4ba
+FileChecksum: MD5: e1e1f907b7ab73f910d17585f09f07e0
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_clip.py
+SPDXID: SPDXRef-item11187388
+FileChecksum: SHA1: 0bba24caac4afc3ab7d721d550c047c80a76b46d
+FileChecksum: MD5: 6703c0d8d9530e6327a8079baf5292bd
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_hooks_plugins.py
+SPDXID: SPDXRef-item11187407
+FileChecksum: SHA1: 2d72f718e0873511a4ddc8ebb667e512fda1372c
+FileChecksum: MD5: 22bd96d47591a5dd88cd2e634f57f8d3
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_cdl.py
+SPDXID: SPDXRef-item11187408
+FileChecksum: SHA1: f9c900b5a167fac18b8e299445f296de4fa0fd1a
+FileChecksum: MD5: 1a3bce98c52e8e277d13df34649afc8c
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/kdenlive.py
+SPDXID: SPDXRef-item11187487
+FileChecksum: SHA1: 5474e7930ccf8138a4407c65681d7f2271f0385f
+FileChecksum: MD5: 61b0798b3365fdbed6803a997a938e81
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/extern_rv.py
+SPDXID: SPDXRef-item11187495
+FileChecksum: SHA1: d08f8892deb84bad3571078dacb3f5a1111cc86f
+FileChecksum: MD5: 7ab9287c261f34950dcffccdbd60fb83
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/fcpx_xml.py
+SPDXID: SPDXRef-item11187496
+FileChecksum: SHA1: 49a0dd75cee26e11587cdba08f0da5574a6ddadd
+FileChecksum: MD5: a19009d363dd22fe30c2ab65859b367c
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_hls_playlist_adapter.py
+SPDXID: SPDXRef-item11187501
+FileChecksum: SHA1: 350e936a6df3a09f5069ffe3306392d23cab24f3
+FileChecksum: MD5: dfd5fd206edadcf412eaca5ae437483b
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/advanced_authoring_format.py
+SPDXID: SPDXRef-item11187499
+FileChecksum: SHA1: 14a143ecbdefacc73f07d5fcc027075e510f3eba
+FileChecksum: MD5: 38319e8777650ae10dc7530f14e65288
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_maya_sequencer.py
+SPDXID: SPDXRef-item11187505
+FileChecksum: SHA1: ec2d515de3e7b68e978298e4143b30fdae095ff9
+FileChecksum: MD5: a3368806d4ea39a9e9eeedeca967a5ea
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/post_write_example.py
+SPDXID: SPDXRef-item11187459
+FileChecksum: SHA1: 9b54b9672cc9102cd751a61a652aac50d443fed1
+FileChecksum: MD5: b1b3e4f1dc3255584bc2f05775d6f49a
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_rvsession.py
+SPDXID: SPDXRef-item11187558
+FileChecksum: SHA1: 8189df2191d22a90d481a637df82d01d4a0925db
+FileChecksum: MD5: d477aeb64ccf50d8802ab597f688a343
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/hls_playlist.py
+SPDXID: SPDXRef-item11187562
+FileChecksum: SHA1: b864c68857e9d385d913ad4f48b4d7923539ab94
+FileChecksum: MD5: 61c19ef0c6ef0b1297ffabbd1e04aaba
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/application_plugins/rv/example_otio_reader/otio_reader.py
+SPDXID: SPDXRef-item11187567
+FileChecksum: SHA1: 68ec7b6481e22efb5fb9bd18fb0543153246c9b0
+FileChecksum: MD5: a3931597c563fffda626a68eae228964
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_aaf_adapter.py
+SPDXID: SPDXRef-item11187560
+FileChecksum: SHA1: 16af3a851661b83f3f40981252c642bfce81855d
+FileChecksum: MD5: 687525db8a1c3699404a05f66b73de9a
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/adapters/cmx_3600.py
+SPDXID: SPDXRef-item11187147
+FileChecksum: SHA1: c24e1b064893b7f1763a8fa1935dc14f5f745c4a
+FileChecksum: MD5: 747d5cd941905aca98c515fb33ad2ce7
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/algorithms/track_algo.py
+SPDXID: SPDXRef-item11187165
+FileChecksum: SHA1: 4cb125e769879f560fad32e366b442abce174e15
+FileChecksum: MD5: c20ca1297b9473bd7d0510565ea2016c
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_cmx_3600_adapter.py
+SPDXID: SPDXRef-item11187409
+FileChecksum: SHA1: 76286abdfc63fe812b0c42d13c48ab4034d435bd
+FileChecksum: MD5: e61ed022df76e6b8c569d7f18055fbd7
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_opentime.py
+SPDXID: SPDXRef-item11187396
+FileChecksum: SHA1: e83f3b015728a87d477c6b838679ca7fa7f74237
+FileChecksum: MD5: 304a6091f20c4fa9b8fdd4378c8da46d
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/xges.py
+SPDXID: SPDXRef-item11187497
+FileChecksum: SHA1: a02c4977dc536b07028fcd2b5f7e4e7f99854226
+FileChecksum: MD5: 796b6008d9d896f7857123cd8d57d7f2
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/tests_xges_adapter.py
+SPDXID: SPDXRef-item11187507
+FileChecksum: SHA1: a59863c424efbd36be14138a7874322dff5c4b4a
+FileChecksum: MD5: 12b1114a91e24c30639763fcced9f229
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/application_plugins/tests/test_rv_reader.py
+SPDXID: SPDXRef-item11187572
+FileChecksum: SHA1: a51187b19d81f594515f70c44663584f6403d2e2
+FileChecksum: MD5: 549d1a9738d6c8a09892ac3e11f5cf43
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/LICENSE.txt
+SPDXID: SPDXRef-item11187372
+FileChecksum: SHA1: b8f79c355ced2edc25455986643b7acadc9873e7
+FileChecksum: MD5: 6af224c7ce08bcc5fcfd10f66eadb1e8
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/sample_plugin/setup.py
+SPDXID: SPDXRef-item11187362
+FileChecksum: SHA1: 31b85caef18c20957769431e5ffb973757ec7fe5
+FileChecksum: MD5: a074ae72ebb435378f8e1bf6588fb8f7
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_mockplugin.egg-info/PKG-INFO
+SPDXID: SPDXRef-item11187448
+FileChecksum: SHA1: be5aafb41192279c4f2a41d127afec3a40db777b
+FileChecksum: MD5: 385969a9696cfccec000e3e5eee14097
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/setup.py
+SPDXID: SPDXRef-item11187371
+FileChecksum: SHA1: b9f9cf0e1ed976f5781d5e9d6f18ab6eb4bfc55c
+FileChecksum: MD5: f71e7ef492016ef9732803802b299116
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Python
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_jsonplugin.egg-info/PKG-INFO
+SPDXID: SPDXRef-item11187457
+FileChecksum: SHA1: bcc0bcff133133e323d1b4d269e5126910ac42f5
+FileChecksum: MD5: 613df46459b59db8046e9695861d1902
+LicenseConcluded: LicenseRef-Apache-2.0-Pixar-modified
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/CONTRIBUTING.md
+SPDXID: SPDXRef-item11187097
+FileChecksum: SHA1: ca01812feed031b84d718fd10e4b79909cf49ccf
+FileChecksum: MD5: c0cd497314a1ea7d77f16928ba40c000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/Makefile
+SPDXID: SPDXRef-item11187098
+FileChecksum: SHA1: 1bfe903dc7e1d25330deeb5b05ddfdda9a0149d9
+FileChecksum: MD5: 4237e2a046d36ab6d8537f9028167f4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/OTIO_CLA_Corporate.pdf/OTIO_CLA_Corporate
+SPDXID: SPDXRef-item11187101
+FileChecksum: SHA1: d2ec3b64125acdc9c7ec80ce0a1d7a7d7ee39a03
+FileChecksum: MD5: b638762c92568ccb7894c0e255c84bd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.codecov.yml
+SPDXID: SPDXRef-item11187102
+FileChecksum: SHA1: cc503b0bd6748d5c31b237858673b39384464fc3
+FileChecksum: MD5: 6c8964802f79f8829810c7d71bf6818a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/NOTICE.txt
+SPDXID: SPDXRef-item11187103
+FileChecksum: SHA1: a9fa1787064ac731ca142e1f2c1708842fc5ebe1
+FileChecksum: MD5: faeaf53f9bf18380ee15847872b90e42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project. All rights reserved. </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/README.md
+SPDXID: SPDXRef-item11187104
+FileChecksum: SHA1: dbb9749ab709052e31393026e09faf18a03c03e3
+FileChecksum: MD5: 1631cee073755ed0dc14ebede7c95bc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Python
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentime-bindings/opentime_timeRange.cpp
+SPDXID: SPDXRef-item11187108
+FileChecksum: SHA1: 28e3f65e7a2390d74dc9a6e70bb80502561a369e
+FileChecksum: MD5: b1c648b6ec38eb16ce0b865c79175aa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentime-bindings/opentime_bindings.h
+SPDXID: SPDXRef-item11187109
+FileChecksum: SHA1: e3b8f778a47fb77d4acdbf233b2c3fd48dcc0c8b
+FileChecksum: MD5: 7226afbbbbab08169e9458bb725102ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentime-bindings/opentime_timeTransform.cpp
+SPDXID: SPDXRef-item11187110
+FileChecksum: SHA1: db809dc0572498b2896c005c4395daad86670e38
+FileChecksum: MD5: 5cd843ad0db297f548929be8b5cad819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentime-bindings/opentime_bindings.cpp
+SPDXID: SPDXRef-item11187111
+FileChecksum: SHA1: 314592173f1d6ac1f3d21c1a555a098d96c0772e
+FileChecksum: MD5: 9c6796c232ff8ff21f8c09475f2483a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentime-bindings/CMakeLists.txt
+SPDXID: SPDXRef-item11187112
+FileChecksum: SHA1: fd3e01aa816c74f73b09e37f46fc336289395f13
+FileChecksum: MD5: b3ffd57a6c446fc1c52222d2196d6e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentime-bindings/opentime_rationalTime.cpp
+SPDXID: SPDXRef-item11187113
+FileChecksum: SHA1: 4a9a638bb4ad64143c14541f86ff9e4ae6cbbca0
+FileChecksum: MD5: 3e019a8b9fbdc46efbbdfe5fc0860b53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/clip.py
+SPDXID: SPDXRef-item11187127
+FileChecksum: SHA1: 72318e9a9a7e274b716695786eab104169a0ba84
+FileChecksum: MD5: ce4df371a54b19d01a997bc13df12b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/marker.py
+SPDXID: SPDXRef-item11187128
+FileChecksum: SHA1: 8b97661d0c50920c891bc552001afbfaddf97a13
+FileChecksum: MD5: 8750426ab5ab9c19a9f89fbaece16fcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/schemadef.py
+SPDXID: SPDXRef-item11187129
+FileChecksum: SHA1: e13e516d9ffff6c4cf008a24d02db4f758082009
+FileChecksum: MD5: 00ae421410e1cb2ab109f9be17187c1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/timeline.py
+SPDXID: SPDXRef-item11187130
+FileChecksum: SHA1: dcad3abf290a35966759d6fd2b9e6a6db1c937f1
+FileChecksum: MD5: 261493bb02ab84ede85618f848020538
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/external_reference.py
+SPDXID: SPDXRef-item11187131
+FileChecksum: SHA1: ce8cb12e85660fb2a27b495f3848dea6b25ac78a
+FileChecksum: MD5: 3cbcb02c94d9422fa625c29bacfa5e09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/serializable_collection.py
+SPDXID: SPDXRef-item11187132
+FileChecksum: SHA1: 8343948e89de4137b05ea8058ecd29b6f4e96ace
+FileChecksum: MD5: cff07b090783939e65ad54acc66c5d34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/transition.py
+SPDXID: SPDXRef-item11187133
+FileChecksum: SHA1: 7557d4866bbe5db0a09670031e6cab42820db72d
+FileChecksum: MD5: acd4af8a7878e3cb8ecd0924cb574026
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/image_sequence_reference.py
+SPDXID: SPDXRef-item11187134
+FileChecksum: SHA1: 84f47164de16198c974375caef3aec0b739b1857
+FileChecksum: MD5: e74c94d1d9d1842de9aa8d201d39ab1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/stack.py
+SPDXID: SPDXRef-item11187135
+FileChecksum: SHA1: 16e112b372b9f67a60a064ab784af9c363046866
+FileChecksum: MD5: 5d5464ee79e23ee4369bcd2791d8a679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/generator_reference.py
+SPDXID: SPDXRef-item11187137
+FileChecksum: SHA1: 66ec068b24eddfefa7bcb8954605c55839b06250
+FileChecksum: MD5: 2ae077be561d4d35c1de5e6b635cda53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/effect.py
+SPDXID: SPDXRef-item11187138
+FileChecksum: SHA1: b52d3fed7ebb3c23fdae2bd92359ff45fadaed58
+FileChecksum: MD5: 392027be823c537cdfce7872366a4a5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/foo.py
+SPDXID: SPDXRef-item11187139
+FileChecksum: SHA1: 69e5b216b48554b0ed11ef325d011864761bb56a
+FileChecksum: MD5: 2d397affb5576dc4e7e215015b399f2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schema/track.py
+SPDXID: SPDXRef-item11187140
+FileChecksum: SHA1: 12b43913f7b082c535ec0d8aa8bd2fa8343bfb62
+FileChecksum: MD5: 29dc9f974f2cbadc2dd2fc79b1c8abcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/adapters/builtin_adapters.plugin_manifest.json
+SPDXID: SPDXRef-item11187150
+FileChecksum: SHA1: 51869f9bc7937744db0baddbe7153936048941e5
+FileChecksum: MD5: 358e5bf939afb05cfc141ac3e052c0bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/core/mediaReference.py
+SPDXID: SPDXRef-item11187154
+FileChecksum: SHA1: adde295eeac1839ad94e71cdf0e6d023a3010567
+FileChecksum: MD5: 7eb3ccea70e6b545853e8ce0505973ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/core/composable.py
+SPDXID: SPDXRef-item11187155
+FileChecksum: SHA1: 2f7510d69fdd0e343008442933db127931664ccc
+FileChecksum: MD5: d9f8c5165184d46d4b8c40ddc377dda8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/core/_core_utils.py
+SPDXID: SPDXRef-item11187156
+FileChecksum: SHA1: 8a4f6f0fc676f92a58c7268bb98f43441663292b
+FileChecksum: MD5: 1bacf67d15aaacb128aeb53d24319c6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/core/composition.py
+SPDXID: SPDXRef-item11187157
+FileChecksum: SHA1: c3b9358888103e7797fdbef4afa8994dfa55940a
+FileChecksum: MD5: e9ac0cba9a76fff29310ac3e484bcc12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/core/__init__.py
+SPDXID: SPDXRef-item11187158
+FileChecksum: SHA1: 6ebac75f09a8372bf05eee177c438a0d676088fc
+FileChecksum: MD5: c928f17d2ce7ddeb22820244bf829cef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/core/item.py
+SPDXID: SPDXRef-item11187159
+FileChecksum: SHA1: 4cf4ac5691e91a6a66be8daebb4ef3cd9096c916
+FileChecksum: MD5: d98a5a33a449790b8eafa0a27362782b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/schemadef/__init__.py
+SPDXID: SPDXRef-item11187161
+FileChecksum: SHA1: 978e87ee2d41700d6192630d384114f989bffa16
+FileChecksum: MD5: fc73d4e6f6abd6ea1d2ab07b615df3d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio/opentime.py
+SPDXID: SPDXRef-item11187170
+FileChecksum: SHA1: a89a7ec8a697b8093ad5288763eade8cb3bb5692
+FileChecksum: MD5: e6c5890df9318de3565a638e17457cf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/CMakeLists.txt
+SPDXID: SPDXRef-item11187171
+FileChecksum: SHA1: 61a251424a741302277205378ba839b2a468f212
+FileChecksum: MD5: 3d4b871a67d381dba7d114317425e156
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_serializableObjects.cpp
+SPDXID: SPDXRef-item11187173
+FileChecksum: SHA1: 056d676c6e5d2863a28a43dbaebfa32ac68dda67
+FileChecksum: MD5: 15e161f3497d09dd5562c7ee39789ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_errorStatusHandler.h
+SPDXID: SPDXRef-item11187174
+FileChecksum: SHA1: fb50129f46d557016fa8911a9f621958afdcec6e
+FileChecksum: MD5: 84e9463b7fe2c30fc68fabddb29567ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_anyVector.cpp
+SPDXID: SPDXRef-item11187175
+FileChecksum: SHA1: 26e80bf148591fc68ce402cac25c8c336ee03b95
+FileChecksum: MD5: 49a6cc4de6b279abfae8f6e1940947f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_bindings.h
+SPDXID: SPDXRef-item11187176
+FileChecksum: SHA1: f6eb76eb62cc005fd45df361a8025c3f3c159830
+FileChecksum: MD5: 140e18d2b48c417c5e3bc90bbf2a825d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_anyDictionary.h
+SPDXID: SPDXRef-item11187177
+FileChecksum: SHA1: 63dc2ad82446b8bef6152fff051eed829a1902d7
+FileChecksum: MD5: 0caa38d6f5ccb51800ff4b0952761c2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_bindings.cpp
+SPDXID: SPDXRef-item11187178
+FileChecksum: SHA1: eccee671742c941dea5a3d5beacf254d91524310
+FileChecksum: MD5: 1b3fb1b697cbf19035c73f8fffbd68c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_tests.cpp
+SPDXID: SPDXRef-item11187179
+FileChecksum: SHA1: aa43f18f13d100767c6374f7cf16aa29cdaf0ca7
+FileChecksum: MD5: acd1cbb61df92315431c911509823917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_errorStatusHandler.cpp
+SPDXID: SPDXRef-item11187180
+FileChecksum: SHA1: 110e87573bf46ab67b62cc10b550884bdca33144
+FileChecksum: MD5: 7c70c30829811a36ccdaa96863a5bd73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_anyDictionary.cpp
+SPDXID: SPDXRef-item11187181
+FileChecksum: SHA1: bde90e822d18c008c5040c845ffcd8490470d724
+FileChecksum: MD5: 6b2b628d4007f7d05afc696746c564d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_utils.h
+SPDXID: SPDXRef-item11187182
+FileChecksum: SHA1: 280760d23b2a8e82137a469d8f61dcb7208a2a54
+FileChecksum: MD5: 805c2585a8214f0acbba0a5d258dc5a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/CMakeLists.txt
+SPDXID: SPDXRef-item11187183
+FileChecksum: SHA1: fba02853ab721f0dca3f7390be6fc7747af4f5ba
+FileChecksum: MD5: b58d111857d8878e01b1f45b12d94340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_utils.cpp
+SPDXID: SPDXRef-item11187184
+FileChecksum: SHA1: 89fee2d2d582d39169c34a7b86d364b84b3b11ba
+FileChecksum: MD5: 5d7c3eb38302c23e3e5b6f26b68430f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/py-opentimelineio/opentimelineio-bindings/otio_anyVector.h
+SPDXID: SPDXRef-item11187185
+FileChecksum: SHA1: 21efde433dd8c7b00acd2e1097ce572277dd66a0
+FileChecksum: MD5: 853f4e26d4c139c1a8f900bab31843ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/version.h
+SPDXID: SPDXRef-item11187187
+FileChecksum: SHA1: 281d31fca21a26ca57efccafc909095ae15124d9
+FileChecksum: MD5: b3b8192b5bd89a8eea99946757099dde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/rationalTime.cpp
+SPDXID: SPDXRef-item11187188
+FileChecksum: SHA1: 1eb6e6f853fa10cdf431a775ce50630808d7ad47
+FileChecksum: MD5: 53580e11036b7de74f82953307576164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/timeRange.h
+SPDXID: SPDXRef-item11187189
+FileChecksum: SHA1: f58340143018d14580d4cd362dac92323ad1f64d
+FileChecksum: MD5: 059407ce0a1024cf58c59512f733b0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/timeTransform.cpp
+SPDXID: SPDXRef-item11187190
+FileChecksum: SHA1: 87430e4a1341c9aba198c9aaf661b80a1ddb2fb2
+FileChecksum: MD5: f5b94a4bfc0781290ff7efad86f9cc8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/errorStatus.cpp
+SPDXID: SPDXRef-item11187191
+FileChecksum: SHA1: 8ebf4a61f1790fcc0ac9c877a035b40c62045f0d
+FileChecksum: MD5: 2972f38f8b39dd33fe49e6a905a38df8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/CMakeLists.txt
+SPDXID: SPDXRef-item11187192
+FileChecksum: SHA1: 3664265fc90beccc4e008e8c55e03111cbb0b822
+FileChecksum: MD5: fc67a97df33681ecc1b352ef05757fb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/timeRange.cpp
+SPDXID: SPDXRef-item11187193
+FileChecksum: SHA1: 22cfcd9490634870e7b940658715a908d81a3fb1
+FileChecksum: MD5: 82f1ded37228fe5e35027aaae99cddac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/rationalTime.h
+SPDXID: SPDXRef-item11187194
+FileChecksum: SHA1: 73412107154cda329cf7fd2471de4836f0920306
+FileChecksum: MD5: 9cd546bf86842545490645cf340f5166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/timeTransform.h
+SPDXID: SPDXRef-item11187195
+FileChecksum: SHA1: 929356aa5fbbc490044c668c1c901892e543e95a
+FileChecksum: MD5: 7bbaee853da46c032ab583324a1d775a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/errorStatus.h
+SPDXID: SPDXRef-item11187196
+FileChecksum: SHA1: 2be65599bd9c01cd481fcebf8fb1b90b4b54abdb
+FileChecksum: MD5: 5786cccebd16692398b5d133b8939bc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentime/stringPrintf.h
+SPDXID: SPDXRef-item11187197
+FileChecksum: SHA1: e959dd36299db1e99006de3d4b49127fe7e14aa9
+FileChecksum: MD5: 78ebc5f4d8cc0cc38425f11dcdb1b38e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAnyDictionaryMutationStamp.mm
+SPDXID: SPDXRef-item11187199
+FileChecksum: SHA1: 7286122558ffa7fe111332339eb9356d32e9ed09
+FileChecksum: MD5: 1cf1268a0d2dc9a6f5c8d44353af0752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Transition.swift
+SPDXID: SPDXRef-item11187200
+FileChecksum: SHA1: 6c8b3952d5a72406ad41cc184e03d1a51d7c975e
+FileChecksum: MD5: ea9375e38019f3b26631cd11c8114c46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/TimeRange.swift
+SPDXID: SPDXRef-item11187201
+FileChecksum: SHA1: 2e41cb1194cfa86c420e1e2badd05ab00c48fb27
+FileChecksum: MD5: 530a5b96d123164850e8c9a2e60e0ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Track.swift
+SPDXID: SPDXRef-item11187202
+FileChecksum: SHA1: ddda482774726ef05bb0af0d21c79ce4acadc520
+FileChecksum: MD5: 779a08ab2683056101170ccfcd63871e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Errors.swift
+SPDXID: SPDXRef-item11187203
+FileChecksum: SHA1: 23ab7d02bdb4ffb30f3d58883ec2e87a5c6d8d04
+FileChecksum: MD5: a565b93b572dd7e92582415f03e43218
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAnyDictionaryMutationStamp.h
+SPDXID: SPDXRef-item11187204
+FileChecksum: SHA1: abb4d2cb3ed1014023da4a76629dd4e77b37c5ca
+FileChecksum: MD5: fb57544b05cabcdbdf3845c50578e1a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Timeline.swift
+SPDXID: SPDXRef-item11187205
+FileChecksum: SHA1: 128a5cb23b43e3ddc4f07a49db2df8d1f5673c6d
+FileChecksum: MD5: 52a49157f557ebded9fa7801359add5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/TimeTransform.swift
+SPDXID: SPDXRef-item11187206
+FileChecksum: SHA1: 27533ee578f8ca1b786c065ddd3d52d986f48142
+FileChecksum: MD5: b489746aac7501353e9ba27a1caa077c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/LinearTimeWarp.swift
+SPDXID: SPDXRef-item11187207
+FileChecksum: SHA1: 77ea077cc263a3957144a6b72a97023ee2a98d73
+FileChecksum: MD5: 7f2e972a18535c5ff112271dd6570342
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/ExternalReference.swift
+SPDXID: SPDXRef-item11187208
+FileChecksum: SHA1: 6c4da24746a7556319c25a43fd5987f7d0c11c5b
+FileChecksum: MD5: 239cff1cb8d76cc46b1e157eeaf9cad0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAnyVectorMutationStamp.mm
+SPDXID: SPDXRef-item11187209
+FileChecksum: SHA1: fda9fbb7cb04b1a8920ffb2e51da7857e105bfc6
+FileChecksum: MD5: dc0b7786c2fbaa3c6c25d79e98bd2378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxRetainer.mm
+SPDXID: SPDXRef-item11187210
+FileChecksum: SHA1: 405d4735d8bfbedbba72c60572684fd5d86a87f7
+FileChecksum: MD5: 0a3eebd90cdd99d3a2ba7b6e245f78b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/opentimelineio.mm
+SPDXID: SPDXRef-item11187211
+FileChecksum: SHA1: 072000d85b87940f6f25aa7e5e6c561e1c6ee310
+FileChecksum: MD5: 68ff10377586a709be8d844f1be234b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Stack.swift
+SPDXID: SPDXRef-item11187212
+FileChecksum: SHA1: a6b727fd4f950606dfc4a67bb525d40259b62cc1
+FileChecksum: MD5: 5122c90031a1b5bf0ce72eaad2c6c6fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxVectorProperty.mm
+SPDXID: SPDXRef-item11187213
+FileChecksum: SHA1: d21454c99632efaece6d8eb77b2950a807f17ad6
+FileChecksum: MD5: 18bb0f8e5230739f7b3522027c742e3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Algorithms.swift
+SPDXID: SPDXRef-item11187214
+FileChecksum: SHA1: 5add684851790778df5a51364f45e847ae75135d
+FileChecksum: MD5: 5fc622739202708eb38b560eb4bacd85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/opentime.mm
+SPDXID: SPDXRef-item11187215
+FileChecksum: SHA1: 0a9b41777436cd596d5a0e3eb1bd072c9a74d680
+FileChecksum: MD5: c171c1e598d7b0c7c09bf4649097b2e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/GeneratorReference.swift
+SPDXID: SPDXRef-item11187216
+FileChecksum: SHA1: d55154dc1c2f0c9d40b1d18c56146ca9dd520867
+FileChecksum: MD5: 77edb9af525d3be94916af550cefe3be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/opentime.h
+SPDXID: SPDXRef-item11187217
+FileChecksum: SHA1: f1003784f787731e8d4fa84f8467fd1782ffb7d0
+FileChecksum: MD5: 3aa678535950d3b9d9fb10c4a2f354d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Marker.swift
+SPDXID: SPDXRef-item11187218
+FileChecksum: SHA1: f30e4e7a9366451840fbb3ddb0bf55a34f2b667c
+FileChecksum: MD5: eb4464d0bc6f701620263cbb544f9cb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Effect.swift
+SPDXID: SPDXRef-item11187219
+FileChecksum: SHA1: 0c7461036e6bf81d98eb4ee605fe97ea5e6588a1
+FileChecksum: MD5: 01d816cd7909cdc23c24aa14ad44d8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/macos_Tests/Info.plist
+SPDXID: SPDXRef-item11187221
+FileChecksum: SHA1: bf0eb3f16ffd72bb16ef3a70355beed8df7b3daf
+FileChecksum: MD5: 36bab341822dc20877d61e22d84d8ae0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/macos_Tests/testTimeRange.swift
+SPDXID: SPDXRef-item11187222
+FileChecksum: SHA1: 2f3a096ef29284c13c8db10418d498df65c96254
+FileChecksum: MD5: 4498089ffef117237deeefcce2b35464
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/macos_Tests/testRationalTime.swift
+SPDXID: SPDXRef-item11187223
+FileChecksum: SHA1: 11236ba2cc551007333931745fbf8455dff3bcd2
+FileChecksum: MD5: c75860a4dfd9da8b91b3274b22b445cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/macos_Tests/testTimeTransform.swift
+SPDXID: SPDXRef-item11187224
+FileChecksum: SHA1: 54b1032b21ffcd4ada0a7730e01fa94ff65cfe84
+FileChecksum: MD5: 70cb015810aed4956ad81902caf9e9be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/macos_Tests/testData/unknown1.otio
+SPDXID: SPDXRef-item11187226
+FileChecksum: SHA1: a67ac36e32289b5ad7d87abcb5f1d836ba32b0b5
+FileChecksum: MD5: 6b78f55bbeb8000f596fecdec7a4ab16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/macos_Tests/testData/so1.otio
+SPDXID: SPDXRef-item11187227
+FileChecksum: SHA1: 0463a55f6baaba5c85132d6f6e715326046a16a1
+FileChecksum: MD5: 0129bb70eba274038657483dbff9e050
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/macos_Tests/testSO.swift
+SPDXID: SPDXRef-item11187228
+FileChecksum: SHA1: d82e520acf71d31a07bf7949b84859e974e62460
+FileChecksum: MD5: 23757a44ce7617d2422816c59674b93b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/FreezeFrame.swift
+SPDXID: SPDXRef-item11187229
+FileChecksum: SHA1: a44451a9168746257c884cab2fa36153dfe0cd49
+FileChecksum: MD5: 70488b1763d9e566a95d07e5ddfc527e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/SerializableCollection.swift
+SPDXID: SPDXRef-item11187230
+FileChecksum: SHA1: 1ae844fd0f550a379d92f8a19d9d2299d7ce3893
+FileChecksum: MD5: 1ebf24d44fea0703aa71e247ea742d61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxVectorProperty.h
+SPDXID: SPDXRef-item11187231
+FileChecksum: SHA1: f69efaaf973e2f59fe411a2dd0e9d69d5162034e
+FileChecksum: MD5: f063490b44f30e87e1a86d3aa19f6adf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/errorStruct.h
+SPDXID: SPDXRef-item11187232
+FileChecksum: SHA1: 3ab5a20e656b4824bb84cd04c848cefecd316dd8
+FileChecksum: MD5: 03e85a6ab489cb5b8fa1db38df620097
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Gap.swift
+SPDXID: SPDXRef-item11187233
+FileChecksum: SHA1: ffc567efe15ae246564885d40edb159b36eb98c6
+FileChecksum: MD5: 497f3bd673afb619df8482b62225683f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/TimeEffect.swift
+SPDXID: SPDXRef-item11187234
+FileChecksum: SHA1: d244061b91a16b9a07458a4a60cdac46476f4252
+FileChecksum: MD5: c7db3adfc3df85b1da2021b4d8cf1dab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAny.mm
+SPDXID: SPDXRef-item11187235
+FileChecksum: SHA1: 622e3f2180fdefd3be11adefec523c6bb725085e
+FileChecksum: MD5: 66542c51f1861e9ddd70d5d5e3b3cb93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAnyVectorMutationStamp.h
+SPDXID: SPDXRef-item11187236
+FileChecksum: SHA1: 5cf563546557a7ee3d0322104762d74b224cd738
+FileChecksum: MD5: eecea0db19c370919ebb302d283dca16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/opentimelineio.h
+SPDXID: SPDXRef-item11187237
+FileChecksum: SHA1: 9f0e8c423b1336a543ade2aa799e637c041e348d
+FileChecksum: MD5: d908e5392735d9edfdcb40404511ae5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Item.swift
+SPDXID: SPDXRef-item11187238
+FileChecksum: SHA1: 970b3c68f03734c4bf069c3e530d460ec8a094ac
+FileChecksum: MD5: 59e7ad7bc22917c2eccdb6b73c118fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/UnknownSchema.swift
+SPDXID: SPDXRef-item11187239
+FileChecksum: SHA1: 3e03a16ab11cfd0eab6b8303e708a9276e60f8e6
+FileChecksum: MD5: fce64a1f8e2432de6d39662de27d6dd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Metadata.swift
+SPDXID: SPDXRef-item11187240
+FileChecksum: SHA1: af7e1409061050db4205039fd8bd1ef9976b8e72
+FileChecksum: MD5: 329ee0c0f63223b5b36d8e18540fb804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/MediaReference.swift
+SPDXID: SPDXRef-item11187241
+FileChecksum: SHA1: d24053ca0c3149c23f2b931c19c1c16eb550de81
+FileChecksum: MD5: 579e9685b160ed8f2919012fe627423c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/SerializableObjectWithMetadata.swift
+SPDXID: SPDXRef-item11187242
+FileChecksum: SHA1: d19ccb41f80bfc2e90392b34c0a911382974ca05
+FileChecksum: MD5: 7147a02d68afec7e63b69f4062b3b26d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/RationalTime.swift
+SPDXID: SPDXRef-item11187243
+FileChecksum: SHA1: 27ce66ef091b502956bf201f092fbb01ba6378ec
+FileChecksum: MD5: 297edf2f7a95a5b6188c444f86210f23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/WrapperCache.swift
+SPDXID: SPDXRef-item11187244
+FileChecksum: SHA1: 5d77dd8cb964fcf3705703f12547de9312d73cf6
+FileChecksum: MD5: cb7bbd7b868acce88857056b050926e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/SerializableObject.swift
+SPDXID: SPDXRef-item11187245
+FileChecksum: SHA1: b65658c2a743317088630be85f30f1d6c1491d5d
+FileChecksum: MD5: 4eb8b8458c91317d6e86b2458bc86d2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/MissingReference.swift
+SPDXID: SPDXRef-item11187246
+FileChecksum: SHA1: 6f552991406d5e68fe02cec69db9e60199651ab8
+FileChecksum: MD5: b2f1cbf77e0b4a5ba909d7135634f853
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/libotio-macos/libotio_macos.m
+SPDXID: SPDXRef-item11187248
+FileChecksum: SHA1: edd7558eb2ca9e3e04654318ee9a18f7ffa740f7
+FileChecksum: MD5: c171c2c5b995ecf10bc84cd8f3c8dee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxRetainer.h
+SPDXID: SPDXRef-item11187249
+FileChecksum: SHA1: 9ad9bc131ec562f99704caeef10e8951d5ce2e0f
+FileChecksum: MD5: a6868f3b80dc3bd790ba4e9d801354b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAnyDictionaryIterator.h
+SPDXID: SPDXRef-item11187250
+FileChecksum: SHA1: b2d20427c63db8ced7bb1b6756abbdee0ace97ae
+FileChecksum: MD5: ecb7d715eb93453d737a93d920d7d34d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/otio-swift.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item11187252
+FileChecksum: SHA1: 2d455095bd2f59f2fd26ac04f7a7047e9c5caefe
+FileChecksum: MD5: c2a6345e177551cb2248a2eb2de73549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/otio-swift.xcodeproj/xcshareddata/xcschemes/otio_macos.xcscheme
+SPDXID: SPDXRef-item11187255
+FileChecksum: SHA1: be3cb44a15977ff02995feff2badf2c2539f4e52
+FileChecksum: MD5: 76edc532e4f4a69f7e439acad98330f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/otio-swift.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+SPDXID: SPDXRef-item11187257
+FileChecksum: SHA1: 01c41b06f2f1da3949ccfb098bf2bd663f981f6b
+FileChecksum: MD5: a0ee9304c723457cea03ecae8e646a95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/otio-swift.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+SPDXID: SPDXRef-item11187259
+FileChecksum: SHA1: df5fe739b8b3ab69cf1a32a8881c48a1662e0340
+FileChecksum: MD5: 117105d2f2ee718eb485a07574a219b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Clip.swift
+SPDXID: SPDXRef-item11187260
+FileChecksum: SHA1: 527586beece078f8e69999c205c0bc9e3df08bdd
+FileChecksum: MD5: 0c859e1ede11f5fdfbb3a01323022648
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Composition.swift
+SPDXID: SPDXRef-item11187261
+FileChecksum: SHA1: ebb6d5d766783a52c507505abe2630b7e6fb3191
+FileChecksum: MD5: 34de3b5d7e116bca455bc695d77e437d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/libotio-ios/libotio_ios.h
+SPDXID: SPDXRef-item11187263
+FileChecksum: SHA1: bb2f7e7c619f575658157dd43dcc432c5f9d7b9a
+FileChecksum: MD5: e74621443d8e4dce4baf6f77c3d08f3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAnyDictionaryIterator.mm
+SPDXID: SPDXRef-item11187264
+FileChecksum: SHA1: 397fe997cdb137927eb55aadcb212b44e0d8fc63
+FileChecksum: MD5: 92b45ccad46e78a8cc2646cfe6087c58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/Composable.swift
+SPDXID: SPDXRef-item11187265
+FileChecksum: SHA1: 00a4bf0490ecf584457df184e6fb51d138f58702
+FileChecksum: MD5: c44b88e9fccefab5280db2117529fa2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/CxxAny.h
+SPDXID: SPDXRef-item11187266
+FileChecksum: SHA1: 992f30e6305067eb61e0fb2c2e86856bad816989
+FileChecksum: MD5: 141d8e3ad21062c5f89a26bd966cca52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/swift-opentimelineio/bridger.h
+SPDXID: SPDXRef-item11187267
+FileChecksum: SHA1: 5e3690c313beedae78d129e4a99897b06f6a2cc7
+FileChecksum: MD5: 47a55d768f0ea1b1a3ed144ccafeb879
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/deps/CMakeLists.txt
+SPDXID: SPDXRef-item11187269
+FileChecksum: SHA1: e5d33156bafae89e8848cc9a8657e2c174cbd205
+FileChecksum: MD5: 70e74298464b60db46a318c00335b64e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/macosx-build/Opentimelineio.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item11187272
+FileChecksum: SHA1: f543a0c8649d3dc08d85be903fccfa9f7a6227b4
+FileChecksum: MD5: b13e7c03389db8fc35af76c76ab47725
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/macosx-build/Opentimelineio.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+SPDXID: SPDXRef-item11187275
+FileChecksum: SHA1: f22ee33865b6219516f4b89f63ad7a07b1313bfa
+FileChecksum: MD5: 55df436286207f0e8c7aa687578cff0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/macosx-build/Opentimelineio.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+SPDXID: SPDXRef-item11187276
+FileChecksum: SHA1: df5fe739b8b3ab69cf1a32a8881c48a1662e0340
+FileChecksum: MD5: 117105d2f2ee718eb485a07574a219b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/anyVector.h
+SPDXID: SPDXRef-item11187278
+FileChecksum: SHA1: 949f2b8ae3d82fb956e0091507424c2c6533d16a
+FileChecksum: MD5: c204b9b06d672273fa691a08cd070e7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serializableObjectWithMetadata.cpp
+SPDXID: SPDXRef-item11187279
+FileChecksum: SHA1: ad77d2ec9bc2b27cb418c1730b72e6f6349c6779
+FileChecksum: MD5: b99d0636f6a90226e7f6c05dc8583c0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serializableObject.cpp
+SPDXID: SPDXRef-item11187280
+FileChecksum: SHA1: 9bcc63685fc1e601ba1127605b75b0189bd1b215
+FileChecksum: MD5: ea8bfaa0e1c69e8215f1fc7765b2f3ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/version.h
+SPDXID: SPDXRef-item11187281
+FileChecksum: SHA1: 6be7142bb922419d600500f62f8ade895d24e553
+FileChecksum: MD5: 9e68a7f4176bbd07e3c2914243787a50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/stringUtils.cpp
+SPDXID: SPDXRef-item11187282
+FileChecksum: SHA1: d727c44a1753145d8890412a6efa3911e0ae434e
+FileChecksum: MD5: 07331eeb367c9127ee0abda80b68dfec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/transition.h
+SPDXID: SPDXRef-item11187283
+FileChecksum: SHA1: 822da0bb78ea7fd2f739cd8bfdcce7a7d68d5589
+FileChecksum: MD5: 5e7dc1471aa57fc2a5ad0c06b72b3f9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/composition.h
+SPDXID: SPDXRef-item11187284
+FileChecksum: SHA1: 7a4f9172e4bc6626dca1ccec8b8af1146e27580d
+FileChecksum: MD5: 6c489cd0003ec28df3243c6420833bf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serializableCollection.h
+SPDXID: SPDXRef-item11187285
+FileChecksum: SHA1: df7f759e2f054e4aac799ebd1bd0ce81ca4c6295
+FileChecksum: MD5: c8b148e3b5c6ee45c8001ab4dc8f38b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/externalReference.h
+SPDXID: SPDXRef-item11187286
+FileChecksum: SHA1: cfdc7dd45e84d461b60f2baf05e1fbccd4bc0bcc
+FileChecksum: MD5: 6479b9382266f21a458924747bb1578e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/unknownSchema.h
+SPDXID: SPDXRef-item11187287
+FileChecksum: SHA1: 157b45cc8f3f08ff85bc8ddc3bfcd82936d689ee
+FileChecksum: MD5: 5af07f1d57f36b0fda0cf601e9c010b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/stack.cpp
+SPDXID: SPDXRef-item11187288
+FileChecksum: SHA1: 597f9d226676441566a06469fb982606ce58f5d6
+FileChecksum: MD5: 996945123937fcb5d894f78f2c34b5a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/track.h
+SPDXID: SPDXRef-item11187289
+FileChecksum: SHA1: c4d989fb08074092c89c3be19e066f773717bca7
+FileChecksum: MD5: d29f144b71a6fcea268def425556b753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/clip.h
+SPDXID: SPDXRef-item11187290
+FileChecksum: SHA1: 15947b68d1e2bc1be5a76ea732bc4c509dec38a2
+FileChecksum: MD5: 510d5997d923dbc3118808c8a65162b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/marker.h
+SPDXID: SPDXRef-item11187291
+FileChecksum: SHA1: f161b2b252d4bd9dfd180e335f0fb9d52568211f
+FileChecksum: MD5: 3938ce8c5d4bb4ffb71dcba5437c6a4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/linearTimeWarp.h
+SPDXID: SPDXRef-item11187292
+FileChecksum: SHA1: 66997ff4709724808a86062200c47f49d89e44c5
+FileChecksum: MD5: bc662639b6bfbf930faaa403eded1bfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/stackAlgorithm.h
+SPDXID: SPDXRef-item11187293
+FileChecksum: SHA1: 9371b274527b515ab6b33d2c3141764e696f2b62
+FileChecksum: MD5: d3a5c2e0475b6adae89bff29323ee94e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serialization.cpp
+SPDXID: SPDXRef-item11187294
+FileChecksum: SHA1: 422a3fa8c500b48f86ff6dda09f216d00427dc9b
+FileChecksum: MD5: 50eaf73a189c738086f15660e3450ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/generatorReference.cpp
+SPDXID: SPDXRef-item11187295
+FileChecksum: SHA1: 6a572605ee5a36ffc0c40161b3f37de80dc325bc
+FileChecksum: MD5: 9c11e519ce26f4d5b0b0b1cc9ea80a73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/timeEffect.h
+SPDXID: SPDXRef-item11187296
+FileChecksum: SHA1: 51b834ff622ae9e8d3dd3050803aa3507e1dc7f5
+FileChecksum: MD5: ab2e92b673ed62d936fa57603eaaae1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/typeRegistry.cpp
+SPDXID: SPDXRef-item11187297
+FileChecksum: SHA1: e25691a2f90fa133709a020bafccc43e16ed1374
+FileChecksum: MD5: c660785c6da48beb080ef8f0ff60cdb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/timeEffect.cpp
+SPDXID: SPDXRef-item11187298
+FileChecksum: SHA1: 2d022fecdc5f4a229a377363340230913435bb5d
+FileChecksum: MD5: 4a0270814a83014d00c0df1ec986bfec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/trackAlgorithm.h
+SPDXID: SPDXRef-item11187299
+FileChecksum: SHA1: b14e2d3f4854426e1f14e50a6625c05c7e843c78
+FileChecksum: MD5: edf1b88e639c95725e19a72b81cba85c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/anyDictionary.h
+SPDXID: SPDXRef-item11187300
+FileChecksum: SHA1: 15345b18ca7ba7f96aaf8fd1e3e625bc516faf9e
+FileChecksum: MD5: 0ca0c9504dedd21c896c6c8307a34f8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/imageSequenceReference.cpp
+SPDXID: SPDXRef-item11187301
+FileChecksum: SHA1: 2001ed93450e5053ad2e6751a45c0d1438097819
+FileChecksum: MD5: 9baa3cdacc8e0486308d90fbc41ea97e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/composable.cpp
+SPDXID: SPDXRef-item11187302
+FileChecksum: SHA1: fcfd57be96fbb1c26edb57cddfd2692df5457dab
+FileChecksum: MD5: 7fb7056d0b77b418edfa51cb14eaa241
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/linearTimeWarp.cpp
+SPDXID: SPDXRef-item11187303
+FileChecksum: SHA1: e94dda5f307c4de7816baccd458c97e7a59df0f5
+FileChecksum: MD5: 1e7059b94421ae2528aab223fb15b70a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/gap.cpp
+SPDXID: SPDXRef-item11187304
+FileChecksum: SHA1: d8c108eddfa900d7f3258c205328eb188d35f9d2
+FileChecksum: MD5: 23d0074770aa924b28cd18a73bd251dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/clip.cpp
+SPDXID: SPDXRef-item11187305
+FileChecksum: SHA1: 9bb4a98360021277cef5e71732f1bbe87b4504d0
+FileChecksum: MD5: 965d1c1a71b8592c440979af3acf57f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/unknownSchema.cpp
+SPDXID: SPDXRef-item11187306
+FileChecksum: SHA1: 6386a1d6fdfc53dc07439420508c4523df7a9100
+FileChecksum: MD5: 2d4e832b3cc997e81e26ac21d67fdb99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serialization.h
+SPDXID: SPDXRef-item11187307
+FileChecksum: SHA1: ba0a2348f446cbbb81e3c72c0b64cbe16b39fa3b
+FileChecksum: MD5: 5cc67674058b179a09851cbe507185d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/gap.h
+SPDXID: SPDXRef-item11187308
+FileChecksum: SHA1: b25bd6273d31c2b43e22aac64198ae5c841d2298
+FileChecksum: MD5: 9ebc845b976ce07472e37e37748bca96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/freezeFrame.cpp
+SPDXID: SPDXRef-item11187309
+FileChecksum: SHA1: 454f86ada29a3eb0f209f414f99f56b020b7d5ed
+FileChecksum: MD5: 226c12da99763b537ad2b6898a540f71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/stackAlgorithm.cpp
+SPDXID: SPDXRef-item11187310
+FileChecksum: SHA1: d3cd05663031d74b747e5fdca9a1d294852130ea
+FileChecksum: MD5: 8125add5c1caa532a601a5edc76c6a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/errorStatus.cpp
+SPDXID: SPDXRef-item11187311
+FileChecksum: SHA1: b864395113b10bf5adc301ca4fde6a060d2f0cd1
+FileChecksum: MD5: 9fa128aacf25fde21663b3339bb46cf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/item.h
+SPDXID: SPDXRef-item11187312
+FileChecksum: SHA1: 307e6d727fba1dfcdbf9038dc1c9d120fcdb2198
+FileChecksum: MD5: 9670c9a3e85ccd35e2b9a273827b44ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/deserialization.cpp
+SPDXID: SPDXRef-item11187313
+FileChecksum: SHA1: 2fb03b65e45b88e2b377086c08caba9876508472
+FileChecksum: MD5: 15e5946ce835e6f0cb832061efca0796
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/marker.cpp
+SPDXID: SPDXRef-item11187314
+FileChecksum: SHA1: b60e027b91b7ee4c3f19c1596d23440dbd61c6fe
+FileChecksum: MD5: b6d824792c302e62735202ef53f62b9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/stringUtils.h
+SPDXID: SPDXRef-item11187315
+FileChecksum: SHA1: 7f1cebd19b9a6bac87a516f80103a83f15c050ed
+FileChecksum: MD5: ead3cc4b8244b4438312077d6a48e6e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/CMakeLists.txt
+SPDXID: SPDXRef-item11187316
+FileChecksum: SHA1: df030f7573e720a7ecdc897b8eb8e63b5132b086
+FileChecksum: MD5: 6bf145fbbf169ed31461622e66f1e8b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/externalReference.cpp
+SPDXID: SPDXRef-item11187317
+FileChecksum: SHA1: d5e286fe38b1af4a9ce26bfb76df0b77b3b14169
+FileChecksum: MD5: 6315bb6147ba171860cb37f3de2c323e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/item.cpp
+SPDXID: SPDXRef-item11187318
+FileChecksum: SHA1: edb9c5786a256d5ff350d47ab75ec9988d66fc29
+FileChecksum: MD5: e37848f25303549ed4c2fa2cd77ed8d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/composition.cpp
+SPDXID: SPDXRef-item11187319
+FileChecksum: SHA1: 574aed4bc56d2f94e78e60afb14696116139352c
+FileChecksum: MD5: 76c072397c286de75ae3f85bc2fe44a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/vectorIndexing.h
+SPDXID: SPDXRef-item11187320
+FileChecksum: SHA1: 407ec2e89fd2b64322617ed17a9756f07a0c011a
+FileChecksum: MD5: 7dc1e36afef71516440b16f3238cd6c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/mediaReference.h
+SPDXID: SPDXRef-item11187321
+FileChecksum: SHA1: afc7348511d69c543529042e23c269cce3be8213
+FileChecksum: MD5: 1a0f674da6e15b2cb02acc0848c74464
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/imageSequenceReference.h
+SPDXID: SPDXRef-item11187322
+FileChecksum: SHA1: c06ef3dde18871b4c9fc63916853c2e38ee66a6f
+FileChecksum: MD5: a5f3573dcdc4834707da3a941f8eab1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/mediaReference.cpp
+SPDXID: SPDXRef-item11187323
+FileChecksum: SHA1: b28033b8500095aab1d87c65e071343a74677977
+FileChecksum: MD5: 2d8ab5e520958aa81b91644d2df4e9f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serializableObjectWithMetadata.h
+SPDXID: SPDXRef-item11187324
+FileChecksum: SHA1: 0b344d3d75ccd1313f43783a8226a6ac01fc3413
+FileChecksum: MD5: 5826f387b6768e13492beb95fa19c5dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/missingReference.h
+SPDXID: SPDXRef-item11187325
+FileChecksum: SHA1: fe4be140335c5393abbbfe6c71d5f548bc0a728a
+FileChecksum: MD5: 5b1006a55daab8061993d59a089c9eae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/composable.h
+SPDXID: SPDXRef-item11187326
+FileChecksum: SHA1: 68aa8e258f80976d2eaba8145fcf6d2d09436c45
+FileChecksum: MD5: b508c044f81b5212f9d5dbad8fe18cbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/trackAlgorithm.cpp
+SPDXID: SPDXRef-item11187327
+FileChecksum: SHA1: 16a6d062f9fb27dadc4a68639917b45ad3eaf47e
+FileChecksum: MD5: c2e7dc0e2ea3f8b47706dfa48a1e13fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/main.cpp
+SPDXID: SPDXRef-item11187328
+FileChecksum: SHA1: 85782fcc8a3112527f4cfbcc54fab14ea1e2f7b3
+FileChecksum: MD5: 48ba303fcbcdc488ae5a80cf516066c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/missingReference.cpp
+SPDXID: SPDXRef-item11187329
+FileChecksum: SHA1: 5e699876b6ab960c5fba1e3270645e354c1cba32
+FileChecksum: MD5: ccba129e8ae06e925edee73bd1cf687e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serializableCollection.cpp
+SPDXID: SPDXRef-item11187330
+FileChecksum: SHA1: 5a70f7edf22e5ae773f2879126611db2af4b4728
+FileChecksum: MD5: ea063a6ce8779939562a6333afb178e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/effect.h
+SPDXID: SPDXRef-item11187331
+FileChecksum: SHA1: fb3e9d3bca910f8ed4cb4af7154bff1168615c82
+FileChecksum: MD5: d4abfc13f43f6b2f8e9fc5ed5921a5d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/generatorReference.h
+SPDXID: SPDXRef-item11187332
+FileChecksum: SHA1: 919c6a2e54df00b57cfd42cef12f1a3dfefae157
+FileChecksum: MD5: bc4e2014c0fd0372855bad65d4cb5f09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/serializableObject.h
+SPDXID: SPDXRef-item11187333
+FileChecksum: SHA1: 28aa411312beb16abd0c0796020ecddc1db79654
+FileChecksum: MD5: ef5b8aabbbead7845a23d3d599c2cce5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/track.cpp
+SPDXID: SPDXRef-item11187334
+FileChecksum: SHA1: 544a1614472a854a81d1c80adc049c154367ef13
+FileChecksum: MD5: 9538b0c0ab792151dcd8d03e2d6bf66e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/transition.cpp
+SPDXID: SPDXRef-item11187335
+FileChecksum: SHA1: 434271b1d2fbf67216e8b611aaccbee92c1aff63
+FileChecksum: MD5: fa3bb6b3f951dd6b105c2ad3c616ca6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/typeRegistry.h
+SPDXID: SPDXRef-item11187336
+FileChecksum: SHA1: 81fda737ae76f512bb619bb56989a1cfa287e207
+FileChecksum: MD5: 082309203d2b00e431f20e130615e301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/safely_typed_any.cpp
+SPDXID: SPDXRef-item11187337
+FileChecksum: SHA1: 00b703e5deb1cd8c83316614c404889b4c701314
+FileChecksum: MD5: 4e036bf3c18bf78514f72a18e8357db3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/stack.h
+SPDXID: SPDXRef-item11187338
+FileChecksum: SHA1: 5fab7d322295e93201879d9bf6ce10b91f48da29
+FileChecksum: MD5: c179e3072c6b70120295c2e8e7b38319
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/timeline.h
+SPDXID: SPDXRef-item11187339
+FileChecksum: SHA1: e7ae3ec6b6c6c696fed49f1ba76344c3ede2626d
+FileChecksum: MD5: 25f85c53851b94af61877029e985686b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/safely_typed_any.h
+SPDXID: SPDXRef-item11187340
+FileChecksum: SHA1: f8e2a5a18b44354b68cb7fc2a0ae8b1431dca4c9
+FileChecksum: MD5: c83c3c890fb2c7b8fd41e52d336d37f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/deserialization.h
+SPDXID: SPDXRef-item11187341
+FileChecksum: SHA1: 8d7471f3999639f1e621aae28dd178024a101347
+FileChecksum: MD5: 7d2bea75f3e6e7680c40ab8050633597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/freezeFrame.h
+SPDXID: SPDXRef-item11187342
+FileChecksum: SHA1: 40459f5c37b66394bb076c4856c6009f764ccd12
+FileChecksum: MD5: 79d3257b6c909a3306942ec53f9f04b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/errorStatus.h
+SPDXID: SPDXRef-item11187343
+FileChecksum: SHA1: f6056e3dda5661e218d903db581412c4a17c878a
+FileChecksum: MD5: cbe54641abd818c96aa40a001bc4daf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/any.h
+SPDXID: SPDXRef-item11187344
+FileChecksum: SHA1: 829c98c03261f9b7bf446c21053dec570a7aa61d
+FileChecksum: MD5: 7f3fa5684ea7b92f33cf7e18fea5fc23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/timeline.cpp
+SPDXID: SPDXRef-item11187345
+FileChecksum: SHA1: 1afb09d238dc761eeea7b75b3cd4121c86dc2cfb
+FileChecksum: MD5: a84dfa42dac65ecb06839257fabb03a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/effect.cpp
+SPDXID: SPDXRef-item11187346
+FileChecksum: SHA1: 568200194b57e10b6da299dd697e00fe867364de
+FileChecksum: MD5: 2b13360035764e4229c47aff9b892c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineio/optional.h
+SPDXID: SPDXRef-item11187347
+FileChecksum: SHA1: a84d29a66e28e7df8c563e6e095e8d011a8010fa
+FileChecksum: MD5: 13b15457460cfce8b158dcb1d04cfe71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/CMakeLists.txt
+SPDXID: SPDXRef-item11187348
+FileChecksum: SHA1: 2868cf52e6496e1ef16d8fb212ace57e4752eb14
+FileChecksum: MD5: 61eb9fe60772ac8509c0b81d432a7392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/src/opentimelineview/settings.py
+SPDXID: SPDXRef-item11187353
+FileChecksum: SHA1: 2ad21eb9568ed376fa35977345ab8034bea34348
+FileChecksum: MD5: f169615caa6dae6d2d0865acbb8e05d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/CONTRIBUTORS.md
+SPDXID: SPDXRef-item11187357
+FileChecksum: SHA1: c2303ecf22d3c02e387dd3e44898a29c3a755446
+FileChecksum: MD5: 96b4238826316e1f5a16473076535575
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.readthedocs.yml
+SPDXID: SPDXRef-item11187358
+FileChecksum: SHA1: 07f787b0d69b34650190d605d8c7d89e50cbf012
+FileChecksum: MD5: 8ebcdf67b4eb82ac2c4c0dd58ce4fb9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/sample_plugin/otio_counter/plugin_manifest.json
+SPDXID: SPDXRef-item11187364
+FileChecksum: SHA1: 1714324d6fa2351f327cf76aab6ca4bcbf3e478c
+FileChecksum: MD5: 266d7c8f0b170527857c55159f547426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/sample_plugin/otio_counter/adapter.py
+SPDXID: SPDXRef-item11187365
+FileChecksum: SHA1: dbca9bfae7caad350a2141d6bc5ee9aa7cae055e
+FileChecksum: MD5: 77e65f7efec6e965b373b695b4183b8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/examples/sample_plugin/otio_counter/__init__.py
+SPDXID: SPDXRef-item11187366
+FileChecksum: SHA1: 83e41d69de140beee76aacd97284cff6c343fb98
+FileChecksum: MD5: 008e8c7c7d5e49b33af809d5367507d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/readthedocs-conda.yml
+SPDXID: SPDXRef-item11187370
+FileChecksum: SHA1: 682b7760c4ffad8959ad99d06bc1f5db85fa8b2f
+FileChecksum: MD5: da58abec5bb37bf22a264afd5d17fbc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/OTIO_CLA_Individual.pdf/OTIO_CLA_Individual
+SPDXID: SPDXRef-item11187375
+FileChecksum: SHA1: 0c9bdea2481383f063cc22962c81ddecc4bd3104
+FileChecksum: MD5: a9c24d3bc1a8027b619cdb204128ed16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/CMakeLists.txt
+SPDXID: SPDXRef-item11187376
+FileChecksum: SHA1: b807732adf46282cdae80af94cabe7028655aa83
+FileChecksum: MD5: 76c59e6a75f7382abc0c4f734690dfa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.travis.yml
+SPDXID: SPDXRef-item11187377
+FileChecksum: SHA1: 506329c7c28a03a0a92b4dd4f4703ffc368bf66b
+FileChecksum: MD5: bcbe4e3d424c180766bd3a577ca7e55d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/MANIFEST.in
+SPDXID: SPDXRef-item11187378
+FileChecksum: SHA1: c5006b43b4d17364a580859e3f363e04a52af858
+FileChecksum: MD5: 08cf73c052eabe1e8b8a4ac1d42ddb23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item11187379
+FileChecksum: SHA1: 8e95cc53775461f2b9ff20249431a213644c1ebe
+FileChecksum: MD5: e40e93ca3ee26966d1bdcf37f8a5fd15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_generator_reference.py
+SPDXID: SPDXRef-item11187386
+FileChecksum: SHA1: af760ed0abd844ffdc45e70b6b530cb6e56159c9
+FileChecksum: MD5: c9e9800ffe7dd50658b732891e42d3c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/test_image_sequence_reference.py
+SPDXID: SPDXRef-item11187387
+FileChecksum: SHA1: 69bed62713c78b2d3ecf86541162f696852b3cf7
+FileChecksum: MD5: 7413dc5e5618b0c5a04abe56d443ccc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/__init__.py
+SPDXID: SPDXRef-item11187405
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/screening_example.edl
+SPDXID: SPDXRef-item11187411
+FileChecksum: SHA1: eab10f41ca56999cfdbce17f4f4e3db5d5eb61ab
+FileChecksum: MD5: f4e7ed8e9243750d93c0a62eb523e993
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/multi_audio.edl
+SPDXID: SPDXRef-item11187412
+FileChecksum: SHA1: c55bfd2bfb4fe2fd7e71439b768021dde5c40ed7
+FileChecksum: MD5: 1144974439de7c7fba5a15af71f6d61a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/dissolve_test_2.edl
+SPDXID: SPDXRef-item11187413
+FileChecksum: SHA1: 745be2af856772c7e0def1f9a8d47b947eed164e
+FileChecksum: MD5: 5783e9f74673ef3fd20f2f2010097598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/sample_just_track.xml
+SPDXID: SPDXRef-item11187414
+FileChecksum: SHA1: 9d483452c24599bf7505c5ccf6ee31353100729c
+FileChecksum: MD5: 51135f1712eaea7406898442622aeb54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/multitrack.otio
+SPDXID: SPDXRef-item11187415
+FileChecksum: SHA1: e8276366b471852c7d23d521a98b850ef2a41cdd
+FileChecksum: MD5: bcde00ee2e934043683fecb233aefbea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/clip_example.otio
+SPDXID: SPDXRef-item11187416
+FileChecksum: SHA1: 7d9c5f46468f991bd1c1eb3ebdafa9fe93aee8e1
+FileChecksum: MD5: d1f3fd4c8005cf207a4befa72d8c57b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/gap_test.edl
+SPDXID: SPDXRef-item11187417
+FileChecksum: SHA1: ec1b1e4093963576a4dd829d1faa5544e51d8d41
+FileChecksum: MD5: fd9f20b62a6cdefbdae7353acffde0a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/speed_effects.edl
+SPDXID: SPDXRef-item11187418
+FileChecksum: SHA1: 789f0a14e07bc22d1b5277f04380ff7ef23cdefd
+FileChecksum: MD5: a1f1eaff8cb182b48d4573ec50f2f15c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/premiere_example_filter.json
+SPDXID: SPDXRef-item11187419
+FileChecksum: SHA1: 5c55081d536552bb06044cbfea8caa7fc1575d78
+FileChecksum: MD5: 4f3c01d901a183a4c68c155b76a67309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/cdl.edl
+SPDXID: SPDXRef-item11187420
+FileChecksum: SHA1: ed0d35264b1ba333d6e3fe4f28c269fe5a784c8b
+FileChecksum: MD5: e3b4d03d2f503b34982c6d4bd4bbae5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/wipe_test.edl
+SPDXID: SPDXRef-item11187421
+FileChecksum: SHA1: 7f6dd046bf2c630ee14d5b026f175f88ba69560b
+FileChecksum: MD5: 17420af5a0b04fe5f1aff0866a4441bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/transition_test.otio
+SPDXID: SPDXRef-item11187422
+FileChecksum: SHA1: 3da7e5eff6ede167358b452614b10c8b55750862
+FileChecksum: MD5: ecd2a29f3cdd0c64d15e93c219b56915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/dissolve_test.edl
+SPDXID: SPDXRef-item11187423
+FileChecksum: SHA1: 17cd408288c61c47c9daca8ba9c7d5b5c3770289
+FileChecksum: MD5: 2cb8300cc765bd8d0771976c1e2d975f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/preflattened.otio
+SPDXID: SPDXRef-item11187424
+FileChecksum: SHA1: 7bf0fbf5fc8c79bacfcf6d4f27faab1e3f725136
+FileChecksum: MD5: c559bc95536d6350c6881b19ef192272
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/timecode_mismatch.edl
+SPDXID: SPDXRef-item11187425
+FileChecksum: SHA1: 2154b593f72c227a4a7550980a1704f2be91f955
+FileChecksum: MD5: 24b77a200444565383d98d7ba76d9872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/no_spaces_test.edl
+SPDXID: SPDXRef-item11187426
+FileChecksum: SHA1: eafb6fcd3cd2cfe774a0781a5c9fdaa008c92a63
+FileChecksum: MD5: aedd37c671287e82db8853a7c5ee03f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/hiero_xml_export.xml
+SPDXID: SPDXRef-item11187427
+FileChecksum: SHA1: 07b5fe4941a5c028f9fa255c7e2f485241051cd5
+FileChecksum: MD5: b7bf197f0354c4264daa7a0a2bfd5fa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/25fps.edl
+SPDXID: SPDXRef-item11187428
+FileChecksum: SHA1: 93f4ab98366775fb1a516bbf82775de8d29082ea
+FileChecksum: MD5: f6bef3d3b8f43eafffd03c70cdb738c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/empty_name_tags.xml
+SPDXID: SPDXRef-item11187429
+FileChecksum: SHA1: ca0979fd82aea7b02da48a3ebe267b77c64e4e57
+FileChecksum: MD5: 6554b983ed38322f518c5d0d37768bd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/speed_effects_small.edl
+SPDXID: SPDXRef-item11187430
+FileChecksum: SHA1: 40cf264a2d8e01c5fe90cfddec7868870628f161
+FileChecksum: MD5: e4aefa80cf1d13e012bd8f8883e7ae8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/premiere_example.xml
+SPDXID: SPDXRef-item11187431
+FileChecksum: SHA1: f55261210229a248d711287fa3cd28acb1523e85
+FileChecksum: MD5: 2cdc7b1b25b454d8119b11c4cc77aaf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/dissolve_test_3.edl
+SPDXID: SPDXRef-item11187432
+FileChecksum: SHA1: fd6f3522a13f281618416cd137fca44fcaf5f559
+FileChecksum: MD5: 977a5b9c21ad4fe04b1c81e1b3994272
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/generator_reference_test.otio
+SPDXID: SPDXRef-item11187433
+FileChecksum: SHA1: 7c72e8eee8f6b52cb1fbd138e8b9061f13ebd5b4
+FileChecksum: MD5: d3d019fe504f571efa5253e78250db6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/nested_example.otio
+SPDXID: SPDXRef-item11187434
+FileChecksum: SHA1: f954bd98444f5ed2535dab6419c2f03c1a221a34
+FileChecksum: MD5: 39b9942e3a50b90991c19c72eaee5d01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/premiere_example_filter.xml
+SPDXID: SPDXRef-item11187435
+FileChecksum: SHA1: 765819e2ce67944351be38325569a2fd283d2122
+FileChecksum: MD5: b7b6658a2602b18ca42ac8e394a0d6fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/sample_data/nucoda_example.edl
+SPDXID: SPDXRef-item11187436
+FileChecksum: SHA1: 6f064df141f8666222473e5338a119df4706015a
+FileChecksum: MD5: dfcb40304b4a9a34aa70aed5209c2e98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_serializable_collection.json
+SPDXID: SPDXRef-item11187443
+FileChecksum: SHA1: 63d0a5ea1c2c1a8e2374bd6258d15fd75162d83b
+FileChecksum: MD5: c2389c77acfa494885d4b28b369acc29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_timeline.json
+SPDXID: SPDXRef-item11187444
+FileChecksum: SHA1: 85d07a46fb22e651119cdc24b23ea22c38e00d6b
+FileChecksum: MD5: 9026779c42ab2277c7fa289f27dcde4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_mockplugin.egg-info/entry_points.txt
+SPDXID: SPDXRef-item11187447
+FileChecksum: SHA1: 5ead2e89516273aadbca51cc5edd417d991f3372
+FileChecksum: MD5: 8ad621aad2c9d2a394ffb0ae5f78c2c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_jsonplugin/plugin_manifest.json
+SPDXID: SPDXRef-item11187450
+FileChecksum: SHA1: d9d2d8e36c4ee2d714ee95471f2242be6590ddf9
+FileChecksum: MD5: 86871e56b3b82f246b564180652f6cb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_jsonplugin/__init__.py
+SPDXID: SPDXRef-item11187451
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_mockplugin/__init__.py
+SPDXID: SPDXRef-item11187453
+FileChecksum: SHA1: f7ba27f58e5455d145c7189d8799453fc94df739
+FileChecksum: MD5: c4a3a980bdedd03a5671f43d467e7e92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_mockplugin/unusually_named_plugin_manifest.json
+SPDXID: SPDXRef-item11187454
+FileChecksum: SHA1: be76da8113f3437d8040fc988012c47cff80d4bc
+FileChecksum: MD5: af97a78721153f846ff5a574a5ca8615
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/plugin_module/otio_jsonplugin.egg-info/entry_points.txt
+SPDXID: SPDXRef-item11187456
+FileChecksum: SHA1: 78c8bdd569f08a9fd3a7844466bfb94d209d5b9a
+FileChecksum: MD5: 82e7b7e1bd3188dfaeff1fe1c7fc6116
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/media_linker_example.json
+SPDXID: SPDXRef-item11187458
+FileChecksum: SHA1: d69568efa887a6394af49fca45bedbacf813b4f8
+FileChecksum: MD5: 10a9101b0e1e77be9fdb801d000f6439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_marker.json
+SPDXID: SPDXRef-item11187460
+FileChecksum: SHA1: 7b55992700914d6d51c202f7b93a5a6c0e56a0a6
+FileChecksum: MD5: 2b726ba9dde3c1b5c38895773c7c81ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_timerange.json
+SPDXID: SPDXRef-item11187461
+FileChecksum: SHA1: 7e6e4f3cf19993bd5fc880ab0cdc9022e6140143
+FileChecksum: MD5: 3825c185e2cf8c042d14f70e0392d632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_clip.json
+SPDXID: SPDXRef-item11187462
+FileChecksum: SHA1: 78f4a618738e0b49aa3dc319f02ad2bc1862691e
+FileChecksum: MD5: cc415476bbd52f6947bb6d33f17ffe2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_transition.json
+SPDXID: SPDXRef-item11187463
+FileChecksum: SHA1: d61bc98634612c53792e247a16b05d913b1e3098
+FileChecksum: MD5: a331bcffd637275ee769067dc0bd5463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_timetransform.json
+SPDXID: SPDXRef-item11187464
+FileChecksum: SHA1: 6860445fa0617fd8cd67b36562b11e5228128cb0
+FileChecksum: MD5: 911d3faf99201305c8c1d18f9d94946f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/post_write_hookscript_example.json
+SPDXID: SPDXRef-item11187465
+FileChecksum: SHA1: ee4ed7d30dff0276c96dafcc35fc999983d46d12
+FileChecksum: MD5: baef67d557e1d227a5530ade801dd462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_generator_reference.json
+SPDXID: SPDXRef-item11187466
+FileChecksum: SHA1: 2caf690af5a30a73f1e645de9ff17d86ef0193a7
+FileChecksum: MD5: 60c70d13370557a508ab9e1c1042c3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_track.json
+SPDXID: SPDXRef-item11187468
+FileChecksum: SHA1: 22062e45d48f870dbd585dd08034dbefaebce146
+FileChecksum: MD5: 82229a0223150a01da0043a03dd9414f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/adapter_example.json
+SPDXID: SPDXRef-item11187469
+FileChecksum: SHA1: 4057847829120046f66e02db06ad69b45dfcea6a
+FileChecksum: MD5: bf5371bfb0782fd0ec951616dab2555b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_external_reference.json
+SPDXID: SPDXRef-item11187470
+FileChecksum: SHA1: a3ab5e1f6c6b61261be8525d0a79df1db51d9af1
+FileChecksum: MD5: c3835d6e2f18ead47f791e5ef6b282f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/adapter_plugin_manifest.plugin_manifest.json
+SPDXID: SPDXRef-item11187471
+FileChecksum: SHA1: f6f16922c67840f70311950f42f63837ccf23243
+FileChecksum: MD5: ef82df8813c4c02c0fc07717cba16d7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_stack.json
+SPDXID: SPDXRef-item11187473
+FileChecksum: SHA1: d09551b5b6cc661590f60ebffe32e1538b4266fa
+FileChecksum: MD5: 5ec903045d23950ecf80c76eb0624816
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_rationaltime.json
+SPDXID: SPDXRef-item11187474
+FileChecksum: SHA1: ae70f6f62ba036bdbcd2a0c6580d8bb3412a512f
+FileChecksum: MD5: c22a0ec6dad728ab29894e41aa04f4e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/schemadef_example.json
+SPDXID: SPDXRef-item11187475
+FileChecksum: SHA1: e9e955001566d037a6487c2456a44af801a72fc9
+FileChecksum: MD5: 2f8996f3bdc39953314925cb2824c881
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_gap.json
+SPDXID: SPDXRef-item11187476
+FileChecksum: SHA1: 0c05cc12f89f751d90d98c6bd201c3a42b76dc95
+FileChecksum: MD5: b3ca552f6ce3a4b2838e6e61ded696bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/hookscript_example.json
+SPDXID: SPDXRef-item11187477
+FileChecksum: SHA1: b00b72fd5fa4266681504af26be38feeae90d397
+FileChecksum: MD5: c2554dd8be17bb2919147fc891621b82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/tests/baselines/empty_missingreference.json
+SPDXID: SPDXRef-item11187478
+FileChecksum: SHA1: 7a8bc56454e5b33c0cd2ae9150582aeee87dae98
+FileChecksum: MD5: 628dcc2af03d4b5e8d9c6f7d5b17ab68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/Makefile
+SPDXID: SPDXRef-item11187485
+FileChecksum: SHA1: 986926311ddd239bc71463161abad3af7a7ea0d6
+FileChecksum: MD5: c6735a13295471c62f2bdc527d31d3b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/aaf_adapter/__init__.py
+SPDXID: SPDXRef-item11187491
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/__init__.py
+SPDXID: SPDXRef-item11187498
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_kdenlive_adapter.py
+SPDXID: SPDXRef-item11187503
+FileChecksum: SHA1: df359f8ee27a390ad83a7dfb0e2a4a7e15221109
+FileChecksum: MD5: 4baab75ebb6fa339c9867fecd973a673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/test_fcpx_adapter.py
+SPDXID: SPDXRef-item11187504
+FileChecksum: SHA1: d5b925ed2e3478fe1e3f082ff99984ae1676c2c5
+FileChecksum: MD5: 914eab0a06c67184dd51122204b9c600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/__init__.py
+SPDXID: SPDXRef-item11187506
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/fcpx_project.fcpxml
+SPDXID: SPDXRef-item11187509
+FileChecksum: SHA1: f57d8b8bcc6feca76595a5ce3ce6edf4a1422d1c
+FileChecksum: MD5: 04b55f8d85f0cf4cd5ed13d622a54cd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/simple.aaf
+SPDXID: SPDXRef-item11187510
+FileChecksum: SHA1: 6e54c0c5fe3d55ed9cf6a25723244bff75f49239
+FileChecksum: MD5: efd8adf816afe5f3fe7e4044f951373d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/not_aaf.otio
+SPDXID: SPDXRef-item11187511
+FileChecksum: SHA1: 15618677f8d40a756f1d95527b103ffa3d3998e2
+FileChecksum: MD5: 1058f995c483c0a72aae0344b76bac67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/fcpx_library.fcpxml
+SPDXID: SPDXRef-item11187512
+FileChecksum: SHA1: 0925aa80a51612b9d058b72ecf670e5ae6969686
+FileChecksum: MD5: 8a2134861fba16e45a161b4e4e60b978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/trims.aaf
+SPDXID: SPDXRef-item11187513
+FileChecksum: SHA1: 172d3ca9b146684156d1a95590cc23d13b956a67
+FileChecksum: MD5: a713c94ab1f3267c85288fbe8f9b6f07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/screening_example.ma
+SPDXID: SPDXRef-item11187514
+FileChecksum: SHA1: c3bc021513243844f7efd36f0a9cd94bfd16d2ba
+FileChecksum: MD5: e346a895cf7a02fe8e4bea2278426c4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/one_audio_clip.aaf
+SPDXID: SPDXRef-item11187515
+FileChecksum: SHA1: 93a5fb412c06e0de64cebb37d0b2acf1758d3af1
+FileChecksum: MD5: a28f305e7ded485352383f04f4c8aac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/nesting_test.aaf
+SPDXID: SPDXRef-item11187516
+FileChecksum: SHA1: 57b4b1f1a1d476af4a29a7b75f6867179f662568
+FileChecksum: MD5: bb35c3a8ba1372ddd4262829d5e1cf16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/sample_cdl.ale
+SPDXID: SPDXRef-item11187517
+FileChecksum: SHA1: eb261f2b9235ae5693e55c036b58683ecb13cb13
+FileChecksum: MD5: dac7c7d7f9c35ed4c47c558037a3f5b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/kdenlive_example.kdenlive
+SPDXID: SPDXRef-item11187518
+FileChecksum: SHA1: 48dfd89ebdc7c95381f8af7c5cb4020a512ba17c
+FileChecksum: MD5: 9f89009091419f7be58cbd7f622e7cc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/xges_example.xges
+SPDXID: SPDXRef-item11187519
+FileChecksum: SHA1: 2d3a8ecf630929da4c6c2f8ff60d47dea5bbd287
+FileChecksum: MD5: eb4d4d7ad934df34ff48fa6512ec7625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/one_clip.aaf
+SPDXID: SPDXRef-item11187520
+FileChecksum: SHA1: cca3bea9f569bc5ed194856e52b3545ef59800f3
+FileChecksum: MD5: a274b5a85f760c8d82c82babdcfc21b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/rv_metadata.otio
+SPDXID: SPDXRef-item11187521
+FileChecksum: SHA1: 034654e901b93a056503ae3f1f81484069b80856
+FileChecksum: MD5: 8073d9f91096193a3a2a0bb77d4d7a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/transition_test.rv
+SPDXID: SPDXRef-item11187522
+FileChecksum: SHA1: 3a2877211a01e02f2845def6ac3603ce3b607c48
+FileChecksum: MD5: 39342223ece15c94be0dd297b34b0f64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/transitions.aaf
+SPDXID: SPDXRef-item11187523
+FileChecksum: SHA1: d1a900a41c2b43aa1dce5864de0ea2da3a2a74d5
+FileChecksum: MD5: e1c67ec446d8dc90d5317ded23030ed7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/nested_stack.aaf
+SPDXID: SPDXRef-item11187524
+FileChecksum: SHA1: 6b850a7d3f20197c867a828631f2c9868a3704d3
+FileChecksum: MD5: 6d2f0609df745bbb5104fca96e060fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/fcpx_clips.fcpxml
+SPDXID: SPDXRef-item11187525
+FileChecksum: SHA1: 6c92e28843757471aff1189393546a15a4c57200
+FileChecksum: MD5: ff49f8e048d1f1475754c02374d2c427
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/fcpx_event.fcpxml
+SPDXID: SPDXRef-item11187526
+FileChecksum: SHA1: 51c38186832462273054c7977149bb69f1e588fd
+FileChecksum: MD5: 29d0e04f208a410d2433d9cc9ed2969e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/gaps.otio
+SPDXID: SPDXRef-item11187527
+FileChecksum: SHA1: 2fe987ecf8e6b255451652fa27ca9382d26afe03
+FileChecksum: MD5: 3f664d066b7e9b991aa0e8659e4c84bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/precheckfail.otio
+SPDXID: SPDXRef-item11187528
+FileChecksum: SHA1: 41528122205a0f63f1a7a9aa5cef768ac8e2e491
+FileChecksum: MD5: 37506ea5d4ecbec6c5d43c068635b3d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/test_muted_clip.aaf
+SPDXID: SPDXRef-item11187529
+FileChecksum: SHA1: b6cd80b9211788d5e0a14c527ff2aa9db3327b95
+FileChecksum: MD5: 9b0c8878fa2d7f14d818d9d514631a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/misc_speed_effects.aaf
+SPDXID: SPDXRef-item11187530
+FileChecksum: SHA1: 5499ca1cb1898a5e532cff84887c39b855578be6
+FileChecksum: MD5: 43b7accf0d49b691c32790e70097d3f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/composite.aaf
+SPDXID: SPDXRef-item11187531
+FileChecksum: SHA1: c924e2e020de5a01b943947bd8f70b84dd0cd142
+FileChecksum: MD5: 91fe4cdbdc6e53720a136d70902aea4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/v1_prog_index.m3u8
+SPDXID: SPDXRef-item11187532
+FileChecksum: SHA1: a03f939723ad100b9169bb6e86de552e90fb2d67
+FileChecksum: MD5: 79bdb861d7bbe26b4ff8b0de7611360f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/utf8.aaf
+SPDXID: SPDXRef-item11187533
+FileChecksum: SHA1: 4d823cd322e283e789ae8163eeff5ee2c441b897
+FileChecksum: MD5: 635e88b1cbaada6fe32d0b84f797f52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/subclip_sourceclip_references_compositionmob_with_mastermob.aaf
+SPDXID: SPDXRef-item11187534
+FileChecksum: SHA1: a535474338af39dc9350d8114625290664fc0404
+FileChecksum: MD5: 77881e3a2f1c8f42fa756ec6edcbca05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/essence_group.aaf
+SPDXID: SPDXRef-item11187535
+FileChecksum: SHA1: fc493c4faa8b14fcc1257beac1f728085dd73ad4
+FileChecksum: MD5: 474d8e64d3df93d6d66a369959206e0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/2997fps.aaf
+SPDXID: SPDXRef-item11187536
+FileChecksum: SHA1: d55477a60a55e32f2df344d0b280020e76b815a7
+FileChecksum: MD5: f7915d945582c44761efde58ba6d85f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/rv_metadata.rv
+SPDXID: SPDXRef-item11187537
+FileChecksum: SHA1: 0309a7f9cfa23bbd29cf6714a7d14f6be2deaed1
+FileChecksum: MD5: 2c2b79f18165581abc2544ae0c89b1a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/linear_speed_effects_aaf.mov
+SPDXID: SPDXRef-item11187538
+FileChecksum: SHA1: f3cd486871201cad23b25785498f23f7e24145af
+FileChecksum: MD5: 1860ec8d087fcba15987ca6dfa20fbc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/2997fps-DFTC.aaf
+SPDXID: SPDXRef-item11187539
+FileChecksum: SHA1: cba319cf2dfeaf22225a191474155efa7a3e80a3
+FileChecksum: MD5: 4247a5843a01e5691b51c5e729ff8cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/misc_speed_effects_aaf.mov
+SPDXID: SPDXRef-item11187540
+FileChecksum: SHA1: dbcb0485b50aa17c549dc7f7348497d455865f01
+FileChecksum: MD5: 72232d063b04e17a7835b4e368eebecc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/sample.ale
+SPDXID: SPDXRef-item11187541
+FileChecksum: SHA1: 7dd1bf36e70c465825e9965f3d68db171fbe8009
+FileChecksum: MD5: afea3f26bc3f0472ccb5c21948d7e480
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/normalclip_sourceclip_references_compositionmob_has_also_mastermob_usercomments.aaf
+SPDXID: SPDXRef-item11187542
+FileChecksum: SHA1: 8acf3b87cd7bf6169b6a43f7787476ebafbbe608
+FileChecksum: MD5: 331d25a97b2ff6e12253d687ba222675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/no_metadata.otio
+SPDXID: SPDXRef-item11187543
+FileChecksum: SHA1: 0a897eedd60e0487b839f32c333ffcc79443a194
+FileChecksum: MD5: 1387f1a6354640d740eead4636fc7879
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/sampleUHD.ale
+SPDXID: SPDXRef-item11187544
+FileChecksum: SHA1: dfdc5e1319a916d0256cc96d206a81f80411c975
+FileChecksum: MD5: 3c135c3a3aa9e8cb77ab2439198db404
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/30fps.aaf
+SPDXID: SPDXRef-item11187545
+FileChecksum: SHA1: bf2caa37eb4467780f5c07930fbb02a7410d6ae1
+FileChecksum: MD5: b4369b735c12425832a9f266b8bde618
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/preflattened.aaf
+SPDXID: SPDXRef-item11187546
+FileChecksum: SHA1: c96eef44a07373f06968d051f2f0c7a33c5eaf08
+FileChecksum: MD5: 10cbdbc892b338278a26a52a0e88bbcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/multiple_top_level_mobs.aaf
+SPDXID: SPDXRef-item11187547
+FileChecksum: SHA1: d6de92d4706f83feba17a24bb1001e3add9990ba
+FileChecksum: MD5: 0c820527e579b10aefa25f74c24fb2db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/multitrack.aaf
+SPDXID: SPDXRef-item11187548
+FileChecksum: SHA1: 123354e7eb2c92333b49fe995f2aa69060c75dcc
+FileChecksum: MD5: 09d769f4b2b48900186eff5d55688f9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/linear_speed_effects.aaf
+SPDXID: SPDXRef-item11187549
+FileChecksum: SHA1: 4b7685dfb45afc9ea10d7e7f81e10267cad200c9
+FileChecksum: MD5: 87790e8fc2bbdf2541398bd568910087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/screening_example.rv
+SPDXID: SPDXRef-item11187550
+FileChecksum: SHA1: 770be6a8b9952d20ceca94eb675ee0888269d014
+FileChecksum: MD5: 08c94422f804573ffd41105dca8880e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/timecode_test.aaf
+SPDXID: SPDXRef-item11187551
+FileChecksum: SHA1: 4667df09ceb9d3dc1bb411886f82755bdf04d714
+FileChecksum: MD5: 17531ddf497d48a59d3a68dae31580f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/sample2.ale
+SPDXID: SPDXRef-item11187552
+FileChecksum: SHA1: eb0395de5901ee587fb9a4bb6d2befff762ecc15
+FileChecksum: MD5: 081ac643da322d452a42d1c8753467bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/image_sequence_example.otio
+SPDXID: SPDXRef-item11187553
+FileChecksum: SHA1: 76954a5441c7304c9337f1ab3891edbcb0a25912
+FileChecksum: MD5: 378b259320261bb8a41290708b016890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/normalclip_sourceclip_references_compositionmob_with_usercomments_no_mastermob_usercomments.aaf
+SPDXID: SPDXRef-item11187554
+FileChecksum: SHA1: ffe144815abc8feaafc78c53b16c565c2e9fb58d
+FileChecksum: MD5: 5daaa3df366163e43026412bf8adea26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/nesting_test_preflattened.aaf
+SPDXID: SPDXRef-item11187555
+FileChecksum: SHA1: 4ae16eaa6e77d938a6037631d2d0e29b64db8177
+FileChecksum: MD5: d6ecf4ad95488514a41699fed392606c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/duplicates.aaf
+SPDXID: SPDXRef-item11187556
+FileChecksum: SHA1: a42f8892363515944d1e77f9218b5def9c803132
+FileChecksum: MD5: 0a3452d74bdb89154ff23682b5556afe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/tests/sample_data/fcpx_example.fcpxml
+SPDXID: SPDXRef-item11187557
+FileChecksum: SHA1: 0925aa80a51612b9d058b72ecf670e5ae6969686
+FileChecksum: MD5: 8a2134861fba16e45a161b4e4e60b978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/adapters/contrib_adapters.plugin_manifest.json
+SPDXID: SPDXRef-item11187561
+FileChecksum: SHA1: acd24e08d09818a1f3471eb51c9e571ba90e30c6
+FileChecksum: MD5: 62dc7789432dc7cbc8117a328836cdb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/application_plugins/rv/example_otio_reader/PACKAGE
+SPDXID: SPDXRef-item11187568
+FileChecksum: SHA1: 5632e2b7d94fd732c207e2630779caf1acf63698
+FileChecksum: MD5: 7344319cc439a9915cec13cd6386692b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/contrib/opentimelineio_contrib/application_plugins/tests/__init__.py
+SPDXID: SPDXRef-item11187571
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.gitignore
+SPDXID: SPDXRef-item11187573
+FileChecksum: SHA1: b96d4b9d972852a4b84b636c6fc3e326df25c5ca
+FileChecksum: MD5: 3f7d5c439f61f14440f3830215b1ac4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/Makefile
+SPDXID: SPDXRef-item11187575
+FileChecksum: SHA1: fd2cd8a97cf631e87bdf939ff788aed425bab8a5
+FileChecksum: MD5: 5e807e27a9b4b13b099fe8a3ec5f70f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/make.bat
+SPDXID: SPDXRef-item11187576
+FileChecksum: SHA1: 27d63f8aeb624793027c444aac0e856d9ad32a9a
+FileChecksum: MD5: de6b8ff9fea1793df78846c2f65815c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/index.rst
+SPDXID: SPDXRef-item11187577
+FileChecksum: SHA1: 41bf2eb37d10351b95e623180c3c78f1ff7674c1
+FileChecksum: MD5: f0e2fd533cfce7c5aa21ddfe8d1c1727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/conf.py
+SPDXID: SPDXRef-item11187578
+FileChecksum: SHA1: 326eb95c4cebaa290f1ec7364e38bcd49c92510e
+FileChecksum: MD5: a212744eac3991c512fb685bf175d526
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project </text>
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/use-cases/conform-new-renders-into-cut.md
+SPDXID: SPDXRef-item11187580
+FileChecksum: SHA1: 47dd3499e894c33ac6dd7e0a3a53198188c53d26
+FileChecksum: MD5: 9901443ce1f27526e659cf99cb113b4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/use-cases/animation-shot-frame-ranges.md
+SPDXID: SPDXRef-item11187581
+FileChecksum: SHA1: 5065911da34c2f875e1d103fbe067ad91ccd4a72
+FileChecksum: MD5: d3b7fad9fcf5c5cf9761abd879bd5dbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/use-cases/shots-added-removed-from-cut.md
+SPDXID: SPDXRef-item11187582
+FileChecksum: SHA1: cd658d9fddf8f86e1e26dc11a609e9fcdfc9b0b8
+FileChecksum: MD5: e26f8cd8bd0b6becf7304f43a4a3f6d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/write-an-adapter.md
+SPDXID: SPDXRef-item11187584
+FileChecksum: SHA1: bb6af1507405651b20a16615a68477e9ad59df0a
+FileChecksum: MD5: 96c31a67f854ccaeb6186791f0ea0880
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/versioning-schemas.md
+SPDXID: SPDXRef-item11187585
+FileChecksum: SHA1: 30fdee399d85e8da825d8e5ba9b7844cdf94c1d1
+FileChecksum: MD5: 60b148f0db24f0b92b6d807350844b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/otio-plugins.md
+SPDXID: SPDXRef-item11187586
+FileChecksum: SHA1: bcb0119b67b70b70645a641a51bc58f0c8c83afc
+FileChecksum: MD5: 76c5427849ff419e879a18c6a860c214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/time-ranges.md
+SPDXID: SPDXRef-item11187587
+FileChecksum: SHA1: bebd622451eed8c0f65e897f7397932eea8ba207
+FileChecksum: MD5: d3b5caeff5a7ec66e84e6f4c89b822db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/feature-matrix.rst
+SPDXID: SPDXRef-item11187588
+FileChecksum: SHA1: 088250762caf2f760659d317655f4caef4b74359
+FileChecksum: MD5: 88dd3b3dc8acab92b5845cfa71e55243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/write-a-hookscript.md
+SPDXID: SPDXRef-item11187589
+FileChecksum: SHA1: a80676e265f824ccd53ef701ec9a000e3cd96a88
+FileChecksum: MD5: 4b6e9fc33122f9944fe82a75b27832f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/quickstart.md
+SPDXID: SPDXRef-item11187590
+FileChecksum: SHA1: bf00bad774816d7e44913b91643a8ac16a931f89
+FileChecksum: MD5: fd96048030aba1dd662b8107d699032a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/contributing.md
+SPDXID: SPDXRef-item11187591
+FileChecksum: SHA1: 83632f12821f02fa97a3965d578b904375815a8f
+FileChecksum: MD5: c049258687c33fa387e60bc9ee19d628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/otio-serialized-schema-only-fields.md
+SPDXID: SPDXRef-item11187592
+FileChecksum: SHA1: 5609bb9a4644b510bc9a41460ab7879cac9f1c3a
+FileChecksum: MD5: 37576119a291cec34eab09953c666464
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/otio-serialized-schema.md
+SPDXID: SPDXRef-item11187593
+FileChecksum: SHA1: 6615c68646addaec43fd01e7a29b130ddde771b9
+FileChecksum: MD5: 0dad30651b509cabc3c71ef083e9be67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/otio-timeline-structure.md
+SPDXID: SPDXRef-item11187594
+FileChecksum: SHA1: e9f28f0b0e785f6495963d88306ce8f3bbe8bb75
+FileChecksum: MD5: 9b07b0d0983b051d977ed4e5f710d298
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/architecture.md
+SPDXID: SPDXRef-item11187595
+FileChecksum: SHA1: 045c4eefb7d6312da2a0a0cb6530b4158ce5659e
+FileChecksum: MD5: 7ad97ae502acb683867163e3f066be0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/otio-file-format-specification.md
+SPDXID: SPDXRef-item11187596
+FileChecksum: SHA1: 6402c209ce976cf4b707a9880e30a784339ab929
+FileChecksum: MD5: 29f689b050d47254c2679c62adbc6da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/write-a-schemadef.md
+SPDXID: SPDXRef-item11187597
+FileChecksum: SHA1: c3aefa26760ec8fcc4cd71cc76a97ffe1c92940f
+FileChecksum: MD5: 3470a01f9dc9467a07137d923051b487
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/adapters.md
+SPDXID: SPDXRef-item11187598
+FileChecksum: SHA1: 4f07708df3feed9c23023d8f82afeff63b044b01
+FileChecksum: MD5: 5fa9a0b17456680669cb6215eddf9238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/tutorials/write-a-media-linker.md
+SPDXID: SPDXRef-item11187599
+FileChecksum: SHA1: 4b59bbc00530ee5304846e94c8aaece8ffe06edf
+FileChecksum: MD5: 5cb14e2c0249dc68209b9a29a5b10ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/cxx/bridges.md
+SPDXID: SPDXRef-item11187601
+FileChecksum: SHA1: 6765724a9c9fa3b8dd3c055e25ec8b626f51e24d
+FileChecksum: MD5: 4a4e7e5e9c790e2067dd50befe592039
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/cxx/older.md
+SPDXID: SPDXRef-item11187602
+FileChecksum: SHA1: 735147c6acfb170ca72c5c43278303d96587cc20
+FileChecksum: MD5: 165d2968c88dd80b34be7905fef4e4e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/cxx/cxx.rst
+SPDXID: SPDXRef-item11187603
+FileChecksum: SHA1: 13460b1f0d3a07f793f5b3b403c5b64113a4ddd2
+FileChecksum: MD5: b6ff258b816605cc4b2962b0afcab1b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/simple_cut_list.png
+SPDXID: SPDXRef-item11187605
+FileChecksum: SHA1: ede28f43f9c7c616605f9c437381534034e3171d
+FileChecksum: MD5: f8e88accb7dd7053aa8bf90d49791912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/OpenTimelineIO@3xLight.png
+SPDXID: SPDXRef-item11187606
+FileChecksum: SHA1: a9158bd6c460df1823f4a6580747522dd21b7134
+FileChecksum: MD5: f339363778a61c7a5a4d164494254973
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/OpenTimelineIO@3xDark.png
+SPDXID: SPDXRef-item11187607
+FileChecksum: SHA1: 91a43b9c5f95b9976f41edc2fbe059e56061a460
+FileChecksum: MD5: b877df35a1e35b05753042066662349b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/.empty
+SPDXID: SPDXRef-item11187608
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/nested_compositions.png
+SPDXID: SPDXRef-item11187609
+FileChecksum: SHA1: 955cca51a1854408299a1cd57a2c6efe7db883d3
+FileChecksum: MD5: c0285ba1db6bd0324c8268bbadad633d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/otioview.png
+SPDXID: SPDXRef-item11187610
+FileChecksum: SHA1: cc21318b767f367c5a6757abc02b7d4ec9bfccda
+FileChecksum: MD5: c515c6743685004a7e4e2c1e673c4fb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/multiple_tracks.png
+SPDXID: SPDXRef-item11187611
+FileChecksum: SHA1: 97767d30d6a1598160f3c88e4f1293d5fe144d7a
+FileChecksum: MD5: cfd6767aff66c7a134aa4c0faf042dfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/OpenTimelineIO@5xDark.png
+SPDXID: SPDXRef-item11187612
+FileChecksum: SHA1: a534505d4a588dc4db2ca6ba07864afb701ad5ce
+FileChecksum: MD5: c4eb82846711e87034ec67b668d2f856
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/transitions.png
+SPDXID: SPDXRef-item11187613
+FileChecksum: SHA1: 2c3e92ee31c071c382ebedd486e435149a424bd4
+FileChecksum: MD5: c1ab2e30ba1f95e4d43ae3cdeb22d9a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/docs/_static/OpenTimelineIO@5xLight.png
+SPDXID: SPDXRef-item11187614
+FileChecksum: SHA1: 6d0f80e5fe5852cf501784e8a282589e693afd57
+FileChecksum: MD5: f80d3e67414b10bd64a0023aba5a1c91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/setup.cfg
+SPDXID: SPDXRef-item11187615
+FileChecksum: SHA1: f7ce76252f937423942b13ecb132c37ea9e77f4b
+FileChecksum: MD5: 288a0ab78f16885074ca7ec41fac95d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.github/workflows/python-package.yml
+SPDXID: SPDXRef-item11187618
+FileChecksum: SHA1: ebf7c37252e09b49945037ba40bfef6433356633
+FileChecksum: MD5: cd21b95e876d207587a54dcfdf188511
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item11187619
+FileChecksum: SHA1: 8725df8a88edf3c5d6e14949227ff7a24ff37064
+FileChecksum: MD5: b2b4ad40183d639634856faa77e56e0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item11187621
+FileChecksum: SHA1: b13757987f749eeb3ad65261913a46d97aaa9cd2
+FileChecksum: MD5: e6d2567d056dd7c34a529cb65e93b2e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item11187622
+FileChecksum: SHA1: 60d78222780ccfd97d336f2780bae1c296c11659
+FileChecksum: MD5: b2ad62f096925c0ab0941e2060f5792e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/maintainers/fetch_contributors.py
+SPDXID: SPDXRef-item11187624
+FileChecksum: SHA1: ea2a1d5438e024345b60b9f6e23f5d1fcc507579
+FileChecksum: MD5: 4fa1ad9d4f67cf79132f603338695edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenTimelineIO/.gitmodules
+SPDXID: SPDXRef-item11187625
+FileChecksum: SHA1: 8ff09b7130aa78cf0ddc76bbe60b2dcd028099e5
+FileChecksum: MD5: 6d8f268250e5f4abe722344a2f4c1a25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Apache-2.0-Pixar-modified
+LicenseName: Apache-2.0 with Pixar modification
+ExtractedText: <text> Modified Apache 2.0 License
+
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by
+the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity. For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or
+otherwise, or (ii) ownership of fifty percent (50%) or more of the
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity
+exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications,
+including but not limited to software source code, documentation
+source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical
+transformation or translation of a Source form, including but
+not limited to compiled object code, generated documentation,
+and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or
+Object form, made available under the License, as indicated by a
+copyright notice that is included in or attached to the work
+(an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object
+form, that is based on (or derived from) the Work and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship. For the purposes
+of this License, Derivative Works shall not include works that remain
+separable from, or merely link (or bind by name) to the interfaces of,
+the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including
+the original version of the Work and any modifications or additions
+to that Work or Derivative Works thereof, that is intentionally
+submitted to Licensor for inclusion in the Work by the copyright owner
+or by an individual or Legal Entity authorized to submit on behalf of
+the copyright owner. For the purposes of this definition, "submitted"
+means any form of electronic, verbal, or written communication sent
+to the Licensor or its representatives, including but not limited to
+communication on electronic mailing lists, source code control systems,
+and issue tracking systems that are managed by, or on behalf of, the
+Licensor for the purpose of discussing and improving the Work, but
+excluding communication that is conspicuously marked or otherwise
+designated in writing by the copyright owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity
+on behalf of whom a Contribution has been received by Licensor and
+subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of
+this License, each Contributor hereby grants to You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+copyright license to reproduce, prepare Derivative Works of,
+publicly display, publicly perform, sublicense, and distribute the
+Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of
+this License, each Contributor hereby grants to You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as stated in this section) patent license to make, have made,
+use, offer to sell, sell, import, and otherwise transfer the Work,
+where such license applies only to those patent claims licensable
+by such Contributor that are necessarily infringed by their
+Contribution(s) alone or by combination of their Contribution(s)
+with the Work to which such Contribution(s) was submitted. If You
+institute patent litigation against any entity (including a
+cross-claim or counterclaim in a lawsuit) alleging that the Work
+or a Contribution incorporated within the Work constitutes direct
+or contributory patent infringement, then any patent licenses
+granted to You under this License for that Work shall terminate
+as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the
+Work or Derivative Works thereof in any medium, with or without
+modifications, and in Source or Object form, provided that You
+meet the following conditions:
+
+(a) You must give any other recipients of the Work or
+Derivative Works a copy of this License; and
+
+(b) You must cause any modified files to carry prominent notices
+stating that You changed the files; and
+
+(c) You must retain, in the Source form of any Derivative Works
+that You distribute, all copyright, patent, trademark, and
+attribution notices from the Source form of the Work,
+excluding those notices that do not pertain to any part of
+the Derivative Works; and
+
+(d) If the Work includes a "NOTICE" text file as part of its
+distribution, then any Derivative Works that You distribute must
+include a readable copy of the attribution notices contained
+within such NOTICE file, excluding those notices that do not
+pertain to any part of the Derivative Works, in at least one
+of the following places: within a NOTICE text file distributed
+as part of the Derivative Works; within the Source form or
+documentation, if provided along with the Derivative Works; or,
+within a display generated by the Derivative Works, if and
+wherever such third-party notices normally appear. The contents
+of the NOTICE file are for informational purposes only and
+do not modify the License. You may add Your own attribution
+notices within Derivative Works that You distribute, alongside
+or as an addendum to the NOTICE text from the Work, provided
+that such additional attribution notices cannot be construed
+as modifying the License.
+
+You may add Your own copyright statement to Your modifications and
+may provide additional or different license terms and conditions
+for use, reproduction, or distribution of Your modifications, or
+for any such Derivative Works as a whole, provided Your use,
+reproduction, and distribution of the Work otherwise complies with
+the conditions stated in this License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise,
+any Contribution intentionally submitted for inclusion in the Work
+by You to the Licensor shall be under the terms and conditions of
+this License, without any additional terms or conditions.
+Notwithstanding the above, nothing herein shall supersede or modify
+the terms of any separate license agreement you may have executed
+with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade
+names, trademarks, service marks, or product names of the Licensor
+and its affiliates, except as required to comply with Section 4(c) of
+the License and to reproduce the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or
+agreed to in writing, Licensor provides the Work (and each
+Contributor provides its Contributions) on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+implied, including, without limitation, any warranties or conditions
+of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+PARTICULAR PURPOSE. You are solely responsible for determining the
+appropriateness of using or redistributing the Work and assume any
+risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory,
+whether in tort (including negligence), contract, or otherwise,
+unless required by applicable law (such as deliberate and grossly
+negligent acts) or agreed to in writing, shall any Contributor be
+liable to You for damages, including any direct, indirect, special,
+incidental, or consequential damages of any character arising as a
+result of this License or out of the use or inability to use the
+Work (including but not limited to damages for loss of goodwill,
+work stoppage, computer failure or malfunction, or any and all
+other commercial damages or losses), even if such Contributor
+has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing
+the Work or Derivative Works thereof, You may choose to offer,
+and charge a fee for, acceptance of support, warranty, indemnity,
+or other liability obligations and/or rights consistent with this
+License. However, in accepting such obligations, You may act only
+on Your own behalf and on Your sole responsibility, not on behalf
+of any other Contributor, and only if You agree to indemnify,
+defend, and hold each Contributor harmless for any liability
+incurred by, or claims asserted against, such Contributor by reason
+of your accepting any such warranty or additional liability. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
