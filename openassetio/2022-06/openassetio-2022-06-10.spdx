@@ -1,0 +1,3014 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_OpenAssetIO-2022-06-10.zip_1656582582.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-06-30T09:49:42Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: OpenAssetIO-2022-06-10.zip
+PackageFileName: OpenAssetIO-2022-06-10.zip
+SPDXID: SPDXRef-upload474
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: d9124fddadfc5dbac8e7586c24b9f1936da3a85a
+PackageChecksum: SHA1: 46f0e26e6fd67f456b295dfc15283bcbf18cb77f
+PackageChecksum: SHA256: b158cad405ac6e7e646758f39a696cce29c9465eb7fbf1cf917f187ab2325b5a
+PackageChecksum: MD5: 098f3df3faac07a5c2d36edf38fdf85a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload474
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/README.md
+SPDXID: SPDXRef-item2160337
+FileChecksum: SHA1: 6d06306792ff94fb2f2d285c95808547bcac8509
+FileChecksum: SHA256: ea9db3eea306bc0cf81572911573e5f344d0f969dbf6e77b04730a87e7470f25
+FileChecksum: MD5: 1ee342eef8f8ad1d9fb27711a71329a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/LICENSE
+SPDXID: SPDXRef-item2160466
+FileChecksum: SHA1: a6a5418b4d67d9f3a33cbf184b25ac7f9fa87d33
+FileChecksum: SHA256: a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9
+FileChecksum: MD5: e23fadd6ceef8c618fc1c65191d846fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/footer.html
+SPDXID: SPDXRef-item2160619
+FileChecksum: SHA1: 644a1ea17061b002c0f9460822629e4d792d2726
+FileChecksum: SHA256: 4e1c82f3f878a248f1f00e763cee30a05351e08a501e8b6f94fa139a132c7105
+FileChecksum: MD5: ddf0aec2e9d954e064fee317f2081ae6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright"><small>Copyright 2013-2021 The Foundry Visionmongers Ltd. OpenAssetIO is released under the <a href="https://www.apache.org/licenses/LICENSE-2.0.txt" target="_blank">Apache 2.0 License</a></small></p> div> body> html> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/PROCESS.md
+SPDXID: SPDXRef-item2160595
+FileChecksum: SHA1: ca5e3749af770e9a943150617cfaefa6098c7d23
+FileChecksum: SHA256: 537af70bb439bba53644ab0efb24590baee66e692494656adeaddf8fe83b2277
+FileChecksum: MD5: bbe36e1aba6ffeaee6c3853cfaf9bde3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/python/openassetio_mediacreation/trait/__init__.py
+SPDXID: SPDXRef-item2160295
+FileChecksum: SHA1: 20128804170f996eff91715a54c6dc4c01f4cd2a
+FileChecksum: SHA256: 60093b3bf180982c4316129c968a072558e3c6d4bb923adb3a559a53b0524acf
+FileChecksum: MD5: 751b11cdaf49c206fd1b982b739da2ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/python/openassetio_mediacreation/trait/entity.py
+SPDXID: SPDXRef-item2160294
+FileChecksum: SHA1: 9cc9a13363502676f0e417651a2ddabf9e35d459
+FileChecksum: SHA256: b28eb955a80b37655ac05266c86792f3bcf201ba8fdceda3c6e8c34a0986f525
+FileChecksum: MD5: c5672356d29e0f4d6bfb20ee0d9ae743
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/python/openassetio_mediacreation/__init__.py
+SPDXID: SPDXRef-item2160296
+FileChecksum: SHA1: 2bc1dc3d4337523b84b812a475d2f2edcf7ef403
+FileChecksum: SHA256: 64f4db11e6e9a9db8626111935963e814dc9316a877408571adb7df292243515
+FileChecksum: MD5: fda3dc5cc61e76705dc422e9c5494a25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/python/openassetio_mediacreation/specification/__init__.py
+SPDXID: SPDXRef-item2160298
+FileChecksum: SHA1: 561fc6be46a81a16191cb2c6a8298b427989792e
+FileChecksum: SHA256: 6ea3f4cdbd1df19ddd63c477aff77d1d4d37f43c0dcf03732170d5a57a6c805c
+FileChecksum: MD5: 93e45c7647fde1a2cc11eb784d6fe23a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/tests/python/openassetio_mediacreation/trait/test_entity.py
+SPDXID: SPDXRef-item2160305
+FileChecksum: SHA1: 1e6ede5c9f3a76617da4071b05f523df8d2107ef
+FileChecksum: SHA256: 43e4a0d620b7b2a32c94daf2c6c9c5cf3ed5152b8811d7b01de432ca7cb3ef39
+FileChecksum: MD5: e55f55d1757b45db463a2613611df1bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/tests/python/openassetio_mediacreation/trait/test___init__.py
+SPDXID: SPDXRef-item2160304
+FileChecksum: SHA1: 90a203920493664e57051a4d6fdabd33b11261ce
+FileChecksum: SHA256: 486425c0ca11b03a72684531f71c507c9674dd6366d82d3704056e38ac67e5e6
+FileChecksum: MD5: c1b2a71da8a96cab1a54a7c294f00889
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/setup.py
+SPDXID: SPDXRef-item2160313
+FileChecksum: SHA1: 31eae06fb6b04f442758fb2c13f1f84cb864aa55
+FileChecksum: SHA256: bf741b5e9f3fec028dd25ef2784775f130ef12af95cba1030eaee27db71aa62f
+FileChecksum: MD5: 9e44be3bab97285aa959d5060967bccd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd from setuptools import setup, find_packages </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/tests/test_otio_openassetio.py
+SPDXID: SPDXRef-item2160320
+FileChecksum: SHA1: abb6598317cf7d62f6ac5efb04a50ea3a0569b2d
+FileChecksum: SHA256: dc628982500da7d64636a4b9e1407770190b21ff33b24858193fed3ebcec8fb2
+FileChecksum: MD5: 185d27e5dd2cf0546b7189e1df9fd9fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Foundry Visionmongers Ltd SPDX-License-Identifier: Apache-2.0 import os </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/setup.cfg
+SPDXID: SPDXRef-item2160328
+FileChecksum: SHA1: b53918c8d0570407caa130323fc4077cc9a82a95
+FileChecksum: SHA256: 120e65bdb6a03a36156b3fa2881745f43b0ec2b2285964ad427122a6fe969a10
+FileChecksum: MD5: 75f4648bf76e2e62abc1cde1daf5321c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Foundry Visionmongers Ltd SPDX-License-Identifier: Apache-2.0 tool:pytest] addopts = -W ignore::DeprecationWarning </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/otio_openassetio/operations/openassetio_media_linker.py
+SPDXID: SPDXRef-item2160335
+FileChecksum: SHA1: 92de30b0996139bfbe08f997dd78cf2a5eab12c2
+FileChecksum: SHA256: af3d0a5562e0450f866ab183463780984274cf887c57400ff56bf635249e4991
+FileChecksum: MD5: 458582a5e7fe24e59f197e46040e1f07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Foundry Visionmongers Ltd SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/otio_openassetio/__init__.py
+SPDXID: SPDXRef-item2160332
+FileChecksum: SHA1: d4da4ec1163695df5d61fcd44b52b118b30abcd4
+FileChecksum: SHA256: 8da5234c6ceb8fbb1bf46b09f25168665b93941233acdcd0ab6cb83ca91e74b8
+FileChecksum: MD5: 6151650f96fc599cfdd956bc8ecb598b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Foundry Visionmongers Ltd SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/otio_openassetio/operations/__init__.py
+SPDXID: SPDXRef-item2160334
+FileChecksum: SHA1: d4da4ec1163695df5d61fcd44b52b118b30abcd4
+FileChecksum: SHA256: 8da5234c6ceb8fbb1bf46b09f25168665b93941233acdcd0ab6cb83ca91e74b8
+FileChecksum: MD5: 6151650f96fc599cfdd956bc8ecb598b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright The Foundry Visionmongers Ltd SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/setup.py
+SPDXID: SPDXRef-item2160329
+FileChecksum: SHA1: 2b9c3e9d5cafd2b5cb8c93a36c123b746c9cd878
+FileChecksum: SHA256: b95c9ae60a5ff0d80ca1a4f7f62d782287a6e82f3579723dd13ae21452c6ab9a
+FileChecksum: MD5: f3c8a3848dd2c83d9dc010912d1e202d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenTimelineIO project
+Copyright The Foundry Visionmongers Ltd SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core/trait/TraitBaseTest.cpp
+SPDXID: SPDXRef-item2160431
+FileChecksum: SHA1: e9d7cc9ddc33e3a5286b9548914201ce7b00d517
+FileChecksum: SHA256: 81e77379674d9ddf4cacb9ce0989bd10f1943576ce9eea019fe4b433ef424557
+FileChecksum: MD5: dfb819bd48f91e2bb435128a3f9ceec6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 The Foundry Visionmongers Ltd include <openassetio/trait/TraitBase.hpp> include <openassetio/typedefs.hpp> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core/main.cpp
+SPDXID: SPDXRef-item2160433
+FileChecksum: SHA1: bfce7f28c566403503c7deb04bafd6bd19914ee8
+FileChecksum: SHA256: 3afdbb25b77ab82fe5737254edae142f911f6470d30cf38b204e73b6d6f86105
+FileChecksum: MD5: deb79690e93967f6b05b1e51ac6b4459
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 The Foundry Visionmongers Ltd define CATCH_CONFIG_MAIN include "catch2/catch.hpp" </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/hostAPI/ManagerTest.cpp
+SPDXID: SPDXRef-item2160438
+FileChecksum: SHA1: 0c9f7f290d02aac50cfe16bc634f761718336296
+FileChecksum: SHA256: b8858dc1289a6d4c6402a7f4cd166ea709c1b58ae56d3891a22c9445934a9e97
+FileChecksum: MD5: 58c4d6f62feaaad7883da3e2a323d723
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/c/errors.h> include <openassetio/c/hostAPI/Manager.h> include <openassetio/c/managerAPI/ManagerInterface.h> include <openassetio/c/namespace.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/.clang-tidy
+SPDXID: SPDXRef-item2160434
+FileChecksum: SHA1: 96a7f618974a2e4d3a718819ea8c432633bb2ddb
+FileChecksum: SHA256: 4702e1ff41768911764baf7a8b6ab0040d9fce3e3756fd25bc1705e5ff74e176
+FileChecksum: MD5: d607c687a770fef94f7c99b9db430b39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/InfoDictionaryTest.cpp
+SPDXID: SPDXRef-item2160439
+FileChecksum: SHA1: eb839bac66d04d3685c5a713699c550e412a258b
+FileChecksum: SHA256: 4fdce3b57aa7576940a9cc4973541b7a8c1141ad16a2d2c6bcfcf06459f5271d
+FileChecksum: MD5: cdcfea2c278948b902dd185c161e2c76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/c/InfoDictionary.h> include <openassetio/c/StringView.h> include <openassetio/c/errors.h> include <openassetio/c/namespace.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/StringViewTest.cpp
+SPDXID: SPDXRef-item2160440
+FileChecksum: SHA1: 312e2810ce83857d58dce139b8c5df2bb7277648
+FileChecksum: SHA256: 7b59c593d5d4a8f57fb53a6527fae03d5bbc6d7b9dddb619d7fb730909a715fd
+FileChecksum: MD5: 0b296d3366a6463ca4fcdd65e0cd6b9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <string_view> include <type_traits> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/errorsTest.cpp
+SPDXID: SPDXRef-item2160442
+FileChecksum: SHA1: 4128ec5624abc6907b6b5ec75580a620ec914e4f
+FileChecksum: SHA256: bb731b6c1ae7399166f5cdb059d22d4b6c27c4b6e537b4b4dfecccef09f3da6c
+FileChecksum: MD5: 2f07983ab39728679d4c62e06cf7c9b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/c/StringView.h> include <openassetio/c/errors.h> include <openassetio/c/namespace.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/handlesTest.cpp
+SPDXID: SPDXRef-item2160441
+FileChecksum: SHA1: a2c7303768a1f6c5c00edbd3d89adc593895c4ae
+FileChecksum: SHA256: fca9d08581c4b5d89bb4a092b8e6842b561fe0b2d82a7714a42ad1490cb08959
+FileChecksum: MD5: 50d4c3cffc42e9067670bc8c38e7d549
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/StringViewReporting.hpp
+SPDXID: SPDXRef-item2160443
+FileChecksum: SHA1: 316df19b47fb88be5a55bc945f49c50aeb1f9fe0
+FileChecksum: SHA256: 0e21b012c07c9b20b2985a2fa4613c46ebbd9b474a7d44c36bd201e523bd5a28
+FileChecksum: MD5: 267f7af63e8476cf902ca395d6a21ef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/managerAPI/MockManagerInterfaceSuite.hpp
+SPDXID: SPDXRef-item2160445
+FileChecksum: SHA1: 65f1a32e397e28c6aa091397e3f5d0390186de09
+FileChecksum: SHA256: a099b6b0e41c409d2dca0803cc60e340c86f2beec2ad780b1742beb2b5c1fc64
+FileChecksum: MD5: 43beaab2dab86fd81f07d71e821aa1a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/main.cpp
+SPDXID: SPDXRef-item2160448
+FileChecksum: SHA1: 3cbecf6eecd4e6114d07c3d3f3c5d4cb311a8501
+FileChecksum: SHA256: 637beeba0fa755bc3050692ca0eefad520c28e075787a105020472df9015f6e4
+FileChecksum: MD5: 5d427426089a996d1df134b6f32db7b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd define CATCH_CONFIG_MAIN include "catch2/catch.hpp" </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/private/managerAPI/CManagerInterfaceAdapterTest.cpp
+SPDXID: SPDXRef-item2160446
+FileChecksum: SHA1: 37e11a453aa25cdf62a081835167f5919b94fddb
+FileChecksum: SHA256: d17eac9c015fff83c9e9a3f0cdaaf29069cdd72b7534945ee1dbb6eda8fef5e5
+FileChecksum: MD5: 25fe92589fe5c43df8f545d301174d0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/c/InfoDictionary.h> include <openassetio/c/errors.h> include <openassetio/c/namespace.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/cmake/Config.cmake.in
+SPDXID: SPDXRef-item2160454
+FileChecksum: SHA1: 3a3c8e014fc5e479e1e1dc50553500178d21408d
+FileChecksum: SHA256: 0be24284ece0578628805893067484b8dff01bf3cd9ff10f4b949dc4b13fc6a4
+FileChecksum: MD5: 01e0142eb8565893bcd5de1eae03286e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/cmake/StaticAnalyzers.cmake
+SPDXID: SPDXRef-item2160452
+FileChecksum: SHA1: f65a0a4938145ad30fdb026f4aa90d315e4e6f07
+FileChecksum: SHA256: cbd0bea54fc4f0634dec9faad74363e6b049ae03575d14040ffed712e0866a37
+FileChecksum: MD5: 5b8915d259969e99c7f22d4d9ccb8dda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/cmake/CompilerWarnings.cmake
+SPDXID: SPDXRef-item2160453
+FileChecksum: SHA1: cebcdd684d4780e42b6c2ab8b67bf1b1b87f667d
+FileChecksum: SHA256: 4f60c17b6d28c18fea7b8b5d11c264df2ecf55bad838538fe22f48981cda9265
+FileChecksum: MD5: 30e7d45585b3ab5102b57ba4e544925a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/cmake/DefaultTargetProperties.cmake
+SPDXID: SPDXRef-item2160455
+FileChecksum: SHA1: 02f7d2c7d19cdf45cd9af1be05813396c95a055e
+FileChecksum: SHA256: e06b7cc31ef1144f34057ae7e9db2c1f84f03f0887d5d0eeb77336d53bb6e3fc
+FileChecksum: MD5: 7c0a1e8cef6198109c0922052cab4f0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/hostAPI/Manager.cpp
+SPDXID: SPDXRef-item2160471
+FileChecksum: SHA1: 5d3400c7f3678eeb2c94038917a04de61472d4fa
+FileChecksum: SHA256: 3b56a9f5622223df6b8e3e5a069d6d0fa63166df0c87c4e625adf2e603b66693
+FileChecksum: MD5: 6b936e3fe7c62dc2782fb07ca11fd9e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/hostAPI/Manager.hpp> include <openassetio/managerAPI/ManagerInterface.hpp> include <openassetio/typedefs.hpp> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/hostAPI/HostInterface.cpp
+SPDXID: SPDXRef-item2160472
+FileChecksum: SHA1: 754bf71ea5594ec711a062e5e5f394bf6be2d560
+FileChecksum: SHA256: d4ae8a92ac2451a5e8b649239c1a6459a7ffea65942e3f663d188d0dc38fed2e
+FileChecksum: MD5: e2108ebb92ea49b528bf96787fb884a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/hostAPI/HostInterface.hpp> include <openassetio/typedefs.hpp> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/hostAPI/Manager.hpp
+SPDXID: SPDXRef-item2160476
+FileChecksum: SHA1: 67f22c11154db6a33f19c33d610b6c1ba993070b
+FileChecksum: SHA256: 72c4fa3bfe0b12b1ce25ab50f16cad37c8773708270900d28040acb9a0701979
+FileChecksum: MD5: d6bae163ddb6b6d7ccd0cf1b421da8ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/hostAPI/HostInterface.hpp
+SPDXID: SPDXRef-item2160477
+FileChecksum: SHA1: 80d4e2a6d8fe6d70778105f0bfb75fd2ffbddfaf
+FileChecksum: SHA256: ffcf3f9d5c67823b04c81d3943f0707994139db588c12e29673e01e6cc13a70e
+FileChecksum: MD5: 8f63e7d7ad136c91d13e262739b0a5e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/trait/property.hpp
+SPDXID: SPDXRef-item2160479
+FileChecksum: SHA1: e4de2d78a1d5f125d682cb0f9f06ecae9ca8f337
+FileChecksum: SHA256: 719bc90169c3855b29470973c674125c3f84ed000b54266999e4b2d9af87d9ce
+FileChecksum: MD5: 333f1f7c5bf890ffc5a38dfdd13baf7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/TraitsData.hpp
+SPDXID: SPDXRef-item2160481
+FileChecksum: SHA1: 819cb0e8f31649783948388329da2073e5897c7a
+FileChecksum: SHA256: 0d28daeeefdaafe17cefe86d63990ac834028d31183bde71a0965e9db49f276e
+FileChecksum: MD5: a47e2d1773bc037cf4a4115ca12fe230
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/trait/TraitBase.hpp
+SPDXID: SPDXRef-item2160480
+FileChecksum: SHA1: 777c69bd7d526c26f897dc4cca78fe5c6f5f46a3
+FileChecksum: SHA256: b0bf3b0b3998877956ac6d5704ecc5af40db8d384ee28aac6604833f0e6047e6
+FileChecksum: MD5: 97a65aaa9e0b901f7c4fb794fd312192
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/typedefs.hpp
+SPDXID: SPDXRef-item2160482
+FileChecksum: SHA1: ce526b0eb71a1fc7b0bc82dda51577cda96266f3
+FileChecksum: SHA256: 761445399afe20134ff8a6d17268d252cc2fcb88777360066083fb94259924ad
+FileChecksum: MD5: e55e08322cc51014e7550bce816534f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/managerAPI/ManagerInterface.hpp
+SPDXID: SPDXRef-item2160484
+FileChecksum: SHA1: 7dbd761888124009d6b377a9a4dfba8fc37bc42d
+FileChecksum: SHA256: a6339f65fddc2241eb134fc99b5b474342ffb114fc0d5e5a7cbc833a1e857d34
+FileChecksum: MD5: 1f5c9505aec35753686452636e37a767
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/managerAPI/Host.hpp
+SPDXID: SPDXRef-item2160485
+FileChecksum: SHA1: 77d3822a247c97e14841071911fa3df182449ab3
+FileChecksum: SHA256: b855fc3139ad8f6decf9f35664693adc96642af6c12814dcc622105b1d096370
+FileChecksum: MD5: fab4845d54b76d4fddbc46361148cbf7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/managerAPI/HostSession.hpp
+SPDXID: SPDXRef-item2160486
+FileChecksum: SHA1: fdd115f2cd55551c1f896cec45a8d3b0c66d71b5
+FileChecksum: SHA256: dee7e75200a2cd73d49f89f1052eb22f14b2ae9cc7da4879342b222798c1eaa8
+FileChecksum: MD5: e361550b33f72850250603fb3d370165
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/include/openassetio/InfoDictionary.hpp
+SPDXID: SPDXRef-item2160487
+FileChecksum: SHA1: ef6d2f3cd74b51b50edcbecdfb8d4a5c91e99b28
+FileChecksum: SHA256: a9ff29f612a883ef7df34c895e522840ee37c93bf209f704638e3c8b7ff49e58
+FileChecksum: MD5: 2e15861b6a81dd73c9b9af33667cc137
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/TraitsData.cpp
+SPDXID: SPDXRef-item2160488
+FileChecksum: SHA1: add273d6b896e74649a8d09878dfd24f56f82b6c
+FileChecksum: SHA256: 9fbb335757450e5f5e75f2a707f607200d11cc7c31cec685d361bb896d869451
+FileChecksum: MD5: d5937a9f582b13acc67fd145c2716312
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/managerAPI/HostSession.cpp
+SPDXID: SPDXRef-item2160491
+FileChecksum: SHA1: d2605f8d419f7ce053391ae76b8ed7e399d9bee0
+FileChecksum: SHA256: ec93258f919242067c8742669278c7183b96f4ec185e0c305973f639ba59d421
+FileChecksum: MD5: 3ee031e1845e22c272870ae5cee268bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/managerAPI/HostSession.hpp> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/managerAPI/ManagerInterface.cpp
+SPDXID: SPDXRef-item2160492
+FileChecksum: SHA1: 43659c4e632955986f09ea7c8ff55826525df7a6
+FileChecksum: SHA256: 0725c3fe34bc3a1d48da8eb73e895321e686dcb7706fb2c2f20b256a0eb8f1a2
+FileChecksum: MD5: b591b10abf09f768ad034a1f1adf06d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/managerAPI/Host.cpp
+SPDXID: SPDXRef-item2160493
+FileChecksum: SHA1: d50923c1cdfdcf27e091c2b1307be2fcebebbac2
+FileChecksum: SHA256: f485f9e40c6a57233419af447277b785173ba3770f2abef9ecc8cbd55c48ed47
+FileChecksum: MD5: 16f93fd7b1a08bb163eb28fcbc5e7481
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <openassetio/hostAPI/HostInterface.hpp> include <openassetio/managerAPI/Host.hpp> include <openassetio/typedefs.hpp> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/errors.hpp
+SPDXID: SPDXRef-item2160498
+FileChecksum: SHA1: 40461b44f41cb91aaf95b6abfbdece8621423673
+FileChecksum: SHA256: 517a4c37fdf2850f2533195cbc15a5fe0e2a9e6b9ff67bb672f3ee1f17e94610
+FileChecksum: MD5: 439db78da2b831eae7e383b8838ba731
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/hostAPI/Manager.cpp
+SPDXID: SPDXRef-item2160497
+FileChecksum: SHA1: 81a8f35fc856da35654d72d52fb1d953d5ecf2fe
+FileChecksum: SHA256: af5fa6545c95f30184fbfcb22e9557765d403009c2eee12d713b3d310a71ba75
+FileChecksum: MD5: 3fe9d06c203d1273a36f3ed4153aaca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <stdexcept> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/InfoDictionary.cpp
+SPDXID: SPDXRef-item2160499
+FileChecksum: SHA1: 1a50d9b988d8e5fbace3af9b55038597722a9079
+FileChecksum: SHA256: 3e45e5010ab0dd3d7c222558bbd0214cad5a743a0827a4e9bea1c48c397ca204
+FileChecksum: MD5: 7f043fd71956c12c08291111900f7ea0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <stdexcept> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/handles/hostAPI/Manager.hpp
+SPDXID: SPDXRef-item2160502
+FileChecksum: SHA1: 24fe74dc790e10f39840b88cf49184f16820399d
+FileChecksum: SHA256: 5445167dece41fec3ecab182598611da7d2f1d699c95bb6714e0b335b8753800
+FileChecksum: MD5: 37b2ebcc3f065e77627e384519195a9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core/CMakeLists.txt
+SPDXID: SPDXRef-item2160489
+FileChecksum: SHA1: 21589518dfbd88de90513d6239ac652f25b2cac6
+FileChecksum: SHA256: 477ad959616acc1efd2daf94c30e6a83380ea6023fff856beab1de0d25ede324
+FileChecksum: MD5: f9ed93f29e6f31dd200e69b560b825df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/handles/Converter.hpp
+SPDXID: SPDXRef-item2160503
+FileChecksum: SHA1: 7cf14c4b2feed2d0367e719a643c9dec91c76505
+FileChecksum: SHA256: 9d5073c7de07422bfaafe6c17a1085c1880c16a923864a9c78e18967ed8e4548
+FileChecksum: MD5: 78f232a8fae56fccfb97fc9b977de9aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/handles/managerAPI/ManagerInterface.hpp
+SPDXID: SPDXRef-item2160505
+FileChecksum: SHA1: a7e91187f0d314b21af1f21dacc4b2249808ce16
+FileChecksum: SHA256: 8220190704e5693e0eda4f0f4581ae2266ac75a5dba0589fa9aaf2bf564842a5
+FileChecksum: MD5: db729763bfd59fe19eda800b7b43e6bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/handles/InfoDictionary.hpp
+SPDXID: SPDXRef-item2160506
+FileChecksum: SHA1: 62377924e0dc5e84f42033b6d6853e3811aecf09
+FileChecksum: SHA256: bc0f344024284ae6bc8b700627d47b4b3223c7c72669f1bc14e32d40b87665f7
+FileChecksum: MD5: e10e2d1be9533f3991453492867eb7ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/StringView.hpp
+SPDXID: SPDXRef-item2160507
+FileChecksum: SHA1: 1620becc86b43ba66650790cebe5b87460fb5933
+FileChecksum: SHA256: cf09c952b92587b23175ac5e700a4313c3345fb415b572c9775a432405d8d83c
+FileChecksum: MD5: d706c52f1fa0ba89a37fb3432dede551
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/managerAPI/CManagerInterfaceAdapter.hpp
+SPDXID: SPDXRef-item2160509
+FileChecksum: SHA1: 9a06dc41646d80f16a6f86845c051a676c391ec5
+FileChecksum: SHA256: 6270b5bfa6aa2c73c8f89878ccd62ffed51e65bfe416fd04b4c60dd008f8b40b
+FileChecksum: MD5: fbd8b13f6592705d34ad46c0d25d80ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/private/managerAPI/CManagerInterface.cpp
+SPDXID: SPDXRef-item2160510
+FileChecksum: SHA1: aea2c47181129efc351f3b4aa36387e378a12547
+FileChecksum: SHA256: ecd4437b4da71d00614f2ffb0bfa9751ccb2bacc129a4701b33c6b058013b8c9
+FileChecksum: MD5: 4bfb86abe0114de35cedd1ff403fc8fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/openassetio/c/errors.h
+SPDXID: SPDXRef-item2160514
+FileChecksum: SHA1: 9d96baa381884af8e7f83c7be1350c9d4f755720
+FileChecksum: SHA256: 37beea9097d14492ee892f1f528bd3003368efb1e46d56dfc9dd756d6150432b
+FileChecksum: MD5: ca861c42c40bf04f5dd0756a85e96fd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/openassetio/c/namespace.h
+SPDXID: SPDXRef-item2160518
+FileChecksum: SHA1: 6728ff0ec942d821ae00eefdd0f9c8ea10df873f
+FileChecksum: SHA256: 52aa8b68356028ca500b7a20f264e4797dd93c33fbd5f9ac79f9d9ded77ab151
+FileChecksum: MD5: b46da2f72518e277260d314faa5746b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/openassetio/c/InfoDictionary.h
+SPDXID: SPDXRef-item2160517
+FileChecksum: SHA1: 05133dda74ac18206f6169010569b5a7caa1a77c
+FileChecksum: SHA256: 656cd667442e5c1a618251578a24e0e2412607407fb13b00036da691c2a66b16
+FileChecksum: MD5: 8c7a323603c7861be9966b446d7e8e02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/openassetio/c/hostAPI/Manager.h
+SPDXID: SPDXRef-item2160516
+FileChecksum: SHA1: 6ac6ce1b781347d964d1572dae843d2f38fcf586
+FileChecksum: SHA256: d0888d9f97b9812d46fc077a2ebac289126d56f92c068293195f869d088871a8
+FileChecksum: MD5: 8b7b81c67cb28bf47f2e2eada29bd920
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/openassetio/c/StringView.h
+SPDXID: SPDXRef-item2160519
+FileChecksum: SHA1: c878c27060f8a915d5a2a23f81a3e85f34997441
+FileChecksum: SHA256: 2adc2f4ea688bc39807aa91c6229cd946271328043d61cbcaf34276539f4e973
+FileChecksum: MD5: f9f1a7edced1329a32f5015786b9fbd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/openassetio/c/managerAPI/ManagerInterface.h
+SPDXID: SPDXRef-item2160521
+FileChecksum: SHA1: 25949209b3038237bed54a14ef77e8db75419e94
+FileChecksum: SHA256: 7a4d8d9412ed44bd109fdf02d6e74e62bb4a2f19147babb6a064791e4c31a65c
+FileChecksum: MD5: eadc804a39fd5550c0dcee350d03a117
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/hostAPI/ManagerBinding.cpp
+SPDXID: SPDXRef-item2160527
+FileChecksum: SHA1: 4e8da1de7ce249aa48c377dfc840af74435e9551
+FileChecksum: SHA256: 8b560f577f8161d6910f157bba566688ae873f76ad56c1473823e800030b9b45
+FileChecksum: MD5: 86b393bd3b6a32778e7a6a0b3831c2da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <pybind11/stl.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/openassetio/c/managerAPI/CManagerInterface.h
+SPDXID: SPDXRef-item2160522
+FileChecksum: SHA1: a82606ecd3b3d1769292dcacec7999b1aaad0f86
+FileChecksum: SHA256: 31129c5183353a76c0e5dc9bf27e99f4d4eda14f6765dd305fe10068eeadc01a
+FileChecksum: MD5: bf05d5012edaf87d5a00f85a0f30e899
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd pragma once </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/include/.clang-tidy
+SPDXID: SPDXRef-item2160523
+FileChecksum: SHA1: 50ae8af408c6292f6678824e83322cd57502afb4
+FileChecksum: SHA256: 7dc47fba0ef058bf8d93dac15b10cf52a2a9bb1609ac0906006cad6ba548287b
+FileChecksum: MD5: 9a50de40cbf0104c084dff48c903486c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/hostAPI/HostInterfaceBinding.cpp
+SPDXID: SPDXRef-item2160528
+FileChecksum: SHA1: 577bde66774fc0bec6c188775deb5e8dfcfe903d
+FileChecksum: SHA256: e7f95f9806b06f77abcbe31fb2d287e12f866f2b6e7a6dd14340bb8b201a54ac
+FileChecksum: MD5: fb7c8db11aa2ea39ca7bab7bd257ca11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <pybind11/stl.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/TraitsDataBinding.cpp
+SPDXID: SPDXRef-item2160529
+FileChecksum: SHA1: 717f32489dabbbc335f9f4802d113a19b844589b
+FileChecksum: SHA256: 7118b010eeaef30871e3580762f588e10f661e92327d785100c46e96b6304b57
+FileChecksum: MD5: 9453688726506207c2810e450cd16907
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <optional> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-core-c/CMakeLists.txt
+SPDXID: SPDXRef-item2160524
+FileChecksum: SHA1: 90947d1a33bdb6e9a359bd6138092fc6bf9d64da
+FileChecksum: SHA256: 1e8618be9d714c889490fdd47ce16f7d5ec4c158cdd4cb82745cab83fe27cd34
+FileChecksum: MD5: 45eceaec3863f3e1d03338b9b5a6a7e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/_openassetio.hpp
+SPDXID: SPDXRef-item2160530
+FileChecksum: SHA1: ab194a7db63f8422521cc0bf8a35448652fc34d5
+FileChecksum: SHA256: fcc8f2744ed96a0e3304cbf6f96de8c92d801c0dcebd8d6be30dd2a9372c4a55
+FileChecksum: MD5: 1d462d845bfb63d87949f227aaac910a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/_openassetio.cpp
+SPDXID: SPDXRef-item2160531
+FileChecksum: SHA1: 3a380620d7fb9220e996bca71bb63dd35e563d36
+FileChecksum: SHA256: 4f53fc385bc308d61359eb8d8e6e09d7139b43e4b06069c62594b3d8886eeddf
+FileChecksum: MD5: fd91a3a3e9cd0fd1268c1ff9b8a56b60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/managerAPI/HostSessionBinding.cpp
+SPDXID: SPDXRef-item2160535
+FileChecksum: SHA1: f30692b647d03d2ab9d5ae949778f1d56742371c
+FileChecksum: SHA256: ee0deddaf96b56ab0fe5197cf5ead67fea36408a7c91068d86f3a62b6b68220b
+FileChecksum: MD5: 6d115630e4c9cf595c907136e04dec88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <pybind11/stl.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/managerAPI/HostBinding.cpp
+SPDXID: SPDXRef-item2160534
+FileChecksum: SHA1: 912412a2db6fe257fe248a03956e0dab8217e38a
+FileChecksum: SHA256: c0cb7aa7e6b93c1d0edc52168327f25fe143dc465f42784864541b3b850aad46
+FileChecksum: MD5: f62ebd1836cc3325fcd63eeb6c83b574
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <pybind11/stl.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/managerAPI/ManagerInterfaceBinding.cpp
+SPDXID: SPDXRef-item2160536
+FileChecksum: SHA1: ef1938eb971d065c8b39bf8b1b52db591314b69f
+FileChecksum: SHA256: ba6e2d703f6dd0458d1a47d889fd668c96381daf67e70f71a3ab1eccc4d5cf50
+FileChecksum: MD5: 6cc08be2ba3944cd65fdeae9c173b8b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd include <pybind11/stl.h> </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/CMakeLists.txt
+SPDXID: SPDXRef-item2160537
+FileChecksum: SHA1: 79e2090ea79decc098138d5e35558718d7c198fd
+FileChecksum: SHA256: 037b515700a0d037d71c7e924fa1f1c0879459373cedf540d24ec9ed8b331efe
+FileChecksum: MD5: c7c4760b2c6035e06544cd3af3a5b760
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.clang-tidy
+SPDXID: SPDXRef-item2160596
+FileChecksum: SHA1: c745c67b79e93b5d2059fc261a8d850a79669db5
+FileChecksum: SHA256: 279df5a39794ef32c55568918f9a104ebf88b843d7ff45c7af109f84b769b4d1
+FileChecksum: MD5: e0d68b1f43f4203c2379f229cf5cf081
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Google LLC
+Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/deploy.sh
+SPDXID: SPDXRef-item2160607
+FileChecksum: SHA1: e6f879d9419fff49d9fcd3d60ebf2b8ba718947d
+FileChecksum: SHA256: 677f6479bbe4f4452802eed69e03fd8c7d51793a9d3853a9e915a513834f28fc
+FileChecksum: MD5: 735c021c3adf79255925a7323dc48bf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/CMakeLists.txt
+SPDXID: SPDXRef-item2160602
+FileChecksum: SHA1: 8aee0b9072c432ff03dfe6a7cdf9e75dfc2793da
+FileChecksum: SHA256: 2fc73d25834589cce65ff7c0fd1db7280f207c9f2709b43251a71e831d1de8b7
+FileChecksum: MD5: 465675b976d4cf9e2e391b10ad33c624
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/LICENSE
+SPDXID: SPDXRef-item2160311
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/LICENSE
+SPDXID: SPDXRef-item2160321
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/Trait.py
+SPDXID: SPDXRef-item2160341
+FileChecksum: SHA1: a0458c47c6aa8617364e1dd2d84a54c958c3afe0
+FileChecksum: SHA256: de96606aa5e09d1286266c758a2383b5a6c3f3b8d162abcb4d9a07f475179c8c
+FileChecksum: MD5: 834a315221b9d09b30e12eb9cc2d299a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/hostAPI/ManagerFactoryInterface.py
+SPDXID: SPDXRef-item2160343
+FileChecksum: SHA1: 601461673dd51e0c40652193a844fc0d9598412a
+FileChecksum: SHA256: e7b06b2e5906f8f561c397ced2dd2e0b2a3b246fef31b381247e5f12705e3bf4
+FileChecksum: MD5: 3ccef1715214cf3b55d0de06e767ed4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/hostAPI/terminology.py
+SPDXID: SPDXRef-item2160347
+FileChecksum: SHA1: 2b2e5573b3f80825c61f90c71a9dbd4563023414
+FileChecksum: SHA256: e721b04c3d5ddd19b65d1ce33e07756bb07cfc83b7355cc8ec757e50e3d3e6c4
+FileChecksum: MD5: 7a44e5b5a3037bd3a183393332533be2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/hostAPI/Manager.py
+SPDXID: SPDXRef-item2160344
+FileChecksum: SHA1: 6993e37c6dd6ec78bd6d84811da2c89195ef4a1b
+FileChecksum: SHA256: 504e23e166e4087aa6730d337917bbaccf9f0c49cd012dd23cf0e62ccffce460
+FileChecksum: MD5: 2b29d20dda1d713974a2080fab1153ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/hostAPI/__init__.py
+SPDXID: SPDXRef-item2160345
+FileChecksum: SHA1: 1b0d5339bb838901004738d61cf259c42a360be6
+FileChecksum: SHA256: acd113b5673a31037a1554b3b83c3adc235ca625e89fd1e6ac88f35c9e26b87e
+FileChecksum: MD5: 4369d8cc010248b91aa4fd23adda8667
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/pluginSystem/PluginSystemPlugin.py
+SPDXID: SPDXRef-item2160349
+FileChecksum: SHA1: 30bccdb6795847c33349db96292fddc9cbfd2207
+FileChecksum: SHA256: 5e8f2f06648782758e5cac72cbd27df4f70bb13b92d809cf6d3388c186c31259
+FileChecksum: MD5: 0f6cf027cc5c3ee250efca49c75e4fa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/pluginSystem/__init__.py
+SPDXID: SPDXRef-item2160351
+FileChecksum: SHA1: 3215357e9e80c348ab829617f2bed6fdfc21987a
+FileChecksum: SHA256: 85de3da71b0b4ac5620e820892f7c010a88788d93ea41c5b7797f78043a20206
+FileChecksum: MD5: 7212f6102224e1dbcb14a35ed1b2477b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/pluginSystem/PluginSystemManagerFactory.py
+SPDXID: SPDXRef-item2160350
+FileChecksum: SHA1: 9f7874122814f9fc6cc66159d27d7b2e236b5ad3
+FileChecksum: SHA256: 41feed775f71123377c11d6b1d586890b17a187b7815ed16d313f50129590f63
+FileChecksum: MD5: 87d94a3561fbe1592ebdf0494f3183c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/hostAPI/Session.py
+SPDXID: SPDXRef-item2160346
+FileChecksum: SHA1: dec9a8ab61a495fd3ede066dd73cbd057ac14ad4
+FileChecksum: SHA256: 0946aa25f50a8192cb950759601b5379507296c30013b5acbfc9d0306cefed2d
+FileChecksum: MD5: bc18c5661fbf2143a9b5e2258f7928c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/pluginSystem/ManagerPlugin.py
+SPDXID: SPDXRef-item2160352
+FileChecksum: SHA1: 5fbe2b8b181134f510776a83420cb1c72210541c
+FileChecksum: SHA256: 9ffbb729a53c4e0a6976904c742aa4d961b3c97b45c34e024754015bc568b04c
+FileChecksum: MD5: 5c995623527c92b01748290006730663
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/pluginSystem/PluginSystem.py
+SPDXID: SPDXRef-item2160353
+FileChecksum: SHA1: 7e4fca0c61c59688296d0795a956c6c6a0ab571e
+FileChecksum: SHA256: 9d1cb7bb4d4aa3ef23a51a4235662460bb89eba660e81ff68364c13bbbde6350
+FileChecksum: MD5: c04be6279a9c6a42876765b160250f6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/log.py
+SPDXID: SPDXRef-item2160354
+FileChecksum: SHA1: fda240636a28cb5361a29bee2fc9a5f7f4244bd8
+FileChecksum: SHA256: 952d70a668640742ee71b38610443ef0988e45a8e0bec79cced148c285862dc7
+FileChecksum: MD5: 129d2068038b5852380daa44dbfa49e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/manager/harness.py
+SPDXID: SPDXRef-item2160357
+FileChecksum: SHA1: ea33e07f0536414477c71dc52d06aa377391a93f
+FileChecksum: SHA256: 418f6fe99f6d9319046b9a6c04d9a80266391dac360bb679a4da6417874fc9a4
+FileChecksum: MD5: 1d958cd5539a57bff3f7ba8047eac675
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/manager/__main__.py
+SPDXID: SPDXRef-item2160359
+FileChecksum: SHA1: b3eefbdeb8ce62244d44f14c07f311ed4092905e
+FileChecksum: SHA256: 5e2936bc8d3815ba9a08683904f90cc5dc265829333712df781d8affe2d44bdd
+FileChecksum: MD5: ecdbd6a51ad80b33a5b63581b79aecaa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/manager/_implementation.py
+SPDXID: SPDXRef-item2160360
+FileChecksum: SHA1: 5c8b52b7d582057ecc8ca2a57fcc57870febfc72
+FileChecksum: SHA256: 4a1fa50503b00c6847f1eb953a94cb819bd397b82e0b4c2a9f2b5ed52110129e
+FileChecksum: MD5: acc80c39ba392a7b776f79577f21343d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/manager/__init__.py
+SPDXID: SPDXRef-item2160358
+FileChecksum: SHA1: 8b5d42038dc12c80a39042e47042aabcf845dd43
+FileChecksum: SHA256: 6f94da48f67bec9cce61d1c700532070290e29977ad26b75c7028866e46ae68e
+FileChecksum: MD5: cee9003b427ab9f8f252489cb57ffa3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/manager/specifications.py
+SPDXID: SPDXRef-item2160361
+FileChecksum: SHA1: f229377f8602be94dc659b8e4df0f1e5a5215256
+FileChecksum: SHA256: 4599d36a77f1cb559fcb14744ff93756bc242e9d0a030fcc75f261226904b5d0
+FileChecksum: MD5: db9d6f8d75ae7fa7be68807f1a6507dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/manager/apiComplianceSuite.py
+SPDXID: SPDXRef-item2160362
+FileChecksum: SHA1: af5dab716250dc993dfe344a6fd898a69d0e20ef
+FileChecksum: SHA256: a872c763c7a57e6bfbfc358127c5de7b66c3fbe611548a978c7a99dd405c4817
+FileChecksum: MD5: 6f0aa0f0953f7d1057ee2502a906f4d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/specifications.py
+SPDXID: SPDXRef-item2160364
+FileChecksum: SHA1: d4fd4c9f84decbb1c917cc79b2cb6ccf2701e378
+FileChecksum: SHA256: 606e1f4014e527df2cb5ea5135e01a188fdebfd2a90340928d2cbeb7c03c158a
+FileChecksum: MD5: bdaca77b9f3fa92f181e9785b9164981
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/__init__.py
+SPDXID: SPDXRef-item2160366
+FileChecksum: SHA1: ef73d7fffa3c7dc45ee5c7bb5af2e98108fe4782
+FileChecksum: SHA256: 3c3dbe03aed1d161226edea09fc3e63fe311f5f5aa09913a626d99751b50a2e4
+FileChecksum: MD5: 25846fc872c942119d97e95ce0a001b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/_core/objects.py
+SPDXID: SPDXRef-item2160368
+FileChecksum: SHA1: 1af1031424092014e11bf89dfbdb1f36744c7628
+FileChecksum: SHA256: b16407e85f6f0a84a74aaa45668acf67540265e4acd1b4d3ae338019a87350fc
+FileChecksum: MD5: 58e80f62b8582fd29f4dac482c90faff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/test/__init__.py
+SPDXID: SPDXRef-item2160363
+FileChecksum: SHA1: 63cd0b9ce0622308aa96c6520ac6fac23ddd142d
+FileChecksum: SHA256: cbb1678a802c191970d8c00669d463dde54bdd8983b14d47383cb36ba0bde54d
+FileChecksum: MD5: f29c9625f72aff5f28d2a32f36fc0959
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/_core/debug.py
+SPDXID: SPDXRef-item2160370
+FileChecksum: SHA1: e8a1419f1593e6d2e3608695a0dc5b9f232a25e3
+FileChecksum: SHA256: 8df2816b613b0805e14d54e4b4705c841fbd3e4b6653a17c7c58b53b0fd13fad
+FileChecksum: MD5: 14bf2d71beaff95be47aba0be58d12f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/_core/__init__.py
+SPDXID: SPDXRef-item2160369
+FileChecksum: SHA1: 5d08acc7862fda622462f0acddfd87d344b5fab5
+FileChecksum: SHA256: 327c7aefc22f80f156be52960bc0c10c90585995dcbc01b8110ccd7fd38257bb
+FileChecksum: MD5: 0b16279214b1c41ecdc9b3f4cda181fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/constants.py
+SPDXID: SPDXRef-item2160365
+FileChecksum: SHA1: e4320673c1d95863cfc06291dea1d70d1dc37b90
+FileChecksum: SHA256: 6ec0d7b2a09f0a57b9cb69b25c10fce0079956acc914d0372d6914844e290c33
+FileChecksum: MD5: 1220b7c556a4b30aa554add42955c487
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/Context.py
+SPDXID: SPDXRef-item2160372
+FileChecksum: SHA1: 1d3fec8466355b843af9a9b86e716c5c1a842590
+FileChecksum: SHA256: e1a88d6709054365061271333bf2b0d6a9416b105986f6926a1fb84d7933987d
+FileChecksum: MD5: 4c8791b17ec47a114bdd6cc924ad1b83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/SpecificationBase.py
+SPDXID: SPDXRef-item2160373
+FileChecksum: SHA1: 90b5e97cc4bd8842cea35979d39368320e2532b1
+FileChecksum: SHA256: 58d7aaa1f926cc3c4a1b59715398f51ec381234d17708ba8d333726e22c70eb8
+FileChecksum: MD5: dd711d69c321c992be3af7784792d4c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/managerAPI/__init__.py
+SPDXID: SPDXRef-item2160376
+FileChecksum: SHA1: 0e6469cbaf37eafce4cdd55075c89029edb17510
+FileChecksum: SHA256: f397d20473d350abe539158b56f07c51346d64ff0489646eb2e1504e3f085492
+FileChecksum: MD5: ce84380dbcf5a4b07b59d5adf39c7815
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/managerAPI/ManagerInterface.py
+SPDXID: SPDXRef-item2160375
+FileChecksum: SHA1: 2ccac2a30acdc9a307f136b3f2c4674d4e13937c
+FileChecksum: SHA256: 6939b3dcdf9eb2a765a5d1b3b5a9abf8188a8219e0da8b5208d18f715a82fb65
+FileChecksum: MD5: c5e7b582f8a89c22646bdf3c055cd56b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/exceptions.py
+SPDXID: SPDXRef-item2160378
+FileChecksum: SHA1: 8cabe01a56ee934d7eaccf57429b0ba292e2fe01
+FileChecksum: SHA256: ccd04ff446ea78ba468e90b247aafec76a6af6d39bbcd638287f1e889a475dd6
+FileChecksum: MD5: 69a90999c42f833aaf56bb56d8bdc184
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/managerAPI/HostSession.py
+SPDXID: SPDXRef-item2160377
+FileChecksum: SHA1: 8a7cf6a099ebee0a68a2e3d879495e830e73c008
+FileChecksum: SHA256: 972f8f865aea854e626a98428ea2437b3ba06406d187371bb3bb244a647de430
+FileChecksum: MD5: 0ff5b2a61091e79c4657e278dcc8c54a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/python/openassetio/_core/audit.py
+SPDXID: SPDXRef-item2160371
+FileChecksum: SHA1: 33ec1b513e62391e45c403cad79aa3d3cbe10134
+FileChecksum: SHA256: 8c22080d53fd066dd88054917d7c8fb69b369c180be769bf7e3867a1724942b1
+FileChecksum: MD5: 927402e7d77266110debf7858828b58e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test_imports.py
+SPDXID: SPDXRef-item2160382
+FileChecksum: SHA1: 4b4f7b0a1bb5566558a79eb479704e8a6d1901a9
+FileChecksum: SHA256: 319d54bfb4ec59bda40549ff8e0f78279028a98dd463600e3b7ecd0a9bae36b1
+FileChecksum: MD5: 5a68e818c07bff7e5c59efbbec283a39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/hostAPI/test_session.py
+SPDXID: SPDXRef-item2160385
+FileChecksum: SHA1: cd71abae39dc59d2905f6d95e134c401aa476f82
+FileChecksum: SHA256: fd222a12e0285dbefb41a78856627badcf91838788c3493750012ce95b5f2c4a
+FileChecksum: MD5: 6a1e9bb959c7067ffeecd8c43855c642
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/hostAPI/test_terminology.py
+SPDXID: SPDXRef-item2160386
+FileChecksum: SHA1: d385cec55e37308d85cb72d42f781a8b5edd59f4
+FileChecksum: SHA256: 202e47e995429832e9e12b840c73183988fd09bba8d2697b008eb56ffabb7633
+FileChecksum: MD5: 6a82af9ac96656e81705876e86e7a91e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/hostAPI/test_manager.py
+SPDXID: SPDXRef-item2160384
+FileChecksum: SHA1: ceb29422d7626f444b7b68205ca9a754f570ead2
+FileChecksum: SHA256: a1a9c8483b049f3f2dd4950d3006940b3ae48e2a3083647e265863aef3332073
+FileChecksum: MD5: a6e5b1fedb35600545766706edb66541
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/pluginSystem/test_pluginsystemmanagerfactory.py
+SPDXID: SPDXRef-item2160398
+FileChecksum: SHA1: c2a9ec260d7e087d62ed0e03dc6177188df29b38
+FileChecksum: SHA256: 7e69a73aa3be25c1120bf8da0b829c559a392eb7cf49055f8a47a3f358659b09
+FileChecksum: MD5: 1038828fe75c32ec644912f69ef25283
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test_specificationbase.py
+SPDXID: SPDXRef-item2160401
+FileChecksum: SHA1: 654b691f2c97683e286b6be5181b5f97a2ac5780
+FileChecksum: SHA256: 96f2faad622259680cee62a1e72377c8a0565cd68d1cbd98eb9116e2b387c6d2
+FileChecksum: MD5: 79b8ca9e6311c677246e86fcea2e0325
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/pluginSystem/test_pluginsystem.py
+SPDXID: SPDXRef-item2160399
+FileChecksum: SHA1: e3388c1f8736040d894a87ad1c11f598a081f9b3
+FileChecksum: SHA256: c117dd02b9b09350a77df20ed4ab001651d8d124e307040dc507e2699171da43
+FileChecksum: MD5: 87b3ba9bf734da345d2ff468b8cb1d13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test_trait.py
+SPDXID: SPDXRef-item2160400
+FileChecksum: SHA1: 64d29fba6c357168cc00123606f9ed444ae8436e
+FileChecksum: SHA256: ebe6479b5a320e2d8064c2926073bb7d24ea173758db1f667ba411e325c7aa69
+FileChecksum: MD5: 3354f6ea3aeb43b91bdb43d25b2675b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test_log.py
+SPDXID: SPDXRef-item2160402
+FileChecksum: SHA1: 27d02de7dbd00b9d4a39609ac7796ad36989be14
+FileChecksum: SHA256: 979b85b500893bdd0c2318b7d538f2b714af62502ff92c85a198d239ab654dea
+FileChecksum: MD5: ae9dbb63fefd8704a522126ebbd33e3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/test_harness.py
+SPDXID: SPDXRef-item2160405
+FileChecksum: SHA1: 0524727921e4a44fa2cecee4a7b3ad396557746f
+FileChecksum: SHA256: 68541defafb90c83cbb3994d731b39ab4f6d6d7b471e04c9aff45372b8968e37
+FileChecksum: MD5: 68eba655e6bfa3abd8595785bd973fd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/resources/plugins/StubManager.py
+SPDXID: SPDXRef-item2160410
+FileChecksum: SHA1: e81c81ed5f3d534691bac6135d922f9d3c8fb2cc
+FileChecksum: SHA256: 3e5dfcadebaef57bfafd4f391f55d4ea489b629c53f5570cc73bd6064a812214
+FileChecksum: MD5: 0da4eb8b932333232a22e29b89dede13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/resources/suite_executeSuiteTests.py
+SPDXID: SPDXRef-item2160408
+FileChecksum: SHA1: 7262f682557f2a632c36ddbbfe560e69635272e5
+FileChecksum: SHA256: bcf0167219a878a3fc8dfe001ed33388080b484d28f007d1b66beaa3d8e74235
+FileChecksum: MD5: 4bd17f1d786e6194594d2bd767993503
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/resources/fixtures_cliPass.py
+SPDXID: SPDXRef-item2160407
+FileChecksum: SHA1: 7e6480e622f581cb90070a3ce0effc06f9eadccb
+FileChecksum: SHA256: d6cf34b4933ecff09255bbae51b14787528baf007d8b3949f0e75867f07f3a48
+FileChecksum: MD5: a1e9ef347c8f3db514e1c44ff90450c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/resources/suite_alwaysFail.py
+SPDXID: SPDXRef-item2160412
+FileChecksum: SHA1: 62c58f9acf78facdb8edbd9cb67bae0be9177b11
+FileChecksum: SHA256: 4b2d4320f30fbbb48cbd85a8cc4d42b854a1f8650806f13df46900820b871b3b
+FileChecksum: MD5: 763968fe2938fe28c498c6c559075e86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/resources/suite_alwaysPass.py
+SPDXID: SPDXRef-item2160413
+FileChecksum: SHA1: 911f4a29cf9c050ba9eeee318c123ecc21298224
+FileChecksum: SHA256: d4435cb8cd7fcd240c0e7bea4881a4724b8e33de510438634ed1a72b1248902b
+FileChecksum: MD5: f3feee28cf452f905dd97ed87ee096fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/resources/fixtures_executeSuiteTests.py
+SPDXID: SPDXRef-item2160411
+FileChecksum: SHA1: e6a32e0cb38757c8b5f90ee4a22fc5ff4aaad2ff
+FileChecksum: SHA256: a8ee7b0ebb6b088ba5e38d5344bb8d49aa461d63056ba6bc3efc401c090450f6
+FileChecksum: MD5: 043f9bbf2d458f625c43b95a4baaa2a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/test_main.py
+SPDXID: SPDXRef-item2160415
+FileChecksum: SHA1: b5869f681bbfac9f8e25076fd01a0d2314d40101
+FileChecksum: SHA256: 9c741b0c9e9ff8a9c4f59c085060b390eedf01e39c30bb544561cc2567b5ac20
+FileChecksum: MD5: 8d793cd7c989290b9781105584d8db8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/conftest.py
+SPDXID: SPDXRef-item2160416
+FileChecksum: SHA1: c788b9bfe6bf0ec088bd94ba755c55425c71e3cd
+FileChecksum: SHA256: df23f92e8bca983502f257d4f60dc4d9f4014b93de240f0d8fff03f5a2b960a4
+FileChecksum: MD5: 4c9a4ec956d798b56610200bb65bf8c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/test__implementation.py
+SPDXID: SPDXRef-item2160417
+FileChecksum: SHA1: abcc3c89e23837c2ed418e1d4c28588608b84352
+FileChecksum: SHA256: 41930b0ceee38d116da70d3aea2ad373da67e1c4fb8ba3bdf1634de0f98e918c
+FileChecksum: MD5: e1f6e847e1f1ddbd176b975bee2dc4cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/resources/fixtures_cliFail.py
+SPDXID: SPDXRef-item2160414
+FileChecksum: SHA1: 25f92234d0d470ddf356c6441864e5aea861092a
+FileChecksum: SHA256: 04e6441c98feb809db36e1f4f1b6fb21fce1a9aba20eda6139b0d49b24a5a61e
+FileChecksum: MD5: 096e372b297ed5b36620b02af1e75e82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/_core/test_audit.py
+SPDXID: SPDXRef-item2160420
+FileChecksum: SHA1: 150a8ff2d0d7d991c6fb46e43969b5a23562526e
+FileChecksum: SHA256: 77bfe4dcdfa13c5a37ef6b2751ff498d576688aa9c4f51051fea238ecc1d34cd
+FileChecksum: MD5: e2e54cb4fba7187e9da28f14e8d60642
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test/manager/__init__.py
+SPDXID: SPDXRef-item2160418
+FileChecksum: SHA1: 36876dcc8a6305e78188b2ccb966a7a8d9005ead
+FileChecksum: SHA256: 7dbf2b9fe1984c70e967ecd25e268a40b31ac6ff6110c1da0a11d0acb46873d6
+FileChecksum: MD5: 16b5a4b632fda6e689d2e89c50fb6e96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/managerAPI/test_host.py
+SPDXID: SPDXRef-item2160424
+FileChecksum: SHA1: 08697fa789d5d0f51756cedc5d8909e70c18ff10
+FileChecksum: SHA256: b3bfebac985110aeed7f7b71d47939ed87c3c687cdbd0c4be6da8d51e33228fb
+FileChecksum: MD5: 25d2358086a035f9204c7dcd6868f800
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/managerAPI/test_hostsession.py
+SPDXID: SPDXRef-item2160425
+FileChecksum: SHA1: 870512d1bddf5b1132aa838cf2d0d0a2d4fff844
+FileChecksum: SHA256: 561cd165793be3d9bdca4309571e0113f909d6096bfa170c7e2a3ac71ab5d1d0
+FileChecksum: MD5: 158f28d3e0b07803edf5a4a7ce6ef5b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/managerAPI/test_managerinterface.py
+SPDXID: SPDXRef-item2160423
+FileChecksum: SHA1: 440a2cea1d7f1feb86e1739a3833be4f1a59a8dd
+FileChecksum: SHA256: 99ae37607700d2c4b1626dc0fe8e1c8a34ae3d4da839ad9c1aa10352fe99baaa
+FileChecksum: MD5: 4106d7fe01c4520abdfc095fd3c549d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/conftest.py
+SPDXID: SPDXRef-item2160426
+FileChecksum: SHA1: 91c7e5f4bffe177073dcafcbcbfcfa6a46a45976
+FileChecksum: SHA256: 427e7f2f83511687ecb45106d3a93ef55e0171ab62add21ba20c52a05e8f06b3
+FileChecksum: MD5: 87e9c25c47d72efb6660d2b21a3eea8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/SampleAssetManager/python/SampleAssetManager/SampleAssetManagerInterface.py
+SPDXID: SPDXRef-item2160551
+FileChecksum: SHA1: c66641e2b8c4dcaf9c934d927126cc4088d21372
+FileChecksum: SHA256: 1694bab3efaf16798a27ff1c9257b8176608328c8747da16abbe4c85ac9aedd8
+FileChecksum: MD5: bea9328cc608d0aad28ba7b322408fc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 [The Foundry Visionmongers Ltd] </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/SampleAssetManager/python/SampleAssetManager/__init__.py
+SPDXID: SPDXRef-item2160552
+FileChecksum: SHA1: 11b26c79b79111c3b420f33a1dcbf20550178688
+FileChecksum: SHA256: f64ad3bfcf9e9ad38ea4e788ab2db30a4ef768d405a9624987c358e638343368
+FileChecksum: MD5: 118acfd99d7b10e651c395a575765b39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 [The Foundry Visionmongers Ltd] </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/SampleAssetManager/tests/fixtures.py
+SPDXID: SPDXRef-item2160554
+FileChecksum: SHA1: d12846dd7d3ef0c596f2d1fc09ecb54b3c77aa47
+FileChecksum: SHA256: aeff1738b09d594dafc4e3bbc655792a8edfb2d634de5123e0011cf0e1bd5030
+FileChecksum: MD5: 71420d357b077161a606b96f97d0065d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/SampleAssetManager/tests/test_sam_apiCompliance.py
+SPDXID: SPDXRef-item2160555
+FileChecksum: SHA1: f26686db1a29c6105a307b54545007c34c4481b0
+FileChecksum: SHA256: 7566aba0778b9a67c2ec4e7d17da96bcaaf1a7e7563a3b5182c207a36657695f
+FileChecksum: MD5: 9dff54a010228c9a588841abe6380816
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/tests/bal_business_logic_suite.py
+SPDXID: SPDXRef-item2160558
+FileChecksum: SHA1: 29ed871b6ab6e102dbe71d44734cb24168cfe53f
+FileChecksum: SHA256: 437de02522041da3fc05cb8fcf7e37e86e52b7074bd4804365c9eee611b37c5c
+FileChecksum: MD5: 6ca87de2db2dead8770d015e54b582e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/tests/fixtures.py
+SPDXID: SPDXRef-item2160559
+FileChecksum: SHA1: f37745bc143eb22b9cf344f85c26f6cca40fa596
+FileChecksum: SHA256: b9cbcdb65295ed3c0d5d11f614327b2c04b6cdeebd44c15c8bd5d55bfb5cdfc4
+FileChecksum: MD5: c0e9391ba6a457c875e912ad403d2e06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/tests/test_bal.py
+SPDXID: SPDXRef-item2160560
+FileChecksum: SHA1: 87a0c60c7d18adb753055161a81016bb425ae86c
+FileChecksum: SHA256: 8600626fd20e503ffbc2b3eb2e450489ac929701c484e4f0a911bb635146c24e
+FileChecksum: MD5: 49b5ad1f941f8229f34eed3cb3de1631
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/tests/conftest.py
+SPDXID: SPDXRef-item2160563
+FileChecksum: SHA1: a1248622f1d8af10c7c60602b5bec401335255f6
+FileChecksum: SHA256: 9e24e92a718f7a03850b2f3fc6424ddd0d6c3e18fd87c554ac45b3b20c97aa41
+FileChecksum: MD5: 2f0f45afee1f09da4b294c72c6c2cf1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 The Foundry Visionmongers Ltd </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/plugin/BasicAssetLibrary/bal.py
+SPDXID: SPDXRef-item2160566
+FileChecksum: SHA1: 48138c8cd68e6ef326dfc6a570788c911e787050
+FileChecksum: SHA256: 2f7bd7e3b06a88830f99caf3d9b10baa643b76b849d7bcd476207dfc8545a880
+FileChecksum: MD5: cf9a2d4d47ae05991b3c461e164892aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 [The Foundry Visionmongers Ltd] </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/plugin/BasicAssetLibrary/__init__.py
+SPDXID: SPDXRef-item2160567
+FileChecksum: SHA1: 717e76c66d28b74b6f423e1b250fef99c1880667
+FileChecksum: SHA256: 11c09082e6dd210bdfa8e7243d7d2098d9fc983ae204631646bf23c662f7223b
+FileChecksum: MD5: 355e2156fe511034626bb5247ec54fa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2022 [The Foundry Visionmongers Ltd] </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/plugin/BasicAssetLibrary/BasicAssetLibraryInterface.py
+SPDXID: SPDXRef-item2160568
+FileChecksum: SHA1: f8a4b26c96993e5d297ff1bed7ce24754fbfe3fd
+FileChecksum: SHA256: 7aae8b07b6655ce3ba5d399ff81b9a21b5b21fa78d9dc7b17663a3cdf69adadf
+FileChecksum: MD5: d1b9c7737c47e9db1519ec3824babf29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2013-2021 [The Foundry Visionmongers Ltd] </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/tests/python/requirements.txt
+SPDXID: SPDXRef-item2160301
+FileChecksum: SHA1: c8c5216165141ce36e922c368e117da7cb7d5ef9
+FileChecksum: SHA256: 86307022da3f896a5ceb408d42e315e259236bf7d22f7b3c96aca7403f6b1f23
+FileChecksum: MD5: 44b6a6a8a522fdb360b16eb3d0cddbfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/tests/python/openassetio_mediacreation/trait/__init__.py
+SPDXID: SPDXRef-item2160306
+FileChecksum: SHA1: e4b3f6cb145889f83f98ca78e9d648e04af829dd
+FileChecksum: SHA256: 92ed03d0afbb0db0f943fb23616400b26823b4ce64a52e3139e777c249d71e05
+FileChecksum: MD5: d45edf160475a8b76be4f8ff29ef2f64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/tests/python/openassetio_mediacreation/specification/__init__.py
+SPDXID: SPDXRef-item2160308
+FileChecksum: SHA1: e4b3f6cb145889f83f98ca78e9d648e04af829dd
+FileChecksum: SHA256: 92ed03d0afbb0db0f943fb23616400b26823b4ce64a52e3139e777c249d71e05
+FileChecksum: MD5: d45edf160475a8b76be4f8ff29ef2f64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/decisions/DR001-Locatable-content-traits.md
+SPDXID: SPDXRef-item2160310
+FileChecksum: SHA1: bb0393799ce862b708a549a62ae529479ee15add
+FileChecksum: SHA256: 9f85d433fc88e795c6d95049989f440c2d92510f0039d8492aac29d2a3fd698b
+FileChecksum: MD5: 6e752d705e6cd92e292868fbb9e7df70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/pyproject.toml
+SPDXID: SPDXRef-item2160312
+FileChecksum: SHA1: 8b1312db20424b0dcb5a93ca8ddd6f3fb833ecc2
+FileChecksum: SHA256: a305925ddab9bf80e4143e86ba83b33ab4d114f303487994ddc88b6e3f529bb8
+FileChecksum: MD5: ff2e9f545acc65aafe57b302b0e168e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/.gitignore
+SPDXID: SPDXRef-item2160314
+FileChecksum: SHA1: 08789d28823a8536d0f6ec85524bbefd65290f9b
+FileChecksum: SHA256: 72c6030bade743faf68421fe2e40cbfcaf33936ad89db469dd718a0f405b5965
+FileChecksum: MD5: 950e7269054b9618f3e6d77ce7bf2cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO-MediaCreation/README.md
+SPDXID: SPDXRef-item2160315
+FileChecksum: SHA1: d0d3625b45e31e9a868af3fed9a904f9248b4090
+FileChecksum: SHA256: a895c20e9376e10bb42073365818af70a5dc069dc2abb32b9589a77e5908c4e8
+FileChecksum: MD5: 3e162f37358f59507d774398bbc0b953
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/tests/resources/test_entity_library.json
+SPDXID: SPDXRef-item2160319
+FileChecksum: SHA1: 9c91e9b48e62f02104a207550bfeb6c32b044e96
+FileChecksum: SHA256: e2e4f6bfd29901a6413b6ae1638fc58fa8d7d74ad4f579784f66d4a5e4c9c651
+FileChecksum: MD5: a2b5a08cbc738a79c5301a1b6289405d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/.github/workflows/ci.yaml
+SPDXID: SPDXRef-item2160324
+FileChecksum: SHA1: ab277f0633fc0af1f33831660445b435303b9923
+FileChecksum: SHA256: e8dc27e5ca706f1391af8345c6cb24670d1f330bfafd6429e4ce94705339494f
+FileChecksum: MD5: 95a90dfcf1a0043fb6f5be5fcaf01d50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/.github/workflows/create_draft_release.yaml
+SPDXID: SPDXRef-item2160325
+FileChecksum: SHA1: b1d09e9da750eab309a8b7e10b1a3b7603dee9d4
+FileChecksum: SHA256: 8de436400963d08fda6734ea8ce23eca5a0a37dfde54671ba6c22c6049073260
+FileChecksum: MD5: f8cbcb27e8c61616187d16986fdb02dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/.github/workflows/deploy_package.yaml
+SPDXID: SPDXRef-item2160326
+FileChecksum: SHA1: 5c9164c69a1fdba26af04a1895b7b19d593ec27a
+FileChecksum: SHA256: f5046646952bca07e1e49a8a7cf1b20ba73227bde3ac116ce4555d2147f2fe4b
+FileChecksum: MD5: 7221375791e70603602b3d0249b943b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/.github/workflows/commit-checks.yml
+SPDXID: SPDXRef-item2160327
+FileChecksum: SHA1: cfb96f8d2c76ae56cb48f1e8dc7f6a2adb3ed759
+FileChecksum: SHA256: c8f02eeab8415738f15b6faa84aa9e896e3da653db72874a024ca4e7a6b76b2c
+FileChecksum: MD5: 35c2b7095e081256be2156a910422d1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/.gitignore
+SPDXID: SPDXRef-item2160330
+FileChecksum: SHA1: 49fc60093c5fe06962aa7d7a807ae427bb1c45d4
+FileChecksum: SHA256: efe82570af6f474f5c209bfb9db5a35a44fd352adf169a9a44fddefb91bf0dbb
+FileChecksum: MD5: 49900e51ab1d3f0f01f33b9d5a789393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/otio-openassetio/otio_openassetio/plugin_manifest.json
+SPDXID: SPDXRef-item2160336
+FileChecksum: SHA1: 87f28376af4d8c428d7b7556ea6dad1006f18067
+FileChecksum: SHA256: 8ec4ee259b942977213961ad54a44c230957b369322fb3d8e992383e39e0b42f
+FileChecksum: MD5: c059fc37a5e4f2a3c04ae379ac6b6b9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/pluginSystem/resources/pathB/packagedPlugin/PackagePlugin.py
+SPDXID: SPDXRef-item2160391
+FileChecksum: SHA1: 5e249db3d516064164fc15cf4286eaed74dbf2a5
+FileChecksum: SHA256: 331e41bcee296ee6a0a5fb578bf9a7f72f1de355f26c71f061c549617d9758ce
+FileChecksum: MD5: 3b25e7b73b7137026ec0e42864e5649b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/pluginSystem/resources/pathB/packagedPlugin/__init__.py
+SPDXID: SPDXRef-item2160392
+FileChecksum: SHA1: b5cc3ee082e5c7e1c3c28a82df12637618058ae4
+FileChecksum: SHA256: 86b108d29941b516bc7521db6d04a2e24dfb6558c29234f8ed184cad2f7d9db0
+FileChecksum: MD5: f3f7f21b08e2165dbf1bccec9438c2a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/pluginSystem/resources/pathA/modulePlugin.py
+SPDXID: SPDXRef-item2160394
+FileChecksum: SHA1: 691b8801ab58dcdcda32406d2629f79bd3026dde
+FileChecksum: SHA256: 3dfed53e9cc1d6d2b30b31ac9e9b7fca9f0a460ab7485687d27247910ae95094
+FileChecksum: MD5: eaa87a53c079be1093c818264c008c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/pluginSystem/resources/pathC/modulePlugin.py
+SPDXID: SPDXRef-item2160396
+FileChecksum: SHA1: f76310954a943f51e58370e9aa5af3260fa8dfce
+FileChecksum: SHA256: a65349d15b73c8602579d0eec545fdbcc61ba06654a5d864e633ff1af57d5787
+FileChecksum: MD5: 755986fa556e22a7c4e3515b00bc7acc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/pluginSystem/resources/README.md
+SPDXID: SPDXRef-item2160397
+FileChecksum: SHA1: 75dfaeeac0f9d5935cc5d7226fc22a62555cba0f
+FileChecksum: SHA256: 40350db567a295bf1d24a9a782e9f2ae68bef78f2e939dfa9b753d0401cbec02
+FileChecksum: MD5: 185599890bfe649f642d39480173f172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/openassetio/test_traitsdata.py
+SPDXID: SPDXRef-item2160421
+FileChecksum: SHA1: d2f237a5ec1f738c70f2d965337457d0b57ad613
+FileChecksum: SHA256: 150019ae4d86221a682a2a320c34a8ee14eae35326f7393c3ade3cc56b34b380
+FileChecksum: MD5: 8b4d2961b9891e92c97b0799996cc0ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/requirements.txt
+SPDXID: SPDXRef-item2160427
+FileChecksum: SHA1: 34f0a7996f3d2f38e67f8777bdb5288b69b4539d
+FileChecksum: SHA256: b44fabd49116548f98b96147f4d1652ae7e25aac4e2c26033b8975336537abbc
+FileChecksum: MD5: f022c4e2180b939c65d736e33b656231
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/python/README.md
+SPDXID: SPDXRef-item2160428
+FileChecksum: SHA1: 339c3160bd69b34d01a7ae280842feb36208e5b8
+FileChecksum: SHA256: 2306eb516a0a221dbd31623fc7312a37f7b3006ee8f8c9d309ee2a4caf4746bc
+FileChecksum: MD5: 1ff20fde10c68a429cda5086a0be0db2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core/CMakeLists.txt
+SPDXID: SPDXRef-item2160432
+FileChecksum: SHA1: 041efa44d33027c5017a4fc58aa4bd048050d9bf
+FileChecksum: SHA256: 829e1add29b13aaf4e0a215d94c9b7d6c4d9b8052cab7ec55bd172b3300533f9
+FileChecksum: MD5: ab8940bd5305297e3937176ab5340949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/openassetio-core-c/CMakeLists.txt
+SPDXID: SPDXRef-item2160447
+FileChecksum: SHA1: 074e0ee5ce3d7b4239276207dad7efcd2c09195f
+FileChecksum: SHA256: 6dda642bdab8aa27121415071f7b9489c562d8dd51f55fe71646f5ff2f7edec4
+FileChecksum: MD5: ce9442c6f8c7ab5553507584e00d01a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/tests/CMakeLists.txt
+SPDXID: SPDXRef-item2160449
+FileChecksum: SHA1: d4a7a226860479631a6600d95820307cd61263d6
+FileChecksum: SHA256: 9fcf18d55105e2163cce8f0d0a1ba95930b0f34a8041b2ea0e4c906282c01372
+FileChecksum: MD5: d02327a3e343d9abd2cee7427b6863b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/cmake/ThirdParty.cmake
+SPDXID: SPDXRef-item2160451
+FileChecksum: SHA1: c4b4c70a13567a671aacf811ef5f8b9f1dbd48f7
+FileChecksum: SHA256: 070407833d3c4140b4c46be85c4524e14c0219d141aad54e97203c1b2ad0ae88
+FileChecksum: MD5: bbcf2cb9f3b709e41f631e64f3d8042b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR004-Core-language-support.md
+SPDXID: SPDXRef-item2160457
+FileChecksum: SHA1: 983eac3c92d24691107abdff306b5e08dffea33d
+FileChecksum: SHA256: c4328133d51ba046e042660d2638ebdfc15472113fbd79cceb179d666444fb3d
+FileChecksum: MD5: 09d47c7b509f6d89210dce0674b2a049
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR002-Getter-method-naming.md
+SPDXID: SPDXRef-item2160458
+FileChecksum: SHA1: b578b46efc5090a2c842d9250b2ad480a0c29702
+FileChecksum: SHA256: e251af319547450e8cd0563a5916e22e65582748871205087279eea37f03b0e0
+FileChecksum: MD5: 3f934ce77404609c1f90c71bd1190d88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR003-ManagerInterface-method-naming.md
+SPDXID: SPDXRef-item2160459
+FileChecksum: SHA1: 8248e071be1f2010689ce924d50e73c02cf26c81
+FileChecksum: SHA256: c4a4698de425f9c71e993513754193293113d7fb795786d24d38735cc690550e
+FileChecksum: MD5: 8ff4c0a1493a81042a4d3f5576f4bf9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR008-Unify-the-entity-data-model.md
+SPDXID: SPDXRef-item2160460
+FileChecksum: SHA1: 3a9956bed612dfb484e1a55ad061dadc1d7a3d6c
+FileChecksum: SHA256: 9fa762a5e0937c950dfee43d0eede2805bfd05aedeaf13515af21a5e20767331
+FileChecksum: MD5: 46a97dc376f485b363eaf68bda6982c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR007-Hierarchical-or-compositional-traits-for-specifications.md
+SPDXID: SPDXRef-item2160461
+FileChecksum: SHA1: a1da72a6b00fc094c813ff06b5bd7587788bd0bb
+FileChecksum: SHA256: ca1dab91f306cfec45386e156d1fd21075857ac3f43c31ab31f46b4dc9d7dc52
+FileChecksum: MD5: 0a1348d5be77bbf2f66f049f9eeaa6c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR006-Generic-string-type.md
+SPDXID: SPDXRef-item2160462
+FileChecksum: SHA1: a7544e9b176b4e90e4693439bee71c0fdd49e9f0
+FileChecksum: SHA256: c4124d00df17108692c05af11cd3b45835cfabd04eeabc6e53532dab71e2ea1b
+FileChecksum: MD5: dfbec7e68076e0417c3cf4de1c3fcd66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/README.md
+SPDXID: SPDXRef-item2160463
+FileChecksum: SHA1: d026cd140b146c68f542c7f2ef759f18e95cf88d
+FileChecksum: SHA256: ca153005bf8fa88592bc98e0080ed478e409ab090e63977a0c6eb5cafc8195fb
+FileChecksum: MD5: 29d333077c2a457bab4e5ab5c0d982d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR005-String-encoding.md
+SPDXID: SPDXRef-item2160464
+FileChecksum: SHA1: 7eb7a08792f62c1d43f113cbba8d889b8ce58523
+FileChecksum: SHA256: b4bfa2648ff1dc37c34f020ede1fac615b39da13add64e30811d0b6da4ddbccb
+FileChecksum: MD5: b09f35e16040eace655132129a87af5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/decisions/DR001-Python-code-style.md
+SPDXID: SPDXRef-item2160465
+FileChecksum: SHA1: 9af62b15573ccc8488c78e7fd217488952655b3f
+FileChecksum: SHA256: d871fb2025e8b062c31c14256990edd8d80af381955415db87d85d8b05d69cb0
+FileChecksum: MD5: 6b6f8887757fab1738efe771ff5b51af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/pyproject.toml
+SPDXID: SPDXRef-item2160467
+FileChecksum: SHA1: 90e464924eeb2ade58300a7838e5bf222f54da13
+FileChecksum: SHA256: ddc6e0be42fb8731a7b85c4a79252765f585d41f275ff0cc8b345741883d00ce
+FileChecksum: MD5: e5a635c57c58ba6bc0fb74d4c6a411df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/src/openassetio-python/CMakeLists.txt
+SPDXID: SPDXRef-item2160532
+FileChecksum: SHA1: b382d00dcc3ae39abeeae3603204f9b821a47d19
+FileChecksum: SHA256: 2a75f3b4d28622dc125e6c59686a6cbf99154df77e252727c3ffe398669793d1
+FileChecksum: MD5: 4894f43ff910113855ccfd41929467aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/build/conanfile.txt
+SPDXID: SPDXRef-item2160540
+FileChecksum: SHA1: 19e071f1e005b48c0513d4bfddc75f7d928907ee
+FileChecksum: SHA256: 2e0fb5f96df041de4bf6a31f29d82ad43d919bdffbeb286a43aca28abc087e9f
+FileChecksum: MD5: 0967294f2b6048d3a4507299de6dcb6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/build/bootstrap-macos-10.15.sh
+SPDXID: SPDXRef-item2160541
+FileChecksum: SHA1: a0ebf5a19e2d210cf75ff4afa8b50b06e93fcd20
+FileChecksum: SHA256: c4d3c0e1b6ecbf6751328c22ef5c669f30555c26c4d88fb03aee419207d0a50c
+FileChecksum: MD5: 8bd422d93cd78abe1501d2e2c6f44f8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/build/bootstrap-ubuntu-20.04.sh
+SPDXID: SPDXRef-item2160542
+FileChecksum: SHA1: 21968826471b93e7f8fe5f32c955aa8fa9a0f76c
+FileChecksum: SHA256: 292f4e03f441ab0e5edd25a43350c18b810a9541807f575b9d276eb4abefabbc
+FileChecksum: MD5: 0e5617a7f95065b3c2f3275bc4b5f42a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/build/Vagrantfile
+SPDXID: SPDXRef-item2160543
+FileChecksum: SHA1: 7f3d9f7182341804b8835fb147bf892675d76483
+FileChecksum: SHA256: 5d756a652c2c44d0a42e7dcf470d70c6dc60918b3c2d0d667e218bd4472240c0
+FileChecksum: MD5: 81533139ece089898806a45995d97b2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/build/requirements.txt
+SPDXID: SPDXRef-item2160544
+FileChecksum: SHA1: 3b9853e70bda0dfdef191834c94a0a5099acbb34
+FileChecksum: SHA256: 23f40290d3603f51267417745f27b08c43a46ca155ebef3567b8e2aed125a298
+FileChecksum: MD5: d73c7febbd4717647ce9a7399d883c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/build/bootstrap-windows-2019.bat
+SPDXID: SPDXRef-item2160545
+FileChecksum: SHA1: 22139f0c78e4ff3d53222de79bcd70a39f1368ae
+FileChecksum: SHA256: dcaea371caa8ea1b2039e3147a58cdb442208806b846102e9338254ebab6d42c
+FileChecksum: MD5: f8e7742a772fc54523d711faf035b571
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/tests/resources/library_apiComplianceSuite.json
+SPDXID: SPDXRef-item2160562
+FileChecksum: SHA1: cfa7aca917a7ebd3f22e10fd4f0d6d216080ca24
+FileChecksum: SHA256: 7b1e0e4376dff84d876d96034f7ff489ea8243ed75e303708d5bcd914364275d
+FileChecksum: MD5: cc159f12bdfa789e69e44a5c4721bdac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/schema.json
+SPDXID: SPDXRef-item2160569
+FileChecksum: SHA1: 0d8e4a5a980bd6bbdaf87bba527aa3a9c8c44b55
+FileChecksum: SHA256: 2346a42742934fcf7b6817f7fbcce1cf68147fe23f467b6786b85f41f74be66b
+FileChecksum: MD5: 53840d36c3a740372fb793fb994b053c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/examples/manager/BasicAssetLibrary/README.md
+SPDXID: SPDXRef-item2160570
+FileChecksum: SHA1: 060d061a076ff14c6b945bfda4b58c66a3c29f3b
+FileChecksum: SHA256: dbc425f7c62df593924835343537531595ab25f4e95770ba632f82b68e6a41c3
+FileChecksum: MD5: 053ee8440a75b83a32a0e1f60d02f8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/perftest/perftest.cpp
+SPDXID: SPDXRef-item2160572
+FileChecksum: SHA1: 5e1f870d9b6f77315923aad632de299359f50a6c
+FileChecksum: SHA256: bc85f8a9371b9d48eeea4c97de763cf5d60ba2a80568252a07a29c9d7c821326
+FileChecksum: MD5: d37175da76c7c0c101273b4d5d826eb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/perftest/CMakeLists.txt
+SPDXID: SPDXRef-item2160573
+FileChecksum: SHA1: 8ce3799307256672da62190443a2c2fb60dc706e
+FileChecksum: SHA256: 08e952b66c910e726bcaa31332bfbc7653a64a9f7b40065c0ff5841e81cb97b7
+FileChecksum: MD5: c4b11cfd87557ca57cb027661d385f93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/resources/perftest/README.md
+SPDXID: SPDXRef-item2160574
+FileChecksum: SHA1: fb51ed924f8a4d94f7f0486aca5be63eac0c4096
+FileChecksum: SHA256: 26095e0fee2362d58374f5afddc3db057f7b670178d269cbd73949600b38a1db
+FileChecksum: MD5: 7df17307df934714dbc0966661e2a87f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.github/workflows/test.yml
+SPDXID: SPDXRef-item2160577
+FileChecksum: SHA1: 1eef69f996da443bb0dbed3da4ac5706cb931809
+FileChecksum: SHA256: d8924808e55df6ebebcd726c478cb6eaeb1bedb6c4916c0caffdb0bf61b1ca58
+FileChecksum: MD5: 0daaab8532d601cd247c81cff52891a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.github/workflows/build-instructions.yml
+SPDXID: SPDXRef-item2160578
+FileChecksum: SHA1: 6c2446f8076ab21bd794935230bf6fe60b7d562e
+FileChecksum: SHA256: 7c019b261fc7701d75d155be2f5f520c0565648d752b66d122a618c0c82f3cdf
+FileChecksum: MD5: 03efc379be857f0935e48e6fe36c7b53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.github/workflows/code-quality.yml
+SPDXID: SPDXRef-item2160579
+FileChecksum: SHA1: 1cef264e4307b839dc3de072378c1ac8f60bfb3f
+FileChecksum: SHA256: 55d106aa0e49673fd22ee0264c1b63fe6f10e5a81f951d4157724c8788b4f7c8
+FileChecksum: MD5: ad3133d9197b0ad292de06645ff61a3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.github/workflows/codeql-analysis.yml
+SPDXID: SPDXRef-item2160580
+FileChecksum: SHA1: bb965c0bbc4bb0580da76f228ba8bab512d38cb3
+FileChecksum: SHA256: 1a46cc69031d90fc0cf0c53fc9374cc32ab6e28d52abb85442d17172bd372e93
+FileChecksum: MD5: 0489789f1418c56d5966e7c85c008fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.github/workflows/docs.yml
+SPDXID: SPDXRef-item2160581
+FileChecksum: SHA1: 28a09cd04e396bbed1442231d95914e64b0a269a
+FileChecksum: SHA256: 559ace1c9f63d3d5c6903ce725813ca09e178c5a14fa94bf1ff5501f04bf3d7f
+FileChecksum: MD5: 0b7866300417b8a02a47ed418c262e81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.github/workflows/commit-checks.yml
+SPDXID: SPDXRef-item2160582
+FileChecksum: SHA1: 0b38c1cbd34f997f1f6373a95971ce22d6caf6a9
+FileChecksum: SHA256: e86cebb9bc818551d61c3df163420b38e7031998b2a09ce67aa8f99796e57d05
+FileChecksum: MD5: d7f941aa5ec817fbac01a517b4e11e9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.github/workflows/problem-matchers/doxygen.json
+SPDXID: SPDXRef-item2160584
+FileChecksum: SHA1: 99ef99a38d11425b8685043a7ccd7393a12b5069
+FileChecksum: SHA256: ccef85bee078662c06f186e6a675734f0d4d8a43f0ad7be7ba2bc67e65ad2f81
+FileChecksum: MD5: 040b89da93eff3cc3cffe211980b9677
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/setup.cfg
+SPDXID: SPDXRef-item2160585
+FileChecksum: SHA1: 0f065368e3f93d26351e9038a4cfb361821eef95
+FileChecksum: SHA256: ccfce9ce84bf9a6cd2c4f6bbf7b6d4cafdce062372fdcd69abc0b752431dd7b4
+FileChecksum: MD5: e53d63596df19d674094ea347c382694
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/CPPLINT.cfg
+SPDXID: SPDXRef-item2160586
+FileChecksum: SHA1: 56c44761534b5cdb185ab66b72a3d436269e922b
+FileChecksum: SHA256: 1e5ff712a1525f9ca2084faa848062107bdfa73764d23b6d03f1ebac1396bed3
+FileChecksum: MD5: e75f21a63274f6dc43eb0338aaec5602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/COMMITS.md
+SPDXID: SPDXRef-item2160588
+FileChecksum: SHA1: 6469cf8a595cef19b198ed8b5caea59b678f600b
+FileChecksum: SHA256: ae6b1b7200b4697009a498334406bc0819b33667787093ce5ab4c5a17695837c
+FileChecksum: MD5: 84e5bb15c045d831177b8f6c0d1fefef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/CHANGES.md
+SPDXID: SPDXRef-item2160589
+FileChecksum: SHA1: 4a06ca437902f746c93d5e6937ffa4e0b2ab6765
+FileChecksum: SHA256: 394912e7afead5fe7c8f059eeef7075faee9a550b0b43ba229769b95a1e5d15a
+FileChecksum: MD5: 972613fd27120b7468c06972f6ad57b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/CODE_REVIEWS.md
+SPDXID: SPDXRef-item2160590
+FileChecksum: SHA1: 58a5886ee218e508ed896b6cb83bf8dea66f2307
+FileChecksum: SHA256: 9d23d95400a2b0c001cdde097cff778dac3170ad30880a001681b5a7bc771f11
+FileChecksum: MD5: 2e39377ea41bb28020ea5f1138487d5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/USER_PERSONAS.md
+SPDXID: SPDXRef-item2160591
+FileChecksum: SHA1: d4a852e2dc2da1f2d8f7b9f9b9a730f8944d1d9b
+FileChecksum: SHA256: 7d6b8e9ad3a0b464e7f42a4a5950388bde0382b32f0cccabb62ea915c13bff42
+FileChecksum: MD5: 35b2cf8e9e58bb9c621c3e310bb3595d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/CODING_STANDARDS.md
+SPDXID: SPDXRef-item2160592
+FileChecksum: SHA1: 2a40e84cbf0d2b95f3c3f939cff12b9fa53033d3
+FileChecksum: SHA256: 7deb61ec5e3405ff79b425e229c206bc8060201041e22f50c90a3240053e7383
+FileChecksum: MD5: 61fd7fdf46a1229fba940a0bfb2449ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/C_API.md
+SPDXID: SPDXRef-item2160593
+FileChecksum: SHA1: 2ad58d707c8fe3307aabd00f1e22dace2d7fafcb
+FileChecksum: SHA256: 92fcdf9aaaa7e5dadc0bef9dce9e8ca5c27c21c4b9bbd2adee03e47a0740a69e
+FileChecksum: MD5: 9aeef01b7f10522a2b771cb99bb3b50a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/contributing/PULL_REQUESTS.md
+SPDXID: SPDXRef-item2160594
+FileChecksum: SHA1: 9ae2b9f4b0cf2271437e19bc276462c690b025d5
+FileChecksum: SHA256: 93595549da7f02a26171135218babef53dd9f080099f1f2ccee5497c2a023a19
+FileChecksum: MD5: e2bce385d4a4dad8e0e2b7abb2956d14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/setup.py
+SPDXID: SPDXRef-item2160597
+FileChecksum: SHA1: d085224ba383b3d451ee44819db4f6db377eb0b5
+FileChecksum: SHA256: 73cfb5ca436893870970e286ed00ebd42e1e2641499bf32b2f1542324b9a1af9
+FileChecksum: MD5: fa20db0eb91f4fc3cc688c1b097ed8d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.gitignore
+SPDXID: SPDXRef-item2160598
+FileChecksum: SHA1: 7a3382d6f4a3a9b56863cd948cb9324bb7b28905
+FileChecksum: SHA256: 5257b68a5610fd78a369f8123ab6a5a04acbccbe5703884e8c304293987d7558
+FileChecksum: MD5: b06763f9deff5c0aa75c81481123d399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.editorconfig
+SPDXID: SPDXRef-item2160599
+FileChecksum: SHA1: c5c7ecaad58f5bed8dec6c3f2559c49df8e7e4dd
+FileChecksum: SHA256: a179d6e6507af97f0ffaa7e8ea3af00af86afc5c0a3bf468547616c6cdc7ea76
+FileChecksum: MD5: 9418a3eee650f116877ab6972971967c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/CMakePresets.json
+SPDXID: SPDXRef-item2160600
+FileChecksum: SHA1: ba87ccedca40adf2fb5dc4a3370fd792e60c3550
+FileChecksum: SHA256: 456a4e1140a2f6ef5aa27fbfa38fb206eaf8e545d3c033417d34acc9a9c09f1e
+FileChecksum: MD5: 5793b3ecb51b2312e8c144bb1f6eb147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/RELEASE_NOTES.md
+SPDXID: SPDXRef-item2160601
+FileChecksum: SHA1: 97ed258e3ac1293ec4f9e929135ee6c43d089604
+FileChecksum: SHA256: ea7bf88aa527dd545a435587feee2738358f1ff0f7e22951b45a41beb7f5c4f3
+FileChecksum: MD5: 9db9d5a79056eb8cb68d33038c73a9a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/.clang-format
+SPDXID: SPDXRef-item2160603
+FileChecksum: SHA1: 7b9d1bc363a59e7d0c85ea8a5ee84497f2d7e9af
+FileChecksum: SHA256: a725e52f8dc6984c01d6d85e4d1c7cc5c5e94347a63c2790b624099a80f6afd2
+FileChecksum: MD5: aa0ac7f74468cf2132a8c5720ccdaf66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/README.md
+SPDXID: SPDXRef-item2160604
+FileChecksum: SHA1: 2bd83e4db505583dfe2996d4e1cc67b5f9a98bd3
+FileChecksum: SHA256: 4160f70320f7a1694e57f63f0e57980460dc2232691e7382451e9d2ed9e17994
+FileChecksum: MD5: 3bb402ebaf76ac433a551778e5ad5097
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/BUILDING.md
+SPDXID: SPDXRef-item2160605
+FileChecksum: SHA1: fdeec70c114ddfb308c303b88cd14d60ed69df24
+FileChecksum: SHA256: e44ce31f52fb91e09a3322f28ff1254b241c1992f134c94bb1520eae58158869
+FileChecksum: MD5: 422aa0510afaceda628c9a361fb9c170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/Makefile
+SPDXID: SPDXRef-item2160608
+FileChecksum: SHA1: cea15179c534d3e17012501eda198b921b0660bc
+FileChecksum: SHA256: 8b8b084c21269c1cec45821f41152765e0cfb9740dd7e48a809083691e2a36ee
+FileChecksum: MD5: fac5e8d53b7b7f1c55e0e850664c28e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/package-lock.json
+SPDXID: SPDXRef-item2160609
+FileChecksum: SHA1: e20a6403fd26e1d75460beea0ed3590aa07b9ffe
+FileChecksum: SHA256: fa6aab3411607256d5ea8f230bbce60d02df625373347728c7b96b910cb13933
+FileChecksum: MD5: d9008872b844f00bef3a1618a51cd20b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/Testing.dox
+SPDXID: SPDXRef-item2160611
+FileChecksum: SHA1: 9feb988881b816f74c685a7cc3d7332b898a033b
+FileChecksum: SHA256: ffa0f290d6dd1d206e79a617331aa697d48b980262b5ca3595d9c86b84bc2e66
+FileChecksum: MD5: eb34ec80ebb5e7ea9d71e3d7e6d13a9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/styles.scss
+SPDXID: SPDXRef-item2160612
+FileChecksum: SHA1: a996812de261c26b9798129a669b5f928883c082
+FileChecksum: SHA256: 5e8cc7820faf0791ba120f505b0224871255a3a522c64a9db3398673c2e468a7
+FileChecksum: MD5: b9f08a2bd3e515510a8b8eef61a959cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright { width: 100%; text-align: center; </text>
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/ForManagers.dox
+SPDXID: SPDXRef-item2160613
+FileChecksum: SHA1: 439c47f582463c69dff8fff2fd78179e6c4491df
+FileChecksum: SHA256: 37372c6e4c8c40cf276472837f83ceeb7f1a9aa20480d810abd315d630b79a30
+FileChecksum: MD5: 116abb180036c6752ef04923d5426445
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/Examples.dox
+SPDXID: SPDXRef-item2160614
+FileChecksum: SHA1: 7e7b7fe365ede3590ffe6e2dd7d65c04466c3278
+FileChecksum: SHA256: 3e8937d7178313e782e0ed92c8c0b7229a77875f58a370133195d9ed98445e4a
+FileChecksum: MD5: 2d0b9161cbf29c32ebe0db6aba6a5271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/header.html
+SPDXID: SPDXRef-item2160615
+FileChecksum: SHA1: 71c0864b9f81c8636a0cceb090f28e248ab8ad53
+FileChecksum: SHA256: fb6e717e3b4c4703746382b27516728d92963fe237d502c316834d92827cda87
+FileChecksum: MD5: d6f44f540350173b08047696466e72d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/Glossary.dox
+SPDXID: SPDXRef-item2160616
+FileChecksum: SHA1: 88bb83e7797a22938bbe328678c8e7af2e73ba25
+FileChecksum: SHA256: d5c7b8e623ea33ab16d7701db2b1123da6fb8083b294233fe1902ecb882b3700
+FileChecksum: MD5: 8319350b264e516c338cc2d793fc64ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/ForHosts.dox
+SPDXID: SPDXRef-item2160617
+FileChecksum: SHA1: 832e4ad22e89647277c5f9b4e07ff7c631ff2dc0
+FileChecksum: SHA256: 8fac6b8c1ee4b91f08b2c0581dcbc14aa6bca5209c4f1181ba1dd9af14798981
+FileChecksum: MD5: 7e97ed4ce4477b8449a56605b8304974
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/Thumbnails.dox
+SPDXID: SPDXRef-item2160618
+FileChecksum: SHA1: efe7fbc2c38445e76a9bbee3b2dfe56bbfa0cf69
+FileChecksum: SHA256: 74a42a65c12b546f4c8b7e90e8aab6be87ef1825ff08d9f3742ae0572e257653
+FileChecksum: MD5: 80670b56c326424ff14b0ae74a29e05c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/MainPage.dox
+SPDXID: SPDXRef-item2160620
+FileChecksum: SHA1: 50e3914fd4601a52d1484c15ce1a3fea5507a3df
+FileChecksum: SHA256: b886b86867f527487a3b7b891b1bdcf9c7a08fd1d31d2e3fb4105a9c66c81f49
+FileChecksum: MD5: 87b931947186629cba8c799a9429cf99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/EntitiesTraitsSpecifications.dox
+SPDXID: SPDXRef-item2160621
+FileChecksum: SHA1: d9aa9d1c9891e6e15a916a9c6a63b86ded198b63
+FileChecksum: SHA256: 997554fe286f77e454fdd0a2d8f4a4de4fc28c21b457785c55ef88e9479ae1d3
+FileChecksum: MD5: 4c7b70e36a38b97c444108d271eef371
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/src/ManagerState.dox
+SPDXID: SPDXRef-item2160622
+FileChecksum: SHA1: 13862c370cab3901f50f0d6a77dcc61a1b1804bd
+FileChecksum: SHA256: 0005adddfb99b1e85269c3dd19ea6ba7612c8ed306e280a1d68536dc29206cfe
+FileChecksum: MD5: 50f6bd2b90964bcae8ebb0fda0bd24c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/.gitignore
+SPDXID: SPDXRef-item2160623
+FileChecksum: SHA1: bf7a697c13cf88981e999c84efc8547ce5fb22dd
+FileChecksum: SHA256: cea5d5456924d78c8ec49d931b1892af8eb0abe77f8e64aea3688243b62467e2
+FileChecksum: MD5: 1b61146d905c574a16e23e5f0720a553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/requirements.txt
+SPDXID: SPDXRef-item2160624
+FileChecksum: SHA1: 3a0a9dd6ef57d7612a394fd632c8024b0701e8a9
+FileChecksum: SHA256: 43aa41b73acb536533d9bd59609778c63268d3359c6b59e5a938ce6614f32b28
+FileChecksum: MD5: fea192304c30d46f77639f9e83f8cb55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/RELEASE_NOTES.md
+SPDXID: SPDXRef-item2160625
+FileChecksum: SHA1: 3e0e24ebde0a4edd2b52ef4e67bcd6c24eaae7cd
+FileChecksum: SHA256: 02267d35a6c31688d3ab003e0d92982052942fd6221056b4b781eaa1c1b31f01
+FileChecksum: MD5: 6c20df6cb7aec62375fdcde2dd3e00d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/Dockerfile
+SPDXID: SPDXRef-item2160626
+FileChecksum: SHA1: e3107c3cd7a4ac60860e8b16290ff074e7c7846a
+FileChecksum: SHA256: a7552f64c39ee7c5193b7247732fa574e9f34715edc31a931fc57fb67a72c115
+FileChecksum: MD5: e3ec94a3eb81164c755cf6e410a9b287
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/Doxyfile
+SPDXID: SPDXRef-item2160627
+FileChecksum: SHA1: 91cd14e151096c16aee1db0903b5938bbbafaf25
+FileChecksum: SHA256: ea08050437a08d6ae7b30ce9d625f24231cbdaee09a013499a74260e40058b96
+FileChecksum: MD5: 82c70cfbdccf231bddb1b7bc1c5a36c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/README.md
+SPDXID: SPDXRef-item2160628
+FileChecksum: SHA1: 086371e636776c0dc0dd4aaca6d8e35ee37814bb
+FileChecksum: SHA256: e6720f1bcf4c0db144c7ae8a921daf6f08570257a98b21408c8cc85f183e1a90
+FileChecksum: MD5: 0a4c2d8fd2ebdbb836cd796ee3ad4eff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: OpenAssetIO-2022-06-10.zip/OpenAssetIO/doc/package.json
+SPDXID: SPDXRef-item2160629
+FileChecksum: SHA1: 9bf260487e781b457cc2be83315c26dc00b76d7d
+FileChecksum: SHA256: dda46f3b4bbf56c0cc9e3f092fa56aeb7243efbefe6e64c17993628dac2e6450
+FileChecksum: MD5: 0c57a7d42e293c87f4bcacfd01abe2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
