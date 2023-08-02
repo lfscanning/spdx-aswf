@@ -1,0 +1,736 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_rawtoaces-2023-07-24.zip_1690971173.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-08-02T10:12:53Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: rawtoaces-2023-07-24.zip
+PackageFileName: rawtoaces-2023-07-24.zip
+SPDXID: SPDXRef-upload939
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 88ff42d2267f58fe7e903d12e51c34d3a9fa4b1a
+PackageChecksum: SHA1: 54d5d11147d7cdf5df9da3aa10c8ffadc6463646
+PackageChecksum: SHA256: 620ec9bca9251afdc3b31ba7a5de9dc4cd756289753bb873f2d7c57c37cd8c2d
+PackageChecksum: MD5: fa74046bc8870b1727a038d260eb66e8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload939
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/LICENSES.md
+SPDXID: SPDXRef-item4952629
+FileChecksum: SHA1: 6b2067cce10f14a03a48afc28b2289e362fb624b
+FileChecksum: SHA256: 6bc9b8183a7e820f052da3f9144a73c704297a0ce3dd2acdc7ce88f839105cc6
+FileChecksum: MD5: ee663d23c27e25f8a5bc77bfe55f7c0f
+LicenseConcluded: AMPAS AND BSD-3-Clause AND CDDL-1.0 AND CDDL-1.1 AND LGPL-2.1 AND LGPL-2.1+ AND LicenseRef-ACES AND LicenseRef-WebM AND RSA-MD
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: CDDL-1.0
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: CDDL-1.1
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: AMPAS
+LicenseInfoInFile: RSA-MD
+LicenseInfoInFile: LicenseRef-ACES
+FileCopyrightText: <text> Copyright © 2017 Academy of Motion Picture Arts and Sciences ("A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein.
+Copyright © 2015 Academy of Motion Picture Arts and Sciences ("A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyright notice, this list of conditions and the Disclaimer of Warranty.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein.
+Copyright © 2015 Adobe Systems Incorporated ("Adobe"). All rights reserved.
+copyright notice, this list of conditions and the Disclaimer of Warranty.
+copyrights, patents, trade secrets or any other intellectual property of Adobe or any contributors, except as expressly stated herein.
+Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
+Copyright (C) 1991, 1999 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+copyright the library, and (2) we offer you this license, which gives you legal permission to copy, distribute and/or modify the library.
+copyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language. (Hereinafter, translation is included without limitation in the term "modification".)
+copyrighted interfaces, the
+copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+(c) the combination of files containing Original Software with files containing Modifications, in each case including portions thereof.
+(c) The licenses granted in Sections 2.1(a) and (b) are effective on the date Initial Developer first distributes or otherwise makes the Original Software available to a third party under the terms of this License;
+(c) The licenses granted in Sections 2.2(a) and 2.2(b) areeffective on the date Contributor first distributes or otherwise makes the Modifications available to a third party.
+copyright, patent or trademark notices contained within the Covered Software, or any notices of licensing or any descriptive text giving attribution to any Contributor or the Initial Developer.
+Copyright 2016 Google Inc. All rights reserved.
+Copyright (c) 2002-2011, Industrial Light & Magic, a division of Lucasfilm Entertainment Company Ltd. All rights reserved. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/lib/define.h
+SPDXID: SPDXRef-item4952611
+FileChecksum: SHA1: 470087bd47824d5b5e86d0c8978499f8699e204e
+FileChecksum: SHA256: 70e82037266308a3015d93b81e06c8d7638f1cf685808d47deff510d2d40fc76
+FileChecksum: MD5: 71f12a9b72b958b2768243d547b889c8
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/lib/mathOps.h
+SPDXID: SPDXRef-item4952613
+FileChecksum: SHA1: a4ee742fb6f6b58c0d53ca23e611700a99f5d85b
+FileChecksum: SHA256: df07b59ac86073f99e0125fd4e693a84156081aa31c5485cd15b4d11d75c7153
+FileChecksum: MD5: 6e9542f666cfa4c3bbf9a5889dbaf661
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/lib/rta.cpp
+SPDXID: SPDXRef-item4952609
+FileChecksum: SHA1: c4078b021e70a4ac98a7793bfa8bd57c31a9253e
+FileChecksum: SHA256: c246a39051934999cfa7a4e64ae8b5f1b76c6f23bcac6b67a04b887579460d35
+FileChecksum: MD5: a04860027e78369379ea4e5f4e9f048a
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/lib/rta.h
+SPDXID: SPDXRef-item4952610
+FileChecksum: SHA1: dda97b7c5bee963bb8975b9d93f513222ae510b8
+FileChecksum: SHA256: 705e8541ec3a5f84c7365f02c29512d0eefb529740a0c23bd3cc84be4c4f2625
+FileChecksum: MD5: bad4b2f041af536ee9dc6594260490af
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/src/acesrender.cpp
+SPDXID: SPDXRef-item4952585
+FileChecksum: SHA1: 68c011fbb41af9742991923e61c20e69011e69c1
+FileChecksum: SHA256: f4cebb5ede41f93fa2ae69cfa9456bde9098047eaec8fc0afae5ab391dc42e59
+FileChecksum: MD5: 06f715d52b6b5ba4cf10dbc606bca14b
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/src/acesrender.h
+SPDXID: SPDXRef-item4952587
+FileChecksum: SHA1: 19f5dd73a95cc5d42d575c9e4d02a7839200495e
+FileChecksum: SHA256: 19ea7ecdac49baf802fc654f99b6baf47b86fde779d444b0759381c91562819e
+FileChecksum: MD5: 503cf36ac4fe2b9eb2c127f584ddee52
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/src/usage.h
+SPDXID: SPDXRef-item4952586
+FileChecksum: SHA1: 6a162a59bdf69f0c63b96bc0225b9db5c8801b51
+FileChecksum: SHA256: 75eddb9f839c0f53f146ac0fa677854ce8dc341c57780851ae85ca917df9bfa8
+FileChecksum: MD5: 2d757d9b7eb43181848e91a89d55c302
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/testDNGIdt.cpp
+SPDXID: SPDXRef-item4952620
+FileChecksum: SHA1: 361efa9900ff82b69af75fe6b906f64c55e41b67
+FileChecksum: SHA256: ddf6c23212c111aaaf99b864e55f3c0c7564757ffd10fe11749372871e659ec9
+FileChecksum: MD5: 355e5debdaade578663dc16535f251bc
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/testIDT.cpp
+SPDXID: SPDXRef-item4952621
+FileChecksum: SHA1: d1e25752e383a4d367016bebbcb49d37e697fa5b
+FileChecksum: SHA256: cd4eed1749422d4a149a377c31f80e471462ba1a613492db1ef603c98d86a086
+FileChecksum: MD5: 3bf2a3d3156a2324033e9793b13ffe32
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/testIllum.cpp
+SPDXID: SPDXRef-item4952624
+FileChecksum: SHA1: 6706b45cac09d61b416f05aafff85da8af00a84a
+FileChecksum: SHA256: 1d216f2d0f4f35ad4cfe92aef41a30049114ff3fa2f16d6cb6a32c565a1abe34
+FileChecksum: MD5: a82763443bac0b59664dd046102ebe76
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/testMath.cpp
+SPDXID: SPDXRef-item4952616
+FileChecksum: SHA1: 7760c5abb581e775101d7adce58772997b59e26c
+FileChecksum: SHA256: d20050a8e751ac9614f639b7ecefefffe2bba14dd9fafa115a4e96c663269e55
+FileChecksum: MD5: 90508a326eb00d5ff5b87d0cee07d3f2
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/testMisc.cpp
+SPDXID: SPDXRef-item4952623
+FileChecksum: SHA1: 0f47848bffd92107ee630cddce916ea00ba1568b
+FileChecksum: SHA256: 4c7719daccba871a163ab50884919f2c5520d046463bf1cf9e209e7bc7947291
+FileChecksum: MD5: 17317d4b53b86eaf1c32d56b30a89e10
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/testSpst.cpp
+SPDXID: SPDXRef-item4952615
+FileChecksum: SHA1: 75a5cf985a6de71e1acd69af673ec458bc9f108c
+FileChecksum: SHA256: e4266b3b79b79c804360c6714911ded215a15daa4767e3c319a76eefa111fa2d
+FileChecksum: MD5: 3a8b3ba727c74e263fed92d9d57b20e8
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/README.md
+SPDXID: SPDXRef-item4952627
+FileChecksum: SHA1: d8dc97870bd45f1bd3817203f336044431c0c90d
+FileChecksum: SHA256: c178532139131fcf9a27bea4ac6722882b7c5f0ac903ebdc5ba9fb166241999b
+FileChecksum: MD5: ea62f8f20d571e557d76ea65a7490e2d
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright © 2017 Academy of Motion Picture Arts and Sciences ("A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/main.cpp
+SPDXID: SPDXRef-item4952630
+FileChecksum: SHA1: 81df39ebf523c747d462924da929ce336164dedc
+FileChecksum: SHA256: 5c0a49cc6b06bdd971c80b6db7965cc3c5be97a9327006eaa00e5fd3a69acecf
+FileChecksum: MD5: 2a4b598d4264bc75202e9257a2a45687
+LicenseConcluded: AMPAS
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+LicenseInfoInFile: AMPAS
+FileCopyrightText: <text> Copyright (c) 2013 Academy of Motion Picture Arts and Sciences A.M.P.A.S."). Portions contributed by others as indicated. All rights reserved.
+copyrights, patents, trade secrets or any other intellectual property of A.M.P.A.S. or any contributors, except as expressly stated herein. </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/cmake/modules/FindIlmBase.cmake
+SPDXID: SPDXRef-item4952581
+FileChecksum: SHA1: 0afb69bc4ad3a82984d90490a342c805ac2f2bd2
+FileChecksum: SHA256: 453c04559fbd534d3087cbe2a6616786b36293b3a3f573a7173f4607a36b3c43
+FileChecksum: MD5: 4f9859a8962d4abda8452db4dd50918f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/cmake/modules/Findlibraw.cmake
+SPDXID: SPDXRef-item4952582
+FileChecksum: SHA1: c89c3af4ec8fc7671195450ecea02e38642f9125
+FileChecksum: SHA256: e9b35a30e90f68098e2a1c2b4f8009367beed8fbe06f510101973fb1dfd0d980
+FileChecksum: MD5: 66c926dc88cd3bd39a045cb8595b0416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/cmake_uninstall.cmake.in
+SPDXID: SPDXRef-item4952583
+FileChecksum: SHA1: bd423862912326fc0e13f16e56d1344e46793fd7
+FileChecksum: SHA256: c055b321246df1435a71a38b4ca432556fca3e2a77e3b39b913a94bae3282101
+FileChecksum: MD5: 99b80fd00ca70b45673b1f90c19abf18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/src/CMakeLists.txt
+SPDXID: SPDXRef-item4952588
+FileChecksum: SHA1: adde6c667227f48e2fbd4dfe9f4924a360579a51
+FileChecksum: SHA256: 69e24e20980bbf646585b204f1eaecc3af02b009b7b5ab0774a6f326f50b91da
+FileChecksum: MD5: 4f5d79d4d5e503342338ba1ca76145ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/illuminant/iso7589_stutung_380_780_5.json
+SPDXID: SPDXRef-item4952591
+FileChecksum: SHA1: fc3b9a6ae52fcdb2520a477e0791461f6320054b
+FileChecksum: SHA256: 2f338e9ee148f5a1e7ef216f6d7a2215cced8bbdd474fee984ae2d3c69eff396
+FileChecksum: MD5: 04759a71d97a5135baca8c6b60870f8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/training/training_spectral.json
+SPDXID: SPDXRef-item4952593
+FileChecksum: SHA1: a9d5c24ba52a5c0c752ffd2c7b5095e4366fa6cd
+FileChecksum: SHA256: cd3aaa0a3239127ef16638da9fd2de2f9c328c82fc52f481936c29cd43f2f3c3
+FileChecksum: MD5: e14967617b7345fb49e128f9bff1545c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/cmf/cmf_1931.json
+SPDXID: SPDXRef-item4952595
+FileChecksum: SHA1: ad3b324b11eb510dbdf527d4da3b83e4e5cc90f8
+FileChecksum: SHA256: 0b94cbf2370b56ea6f89170573f60c3b891ebb43bc9c6765609042cf271e5644
+FileChecksum: MD5: 7f75d79f2c97fed329ac39970ca54197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/nikon_d7000_380_780_5.json
+SPDXID: SPDXRef-item4952597
+FileChecksum: SHA1: f940921d1f84dff65c2d811ddb232318dafea17f
+FileChecksum: SHA256: 4cfc6d81c45c00a0c17a3a3c7b9a11af26138acac4297392f3c698f20977d7f7
+FileChecksum: MD5: b0543bf1829256d26fc04cd171ba75a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/nikon_d700_380_780_5.json
+SPDXID: SPDXRef-item4952598
+FileChecksum: SHA1: 1ace504cda4a960fa752f31e1280ecb0018d527d
+FileChecksum: SHA256: e085797376a9f1ca3b0f65dfb8f22ffaffcf1c939ea0dfbd752cb356af795801
+FileChecksum: MD5: 8f6fadd2d01590658ff8ed4461ae778a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/canon_xti_380_780_5.json
+SPDXID: SPDXRef-item4952599
+FileChecksum: SHA1: 6a71b2f0e8d23ff3cccc4c0305a3126873dd3534
+FileChecksum: SHA256: 125c49cc96aeb35be2fbb34de0414cf5191b2a004adc5519d89bbf645060d241
+FileChecksum: MD5: 12c06648ce4ae11f2f7c50a5ba0869fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/canon_eos_5d_mark_ii_380_780_5.json
+SPDXID: SPDXRef-item4952600
+FileChecksum: SHA1: 8321d29a596a41a6ac6f5f9efc3f422eeba6e2af
+FileChecksum: SHA256: 2f3896c59c834c7bd6c35f718b3c42abdcc90dfde7021c0a36789a6a437c88de
+FileChecksum: MD5: 29c885ab63951948504e3d78d07fcfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/nikon_d70_380_780_5.json
+SPDXID: SPDXRef-item4952601
+FileChecksum: SHA1: 42a95bca839a675ac004ae7f25e511bb13172d52
+FileChecksum: SHA256: 5054220f502e6498c78f1216a63c22b660eacc308dd6683ebc035ca26454e5f4
+FileChecksum: MD5: 3d1a75d64102e2c7e8e7dfb8b1bc29a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/nikon_d200_380_780_5.json
+SPDXID: SPDXRef-item4952602
+FileChecksum: SHA1: 1438dc62a01fb151c2daf3678c09176a300650b9
+FileChecksum: SHA256: 07051f16fe48c361818c88fe346742841f9ef39ecbff40b9f969316e31dd0d1f
+FileChecksum: MD5: 5b6d4cae536899ef5d7235ef960e58a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/nikon_d5100_380_780_5.json
+SPDXID: SPDXRef-item4952603
+FileChecksum: SHA1: 3ae92b1876e2c3b9ede5480453a253a6ff6cc0cf
+FileChecksum: SHA256: b6e434375b140d773fd419bbb2cef82eaee6295b694923a35041ab3fa74a4ed4
+FileChecksum: MD5: 65c605d855f5c0c82e6f503fe9f5d2d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/sony_ilce-7rm2_380_780_5.json
+SPDXID: SPDXRef-item4952604
+FileChecksum: SHA1: cd2fcc68aee39c8cc6fb3b46c2cfd938aa696ded
+FileChecksum: SHA256: b61de7198c0a0453211e692d2df73fbdee7d8dc8321509b3538ba7643f2d5761
+FileChecksum: MD5: 458da5b48297b53d4573618ee5dd8303
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/arri_d21_380_780_5.json
+SPDXID: SPDXRef-item4952605
+FileChecksum: SHA1: abfdc6bddd8b983c4715e96e78ef0a131325c0e4
+FileChecksum: SHA256: 1b226b98ccbad7f57c3ba33401f61746d8420ebee742e6e8ae9ad65a4a667a8b
+FileChecksum: MD5: 15e738d24e7ee0ae3fad93ec984b8caa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/canon_powershot_s90_380_780_5.json
+SPDXID: SPDXRef-item4952606
+FileChecksum: SHA1: 72c86827469cd8e034f1c7060ae5b36288e4c456
+FileChecksum: SHA256: 0e6f9ac80d5762305908a7eea369d487753908b6ec0195aafaa9398b305bdadf
+FileChecksum: MD5: 0897883ebe12e6e6cee53900bc44646f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/data/camera/sony_ilce-7sm2_380_780_5.json
+SPDXID: SPDXRef-item4952607
+FileChecksum: SHA1: 25bb0cc6520a331ce8a1d659d4db67de2b89dc3d
+FileChecksum: SHA256: 1247226a418a4b24db1da748b0812293d53aa567f9970ea45485f1ab8f33158b
+FileChecksum: MD5: bdd885bea07c96863d492b526bdfef27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/lib/CMakeLists.txt
+SPDXID: SPDXRef-item4952612
+FileChecksum: SHA1: 1458487118f0daf5f879ba9c03d8d75c8d9341b6
+FileChecksum: SHA256: 2539c5c4d964186c92cee2aabccc7a5d89c201a6b3cb1199230a7875768c1032
+FileChecksum: MD5: 8a99a8a71489be171987fc05f7bbb5f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/materials/BatteryPark.NEF
+SPDXID: SPDXRef-item4952618
+FileChecksum: SHA1: 445dabde04a0032c6f71f802a8abc1cef3886085
+FileChecksum: SHA256: d9bd91f3e277a05e56138ff0f83f6a7d25cac1b8b7e7104abe367b88a901a404
+FileChecksum: MD5: 702610776033025bfdc0d367acf9a5fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	W 3RރGÚðÛDÚm©,íûµ?xúVW-¡M?2Æ?óGò¯:'Y򮮂?1QåU5֌ç§x?ÿÅOnAÇü«èhoÑ/?O?ֹÄZ>?԰o G5ØbË6¹ûL|ãæ?׫\ˑr1Lp:b£ù? ¬D2Ù?OPÿoƘ8f9¨(8aõ®áù·9þí4# 杹qҐÆî?»?´r[«?A>Ñ,S?±?ÝI¸zTßI =ê"q8ç=jhÎG?¨?
+©	rd)S«7CÎ7óÈ53á5ӷ5óÊ93â6sð7Sý9d?9³û8Û9d?9#ç8d?9Óì:?õ:#´8?Õ9³ç5ä?:#ü9æ9Ó3Ý7ãá6sÔ7Sç6?µ6SÒ4£  ×?0\ I?ðI?R?Pt?à³Bu?2c!b÷*c6sÄ4#5c´7³É6CÍ5S¿6?±6ã©9¨7£5³É7³Ã:#Ä93ö7ãß8´9?Ä8?Ö8SÔ6òù?ð }?Ðn?°Z?°a?ðs?ÀU? c?z?`o?_?Pg?ðq?ð}?ÀW?P_?@z?ðK ?ð?± ?a©?ÑÚ?¢ rB?â2?" 2?Ò ã?Aµ?¹?Ñ_ 2 @à	`Í?À c? X G?0^?P^?S?°x?`Z?àe?àW? U?V?J?0K? R?Pp?`f?@o n?°b?Pb X?P]?àq?Pg? l?ð`?o?ài?p[?Ðo?@R?``?X?°a?ÐV?pe?P<? (?À'?à5?0B? G?p~?0W?O?À 0E T?°U `?@C B?àA?pE 7? 5?08?`4? ??Ð:? 0?ÐC?M?0/?`K?`:?@I?P1 =?6?2?ð0?8?ÀI?05?0-?°B?ÐA?PN? 3?@?`7?D?PM?`S?f?b?Ê?Pè?!$' `³ ?¡ !?%ðà?á?!1 P¥?q Á?&a'p÷( + #ñ?)A<,k$± Ñ?)Q?+±"+!?,þ-A àí#0ñ& 'p÷*a?. ,?+ñ?* %±(? ! °µ?PÀ?ðÌ?PÜ?@Ã?ð
+© a2?`V?o?Pñ?¡»?ò1?ÂZ?Q¹?á£
+©	1c?A-	an?Q ± pÅ?`ý?0?К?±:?µ?н?ÄB@!B	¡±?6%Ï?q#?µ ²?B {?0{?Ðü?ÐÞ?á ò?Á?`¯ Æ	B?¡ß?ô?! ã  ?À×? o?Ðv	Qj	±w?I aa?k?ñ#
+©	aH?aQ üQD qr BÙ ³M ã­(÷)Sè?4?0·?à ??°»?0Ý?A"  z?Pw ä?pi  è?@¦	Á??qU?A4!?â ó?² ¢)?bp '?S!?"J?R¤?r Ò?&#¬?¢T?²´#ô4/$?!Ԏ0eà1ձ-ՠ.õ*?«?2Y?b!Cô?ҬQ
+©	qn17 A qD?¡.?¡±à?r(?²[??Ý?í?a ý?.?1.?Q 8? Á pÕ?p¡?àÁ?`g?Y?0g ­ ðã?× l?! ë?A>?ÁR Pð?Ðæ?Ñ?0~?Q[?q¡?>? Qa?2?ÁD?ðË?÷?ðØ?ÁL?Á ÒÉ%¤m?RR? Qþ?â¢?H?¢x?r??rm?ò@?ÂR?ô +Q?Ҟ?B q· Ç?aä1E?áV?>?°q?À_?pc?ðK?j ?@f?ð¸ ;?Ñ  </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/materials/blackmagic_cinema_camera_cinemadng.dng
+SPDXID: SPDXRef-item4952619
+FileChecksum: SHA1: 76c651882e8b015c5d9ded6ba883def562cb5c22
+FileChecksum: SHA256: d83560c9cbed343b0aabdf3cf273084b04361ec9b5e261b8b2821edd7afe7bfc
+FileChecksum: MD5: 338f897a9d726146f925abe9c5442dee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © RI?Bn&£G'?Ì"2½%³?*£Q-CH+be ~#?A"2?²?Âð 2¢ âh!Ã c?"l"b¥?Rý#ÂÎ"Ã^+#®-c?%?.ó²+ç2?ò/ ,CT#£ ÂQ#?x(Rð"âj#ãD%òæ!cn.s7£¥)óQ*S+*S04?2D)3#Õ0l4D?3?.?p24Ê?ÄG5T9??%>$I2´+9 3 5¤>4C|0#æ7Óí,âò"r â%?Bd!óM6Sõ4åL;Ã?.cõ3Ãd(c4¡#B»+4?=Å>Bäà=T9DeBå=CÕ-E¥IJèPµL¥ªC0IõB5YH?/WNQ6:[æ³W¶	BT?5?2ä#4¤84?%9¤îAµmFåI?»Je¬IõíOÆ
+© R A ¢M j?ò¾"bÀ"âÖ"2Í!?£"?«?¢r?b_?bT?Ò7?òU?â>?rn?"É?rb?Âf? ×?Â ¾%?v?!õ?bK?â AÜ?Ò ¢Û!¢÷*36)BÔ%ÂÄ$òÀ?R×#BÝ!â»#?Y"Rb#¢½"ä#â³#§?ò2?Re 3?*£E9£'?n?BU!!+?Ò!RX&S0+³¾*âÖ*Sb(òæ"µ$¢~#Ô'áú?Òe#Bº"Û!¢^?1Ã?"r#³x'B  " R;?C!b?ñ§?áç?"\?R)?Ò*?r.!¢?Br?qÿ?Ò Ò !ú?R ñî?â!b´?r ²&ãb)âô |'"Ú ¢!rÛ#ã?(cF&?!'?g$ò°?RÕ b|?ҳ)?w&âð&ÂÀ"²#s©/#Ö4t
+© Q[?1P?ñs?Ñv?I?a^?h?±6?G?±k?1I?Ñ=?QF N?Z?G?!W?ñe?ñb?QP \?ÑE G h?ñE?áI?±R?áP?@?á\?ÁW?!D?x?F b?qL?!#?!K?ñI?QZ?ÁT?Y?±[?ÁL U?¡P?AW?a}#bl'¢&?*'A??F?ÑY @?A9?ÁI?!+?a2?(?!N F?±;?E?N?ÁB?Ñ;?18 E?á (?q^?¡/ &?áB?!9???Q0?Q^?1??Á??Ñ8?Q9?qB?Á-?±;?ñ4?aZ?Ñ0 G?q;?q)?qT?Q8?ÁT?A4 9?á&?qM?Q"?K?Á=?qB?? ??q á>?A}?QI?±K?9 ;?4 ;?!D?±2?áE?±U?1B ;?qe?Q8?á6?QL?Q1?!#?D?7?¡L?Á Á9?q(? !I?á;?q(?ÑT?QB?!6?±E?/?±R?q4?!e?q??±P?±F?ÑI?ÁF?Q+?aL?1P?"?ñB?±4?áB?±/?q#?ñ@?qU #?!7?QP?q6?ñN?±G e?áD?Q8?!=?ÁE?±7?Á á9?±>?q8?q- K?¡*?Ñ9?!7?10 &?±4?QP 0?!7?A ÑP?q1?A&?ÁD a2?! á8 4?áG?Ñ/?#?A4?a1?±;?A;?á ±@?"?±0?á Ñ/?Ñ*?!>?A>?1!?Q á&?A0?á Á2 ±;?ñ ! A)?áF?¡-?A??Á-?!?Ñ )?Ñ2?±)?ñ8?q A#?Ñ$ *?±*?á á ñ1?Q A4?*?! @?6?a$?Ñ0?&?AB?qK?QB?AN?QB?ñB?aB?!c?!h?At?Ay?AU?qa?c?A s?Q?á?²?Q¯"?¶$¡Î%Ò#)r(*Ò@.?j4¢6B»8Ó?9Òó9ü<ã?=S,C A3eCCNCӊFsD?tCónESH3GóH#ÀJ?ÂFӭJ³ÛG£´JsÉJÏI?ÌF3×JsòKCâMCØIT?KT?M?ÇN?çLSüL#íMÄ?LDNÄ	M³ðMT?M$/KT?NcÛQ³õNCîFµ?Eµ?J5!I?YJåSKµKKõnL5YNEqQ%{M
+© bp 2Y"© RÈ$"ª"³?(³V(£µ)?+D8=Ô]3C±/$?3?l? /$?.ôB4¤9 ;µBD¹:?·@TÜA5?<Ôþ;DÂ:µ?>î@u?@tÜ;ä{>E"?Dº4¤y7´79u9?2a53È3dn5t2´<4Ä:5?B:$ß5Äi4®:´s5?43ÄÔ7ôÓ8d 4$9¤©9Tµ8$9DÁAõD5wBDæ?P¶QS?OÖJO¶ZQ?EP¦yYÊUÖÃ\ÇT¶PR¦¢]?:`÷%\W?[Ú[§?Y.^éXvY?ÝWìZv£[õ^§?b§5`'?YÖÆUvtW¦$L¬MFFYÖö\V¯WFÁP%FµN@Tí>Å?>DØ=tÉ<ä¼>µ9¤²=$Ù;ôÚ;ôß:ôÊ;ää>$æ=?î:å?=Å??U??ìAõ?=ôç>ï?Ø?èA?@ïBU??äÞ@ÞAdõAõ AdöE?HCu<CeBå$?Õ?BÅ=DõIE[JµlHկI¥¶KÈJ¥¿Iµ¥NŽM5ÆJµ´MUÓO?âO¥ÞO N R'R¶`W¦XZ¶Z֗Yf[VÆ\Õ]?Ð]fÈ^'?`¦Ð\Æç^?Ê^Ñ^¶Z?Z¶àZÆÒ\FÒ_öé\æÁ\æ×aVý^× e?aFôa6÷_Ú]&¡]VÄ]§7aW?]öÖ^¦þaw?]¶¿`?æ^Öí_¨]&½\f±Z¶W¶$R?RuôPÅOE³KElI¥0G5=AԴ<$³;$n9d59T>5 8dI9ô;tl9äL7dO8¤99?m:´ :4´;?=t<´²:4=;¤f7=4D?5T	4Ãô1?2Sñ0C¿2®0£¦.ÃÒ0S2ã¿/£è/Ӻ2CÛ2sÝ1´ 5t?8ÄJ<dã?uK¶FUV^7?`W0e§me?bi?xh·j÷Ðn(?o?qÈ?tZu(fwux\x¨¶{Y#IB8¹@¹QIDÉoùzn©9Iii?w¹yùjÙO?i*yQ¹FYE?Ù;Ny7ù?©Zéuy]ù~yiY^¹c	hYKÉHYq?oÉsy|>YQyyZIFXÚ~¨ڂH·{ø|¸w¨?rwön×ÇlWÒmwªjjWqcId bW böâ^fìa÷%b§5cç=]vYƗ]
+©	y8yoønn76TaO¦ÚaçÖnȐtHCrؿw(zs¨bs¢yøÇx?rèMmç¤f?k?+o¸?nÇZb?Y?RåýS??W^N5eA?F3ä?1³.ӏ,ã-s.£/¤0ô?5´B6TE5£½-Ãç/#Þ0ãÐ0?/c¸/?ô1´21Ô.2sÊ/óú2Óç2ä?1ô?3'4¤74ä?2d,1´?4ä?2d#1?04Ä?4´?44?4ä?/ä?2Ô?1´)3 2Ô?4ÓÁ5¤?5ä?4[4ÔN7t8908dS9Ԁ=äµ@·>?£?äÈ@Õ=TÆ>?>Ĺ=?§@¤Á<9$^6TD:T`7 5$?6T&2Á1ã»3?¿1ÓÄ/C1SÈ/C-ó-S?+rî&b¾*¢Ì%¢Á(?ì'¢§"ò¨"ª%r°&¢¯(R|%?r!²$R$¢Ç%µ$?¾$â!2$òl?"²> ~!2H$ò#â"²|$³$òÃ&ÂÀ(½)Rü'c?-#?+Rü(2î(ÒÜ'¢ì(þ(òþ)³.,3?-?>.Ó'/}3?e*âÇ"¢ê1´7£ò8 8ä?:ô?:ôS7ôi=D<ô^=tV>D\=ą?T?4yA4·@ô¿AD±@ÄÉ@D¿@$ÁA4íB´âAô}9Só3ó³1S02sr/S°/C1S5?½4?ó67<´u=´¨E?ÃE$ÉB?E J¥ÊQµ×Q¶?T?'SF8T&SµöRõèSåPõÍP5±He?BԵD?úGu2Hµ.HU6EÅ	E¤þE%?E?åE4ÃD?ÚCÄðAµ@Լ?dD7ß5ÓÕ4D?62<?U;´i<Ä::ô	7d9äK8Óü<TL<Đ?´ 8TX<$A:ôh;?»BÄÅA$Ð>$y<ԣ>?~>ÄÕ=t»?4»=ÄÖA¤i=D¿@t¥=tî@4ÊBí@$>d¡;18sä6Ô?6Óü5?ê7T?:´y:¤}?%?AdØ>äî?e?BeBG5H?ÂKµîN%üNf?RVFT6 YV°[?ß\`÷Re?gç¾j÷ÞmGþmx?jÚl?þnX;oÈ2q:o?q(QrHs8tøqvøsps8t±vèuȗw?v¨±w¸£v¨´uX¤wxv(t¸|tø®v?s¸sØss?søwtir¸^r?Doè?iìjw·h÷­hwwe?lc5^ÖüX&SVpSFNS¦?O¶IµÕJ5§ </text>
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/unittest/CMakeLists.txt
+SPDXID: SPDXRef-item4952622
+FileChecksum: SHA1: 472317c4572b9cd18c14819c167d61d25a980a91
+FileChecksum: SHA256: 3457f014c9f06ee01c8ca631f735c1273cd23fe4ae6e8b0d9a69ab15f72b8a64
+FileChecksum: MD5: 2661223b7ecd1f6b4e77e38e782a2daf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/.gitignore
+SPDXID: SPDXRef-item4952625
+FileChecksum: SHA1: a468b56703fa11f710694ccbee7735cb8fa26c9e
+FileChecksum: SHA256: 9d1c7b9815bec35031afc80b6eeb677e7df740fb5199ba3b991de423cd441cc6
+FileChecksum: MD5: c75cafc4dd7be83c09adaa721555b67a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/CMakeLists.txt
+SPDXID: SPDXRef-item4952626
+FileChecksum: SHA1: 74fe4cb71860596903ea8d0e59b51ec8066a4942
+FileChecksum: SHA256: ae88e43ed883633742f30435f5696338a29331734fc5c0745e76dd90381eb39b
+FileChecksum: MD5: 59170c6dafca8c830b892dca981f0d7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/configure.cmake
+SPDXID: SPDXRef-item4952628
+FileChecksum: SHA1: d976b20a597e4071c0c43dc05afd9e23eabefe69
+FileChecksum: SHA256: 03b609900557b35ff9a4cb86ccebfb223e02dc74d37ec07783fcb830511370fe
+FileChecksum: MD5: 56761c69e77322c5437902c56b58244f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/config/RAWTOACESBuildTreeSettings.cmake.in
+SPDXID: SPDXRef-item4952632
+FileChecksum: SHA1: d67a245c9c6cb1b371ff060e1eee6685f2eb5f65
+FileChecksum: SHA256: 7d2daa5b25612ac999fc65252d19d5b76fb8a1448971eecf463adbef8a7ae05e
+FileChecksum: MD5: 7aaac957a8d736e88541a5897ea2c9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/config/RAWTOACESConfigVersion.cmake.in
+SPDXID: SPDXRef-item4952633
+FileChecksum: SHA1: 3e7d0df24a9b61ad4ea5152da991c8fae33d5489
+FileChecksum: SHA256: c1af09a1b1ecdd2f65c203f300edb71b8a428f0ff957ca3c1b242bee8c4bdbdc
+FileChecksum: MD5: 2992ec0f960c2d1774f458205f4e7fbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/config/RAWTOACESConfig.cmake.in
+SPDXID: SPDXRef-item4952634
+FileChecksum: SHA1: fcf6199df906d0546bbb64975efd1848d6244420
+FileChecksum: SHA256: 5211610b643f4742f113daef96cc9f87702b9f725ea3ad284420b6a4bb77e451
+FileChecksum: MD5: 6ade47e92f2e207aea912d0f008b6f75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rawtoaces-2023-07-24.zip/rawtoaces/config/RAWTOACES.pc.in
+SPDXID: SPDXRef-item4952635
+FileChecksum: SHA1: f72a48582ee114e8ac9b21ae0f3d122e67522396
+FileChecksum: SHA256: 6789aa506554ce4bdefc1ba02b4fe57b2e2a306cb7d25ceae91889d249d76902
+FileChecksum: MD5: 79aa6c060d0da06dec0da0a10dd9cb13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-ACES
+LicenseName: ACES License
+ExtractedText: <text> License Terms for Academy Color Encoding System Components
+
+Academy Color Encoding System (ACES) software and tools are provided by the
+Academy under the following terms and conditions: A worldwide, royalty-free,
+non-exclusive right to copy, modify, create derivatives, and use, in source and
+binary forms, is hereby granted, subject to acceptance of this license.
+
+Copyright © 2015 Academy of Motion Picture Arts and Sciences (A.M.P.A.S.).
+Portions contributed by others as indicated. All rights reserved.
+
+Performance of any of the aforementioned acts indicates acceptance to be bound
+by the following terms and conditions:
+
+* Copies of source code, in whole or in part, must retain the above copyright
+notice, this list of conditions and the Disclaimer of Warranty.
+* Use in binary form must retain the above copyright notice, this list of
+conditions and the Disclaimer of Warranty in the documentation and/or other
+materials provided with the distribution.
+* Nothing in this license shall be deemed to grant any rights to trademarks,
+copyrights, patents, trade secrets or any other intellectual property of
+A.M.P.A.S. or any contributors, except as expressly stated herein.
+* Neither the name "A.M.P.A.S." nor the name of any other contributors to this
+software may be used to endorse or promote products derivative of or based on
+this software without express prior written permission of A.M.P.A.S. or the
+contributors, as appropriate.
+
+This license shall be construed pursuant to the laws of the State of California,
+and any disputes related thereto shall be subject to the jurisdiction of the
+courts therein.
+
+Disclaimer of Warranty: THIS SOFTWARE IS PROVIDED BY A.M.P.A.S. AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NON-INFRINGEMENT ARE DISCLAIMED. IN NO EVENT SHALL A.M.P.A.S., OR ANY
+CONTRIBUTORS OR DISTRIBUTORS, BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, RESITUTIONARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+////////////////////////////////////////////////////////////////////////////////
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, THE ACADEMY SPECIFICALLY
+DISCLAIMS ANY REPRESENTATIONS OR WARRANTIES WHATSOEVER RELATED TO PATENT OR
+OTHER INTELLECTUAL PROPERTY RIGHTS IN THE ACADEMY COLOR ENCODING SYSTEM, OR
+APPLICATIONS THEREOF, HELD BY PARTIES OTHER THAN A.M.P.A.S.,WHETHER DISCLOSED OR
+UNDISCLOSED. </text>
+
