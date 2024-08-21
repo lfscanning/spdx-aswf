@@ -1,0 +1,1338 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_dpel-website-2024-08-21.zip_1724231056.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-08-21T09:04:16Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: dpel-website-2024-08-21.zip
+PackageFileName: dpel-website-2024-08-21.zip
+SPDXID: SPDXRef-upload1455
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: e969863d20d4b0834fa600ebd296c9606ced7b55
+PackageChecksum: SHA1: cc9b261e8648b0c03141c85aec6d22fcacf281ac
+PackageChecksum: SHA256: 42dc467c28d6d8f41e552e1ffecc88b6502994d903e8b293794ec8fd4794ea75
+PackageChecksum: MD5: cf04db4e9783eddcaaa92113e5a110ea
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1455
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/THIRD_PARTY.md
+SPDXID: SPDXRef-item9763005
+FileChecksum: SHA1: 6fbcf4b4028dca6cd914a6df57dfeabe7ac9aac1
+FileChecksum: SHA256: f6f61ba4985d6b236a58e4d688363e361d69e86fad0b8b944721f70d753b0569
+FileChecksum: MD5: 50774751f8de113f7d7a23d58c262ab4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2021 Fred K. Schott
+Copyright (c) 2020 [these people](https://github.com/sveltejs/kit/graphs/contributors)
+Copyright (c) 2019-present, Yuxi (Evan) You and Vite contributors </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/LICENSE
+SPDXID: SPDXRef-item9762916
+FileChecksum: SHA1: dae17fdaf0b07242bd19bb4ea685157fe65b8a55
+FileChecksum: SHA256: 8d3fceb4cb62663775f02c1c551cfbf332d1c736667c17817c16c635caba21e0
+FileChecksum: MD5: dd44fc98fc34924a5614ce865a50e4d8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright. More considerations for licensors : wiki.creativecommons.org/Considerations_for_licensors
+copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rig
+copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world. k. You means the individual or entity exercising the Lice
+copyright notice; iii. a notice that refers to this Public License; iv. a notice that refers to the disclaimer of warranties; v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable; B. indicate if You modified the Licensed Material and retain an indication of any previou </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/astro.config.mjs
+SPDXID: SPDXRef-item9762914
+FileChecksum: SHA1: 17560bad1eb292cf398f57554659d3b116c90f6d
+FileChecksum: SHA256: d530661ebaa1c6e25562dfbade5d7bea11a1c541bbbca3f31f196911a58247f8
+FileChecksum: MD5: ba742110e40c11558f4e1cbf01130dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/CNAME
+SPDXID: SPDXRef-item9762915
+FileChecksum: SHA1: d988d22d80f82b5a5a971cb8a38d90e133a84fa3
+FileChecksum: SHA256: 898f8186a9181a91d6c51ef797fd6c8abbc5242fa2b5957114d8ccdb99221398
+FileChecksum: MD5: c6d35e0b81970c8022b985e69f2b08ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/package-lock.json
+SPDXID: SPDXRef-item9762917
+FileChecksum: SHA1: f26c58aef62ca9fe304650a476e61ba651b09659
+FileChecksum: SHA256: f8932aadfab7f9b20a9b69be63a556f4efee43216ababc9bad9e89f9d57d833c
+FileChecksum: MD5: 9707747c3ee4db061d3b0ee69b66f7f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/tsconfig.json
+SPDXID: SPDXRef-item9762918
+FileChecksum: SHA1: e3edb50f043a7f528d7d2d9e992da2940c645a20
+FileChecksum: SHA256: bcef928dd44c079466f9874e4a9838e42e327d48fa566debe40f14eb1b8fa758
+FileChecksum: MD5: 99007327811248bbe87dfb0d0eba64b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/env.d.ts
+SPDXID: SPDXRef-item9762920
+FileChecksum: SHA1: 11bd9628c95463d60a64cd9f8cc240bf3812e0d4
+FileChecksum: SHA256: 5a498a2ff3c0abb338aff60209dfe32fb591fc5ad359182c5a14910f4c2fff8f
+FileChecksum: MD5: 1dd7153244f921edac1f1d04155b52b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/component/Breadcrumbs.astro
+SPDXID: SPDXRef-item9762922
+FileChecksum: SHA1: caa4eb3354991b1621f60bf74767ab2ab60fcfa6
+FileChecksum: SHA256: ad6d2177d96a220306d8ec00bb7c0678c3f9f18b80ae704cd3001a0a0a7cf74f
+FileChecksum: MD5: 10632d64445c4828bb9cadf0d0df7852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/component/Table.astro
+SPDXID: SPDXRef-item9762923
+FileChecksum: SHA1: d353214ae41be2f00fffcd603f176189a6942073
+FileChecksum: SHA256: f8d539b3a232224c697f881d3fa11871283aeb5290022e21aa7eea9f75d96811
+FileChecksum: MD5: 0949596bdd2bb45dae981714e86d5df1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/component/Table2.astro
+SPDXID: SPDXRef-item9762924
+FileChecksum: SHA1: a0b9d83352244a06771911cd03cf2871f6f572f3
+FileChecksum: SHA256: f71be16e6d6ddd37e848e211af86e8aeae2dded76841740f969bb13162ef1cb8
+FileChecksum: MD5: 75db687f13293047bd307c9f4b077438
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/component/Card.astro
+SPDXID: SPDXRef-item9762925
+FileChecksum: SHA1: 661dacae028917c3492e29ae20b2b9b577ff879d
+FileChecksum: SHA256: c649ad733feb713d58253d14fd3a4d9f1a095cd392dfccfe241a29f9077c5c3c
+FileChecksum: MD5: 6edd4c5e2e864d8729cf07fcabddd417
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/component/HomeCard.astro
+SPDXID: SPDXRef-item9762926
+FileChecksum: SHA1: 5112e182c93c54e22f4ec00ef89480ae83b460dd
+FileChecksum: SHA256: ebda9eb5d80da6e599a5ca8a004cac89cf3b62cebba5ca35d7e229364e0c11cf
+FileChecksum: MD5: 57297d913848701a5d2052fb1eec0d83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/component/Button.astro
+SPDXID: SPDXRef-item9762927
+FileChecksum: SHA1: c615265d8e6010177294a8d26ea61a33423217c2
+FileChecksum: SHA256: 368c5f056bec4e7000aadc9a6e5965214af69b46e41c4833eb5c89b1c7ab4835
+FileChecksum: MD5: cf0773fc7a3412b80a4d67a42af5e61b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/utils/sortCards.js
+SPDXID: SPDXRef-item9762929
+FileChecksum: SHA1: f877e416bdba5b48b67c9e13c76f9f41561f28a3
+FileChecksum: SHA256: e3a3f61511fc6ed0a6760b4ad0e876a3b3fa1bf55b5c082a6670801ebc6f137e
+FileChecksum: MD5: eea4f56ea001a61f050ee60ced38fff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/utils/constants.js
+SPDXID: SPDXRef-item9762930
+FileChecksum: SHA1: 7803ad7dbeaa83343fffe04397051fc134a72ddb
+FileChecksum: SHA256: 697164a68cbad653770b056d6813d1617101beba0e5b9fd902094ad2fa983a41
+FileChecksum: MD5: d293122815d41d1da665fdcb98d8d086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/4004-moore-lane/moore-lane-license/index.astro
+SPDXID: SPDXRef-item9762934
+FileChecksum: SHA1: 289359cad8c798b4c071e2698e1dd2f45b572963
+FileChecksum: SHA256: d79abd4ca347f07ffe34918c3551dc5a195ca7c30a17c1f386e1bb1176a35850
+FileChecksum: MD5: 34be179938787009d55a6510c3feaf8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/4004-moore-lane/index.astro
+SPDXID: SPDXRef-item9762935
+FileChecksum: SHA1: 0d0c75b5ff3f1a298ac04704a77623ae439be7d6
+FileChecksum: SHA256: 51be665c668d7890ab684e83957fcdd4aa085faa10dcef8c5a4a0308d908a4f3
+FileChecksum: MD5: e8c5bfbb67a11a48c868c193e09aa063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/alab-trailer/alab-license/index.astro
+SPDXID: SPDXRef-item9762938
+FileChecksum: SHA1: 0420d353cc8ad8c98c02476c157a4ff62776b0c2
+FileChecksum: SHA256: e004f4155f33e6a8b753a81f5370dc0ff3e1a77f816af93e160c50b698f59fb4
+FileChecksum: MD5: 47b351ee736da9c26e1456b86e3b9b4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/alab-trailer/index.astro
+SPDXID: SPDXRef-item9762939
+FileChecksum: SHA1: 92516ea8b63a0bfa2e6d36e2309c6b057228ae37
+FileChecksum: SHA256: 7fbe8bbcdbf815b962ad1dd565535752153ed9fd0134c7913f4110c123908c88
+FileChecksum: MD5: 43663483dd213d8368de77cec013440e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/asc-stem2/index.astro
+SPDXID: SPDXRef-item9762941
+FileChecksum: SHA1: 292a27406b4c1ea9e9dbfb284d950726495286a6
+FileChecksum: SHA256: 232b5182ab22c71b0dfaa5888c8a62078aec49fd9e38f3987560088d902519c2
+FileChecksum: MD5: 552175233bfcabc7c3f5df8a6db0c1b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/404.astro
+SPDXID: SPDXRef-item9762942
+FileChecksum: SHA1: c7ff97e09b226dea80abb5a9132c12e014b08029
+FileChecksum: SHA256: 7f431b3fe7ab2f4bd1334d0fae9e825430a714fdc264b0e1862211595139e49a
+FileChecksum: MD5: 80b4a272fb20d5dc61a0c2df04aba9b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/intel-cloud-library/intel-volumetric-clouds-library/index.astro
+SPDXID: SPDXRef-item9762945
+FileChecksum: SHA1: de262f72e14114232bcc895d75269c0e9219af6b
+FileChecksum: SHA256: ad66b35d3c959d5e193b4320e00f4132a289ec311040144047bfce712c6c9b24
+FileChecksum: MD5: 69d01f8ec9eeb62235606f21f873fb3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Intel
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/intel-cloud-library/index.astro
+SPDXID: SPDXRef-item9762946
+FileChecksum: SHA1: 2b9cbe28d978160eb623694700b16c11a5fc18d7
+FileChecksum: SHA256: 3b6b8cc7adf4a54a637e5236f222f49973830c25706646b42396acb8612f5f51
+FileChecksum: MD5: 50c060bd0b66ecea23e62b6c4437cf04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/noa/aws-noa-license/index.astro
+SPDXID: SPDXRef-item9762949
+FileChecksum: SHA1: c424cb19d0efcb351f3e9c4b817eb5641ff30ad1
+FileChecksum: SHA256: c0c4f28e56a78843e8556678aa2bc753c86f2b808f74f2c366332f2d9c9e3d35
+FileChecksum: MD5: fea4770c0c8aed49b4af405851e48840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/noa/index.astro
+SPDXID: SPDXRef-item9762950
+FileChecksum: SHA1: f93c91893cd319d331f8d5ae7a66c16f38e82c1c
+FileChecksum: SHA256: 546677da778d81ee7886f02ac797af8f4619924cfcd654c5c45d756db71e501d
+FileChecksum: MD5: 16af2a58a799f3c7f25491acaef3315b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/aws-picchu-edit/index.astro
+SPDXID: SPDXRef-item9762952
+FileChecksum: SHA1: 3c96565e6f681d3f8d6071a4c7080f7d3dd5f7b9
+FileChecksum: SHA256: 3e0950c1267c7c454b53f382ec47f624ab0349a18c85fc53f785083aa3b977c1
+FileChecksum: MD5: 275135e1b48fb473cfca2ceec72e7740
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/aws-picchu-edit/aws-picchu-edit-license/index.astro
+SPDXID: SPDXRef-item9762954
+FileChecksum: SHA1: 1cfc62dad370fcf14afc6ad39763496b921371b6
+FileChecksum: SHA256: 8a26efe684723a84247a2b3f5ec5ccd1a15db15acae152118557173b33a5a26c
+FileChecksum: MD5: 290dd662d4b91fa4822ae7f4222d8a1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/index.astro
+SPDXID: SPDXRef-item9762955
+FileChecksum: SHA1: 7a1dfd847f86fba0f8d565e02dfe348c012602bf
+FileChecksum: SHA256: 8b5b9ba2f24f80764fef22289af8b282e7a6864cad8b7fe02192dbe4456e0a64
+FileChecksum: MD5: 5860852f7722cc568b6861d4890258ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/airship/aws-airship-license/index.astro
+SPDXID: SPDXRef-item9762958
+FileChecksum: SHA1: 672f140071d56dec99879f036da6556e0c5ecc79
+FileChecksum: SHA256: cec60f4bb166b15be5960f225627fda04447412ae3c9ccc95404b83386124b88
+FileChecksum: MD5: a69c24941075100f6655042d4a11029c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/airship/index.astro
+SPDXID: SPDXRef-item9762959
+FileChecksum: SHA1: b46ac27fe5ca88668d45106f445a085770754b69
+FileChecksum: SHA256: 6d15ad82080f46ce5ecc1e0a6dcec7d564214b16a76a6d6c20e4a5297e445fc5
+FileChecksum: MD5: ae405f02397be7d04cb13884e38ec39d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/alab/alab-license/index.astro
+SPDXID: SPDXRef-item9762962
+FileChecksum: SHA1: b19de6062d651a37a673108271d39a22a25b568a
+FileChecksum: SHA256: d01675f2dfda079dfcfe726c36b3d9d57227c37b4acf05f6d018559bd6638265
+FileChecksum: MD5: 0f7e7c580f2ad4faeec6f344eafb3009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/pages/alab/index.astro
+SPDXID: SPDXRef-item9762963
+FileChecksum: SHA1: 822d1a103349cd589bf6bb5b35492e414b0918b3
+FileChecksum: SHA256: 8563bdf3113850c7e89f7c972c498deced2aab7d79671f5dc2950f66d0d97cc6
+FileChecksum: MD5: 897266de4e4f3e81fed479bcf17b8a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/alab.md
+SPDXID: SPDXRef-item9762966
+FileChecksum: SHA1: 70c75a5413274b80b3a7695e62db87e0faa3574d
+FileChecksum: SHA256: 9ae130ca0ae9c75d3a21fe2b6d99102ea8d29573e54453a04058410c560d761f
+FileChecksum: MD5: 908f65032536ad2edb60deb09c28b95e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/airship.md
+SPDXID: SPDXRef-item9762967
+FileChecksum: SHA1: cae8226fa9a6712fa40cd9c70ad8c48dd92d7b57
+FileChecksum: SHA256: e34bd22d5d44753308b4db8d52da3a0257a367cf37ca4671be2344e26edddfd9
+FileChecksum: MD5: 58f69a92d57f6024f8243067234bc494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/alab-trailer.md
+SPDXID: SPDXRef-item9762968
+FileChecksum: SHA1: 0ab350effd38c0343845275adbd1fa6106440fea
+FileChecksum: SHA256: e52be84431d2ca8cf3158afc2a6f835d927395caf39c3a6ff2f5b44c78371fa1
+FileChecksum: MD5: eeaf6986df2e6ee71e89ef2ed14aae81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/dpel-coming-soon.md
+SPDXID: SPDXRef-item9762969
+FileChecksum: SHA1: ba3f5f7a0059dfcdbaae1d38b02b30afd62a00a1
+FileChecksum: SHA256: 70c3a1a3d226b234eb17753bf16f24f6413e40125d50f6c712ef0d922ca04ef2
+FileChecksum: MD5: 7fa961c2b1eb0244d2129d87ca253ece
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/noa.md
+SPDXID: SPDXRef-item9762970
+FileChecksum: SHA1: 1ee4fab65c3c0ed7bb4dbe299aee6bc9bb2302d2
+FileChecksum: SHA256: 21c74a619b95cfc1aeb0f1d575733a79a8717c33eb7ea90edc62007b001790e1
+FileChecksum: MD5: 704cfdea9519f3c3c2597fb69c2ca6ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/intel-cloud-library.md
+SPDXID: SPDXRef-item9762971
+FileChecksum: SHA1: 66238d58242f43d6a6a9a48b9ceb145dcf2e22ed
+FileChecksum: SHA256: 90dee0c7bb9e3d38ec50b4b89f3f2404bb2b66136ef743821f5f0e5ec956a379
+FileChecksum: MD5: f4d1f72f042c8567f5a32f8dbcc9f4ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/asc-stem2.md
+SPDXID: SPDXRef-item9762972
+FileChecksum: SHA1: 61e9db24c8ea28bdda488371f003b39ef3fab4b3
+FileChecksum: SHA256: 930a3016a833e48536a4fb56a4402b13f0628357ee79452051820e822cdf1163
+FileChecksum: MD5: 44f0c53eadf9cc08f2554043bb4cc826
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/4004-moore-lane.md
+SPDXID: SPDXRef-item9762973
+FileChecksum: SHA1: dcc28f1a62224b15c78b71cd3a9cadf60b54079b
+FileChecksum: SHA256: 7194ee5b511090bcc643ad56aa6de83bf0664461bf2b075e2056edbbf2515fe2
+FileChecksum: MD5: 396b4718a1db3f7bdfaed2fa0e2d69ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/articles/aws-picchu-edit.md
+SPDXID: SPDXRef-item9762974
+FileChecksum: SHA1: 09a53f34ea17c34971d279b2526c7329b442d9ca
+FileChecksum: SHA256: 28d378fff65aa684214b2f3afc334a279c679336d667fa1182a52a5ca6f43f92
+FileChecksum: MD5: 9dad0dd97f73318e3c5f8b1394daae02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/license/aws-picchu-edit-license.md
+SPDXID: SPDXRef-item9762976
+FileChecksum: SHA1: 0cbc4df9a3849d5fa55a000ab12dfcf5be8117ad
+FileChecksum: SHA256: 6fd9992e828d15190c5cdddee0ab9a8241b671de207548a960f12256c21e7da3
+FileChecksum: MD5: a8ac30f28c8e0d6072f5cabb28e55afe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023 Amazon Web Services. All rights reserved.", Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/license/alab-license.md
+SPDXID: SPDXRef-item9762977
+FileChecksum: SHA1: 1ce4c7beb01e6d0d665317cf4fdeaa0a4f63a2b3
+FileChecksum: SHA256: bfc28ceef5184b9212c7de1522c3f811a29d5739cc032a249a484de3e191f8bf
+FileChecksum: MD5: bdae3981e8214f86617532192196f717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2024 Animal Logic Pty Limited. All rights reserved.", Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permi </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/license/intel-volumetric-clouds-license.md
+SPDXID: SPDXRef-item9762978
+FileChecksum: SHA1: 4a31ae73c6658b40e23d9eed3fe44ebd792d685e
+FileChecksum: SHA256: 5d20a0857e80148e83001247ca059360f1060c7353bf95487336f00a0321aa1e
+FileChecksum: MD5: abb41708c1c47ae35e786fa1fc24be83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2022 Intel Corp. All rights reserved.", Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting reproduc </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/license/alab-trailer-license.md
+SPDXID: SPDXRef-item9762979
+FileChecksum: SHA1: 218aab19b25d30f25c68c72e6e6d6317f94f25c0
+FileChecksum: SHA256: 496c88841d9e1c712c9cefca38d8a2fcc74caae5e547dc2a1ab1e4b2482d185a
+FileChecksum: MD5: 85bc3fd19e44ff1a00345a8df5365426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2022 Animal Logic Pty Limited. All rights reserved.", Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permi </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/license/aws-airship-license.md
+SPDXID: SPDXRef-item9762980
+FileChecksum: SHA1: dbffe8eb1ac2a97cb3f4c26c845ed8b1f6d7851f
+FileChecksum: SHA256: 6f94f7026d072a1d2e0f67801d88c80e4f31208711b5ee08881a4523dcc2e942
+FileChecksum: MD5: 7f390236d71c2d79a4a9ae51eb7fa687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2024 Amazon Web Services. All rights reserved.", Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/license/aws-noa-license.md
+SPDXID: SPDXRef-item9762981
+FileChecksum: SHA1: 25b17e41949f004266487ebb756f6d8957d76ece
+FileChecksum: SHA256: 2852220dcc822701b24a183df95f63c963463e9c51ab81bd564741ae64a7ee91
+FileChecksum: MD5: 75b7b21f80437019369a3b84d314b4f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2022 Amazon Web Services. All rights reserved.", Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/license/moore-lane-license.md
+SPDXID: SPDXRef-item9762982
+FileChecksum: SHA1: a67dbea81cfc82c0789ac04403184fb911c202f5
+FileChecksum: SHA256: 0315941a879fcbb139046d77d1f3aae6f6f7b87edab57afe8b00de1e2e116f12
+FileChecksum: MD5: 027bbfd3a4e9b1861beb24851e76b95a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2023 Intel Corp. All rights reserved.", Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting reproduc </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/homecards/other-assets.md
+SPDXID: SPDXRef-item9762984
+FileChecksum: SHA1: 34256b526f8450a1c7a7b53f54c3a4fbd4214578
+FileChecksum: SHA256: de94675f3b40d2f44e998cdcd39f7a9adae1c46dbef491ea1c14845525edcfa9
+FileChecksum: MD5: 8854e46b3eef78c2e7fd6bfea078265e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/content/homecards/new-assets.md
+SPDXID: SPDXRef-item9762985
+FileChecksum: SHA1: a2bc7b209cbca8b0779857b9929f76c5a03459f1
+FileChecksum: SHA256: 8958d8c986684d1d37e47a753272a5dc83365f58869127afcb866f4d076dbc5b
+FileChecksum: MD5: 152ac3ed9b0f95251eeeff4263d8be86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/LicenseLayout.astro
+SPDXID: SPDXRef-item9762987
+FileChecksum: SHA1: a52d1f5c670a3b2401991cc39f0d3d0d1e52431c
+FileChecksum: SHA256: 0c644dcd3422faf1ebe161bd9b956ca00d3f46bae5e7c336667096580cf0eef0
+FileChecksum: MD5: 5e01b974738f850c8aea23654460cf27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/MainLayout.astro
+SPDXID: SPDXRef-item9762988
+FileChecksum: SHA1: 59dda3c7e4b003b6ef7a799251bcd288f03f2c37
+FileChecksum: SHA256: 75c0bb927e4126a207fee48bdf531efc8b73a4fdaf735dad57f97e39ac8dcc18
+FileChecksum: MD5: 74b0ff7f4b3768b02ae188a0a7fc24fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/BlogPostLayout3.astro
+SPDXID: SPDXRef-item9762989
+FileChecksum: SHA1: 9d2f32a401f24e4501fc0f38607c25e890b95e03
+FileChecksum: SHA256: acd9c4cb257607fc8984a807614346318a4bebed619e4b388b824b15e11440b2
+FileChecksum: MD5: c6ff0bd2278adf74f832ba1e907b5d52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/BlogPostLayout4.astro
+SPDXID: SPDXRef-item9762990
+FileChecksum: SHA1: 17202c9bb302f2ba72204a5dfef0eee505a39227
+FileChecksum: SHA256: 70831cd0f3cc1638796283c5dfe01e6ba573f64c83358a5f5870c6c2e4eb2160
+FileChecksum: MD5: 0de44e4943698e0338c688f89b696cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/ASCStem2Layout.astro
+SPDXID: SPDXRef-item9762991
+FileChecksum: SHA1: 7dfcb01fb3b068625e2c0e14e92062bf7065d590
+FileChecksum: SHA256: 0325e411b3c49b20f13d68cebc51c5d252f42e7e6a8acee767c21e1713342078
+FileChecksum: MD5: e79002795790eae088870d463083c41a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/BlogPostLayout.astro
+SPDXID: SPDXRef-item9762992
+FileChecksum: SHA1: 1afa6e9a539ef9a739f04747a03709c1ef793285
+FileChecksum: SHA256: 92065a0f6fd5cc08bd78b0e5e8086f9ca0db0f92d7f076813111057c2953ee9d
+FileChecksum: MD5: 2b8e7ae4d4d7ed358a73127eac52b503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/HomePageNews.astro
+SPDXID: SPDXRef-item9762993
+FileChecksum: SHA1: ba97ba224e8cdf09e250f82c769c7921b5b0e8cf
+FileChecksum: SHA256: 879b58a6f4841070181494e0df664a1f569066552cbc09fdb50b91bfa508604f
+FileChecksum: MD5: 3ccefc3ccef8aab33b01a2e71101748e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/layout/BlogPostLayout2.astro
+SPDXID: SPDXRef-item9762994
+FileChecksum: SHA1: 5a52ed52a32d47890fc058c1d6c6856aff7d2db4
+FileChecksum: SHA256: ca579ee6c15291d2a7408c5b6d0fc70b6004002240024e971221e0eaeafc9c91
+FileChecksum: MD5: 6f8571cb3e4857adf98ca7804ba39e9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/src/styles/global.css
+SPDXID: SPDXRef-item9762996
+FileChecksum: SHA1: 2715a9ebf21b0869b9159a6307bb8171ab96887f
+FileChecksum: SHA256: 40b2ff8f11f2b7c64b40baf5328bc5a718edc1da2ad0367217562d19a67f7533
+FileChecksum: MD5: e749735cfcfeed37c6196c595acef03e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/.vscode/launch.json
+SPDXID: SPDXRef-item9762998
+FileChecksum: SHA1: 38d27094cf11a73dab6f6e017301816705415df8
+FileChecksum: SHA256: 461accad2f8d7604a8470fb4705b84768bcf24791b0974d49cba0d96c3fea857
+FileChecksum: MD5: 60493763dcbc2d109e57da86d997602a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/.vscode/extensions.json
+SPDXID: SPDXRef-item9762999
+FileChecksum: SHA1: 3e847f776acfc763890728f63b3f7d7d7a7773d3
+FileChecksum: SHA256: cc8f4bcdc3c31be539aa67fbdacaaac4c9fcccb55b02048acf02f56e623ef682
+FileChecksum: MD5: 3adedb22d082dbd1ebb00b75d21403aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/.github/workflows/deploy.yml
+SPDXID: SPDXRef-item9763002
+FileChecksum: SHA1: 59eb0bd83e58ae01752734b4610eed7756be507f
+FileChecksum: SHA256: 66de0e1c1816815b73ba921eb0efc59c3b681c8977bd3c8767a7f962452d5e3b
+FileChecksum: MD5: edcb0499917e81e4df0c02f022aa36ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/tailwind.config.cjs
+SPDXID: SPDXRef-item9763003
+FileChecksum: SHA1: 04038d958e66ad4fcaae6a6946a5b49a8bd5ca11
+FileChecksum: SHA256: 2ccbbd8b25f35eade9f939474d9dd244fc5bc0900fc00bca37027407e63d7b14
+FileChecksum: MD5: 97f46768472262fe020dee09eb5146d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/.gitignore
+SPDXID: SPDXRef-item9763004
+FileChecksum: SHA1: 9bda72542b9e1e925da20943d4c030c80e540351
+FileChecksum: SHA256: aed4acb5efe62ec7d514fbdfcdb4227c7904d6c4ad17be6157c4c453cdab9578
+FileChecksum: MD5: 97f8966008a62539ff23c8198dd0a214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/README.md
+SPDXID: SPDXRef-item9763006
+FileChecksum: SHA1: f330f609c18b43c85ca16a660608c40f5025ddfc
+FileChecksum: SHA256: 2558aa9d2cc88a622a2646ca1f04c01f666ab8f3cb0aac98f6f6343b73a483e7
+FileChecksum: MD5: 7c51f373dbf5527056b8563769d5587b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/package.json
+SPDXID: SPDXRef-item9763007
+FileChecksum: SHA1: ddca796d2e761342578ec4cc9b55355210bf3b25
+FileChecksum: SHA256: f2ff16684cd4d113806904b5d71f04afe81ce37501fca5a05edecc1b04a2c03a
+FileChecksum: MD5: a73ce20beaeff2b9b9109a425a9af935
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab-trailer/alab-trailer-4.png
+SPDXID: SPDXRef-item9763011
+FileChecksum: SHA1: ad7b0b48f3743047156e6209826cafdd49e6f9b1
+FileChecksum: SHA256: 065a1f5cf590c14eed67c57345577c02cb933fcf3b7f78df8ea499ad773e66c7
+FileChecksum: MD5: 5bb10b04134924711154c772a05e0e12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab-trailer/alab-trailer-5.png
+SPDXID: SPDXRef-item9763012
+FileChecksum: SHA1: 50556c26ef20d5bd7f12a50b1a2faf3818164014
+FileChecksum: SHA256: 7dc5fd3ad647bece8a286923b5f76ef0cd6bdbfe6c7e914a439112a7e542f0de
+FileChecksum: MD5: 765eabbfc6509fbc98f9623559157fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © nXY-mÏJý¯½ö 4聚vòäIù裏dŊ TN4sTÈðã?K3f̐}ûöɿþõ¯@ ïիüæ7¿ŋ  </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab-trailer/ezgif.com-gif-maker.gif
+SPDXID: SPDXRef-item9763013
+FileChecksum: SHA1: c018fff67b8937a96da06defa932716f033d52db
+FileChecksum: SHA256: b4a59803b2a34498b866e723de229ede5b5a79998d6528a4b2ad4508744703c4
+FileChecksum: MD5: d9248b1a65f74690f59202e53522b6a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	bjxPխf5zë)ߺOcÕyo­B³W?-¢?MÝ1?PwV0h«DKBZ%8Ñä?x?£m¯mk_SÔ!ìík?1ÛÚÞÛbfêyÓCe?ð ]vJî£ ¤~ñ??4¸?×[`ïlá[3U-?¿ícc§?¬KOþë?vhÿߧC?ƐÃókÿ*pSüS¾¥]«<®?u???V/vuy?]¨cÎ|?c´¡+0¹Ì?q?=Ð ià a
+©	qhrTf0£A?Zj?$â?]è v¦s&DÔçTø@µð§SÝ 2¡;´îN8?zÔӂÛ Bì¥'?Ì`îR8?zU? 44qÌ\f­ju+]åêX^²^ãÅ/ÆdÝ3£IȘMo²ñjɞ¨ùÆlmÿ±ã~ô?葏|ü£]?évåó/aX?¼ø ¯¼!R\À?óȂ?´_¦Ñ </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab-trailer/ezgif.com-gif-maker-3.gif
+SPDXID: SPDXRef-item9763014
+FileChecksum: SHA1: ab45bd0c4feb87bb787c5f579267c9d792f085e7
+FileChecksum: SHA256: 2b699f0e46b51e0ddbf1be0a2a73d3336b6b3bacae21928bcdc534160f19878d
+FileChecksum: MD5: e3e3faef3e2edfb285314acba241b850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	4 0?7Jeoóíj@+@t?ÜðÁÀg?Z4¸¢3Br¨'àv$;ÃÜZ?1HÂo?ïo4G°hÿ?·ºÀ4?ö 1w®¤l?é6>­M7®)[´`Üx?Ä-|¥í¥ö
+© AÐ?1¶°1zÔOR¥K35uäiԧS¡R
+©	U¡X§tÁÍ8ÀL·Y?5uóUu?où·l?º?÷w 7'ZgբÍT?Ê4£7Ú8?MÙ ª3ÿCó±û yÂ?æ/Û?ùyïên9ò?Ù!ñ?ëb?r?)ÑùB1ùÙùº°8ôú9/,?T0?ÎË?2S3?ëE ÷õª?Àxuõõª?ږ?Z¬y¬åؘÇ?ÓZ)ڙ-?£/úLµ@®ç:V9Z®e?¯=?¤Ez¤1bkR?Qy+ö{?'I?ïVU±U?Fq:+ðÕùę¨Ý&­D½÷§÷¢ª+??[ì?wČ:AÛ0Xù/ZYæRўGy7×"²c{?«³ڠ ·?w
+© L¹LÆ6֦5lM¥ùF¡?Վ?ýÒe7ÛG°?ՁE#ªP×M. Tç&(!ÏZ¸6?X¥V·Úկÿ~5-_ñì&é0æb {«:ÖjWáb-l?ë(·õÃQ?׭ړåóÚAˬÂZÐåO?Rq®ð°ëLзÅB챐E¯d×+Sæ?³½cfã«Mn¢3©¾? ´ªvµ-k[ûÚØ>RSØ?ÌjkÈ?Ú?}â 0ÃT Z§TîÕÖÚ<å¾ՔÁuk)7Q?R÷Ä(>nDKL?óUl¥XÖ? ð×Æék{ÙëXõòøÇÏL`zù^Ëiv¾ôMr?a?T=?õ³ޥUÑB˺҆?jøoa?
+© tÌ3]êt¡Ædr.?¬|?lÆQ#Â^¦?ʪÄέÈډöÙ!®õ'®þ§èìjǒãÍ?*ÉÂåº>è?e?¶?®g,î0îɢlª¬=6?ê)µVW®¨?¤©E¬¸ÿ?_?H?:ntâf¬Z?ÚhÓ:í?ÑoøԦÚÓX­S¼Öê+]"oÄÝ?¨?ʡb*®å©?n"¦­Ú?"5îÝÛ?LÈÅmêÒíj?mök]ì­fìÞòí²­ßþ-à HÁÅ&ÁÔWé?nâ?®㲯ûîãB®äÖ鳶¬ËjeoÂ?jnÎ?g0-?ÈEK Þ ºª/*ñ+û}I´µ+`µ!v:­,Ù_Ĭ>ÖnqeîúPØazâd镡?±-[ºjò
+© pb8Êw°ÒH½?xm+¤©ªª	»?¶X;3oë¼KJ±ì[¹±	)٥Æօ^±ջ?& 79Ek ãK¾ç;Ä.¤¾éûm'æ¾J¿I©ê(¿!C	ΐ¹³)öD0W?U?l®z²©[À`ܴ«kcCù?úÍ?ÁAÕy»kÇwQ{wù» ,¶?ב´Z¼µ6¤d{¤÷yq,|e?û¨`\H5MÿTÄúÜ[²²I/?Ǭ~SD¼¸èÉÒ?ª?è{Ýø¾L\³Ùú§(u?8 eÁ?´þÅ?ÚÊ[Ü!%wºaüÅ_Ù:ô$üú;.Êc¡ö
+© j§jjÕd©³j?JzËŖz¦?56« ú«9w£^)¬Xú¦ÅʪÈj¬åj®Är®vU©κ§´5ÏC}ñú¢ÔʩMº«eӫÜc¡>)ªý*ªÁ?®n*®䙥é </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab-trailer/alab-trailer-main.png
+SPDXID: SPDXRef-item9763015
+FileChecksum: SHA1: 71bcdf508dac4f7144f7e387ffd3250d74159779
+FileChecksum: SHA256: 40d3cb0053da0f3b5263670312d8546fb4d875e444b3be0831122a37e3b2e1c2
+FileChecksum: MD5: e0c8bde1f5ef5b564cef71182904860c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © cùiØ|p7U?ñ_?û6X?¹t5?Ƃad?_4QG<j©À·Fý6 =aM²ò . Ä??ã!¼i0ÚG=ºÆÃXwh XtÈßÙÝ=\ÓEÂá̌ 2?d?È8q ãÀx9 âL}]?`?Ü?Ύù5ôïx;=?ÐlÜêÅìUBZd$?tñLX)Ĵ?SÿX ?k¢ </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/4004/render_20181.jpeg
+SPDXID: SPDXRef-item9763017
+FileChecksum: SHA1: 29d30b8ed5a0097b6d7dfe34c22e02362c593fd6
+FileChecksum: SHA256: 85a6e4f22dbc6a598269a459078570cf6139fa44825a1aecb763fbeb11e4b304
+FileChecksum: MD5: 2302bad1b520c939801f5b6c257be2ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/4004/render_0131.jpeg
+SPDXID: SPDXRef-item9763018
+FileChecksum: SHA1: 47174086437788266be1fee67d3c7bbe39759b13
+FileChecksum: SHA256: 8045d001b8f1496653842683a779e66c0a3573e180834ba112a23a97b86152e0
+FileChecksum: MD5: 3b7c8cc87588a5367fc5882c54448db1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	oËl¨7>@Ná4?- </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/4004/render_0542.jpeg
+SPDXID: SPDXRef-item9763019
+FileChecksum: SHA1: 4562ada8d4505a8e173bfc08a6053a59e188038e
+FileChecksum: SHA256: c9d34762b34eb6e67c20b3f8f16efc4a4c9c1c1defe83e29cf40affc0cb9935a
+FileChecksum: MD5: 59725637938e3a71541af604637d31b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	j1?H7?F?$i3PYJ` Ar	r?Îb÷?¡?0?ÉQûĝ =qåè?F?-?(¢м̪PáÕùäȖ2dř!Jjà?©샞?,Ïʑ%BÒՂð` i h	"ۇ äÒÑÒMÊ?.Z]IB1A!Òî ÅA5?©Óò¹ËìôI²P {ÍúÔk?¹y 2ÈOJR±-)q--ڙ0C?.l°÷?;é$ÕÉòuÍ&aC¨ôaH ë:*²ªUq+²?R?<%IP@+û0µ?%v؃w Àãù&«á?«/ոÎ?«/¸oÆ$e?A?ÔÂ撀Ê ×?3ÄëÅIqPk.R]££"ãÆ÷&?
+© f!bg?3S?1Ùw«35?XÒÌ?ÎÐTa31K?EluSø </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/4004/4004ExteriorBanner-1.jpg
+SPDXID: SPDXRef-item9763020
+FileChecksum: SHA1: cda573d74609204db29bdf9e30838b8f87414756
+FileChecksum: SHA256: d041dac84f5fcf5c910fac71525176a07c9e1bd07d59d2c72722fe564d76a3c2
+FileChecksum: MD5: bfdb985b73c0e4b80410a8415cc0080c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	Z;DªXf	_JF Ûp?¢°©H¥U?5é«Ƚ6½ß%ل6t?ªH	ÝÈ?óN?»BBRC(ªÇK?T§ÅìsÌåÆÓf͖ËJ ÞbP¿?<?Èp];®íބ®®Îà?PZX*ím?vx5ÎLÄË!!hnі?JÒG_w¤pMS¦?5.KK+¸À(ê$°{ᗴv JR{h?@½ŋøs?aÕ)éP¤±?ÞöØÙ%÷  UÝîâüH	LĂ?¿'À¸.|¬Ý?hãá¤.r
+© 5dR?UE (?­6u?¢Y&RR§ª é»?7hä1JA±?%àpÓJ¥jNJÂX §Ú5_½b Âñ BÊmdÒÀ¦Úv»±µÉå?vâf¥*S¥T¸	½?ã/KµMÄʪgb¤¼ÒV¥?.´?|&ªy¶ ö³kz0P?,u?¬z?X°VR%?Í%jZÐïVI`Úo¤zîp¨Dµ ·bj)"b¨:{,?G=±	Ä9©? S?KժZ?!@?¯VABlBÒbbJSi	â&(X?J¹b{¢Y R¦՘JûD«ð¡R0?å)èP>ФBsF,(·g_x?¡D? </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/4004/render_0812.jpeg
+SPDXID: SPDXRef-item9763021
+FileChecksum: SHA1: c317f0cf1a990dc78c0046a18aaeb15d87bc1c6e
+FileChecksum: SHA256: 124bdd96181ef31428522ab07e716f244912ba9695d311450c50f8e9ef8456c1
+FileChecksum: MD5: be4cdec3bcd4f6b485b05ab5fa446d3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/4004/render_20181-1536x810.jpeg
+SPDXID: SPDXRef-item9763022
+FileChecksum: SHA1: be9f0ae59d1baa89235c1279df94f41028b0399c
+FileChecksum: SHA256: 46dd860d70405129bbb29acf46b7eda867200d2d20c4e6196caffd55fcbdef23
+FileChecksum: MD5: e60d8237817eb81070c86685bd428d7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/general/dpel-icon-white.svg
+SPDXID: SPDXRef-item9763024
+FileChecksum: SHA1: 799a999f9fee9fb6a3cf3b8e445c85108c9018a1
+FileChecksum: SHA256: bb39890e6f07d0823c72918f2cf1ea14f33a238f6636b4bff40e06efa8b27d6f
+FileChecksum: MD5: 3874d6f99551a03f6f28e3e8a9dd2320
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/general/dpel-icon-black.svg
+SPDXID: SPDXRef-item9763025
+FileChecksum: SHA1: cd89aaf32cfcb9ee34c9bed84b0a4444838691b7
+FileChecksum: SHA256: d478f5fc442e511ddcc1c2426baf79f07a2cc0e8ab2b56d09f51e8a27f706f61
+FileChecksum: MD5: c3a7d9569804a53a9d1a2c19ca7aca2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/general/cropped-dpel-stacked-black.png
+SPDXID: SPDXRef-item9763026
+FileChecksum: SHA1: c5d9f291951476f53f534f38886864c2b0963978
+FileChecksum: SHA256: 3a47be62f81c96c8c7da90e368f69e426650e39b1e9689b5256f23610c65f3e0
+FileChecksum: MD5: c8cb6c179f4f4693f405e397d002ad40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/general/dpel-icon-faded.svg
+SPDXID: SPDXRef-item9763027
+FileChecksum: SHA1: 0ce7205c5c700e8da3ad1b8d37ab1be0df47e547
+FileChecksum: SHA256: 9f099d2c0535a9df4e9e0c515e8928462f7c33fc982c76ea8ff396c1eeb457e4
+FileChecksum: MD5: 125e13c74f5f8314652778bafdb5470d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/intel-clouds/intel-cloud.jpeg
+SPDXID: SPDXRef-item9763029
+FileChecksum: SHA1: 302b044c2015376cd908472db39611dbe91d3fb9
+FileChecksum: SHA256: ee196ca905a573919bbd69307bcc57f080170fe47253ddb7224841fb1d81ee3f
+FileChecksum: MD5: 685313fbac388480ffbf6ed6d0977271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/noa/noa_marketing_sunset_wallpaper_05_ultrawide_noLogo.png
+SPDXID: SPDXRef-item9763031
+FileChecksum: SHA1: 5df898d658792382017d277401eebee49f8dcc40
+FileChecksum: SHA256: cc0bda39711d7a477e5680fb4bf852fdb506872e14178f4ba43dfaabccf26a56
+FileChecksum: MD5: 6859f877f78bfb9fd108a87f6e32b82f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/noa/noa_render_06-1-1.png
+SPDXID: SPDXRef-item9763032
+FileChecksum: SHA1: da38980b8cb7662446e32f843ed9e12d26d761fa
+FileChecksum: SHA256: d09e782206c1d31aaaf4e66acc488480caf2631dd583fc466aae9c106c2de9eb
+FileChecksum: MD5: d6d141537430a73304ced86b267594d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/noa/noa_Spanner_207_v01-1.png
+SPDXID: SPDXRef-item9763033
+FileChecksum: SHA1: 05fc481c473a2694b138393364382a9a28601ef9
+FileChecksum: SHA256: a602d723bb217b82820f5b5ed0ea7b1c71d52e7c9aea8be38ecae7ecfeca22f1
+FileChecksum: MD5: 0fecef6567ac934dc236f0f85f191c4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/noa/noa-mask-group.png
+SPDXID: SPDXRef-item9763034
+FileChecksum: SHA1: 265b545c0cf83b6072961eeebe672aabfbb1f82e
+FileChecksum: SHA256: 24a5b3ded1de48c674165a496c8a513085dc5c30a5ed99d1cffdb0903d215c50
+FileChecksum: MD5: f06485226027c3c7daf04b2ff43e9325
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/noa/noa_render_02.png
+SPDXID: SPDXRef-item9763035
+FileChecksum: SHA1: 9489e51d5afa8f624129da241348ff404454b1d9
+FileChecksum: SHA256: dc19913a2adcaafc4796125837e4c2c8fb159731d6a256e9559bb9ec70c0d45b
+FileChecksum: MD5: 3821c66f608129ff22c8b0ed9bd8965f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/aws-picchu-edit/aws-picchu-edit-still.png
+SPDXID: SPDXRef-item9763037
+FileChecksum: SHA1: c0702b309d86d02d7edb16fc212ce9a35fac52cd
+FileChecksum: SHA256: 842fd7e20528deafa889f0df405bde8686e606a776a4caf227f6b147ad7ce8d1
+FileChecksum: MD5: c724ed6a000eecb2b66047a7b5a6ff42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/aws-picchu-edit/aws-picchu-edit-davinci-resolve.png
+SPDXID: SPDXRef-item9763038
+FileChecksum: SHA1: d127d163dfc372bda40ec1f4157ba80014fc715c
+FileChecksum: SHA256: 1baff4a76f4916ca867b6c8b17a3ce8da493b7f598948f87e36b1f3d5e53fbe6
+FileChecksum: MD5: 62eb14b4d37ba6774d52f1d052290f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/aws-picchu-edit/aws-picchu-edit-otio-raven.png
+SPDXID: SPDXRef-item9763039
+FileChecksum: SHA1: 8bcc11ae003bb04aabd6581c53fc4f2f7521c22d
+FileChecksum: SHA256: fe0c9f286cb0d3adcd81f44c2972eb84dc88c4a05a82e8a41b0358b03a900a4a
+FileChecksum: MD5: f18aad1d88ac7c0af1d47a19247d808b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/airship/airship_highRes.jpg
+SPDXID: SPDXRef-item9763041
+FileChecksum: SHA1: a9956b22f72ec2e0612384e0fbcb92fd30da6f49
+FileChecksum: SHA256: e3157433f02ab224458b8464e949ee3729435405fce9588cb02ad7d2db885686
+FileChecksum: MD5: 40794d07266b4772cd1d52716a283126
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/StEM2-still-1-1024x428.png
+SPDXID: SPDXRef-item9763043
+FileChecksum: SHA1: dd0e4c1298bbfb130b76a3af72c71212ea43ebbd
+FileChecksum: SHA256: bc8365f6a8db0f4e914aa14c001949f2c3236e0875ec2b26db65cf5880d96c20
+FileChecksum: MD5: df734658f20109fa4851865bd1f30850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © tGTjX ¡lºÞ'ôáã?|º?i;¥¸X;¦òOd»â.ãÃinA?epPæ¯}ìWÐ5C?Áøú¥wApì@°ij¾ÂÙé9f?(J7ÉnÜ~LD`móó?<?þ5ÎÏO°jjԭÏ2·,j×Ñã²_?A±¿ ü%E?ÇÔ÷îpÒð÷Í|:éß?ÅIF-bàµ6$¸ }(hpÑݩÙ?®婿;b^ÉÔ!1ñyÒNTs?fF§J?í|H·ȍd7û(½?Hò©¿OàL!?o¬U%ö÷÷QUUl?:ö?ÝRÐL¡ÄÃf?¬¿ KhþۦÆÅÙ?ÎϯQ?ó*çú)濟îK?SÕODò[!aBÄx </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/StEM2-still-1-1.png
+SPDXID: SPDXRef-item9763044
+FileChecksum: SHA1: df9a221eafeb266863d19061fcac606f9ab521b3
+FileChecksum: SHA256: ff326cb65d7528b4ad0afccca9ba2fc6f1285c2f5fbfa08607f61765dc7fd19c
+FileChecksum: MD5: 2b74277e0e6edf1eaca4419b2fecd0c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h27m16s208-1.png
+SPDXID: SPDXRef-item9763045
+FileChecksum: SHA1: 11942f6fd1f21f4219c2d40cb6162bfb07edcd05
+FileChecksum: SHA256: 6319071a02a9ad814dd57e39f3a2cccc7bd37704a650f29b52c1a148a2af9922
+FileChecksum: MD5: f694674fe7485fb9e36e314699cf97ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h27m23s452-1.png
+SPDXID: SPDXRef-item9763046
+FileChecksum: SHA1: e3285d51930044e4e6080668b6dcc9d88a79c034
+FileChecksum: SHA256: f98a67c6d5e77ccbcd71281bf87ae37448d3ace38d3cc7b72f37aaa1f82fd22b
+FileChecksum: MD5: 4d8399f19ee1663e835a879f6f2dd053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h35m40s416-1024x428.png
+SPDXID: SPDXRef-item9763047
+FileChecksum: SHA1: 5d904dfbe83299a2625292b2852e590b3155f1d2
+FileChecksum: SHA256: b0e14bf3f17698bb5ef31dbe866126ac033b151e4da3ed188f0fcfe723a72f81
+FileChecksum: MD5: 83429ebc819727465aa48ee5e4eb5dc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h41m16s094-1.png
+SPDXID: SPDXRef-item9763048
+FileChecksum: SHA1: 5b67f57bdfa2a0868e102a11933461833f0e6f1f
+FileChecksum: SHA256: a208d295c92c0bdeb2246a115064808430cef6bca5b6b6b3a853184329341550
+FileChecksum: MD5: afbb357db548ee27b7ba84b4b7caf320
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h29m21s901-1024x428.png
+SPDXID: SPDXRef-item9763049
+FileChecksum: SHA1: 2ad97bfd8afc634a284a5df4eb63060f470375b3
+FileChecksum: SHA256: 4560c4c19535263061769d0f4ec9da05da80d936944412e78d469daaf68aeb6c
+FileChecksum: MD5: d26e0ddcca6cf369051027b0592bf97b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h39m26s761-1024x428.png
+SPDXID: SPDXRef-item9763050
+FileChecksum: SHA1: 5cd590e0015544671d937441c59eb4e15945dac2
+FileChecksum: SHA256: 940a82b5284e4ba2165449b25b952e58d69ff536746b40ed2d3db6fd36ed6cbf
+FileChecksum: MD5: 7bb5fd135d236a84aded56e7a22a95a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © mePÔaª6Wâ.³¥&Ë F
+©	Nên+P5EÚ?Xi¡?w¸^CۈÌgï<?tvéÒR6±@½¿?9¶5ÕltÅy]PpÎת6BƠÈJ?j¬797.ߓ B5?Zê¿f@þ û~¬|ÍDì?æ×þzŔ9Ú Îñ|¡ w¯ _GÜÜÜâíWßáöî?6Ã?CØ$ªj?î/mRTW=-?E}ӿ4ÉW#«±Ï÷RÿIÝè¼Nõ{Tºüeó\hfyª4¬²ÈTó±d/Ñ?]?ùÉîgNQ/z?è×;!iQÊ,Ê@Î7;ýÚV.Ë ñ uó?;w²??ðC?RL:áñá#¦§Çd?©º®ҿÐÞ8NþàkR?4 </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h26m41s477-1024x403.png
+SPDXID: SPDXRef-item9763051
+FileChecksum: SHA1: b7386582f24f98b0ce03bdc5462d8ebe3a273ead
+FileChecksum: SHA256: edba5918dd91e4be26114a9f9bdb5aa03c09c239efa50719dce07255e50e5b3b
+FileChecksum: MD5: 4e1351af8685d672693cd2b9d3c91527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/StEM2-bts-3-small.png
+SPDXID: SPDXRef-item9763052
+FileChecksum: SHA1: 2423d94f0b98eb206d907e75d34388bdd69162ec
+FileChecksum: SHA256: 9fc557ee99c8b453a8421730ce8146f99286f37b4c97ab90072dd40d0b724f62
+FileChecksum: MD5: d6d7691eb22d32ab2743a485c43bd824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h30m16s300-1024x428.png
+SPDXID: SPDXRef-item9763053
+FileChecksum: SHA1: fc99396a6f322f08dfaa75fb679ad431312269c5
+FileChecksum: SHA256: 9e4a60f0279da265f162dcda4f7980f676c36437e87f9469763bd5fdffe41ceb
+FileChecksum: MD5: 2d9aab6db716eb265db060b9bdb3fd3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h26m51s685-1024x428.png
+SPDXID: SPDXRef-item9763054
+FileChecksum: SHA1: 9a284e243143e3d12f821dae076b52f3f6ddee49
+FileChecksum: SHA256: 48c9d7257a76ff0e4037a70c5e8be2dacb17b1ddb1088e78f2494b8bf8b0e2d2
+FileChecksum: MD5: fceea987e2b1a2c9984619f6fea0c396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h36m05s332-1024x428.png
+SPDXID: SPDXRef-item9763055
+FileChecksum: SHA1: 0b73bc7fb93840c8513a7bdee2eeead37ea16265
+FileChecksum: SHA256: d42fad5f871041d545af5ab889b9f915b658455c328f05a0a24631c90b59f314
+FileChecksum: MD5: b4329842bc5f055334afc6893e9641e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/StEM2/vlcsnap-2021-12-03-15h38m25s487-1024x428.png
+SPDXID: SPDXRef-item9763056
+FileChecksum: SHA1: d1aae25b8ce370b96ddb6b1949784f58a04f9b79
+FileChecksum: SHA256: 3feb77e8b2ea630e7ad5a4b274a6221e0d2ecc425a36e1903ee8818ebc64c03e
+FileChecksum: MD5: d5c4f9e9a17c9d50cca026c346b39647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab/DPELDownload1.jpg
+SPDXID: SPDXRef-item9763058
+FileChecksum: SHA1: 2bddfabb89f5f06bcd4fc7fd9c015d0348441c9f
+FileChecksum: SHA256: 523fa86190ac67bef2b5bd345ca48d2bfb14b5b97b491d974682ec197f2a1b03
+FileChecksum: MD5: e2c8f49e3fff402864ccde64fd16bc1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab/alab-image001.gif
+SPDXID: SPDXRef-item9763059
+FileChecksum: SHA1: bb63e722d56247b087b17b9ac960f180b567a3f0
+FileChecksum: SHA256: 6a20622e8cb6c18167ed630d4a716c64808f01d748feec43da34e62b54153a56
+FileChecksum: MD5: f56020256b7b532856b86c1de022760e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	M üiXÛe_F?ÿèÇ?,tÌ扸 âÆ?Ç*àt?¸ÿøC$ÑÅ?à?À*??EÆ (·ÏCðD?ðð4ú?èvXv?lô20rB?@$wtji	RHÿ<àc/öaIÂ?òOSá3ô<ؓD?Z^6?G` ¡?¥v?±f_;ôQ?!wDâ?(?&x2tgMA@6|S?A6~A4 7??4m?QmpèÑ?6ðOݶ5ed?Dc?P?µPoæ¶?¡&k¦?Ñ?èAB#¤?KZ¢'ÕN·g{ñ?ÿ ` 'Z÷$?>TZ'¤%þ ÑZ^ÃeÒ?Ìg?xB1?}§ Ô÷?jv}½Å*óf² Q¹±y?sè~
+© dÅ+a?YdE`B!o !?xÈ xWDL?×?r?Ȍ(ej?WNÌ0±R9L­üD-µjk¬8»B¨΄q®¡
+©	T?¶iRQmeǔº	A?4eÚFA³A?©:&_²??ȕ?!«ªmSæ¤6±±µÁ¤ó¥۹x¾êekQºÁ </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab/DPELMainPage.jpg
+SPDXID: SPDXRef-item9763060
+FileChecksum: SHA1: 4305c69d363bc63106b346454a1abeacabe3b6ca
+FileChecksum: SHA256: b7575fd8e9f76898c7c47d7c48e65c21ae2c05d8908b9042e225e114c594742b
+FileChecksum: MD5: c48cbbcd86de2819911cf48ed4b82644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © e¸$g#fJ?J9'?⽼=Js§JtêBµ:Ôé֣Zé֣V*têÂKxN?R[4RJJȨ̈8ք+ÓæQzN.?Q)ӒRjrN?!$¥	®I$ÓGµx?_ÒôЭ}y; ;Î:àÉ#ðç§9ï¢״]NòFQ´|®?yɹÏ gÓù×ÉÆía??åP?mÅÁÆ@Îäe#'éNj¼ڂ Á? 	4w??bH< ô9?º©S´j(¿§wf´åvIZËGvÚÓUѽªUIӔӼ à7WZÉÞíɷemïݤw?oüíJÚÆ?)K?Ç Ü?Ԍô'?W*»?ÅH$?>l?w?­Kۋ÷?\HÆdS,
+© r3Óêyü1Y6_?>?Èä6o?cÉhxîpG?>¾?iäl?c üsÇÿ[üD?³3++?¼÷?ýjc|?婊3»~ÞM'm¼¼»nѫá?/,qXè[T¾±/ø?oîGé´??ø1qj¨`±FÇS?yÉê9?íëÀÖ<Þ$ø=3mHì?æ8*sèxÏsíí_âI¸Øì29Á<?GOSúqR,?Aó$ä?íÏSïúûX.?Â)JQÇc"ø}¥ìô×M­¯éØÏýVU£ãû¦ª=>?¦ºý:Òíþ?ÞG¾8´ð	gË  ÷={÷®¦-?áÄʪF´?H-?Nõõèqëyü²ZÕ-ʬW· </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab/DPELDownload2.jpg
+SPDXID: SPDXRef-item9763061
+FileChecksum: SHA1: c586e40c29940ea4d71b63a571a5512337ff4715
+FileChecksum: SHA256: 103ec9f692024e13bbbfef8bd5fe4a15464d725dd22fcde01847843dc37b5b24
+FileChecksum: MD5: b97f8e0eabb8e258b3fa0081199a26ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab/DPELDownload4.jpg
+SPDXID: SPDXRef-item9763062
+FileChecksum: SHA1: b8d5696a43241e11723204c1a95227fda05df211
+FileChecksum: SHA256: c618f3f26432a25000412208a5aa71773a4adf4757a1c25161f118e953c02d58
+FileChecksum: MD5: 0ca9c80b257eeadfc8123d7e229a1f0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	BwkݒIMF+®W{ßð~neá)*ԨӪª(B¤y9l¯hÙÊ-˙i-V+:~`¶GkHT??g·ù?kr;&DJî?æ~3Ó8?ËÿÕQY]´ræEÝ?G?¯?q¿«ÿÛ-q?
+©	Nqr7ÍMÉ+]ó;ÒI_þ~júu??³f8ۏîäv?¦yÏ^Î??Ŏì©\dð?? þYþU®×Ê@>IÀöàçñ?5,wv­ˮޜ?½³þzõí_`«{·ßçªÕz_M{>¯¿ä_Wþ?¶³³ì¶Zß竹ϝ5s?Øã߷ãךcéJFvzvüñþ?.´Mfàezãü??W ¹Ç qëø}}¨U¥¦ëvôé·NޝµÒÒðóz٭?G¥­åÚßç±À¾I*Êxü?1ïõì8¨äÒÐÛw?ôÏéÏ??å]ßÙ"nw)?ò ×?­G& uÎ?C۩úû֫?ô_-VïM/º¶·¾º­Lù*Gfխ³k·áÙõKCÌî4ÅbB®?=1ú
+© H"ugêMZÍ×V×?J6ô£«§u	&ý­Ý\Lìäå+¸ûµªF)A®G¼¡FVoÆö©?ZÖúºJ4iþêyRjTá?/hõï<=âö´ð÷dñ}êxÖïì?L¾dÃ-j?w4qé%ÝË?J¥ÂÊ&Ã?c é<?ªiºñдß?ëòYxÊê_?Ë׻¹i$!¼í?ãåI2?dd_61?<´W]ǖ·ð7u >©«xÏUü)qq?%²½kXU"`¶í¬?ýΫ#?Û6øÂ:ä?óUÉü)­Çw¢xø¿R·ñ°ÖÖzCq%Ɨu§ºm´>M¬¹1\Ä<Ôb7³(?I֕­õÌÝ9&Õ?/iMEJ¥½ª÷hS÷)®[Æzҥ?¿
+©	V©ÉVtéª8Ú0\£NօXE4¹]ԓÖÛ6mÁӣö(¿ª®xVÁUÃNM:ÂU?mÞò¯Ë$ÕÏ?ðn¥áÍX¤w&?`¹+÷񁿶?çßӠ?÷§|/ð̑ì£O.U#Ô`öϧq?çÂ5Òxrv·¶dHÄÅ,Dc§~Ýxà÷<滯?ø£^ѐXÝÛËu </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/images/alab/DPELDownload3.jpg
+SPDXID: SPDXRef-item9763063
+FileChecksum: SHA1: 1113d287976c4e0350afbb91da824a2ec3f8b5a5
+FileChecksum: SHA256: 3f3043054486026c032fe3477a783e8caabd6245d421e863cdc60b85e562cbf9
+FileChecksum: MD5: d4a657a004f18bf9f8dd9f847550dd55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	UQN2F1ÛÜg·óÍsԣV¥M¤ÛÕÇn[[WµB/?VÏÚÂn=¤®ۤþ?/éá?Vf~{cõê=ÿ,Uiå KuÉôüG?üsúÕ7½B01íÛùӞçñ¨i?; ½Ç\}	çõ?}ûiխz-lÖë¦ÌèöôTïM'{m%?Úk~ëϦæxC?ã#>½±Æ??j°U?@?ëßüãùW?$11f9?£ðÁþ~£érj	ͅ?c'ëҗ՜poªi¿åù¯Îýt?qÊ2~ғåÙ;¥g§U¿¡»w?Òà`mÇ Ïê}¿,w˒?'ú}?ÏùæjrðH<ñ}ó×?×ô¨d¿ó8*3Û9ëõãÿ×U u? </text>
+
+##File
+
+FileName: dpel-website-2024-08-21.zip/dpel-website/public/favicon.svg
+SPDXID: SPDXRef-item9763064
+FileChecksum: SHA1: cd89aaf32cfcb9ee34c9bed84b0a4444838691b7
+FileChecksum: SHA256: d478f5fc442e511ddcc1c2426baf79f07a2cc0e8ab2b56d09f51e8a27f706f61
+FileChecksum: MD5: c3a7d9569804a53a9d1a2c19ca7aca2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
