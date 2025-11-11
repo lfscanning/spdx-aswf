@@ -1,0 +1,138 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T13:31:13Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "public domain statement",
+            "licenseId": "LicenseRef-public-domain-statement"
+        }
+    ],
+    "name": "/tmp/tmptso241ri/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmptso241ri/code-e1778a7f-db0f-4e7f-a205-a7e2a8b1bcfb",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-503ce9a7556543ae",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenShadingLanguage/src/doc/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "29f14845d321be4ef131bbe09876966f4af610ea"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e90db64eb67644b2",
+            "description": "Sphinx Doxygen renderer",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/breathe@4.34.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.breathe-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "breathe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenShadingLanguage/src/doc/requirements.txt",
+            "supplier": "Organization: Breathe",
+            "versionInfo": "4.34.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ea3575f493405ff9",
+            "description": "A clean customisable Sphinx documentation theme.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/furo@2022.6.21",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND ISC AND MIT AND CC-BY-SA-4.0 AND MIT AND NOASSERTION AND OSL-3.0",
+            "licenseDeclared": "MIT",
+            "name": "furo",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenShadingLanguage/src/doc/requirements.txt",
+            "supplier": "Organization: Pradyun Gedam",
+            "versionInfo": "2022.6.21"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-f539071c4619732b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND (BSD-2-Clause AND BSD-3-Clause) AND (BSD-2-Clause OR LicenseRef-public-domain-statement) AND Apache-2.0 AND MIT",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "aswf.openshadinglanguage",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openshadinglanguage-OpenShadingLanguage",
+            "comment": "This package was added to the Trivy analysis for the OpenShadingLanguage by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/archive/29f14845d321be4ef131bbe09876966f4af610ea.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/OpenShadingLanguage@29f14845d321be4ef131bbe09876966f4af610ea",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND (BSD-2-Clause AND BSD-3-Clause) AND (BSD-2-Clause OR LicenseRef-public-domain-statement) AND Apache-2.0 AND MIT",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "OpenShadingLanguage",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "29f14845d321be4ef131bbe09876966f4af610ea"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-503ce9a7556543ae",
+            "relatedSpdxElement": "SPDXRef-Package-e90db64eb67644b2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-503ce9a7556543ae",
+            "relatedSpdxElement": "SPDXRef-Package-ea3575f493405ff9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openshadinglanguage-OpenShadingLanguage",
+            "relatedSpdxElement": "SPDXRef-Application-503ce9a7556543ae",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-f539071c4619732b",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f539071c4619732b",
+            "relatedSpdxElement": "SPDXRef-aswf-openshadinglanguage-OpenShadingLanguage",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
