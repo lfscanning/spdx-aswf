@@ -1,0 +1,265 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T13:24:41Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1",
+            "licenseId": "LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "LicenseRef-Public-domain",
+            "licenseId": "LicenseRef-Public-domain"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Meta-List-of-Dependencies-1",
+            "licenseId": "LicenseRef-Meta-List-of-Dependencies-1"
+        }
+    ],
+    "name": "/tmp/tmp_cc2gdld/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp_cc2gdld/code-96f6679a-0acb-4b4e-8a5f-0b40509acb39",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-cf425c4e7d536e04",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "Imath/website/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "d062b8068b3776c04cd2b9a7b9c9f9c897fabfe3"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e1bc471a456f7e63",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openexr/website/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "16edd7b2121ce09eaedc6b581d28640b09491ff6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ebc02dc98103f73",
+            "description": "Python documentation generator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx@7.4.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "sphinx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Imath/website/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "7.4.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c93f412ac8b9a6b5",
+            "description": "Python documentation generator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx@7.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "sphinx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openexr/website/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "7.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-61513b5f8317e3ad",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND ((BSD-3-Clause AND LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1) OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND LicenseRef-Public-domain AND (BSD-3-Clause AND LicenseRef-Meta-List-of-Dependencies-1)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "aswf.openexr",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openexr-Imath",
+            "comment": "This package was added to the Trivy analysis for the Imath by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/Imath/archive/d062b8068b3776c04cd2b9a7b9c9f9c897fabfe3.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/Imath@d062b8068b3776c04cd2b9a7b9c9f9c897fabfe3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND ((BSD-3-Clause AND LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1) OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND LicenseRef-Public-domain AND (BSD-3-Clause AND LicenseRef-Meta-List-of-Dependencies-1)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "Imath",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "d062b8068b3776c04cd2b9a7b9c9f9c897fabfe3"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openexr-openexr",
+            "comment": "This package was added to the Trivy analysis for the openexr by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openexr/archive/16edd7b2121ce09eaedc6b581d28640b09491ff6.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openexr@16edd7b2121ce09eaedc6b581d28640b09491ff6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND ((BSD-3-Clause AND LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1) OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND LicenseRef-Public-domain AND (BSD-3-Clause AND LicenseRef-Meta-List-of-Dependencies-1)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openexr",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "16edd7b2121ce09eaedc6b581d28640b09491ff6"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openexr-openexr-examples",
+            "comment": "This package was added to the Trivy analysis for the openexr-examples by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openexr-examples/archive/f7686dcce2746f55ec7f69632e21b48c0f6c78ed.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openexr-examples@f7686dcce2746f55ec7f69632e21b48c0f6c78ed",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND ((BSD-3-Clause AND LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1) OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND LicenseRef-Public-domain AND (BSD-3-Clause AND LicenseRef-Meta-List-of-Dependencies-1)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openexr-examples",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "f7686dcce2746f55ec7f69632e21b48c0f6c78ed"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openexr-openexr-images",
+            "comment": "This package was added to the Trivy analysis for the openexr-images by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openexr-images/archive/e38ffb0790f62f05a6f083a6fa4cac150b3b7452.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openexr-images@e38ffb0790f62f05a6f083a6fa4cac150b3b7452",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND ((BSD-3-Clause AND LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1) OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND LicenseRef-Public-domain AND (BSD-3-Clause AND LicenseRef-Meta-List-of-Dependencies-1)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openexr-images",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "e38ffb0790f62f05a6f083a6fa4cac150b3b7452"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openexr-openexr-website",
+            "comment": "This package was added to the Trivy analysis for the openexr-website by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openexr-website/archive/4b955bea90e2a76ff6eed3729fd468391f7177c8.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openexr-website@4b955bea90e2a76ff6eed3729fd468391f7177c8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND ((BSD-3-Clause AND LicenseRef-DreamWorks-Patents-Notice-Lossy-Compression-1) OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND LicenseRef-Public-domain AND (BSD-3-Clause AND LicenseRef-Meta-List-of-Dependencies-1)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openexr-website",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "4b955bea90e2a76ff6eed3729fd468391f7177c8"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-cf425c4e7d536e04",
+            "relatedSpdxElement": "SPDXRef-Package-9ebc02dc98103f73",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e1bc471a456f7e63",
+            "relatedSpdxElement": "SPDXRef-Package-c93f412ac8b9a6b5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openexr-Imath",
+            "relatedSpdxElement": "SPDXRef-Application-cf425c4e7d536e04",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openexr-openexr",
+            "relatedSpdxElement": "SPDXRef-Application-e1bc471a456f7e63",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-61513b5f8317e3ad",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-61513b5f8317e3ad",
+            "relatedSpdxElement": "SPDXRef-aswf-openexr-Imath",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-61513b5f8317e3ad",
+            "relatedSpdxElement": "SPDXRef-aswf-openexr-openexr",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-61513b5f8317e3ad",
+            "relatedSpdxElement": "SPDXRef-aswf-openexr-openexr-examples",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-61513b5f8317e3ad",
+            "relatedSpdxElement": "SPDXRef-aswf-openexr-openexr-images",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-61513b5f8317e3ad",
+            "relatedSpdxElement": "SPDXRef-aswf-openexr-openexr-website",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
