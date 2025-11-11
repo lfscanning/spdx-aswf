@@ -1,0 +1,2544 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T14:06:40Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-GPL",
+            "name": "GNU General Public License"
+        },
+        {
+            "extractedText": " This license means that you can get copyright or license information through a reference file.\n\none example below:\n/* \n * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;\n * see btnx.c for detailed license information\n * \n * revoco.c is under a different copyright. See that file for details.\n * \n */ ",
+            "licenseId": "LicenseRef-fossology-See-file",
+            "name": "See-file"
+        }
+    ],
+    "name": "/tmp/tmp9ns1xe55/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-aswf/OpenAPV/2025-10/aswf-OpenAPV-full/434f6597-a343-4d48-a9c1-add5f2b724cc",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-a17bd49efce706e7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "aswf.OpenAPV",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-OpenAPV-openapv",
+            "comment": "This package was added to the Trivy analysis for the openapv by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openapv/archive/8d2e3577223bd9e809df1e8ad2ffdc3e124c3deb.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openapv@8d2e3577223bd9e809df1e8ad2ffdc3e124c3deb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openapv",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "8d2e3577223bd9e809df1e8ad2ffdc3e124c3deb"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11501039",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9985911c0c9eb291198fa034a06a34c3c5806fe5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ad8e53c0c3e24e7ba64dbcad5e7706108f3dc67cf6515ef761adac0a39dab25"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5af7c29fe1fc652c0b7cde9e4205dc4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/LICENSE",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501047",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "22ad9d73136161356670b109d6fadcbfc43bcf06"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6c1c38a6327af9ef5fddd606b7dd241405ccad2eaca144435c1a497bcb0e812b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "336e8cae45d61234cf041c2d1cbd5f8a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501113",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b2db195df08de9e2e4e6e369665a579effabc0c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3130f03e6a6ea1946413e4c24ba17da686dbe1589f7e3e9db4caced235e35a97"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f1e96ec6edc373f5a9e7c9579fe6b8b3"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/inc/oapv.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501115",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f7bfe9aa73ad0b22d3c89b7a74aee49e675471bb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d4d6e8c3293beef16703fcd17b8f0223929e2c5a87cda60964fed41b5a4eaedb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "20ca79db8b0bc084087908f32b0cbd1d"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/app/oapv_app_args.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501120",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "13e0aee168a2b103d22f667d2f3edd5c941f4eab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "49579a3de513ebbe50fa67d7a67e1ea9e918fc50d2eb4a8a3d93c42f62ad763c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "99f024df355ffc08430e66d67f13a550"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/app/oapv_app_dec.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501118",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "646fcbb930d9e52832af1a3e6ba378f77d2165fb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d2aa3f38a5f3ba14222701cbc0f2ec1e2243f0e6511da46510838b67a83ce87c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fdf2f9d6845302eca78a199ed8c6e36f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/app/oapv_app_enc.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501116",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "731af7c692e4d8ac990dcee611fa007205369bb1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "da7dff15b4d54074651e09696af4fc5ab731b53cdea110f294bb930ba88502c9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "022976c7b58971760917981660ab1a62"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/app/oapv_app_util.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501117",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c3913c9e96b05697f42d8dbb2f5e577abcb77404"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "edb77b9401f9e5bf66b6089ef6a06816ff6cd520174a3486a7f7e525110542ed"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cdfe232a1444e1d66164c013364f74e3"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/app/oapv_app_y4m.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501056",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "494701cc3b2f2b4a3e7aeb66e299850515d27388"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a5f4ac03ded2a784ba1034ce6cc4af097ec91a4b45d7c021f37ef274af3abd28"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d9f28bbfbe0f05942e856584d610bbcc"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_bs.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501049",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "11596daf486776cadcaa5b1b47d061f18a73c9a1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "286c5d419d7756de3244a5a30b99deb33fbc6710e1dd8001040ae0faf970dcda"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7cd3b1f93945304784becb6eb49baebb"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_bs.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501058",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ab1e86c49ebf72f778d734dc5f923089d07ee338"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cb90b5238989a6d19f8197afe9f917d894ffb01f1d7b8af7df9b8041f9d43fb9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3d09b43d9fa122276373e61dd2598276"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_def.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501067",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "99df605b1c0f99184922cd14c6b6fb9bcd8741f8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ddb6a32ae12e5862d31b33f65f9094db0fb222764282f78c2d45326fff6702a8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "da23ed78d778e90eef9ef4bca759a79f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_metadata.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501057",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d8c4e1a3233049937c64ebb099304c1d76d228b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "716a7be2de5fb67114c8e84df3b70991f3d6edac4118e4b34199d70ba6304669"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5eceb1e25522a5ce5bc8aecbb745f6ad"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_metadata.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501063",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "392ced595379fba9f2fef2244bd1b3d700b2808b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "82396c5ebc586d5efaf7afccf7c02eb07e80c4aeed903ea0c309c99999f061c4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8fc4250f92322a7f22cfd433357f3123"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_param.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501062",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "641ad1b62a83560efc2bd22dbd120d92ce6ff64f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b20181552c23aebee9aa063d47e6548c003c824ab47f33f9ac55bbfea6417604"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a71c749e02fc328b5d3ec02251aa3b47"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_param.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501064",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "18c231dd0688b73fb077059b0870eede7ccfeb91"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "179158e32506377ddb7e6cbccb4de7d07e4a92e9993c78e24184d1315f1e84cc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "099bd34d6c4842696f19ab3efd757794"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_port.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501046",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6c522d3113dad1466fc4a048029b40b2cbb0cf5e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6b1335c693e2a61fca2bb415ddbde0fd9a0c469eeea56eec89ba651d7f611b42"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0df7e69669d85683a97759415a49fa6a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_port.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501061",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8fdd1a77bf62b8250a946c218cbe024f12d9ae8c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f6fa419a4aed60c114d63fbb926d139465c661bc269a6ebf5efb70bd73bfce72"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "74f7c26367b05d8e82b30acb4c90240a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_rc.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501069",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "556b837f0c6905c7e1e174d73ceeb452b81a0cf7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ac8c67068f0769eb53c691192c312ad5e923d5028ddce7fa62702be870544c4c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f7d41b033eb6d083221d5e3c7402353f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_rc.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501077",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "952eb0c62e9a7be4d6d5650aeecba8aeccb7d77c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2d52910ab9321e23ac6519eb5615b051e3469f5a41902ba8579c642fa9702176"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f36aa9135f5cb91a2d53a083522c86b"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_sad.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501076",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c9fd95e9a36011213e24fe18d0b07157c18520df"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f7d0134cafae6be5b00d742420c6b50903b49e0c3bb0d155f55bcf3e9bf1a8cb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "32adb6e30b2087781648bc455f6ccc38"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_sad.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501044",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2256818047f50ec4c3cb654994dafa21cb431b94"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0a443071bdea91cf381c01090e1ca06efaa6c9af3788e530e57681fb56542b30"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "06ca86f5bd57306f18f148458c98d021"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/avx/oapv_sad_avx.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501043",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "120ded0b68bb46b87635b23a2af1283618321481"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "01bbe67d4e46c97e9039cea2e26e7cb20cd069f8070977940b0ce8acbc0d57e8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "796e54a3ebc7e384063609a6d76390e4"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/avx/oapv_sad_avx.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501072",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3971adcdca6df887f3952f5c0b42b7cfc66697b9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "553a5bdd95da53f2e23e5c8b1eeafcaa5e0e6b4a0484bee08800725e701f4a75"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e72782c6e665882d3cdfc12c889e36f"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/neon/oapv_sad_neon.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501071",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7ae5bc31d9a75095caab0b6945fb542f7b160fca"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6bc886b3308087e2289d0d33a4bebe4a7742fdce6874bed61f956ab5cfada8db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e88822c0c9026b70cc3ec0dd574f3e71"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/neon/oapv_sad_neon.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501052",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "56681b10f1e2910475dce630bb8a34f73fcd9474"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ca6bc1b9a7c86c3533688767fca3bbe387fcd35c5140a28926444c150a613690"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2199683d6106230dd94cf9135d248918"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/sse/oapv_sad_sse.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501054",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ea942a38cf71e3b8ab5f33a7ac4eb99295c4af35"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e003adc435ab321c9cdf5c3ad277701d8f16ebc0d5bb2fe17ec824ef9042a5c5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d9eada7982e8629aa8dd507b626f0132"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/sse/oapv_sad_sse.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501078",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7d5ac6670329dab359edf63f8b417ebffd76d05a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a1e9bd22ccb3bebd8a986eda531aeda5d7e1eb43e9dae2d3a48b7c4f12b851df"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ea5600c7186c7b87b085441018689c22"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_tbl.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501055",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "249ba071f0736c99d5233853ebbe34dffca5edca"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a030618c2cea4e1f16b9d6e6d4db2b90514a3b3796680075db9f415e65f11c1c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "251277514b6080fd60ec039a187006ee"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_tbl.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501048",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d5b5cc0f353d281036a36af884426f6c5bf771b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "58de3f006cfb94c46bfd5385a73ede95e085c5c658ba044fcfb6dce70dcac160"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "35d7753af7793f26cd442ef5f5307f24"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_tpool.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501059",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "66183e51ed2ccce8c7f76705284cb20f2af730ba"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "767f5587f236d473be6b4abbd627fece7f1407635b0dbb5892f9cbe34cbd86aa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "51909a9321e32cc02b492220afc1ed84"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_tpool.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501075",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e55d6362e8845cb3bd3856cdc2b909ad474b34bf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "42cf3c9b4eb19fe384c1dd45a1990b9cd0699f892b7256c97d56d7b2302d73ca"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "23909006e5a39abbe19c07b5b1f44867"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_tq.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501065",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fbc3201940e6a7dfdcee3b0c0a9775843ba7bc3e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "52a15dd6ddbf4793c4f53a9cf46e310d147cf71138d4580ced98b4d734b6824c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "02da748ce3225f3f68ecacbe48122df2"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_tq.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501045",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "10409b758d3d000370c3204d5abd2933dfe300eb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3a394973fdf61005dec33c35edd6586cb76ad4e50ea8497ecd0212b798f5cb0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "007a705ba2dc3858bf4e3e2633e05874"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/avx/oapv_tq_avx.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501042",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d0f2e5d6eea8e3d3127c77245eb0330d64432b57"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7fb25702ffd71a72f132cbbcbb369bdfadb16b0f1bac69b7e7435a5da6f24f8f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2cf9f32ed1e70dee69994538d21f9939"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/avx/oapv_tq_avx.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501073",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3f0e417ba93d2e0ab01803b67bf2b2b46b61fff4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c4edf7945de7f167e4214d869ecf9562c894e59a47d76faae179ecbe77cc8628"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d9c0a800d1d8f6ba5895145346d026ee"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/neon/oapv_tq_neon.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501074",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4563a95b0ecd8635dab50d0ab20778f4b03bf45e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55aab6437aaddde1551101f173a4cb2b64c7665c7b8421a4a2a5a5db85561620"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9ada9dd30bc2ac8c3b23440d0a8b112a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/neon/oapv_tq_neon.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501053",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "605ddd5bcc18820410fdebab870e7043eae196cc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2faae4f24137f379fbcee860d3e012a5a108c6b907ff4dbf8cd87d069e9d4ce7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0ea7244759c4fe29116469bda6b60e6a"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/sse/oapv_tq_sse.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501051",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "22b5aea6988caed3304333bf582fd47f0b951c5b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "775404fc826349a9c021343c6ca8387383d87645a2cf4d9b86b49116d71e7001"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d1e5c32928c4bfbf3f0c3690bd590db1"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/sse/oapv_tq_sse.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501066",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da8e08902b007c2b75e60a9e05ab5eb4deefcb2c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4c95e0bad6fc4d756da1f1cc2700b35ed82109f0944bf08c0277a8456d2221ca"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ff5948aad3404d76a343f63052d66fbc"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_util.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501060",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f5cb71877e8a6d747cb5c2f492fe0e1a5025ef43"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "984491597d66f4024775f269b8deb9cbd31f261fc0b124d1f0891a0e285ab5c8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7c0335389104f12a572b1d8cadd6b38d"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_util.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501079",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3a4ae834cf9a5d33184c0c767114e22860e2a57e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "24e77de8a082481f7432b32f1263e0e2e8e1c2803cb6080b87d6d4216f828924"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f2c887c357994a43365345ef9af15567"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_vlc.c",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501080",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b3b4f5d44d3ddc14695d28289119e0fe2a0557e7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "61bc697e13005bab85a57f8fd66415200a07a64fc6e065ac98bfc0bfe0c20550"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2337c8a1eca3d53dbf2c3bafa0986496"
+                }
+            ],
+            "copyrightText": " Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/oapv_vlc.h",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501019",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8385bb4bf3995708240c864b6acc61dfbc763dc8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "da2acd9fdeaa293c1bb3aa54ce6ce8666415e01caf305a5024d8614774bb2c1d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3c9b978e01986bfec20f842b7304212f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/windows_x86_64_toolchain.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501021",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aea8570e3961ae4718acfb46b440361aac8f3fea"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "72bbafc4a721a6bd04a558ed128c41ee9985f9d1cc09c8fed3273ba801c6896d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "12ba455d6ca15410dcb7a863a0207d53"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/apv_isobmff.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501023",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "47debeba066d6f8b270915c2c4d42e31a6123580"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3f95aee0874f3d8d89263f52ddb6f4e6d69638ff372de450c0c8e0d4e4c69976"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bd11ea5054caec4f70b2c2567f513023"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_black_bar_64.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501024",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc48d3fca2d2c778a1b9f9eedfa540724ba43546"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3c150d96fce8c0c0c6535671f312d9167af1b656f501cc85d107b73f57c20922"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "79473fba68ce00b5c69835cb74743bd7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/apv_parser_on_imhex.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501025",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b28a32c2dd59f54361a9292918eb50b0f9b55744"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f52d8266153985dfaef39bbc784d5432a6430d41ce7502c101b0bbf1b5edda94"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a387fd426093da00a887fe36c03a4c9d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_bar_64.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501026",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f619366dda0a181979778330b8c8d27d92476bff"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3329fd55483a7311e1456c695c22cc6ca5779e92053d80f674ca8cc326cb5eb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4a9df353c0e71ce3dfec3bc866fc7482"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_white_bar_256.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501027",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9304496c135e6ccbfffd0a10d5a834c01d2d1486"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9175db83d2e79517aa8b780f33a785e032f8548001c02e3a77a23c6f183f5e6c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e44ae2a49e96ef2542bd1a9c305485fb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_white_bar_128.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501028",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7bee7cd71be584f8bbaa29124aa54be451b30e9a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dc82c40caa4af13631d4b5c4b489dc0112b4db29cded9a8e1013073944cd939d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4e293b90a426fac5e62569aa0030aa3f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_bar_256.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501029",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5ab717d53878376b920cd9d5e26b39e137bb777e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2698d6bd3a47fb0915f24b179b986a449d0cbeacf43d60464dd205c2f8b54901"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "07b2c30e76d1c5fa9181543bf90a7900"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_black_bar_128.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501030",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6f86e569a0444bfc318dd4e44378a9b4c05b7e2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2bdf056050ad9ba159c2e702af972c763e4a53eb47e825b88f932490d7fb210b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cd31208554295420bda2ffef15e7c59d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_bar_128.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501031",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a789e12f460c73506a12dbbf9a9c17cd3647d24f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0371a99709abe40900990c5cb4d769fc28d7da86947e2d208d3518f7afce8ccf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5b67930d33d9ddc75f5e574a3e7ba89a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_white_bar_512.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501032",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5f0c65f3d6ebbec62262d5c806f52908b1ae9c2a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a41367a33aab463e627c26a50c268bbf8de1f98f7fb5fc3fb07af2fc3fdc5060"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dfe897de8d2100cf81e91c4e8e2f9d2e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_black_bar_512.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501033",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "142cc30c3b1258dbf8753b5479b5b8ee4386e295"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "519ace2c8c6fc7014306db7b558942bc28a3afb780393f3fc2c8959e82497bbe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "846be9969d52ed40c3a43f37a9779f26"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_white_bar_64.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501034",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b8c3ddae15012b7b16e34346cd84171b2c1ee565"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7e1536b2b5a1474fc1d553aa9ea267bfdf673ccfd38a6f1497f9810751a05e57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5c40cadc3221aa0b7d969d6f82661e79"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_bar_512.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501035",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e85a12861bd7fa8ed466feea8c0696f5f6754808"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a6739966a3bfcc0d05e4f02d86e6a4bd75498ab845cd2daa318b7c18baff9705"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e999878985b487bedd419620b3cb6718"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/img/oapv_logo_black_bar_256.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501036",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "48baf150e12d03b2e42da244c1a4239b88521498"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a101e67a8f9556ad5fd69f8073318b900a43e31cdb6a87c923048321d3533918"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ebe600b9a293cdc862136585b49cc4aa"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/readme/apv_family.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501037",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ede8cce85126bb8d842ffecca2acbc94913bc8c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1c5c3ab9acb5973b65ef2802785cab2173a50b9a1ebad9d473240f3edad3b0f9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5d89879d816d5e3e1a74acf89a7588c6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/cmake_uninstall.cmake.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501038",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1c186d1530a0a3d4421b681dec22df7c2d95c0dd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c4b3bd41061b8eaa06c1e60c3f51243ecb1599b3e21eec32ad4861a83b9b640a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "88be81f351d8aff420fb230d3f809c27"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/ios_arm64_toolchain.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501068",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "27be751c5968742d01401126d28f6569c689dab4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "042af73cc27d629160c7fdab67b2539081f2523b3368aed03b12862c2a045afd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "180e9a9f019321877bec3c1ce31ab1c1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/src/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501083",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "75d482f92653d54d767fbfc820489d15a2df2b84"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "88bd5f918900de3f865be8ef8b54038ebc8d241a17c30d555bc8af196ffc22d8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1f6df5ec1749f8a474d17d80b9e10256"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/.github/workflows/release_packages.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501084",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "50fe96ccfc60134aeb6cfba88597edda456435d9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "db31b71ca10a53018ba64a557739cf83145801d3b8c9439f966f4c47d9b6ccad"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "233bb9efd5a2e99aaddae8b2be7c6839"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/.github/workflows/build.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501085",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "58678cdc7182e2f89734fc4f1d4f0ec72c8dc68b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eada67e1b7f73d16a4c240ede6193c4852a2b0887e678a23dc7a3462810502e7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dcc5a91dd00cd74d9a5ddcde9b959c9d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/.github/dependabot.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501087",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1fd28aa67c891d8a8005ed7938438621fd91bca1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ef2e6b9c8415b349245a61ec15ba37c3f936a479d754a20246687151d1a6a4fc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "73810351f2dfe20c6bf49bef1fc89447"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/util/apv.hexpat",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501089",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d5c826716f6c948bace9500176e4109ee8139e7b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d18fd02e35cd9983bfa4bfd5b66f09ddecf8bc10d3fefccaf8c123efe06ace5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e4c781c7b0ebba1b94461397dc34f3da"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/pkgconfig/oapv.pc.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501090",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f107dd0f324a0f57c6aff51f3a94dfacb4f1833d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c15c590236fe8f61f9f9adad01c03fd52879a003b7b8b77915442e5ea2651403"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5de27569193075dffd215ca4086ca22d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501091",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "10bd09c3d514bca3c120e15a0300514b4b05bbe4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4434dc923bc3819b62c8665c9fe2e2c55e2818f58cff2a0ba6d8eecb3145eeec"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cfa4fb63b627084914cd71bbecd7d936"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/arm64_toolchain.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501094",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7127423e84b7eb17fe8a4d1a891c02516d699ce7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9dbff94d7b21fa207669e4ab0ea2c7136d9a7f7e47b0f9307cb0d8ace36bd2a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "77cd01a8821cd17c2188fca033edc726"
+                }
+            ],
+            "copyrightText": " \u00a9\tp\u00c9x\u00ff\u00d5Kh\u00cf8\u00f2\u00a9z\u00b0&\u00ef~\u00e2aR\u00d77W\u00bc\u00e8\u00cc?\u008e\u0092\u00a2W\u008dY\u00e8K\u00aa.\u00a1\u00a4\u00b9\u00c7\ua716?\u00bfrv \u00aaVKgC\u00e7\u00fbor\u00ed\u00ed%\u00a5 \u00fd\u009d3\u00d5\u00ec{\u00b9s\u00c5_-\u00dd\u00f7\u00e6[\u00e5p}F:F\u00b3~\u00cf\u06efQ?\u00e2| 8\u00b5\u00af \u00bc16\u00c6\u00e2.{\u0092\u00cf$\u008a4\u00e3\u00f0?\u0095\u00a4?\u00e5?;(\u00fc\u00e0ek\u00e91\u00c5m\u00898\u00dc<\u03fc?\n\u00a9 o\u00c62\u00d3w\u00e3J\u00f4\u0096R[:\u00b5\u00ac\u0087\u0082~\u00e6~.\u00fd.~\u00df?\u00e9\u00ebnf\u0098\u00e6\u0085m\u0795H?mm H\u00d6y-|\u00c9$'\u00e5J?\u06513V?^-?\u00a1Y\u00a4\u00ed,r%\u00fe\u009d\u0097F\u009d\u00b3\u00d4[:\u00ba\u00f09YkrVK\u00f1 \u00e7\u00f3\u00dd ~Z\u00ddM\u03ebt\u00f3/\u06dc\u0086\u00f9f!8\u00b1\u00a4?\u00e4\u00f6qJ\u00e1Q\t\u00e3d\u023e?\u00c2@b\u00b9\u00a8\u00c5\u00d4\u00af&\u0099?,\u0566~\u00bb\u0627n\u00f3\u00bcc\u0099|L+\u00c1\u0096\u00beY\u00bcDh\u0093?t\u0099G{u?\u00ff?\u00bc\u00c0\u00bf\u00d9\u00fa\u00e4]\u00e5\u008d\u00ea\u00ba\u00ea?z\u00e4\u00ea-xu\u008e/>m\u00ba\u00acJ8 ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/tile_E.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501095",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "28fcd89cbf440c5e72f02f811208825700d00a0f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "98cdf4d9d4d0ea02a2831c7247e45418eeac7ae54c96daeca69bdff5f77c0141"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7cac366f29dc6571bc814923cadeb4b"
+                }
+            ],
+            "copyrightText": " \u00a9 X?Ow\u00c6y'O?\u00c4Yzf?\u0094M\u009c\u0091\u00e4\u00b4?\u009c\u00ff\u00a5?$\u00fd\u00d2\\]z\u00c04\u0085c \u0086\u021f\u045f?ld\u00be\u00b9/\u00f4M$H\u00fe(I\u008b\u0082J7Q\u0087)\\\u00d9\u00e5\u00d5n\u0096[a\u00d5j0\u00d3lX\u009e?\u00d8<\u00d3W\u00df\u00f2lH\u00cfvP\u0095\u008e6\u00d3^'\u00e1\u00de\u00d7?\u00d9Z\u00f1\u0092#\u00da(\u009e\u00eac+y\u00c4[\u00ec\u00e2q\u0092\u00aek?\u00a8\u00b3\u008d?LU\u00ad\u008ew\u00fbb.\u00b8dx\u00d7R\u00e5\u00eb%~\u00f5?i\u00bb?U\u008c?f\u00a7\u00c7,\u2713V:.~\u0433mN\u00c5H\u00d2\u00ef\u00d8y}\u00cf\u00fc\u0092\u00bd\u00dd\u00f2O\u00deH\u00a4\u009bjQA\u00caO\u0099G~\u00d9r\u0711S\u00e7\u008adAy?\u009aZ\u00894r5d\u00f3Kz\u0096?E<\u00ae\u00f6k\u00d9Cp?\u0081\u00b2\u00eb7+y/\u00f3zA\u00ca/?\u00e6\u00afx?{\u009c\u00f8\u00d0?K\u00c1\u00d9c\u05d9\u00df9 \u00bd\u00df<\u00e8\u00f6\u00d6\u00f5|\u0096?C\u00f2\u00de@\u00ab\u00f5\u05728K]\u00ddSc\u00ea\u0099!?\u00b9\u00b7\u0089\u00ea\u00e3\u00ec\u00fdl\u00afw\u00bf&\u00c1?\u00f0\u00a2\n\u00a9 z\u0093\u00f3L\u038a8b\u0090?m\u00c3;U\u00ff\u0097\u0089\u00df/\u00f5{\u00a2\u0083V\u00bf3!\u0080?y\u00db\u00e4\u00b5Ao\u073a\u00f9d\u009a\u00b3\u00e1I\u06be79\u00c4VI\u00d2O\u00f2\u00feU\u00b6]\u00d9;\u0296\u0083\u0097C\u00c9\u00fd\u00ffjg\u0295\u0093);\u00e5?\u00a2\u00a4\u00e5]\u00c0\u019d\u00c8\u00f9\u009aO\u00ff\u00e5\u00a3n\u00a1\u00e1ZME\u00b2?\u00fbAZ3'\u00a02?\u00f9U\u008b.\u00a7\u0092N\u00d2N\u00a4\u06d2?U\u00d0c\n\u00a9 z\u0093\u00f3L\u038a8b\u0090?m\u00c3;U\u00ff\u0097\u0089\u00df/\u00f5{\u00a2\u0083V\u00bf3!\u0080?y\u00db\u00e4\u00b5Ao\u073a\u00f9d\u009a\u00b3\u00e1I\u06be79\u00c4VI\u00d2O\u00f2\u00feU\u00b6]\u00d9;\u0296\u0083\u0097C\u00c9\u00fd\u00ffjg\u0295\u0093);\u00e5?\u00a2\u00a4\u00e5]\u00c0\u019d\u00c8\u00f9\u009aO\u00ff\u00e5\u00a3n\u00a1\u00e1ZME\u00b2?\u00fbAZ3'\u00a02?\u00f9U\u008b.\u00a7\u0092N\u00d2N\u00a4\u06d2?U\u00d0c\n\u00a9\tBR L\u00c5vU\u0084ZrY?@\u00b2\u00d5}a i\u0095O\u00b1\u00f0l \u0090j\u008d{ \u00b7.\u0083?\u00acV\u0084X?\u0632Z\u0082=\u00bd&!\u00a1?x>\u00b1\u00ccF\u0083\"?\u0093\u00b0\u0081\u00c4H1\u00a3H\u00dd-\u00d9\u00e83\u0093\u00fad\u0083\u0084\u00a7W\u00f9\u00be\u00c940\u0093I\u00d8\u00f6?V\u00ad?\u00c0\u009c&\u00f5M\u0092H^\u0092\u04da?lwk\u00ceA~\u00ffP\t\u00a5T.^\u008d\u00fa?m[\u00e4\u00d5.\u0097%\u00f9?\"?r\ua0b7%\u043d>A\u00f4<?=Ry9?\u00fa\u00ea(9V\u00b6\u00bf\u00e4?\u00ac\u00fb\u00f89\u00c86\u00be\u00ad\u00bd?\u00e86m\u00f37?A\u00b5\u00bdI\u00e4?\u00dc\u06e0\u00ef\u00f8\u00beA\u00cd?i\u00df \u00e0\u00adm)z\n\u00a6z?U\u00f4\u008f\u00c7?/C?\u0094\u00848\u00a1\u00fa\u00a2 DbU\u00c88\u0754l\u00a7$\u0092??\u00af~TU\u00e9\u00a4,?\u00a4j8\u00d2L7\u00e9t,\u00c9S\u00ef\u00ef_\u00f1\u00afB\u00fa\u00dd\u00ef?\u00ff\u00d0m \u00be\u0093?\u00b4c\u00fd?+\u00e8\u0084\u00e0\u00a7\u00d5Ur\u00a4?k\u00ea\"\u00c7b\u00bc\u00ab\u00dd \u00e3E\u00f6|\n\u00a9\t4qDEi\u00e7m`\u02a83\u00cbi\\M[\u00f4\u00f2%I\u00de\u00d4?pW\u00fa\u00f5?+{\u0092/\u009f\u00f7(_D?\u00f4\u00fb\u00826Y\u00b5\u00fa\u054c\u00a2J\u00f1\u00b9XU\u00b3\u00fa\u00b2\u008e?\u0092P.\u00aamV\u0080\u00a7}\u00db?\u0091\u00ef\u3fdf\u00c78<\u00d2t\u00ab\u0091*\u00d5{g\u0699\u00a9\u00a4\u00f1M\u00e3b\u00e5\u00ca\u00d2\u00f3\"\u00fe?\u00fb\u00b1\u00be\u00e5?\ucafen\u00f8\u0098??a\u008f\u00e3w?u\u00bd\u00e3\u008b?\u00cfy\u00f3\u00d2c\u00a2?Z\u00d3\u00e7\u0092\u00cb?;\u00ed\u00a5\\\u0084\u009f\u0095\u00f8\u00f1?\u00b1\u00e5e\u00e7?\u076b?\u00d0?M?\u009d\u00b3R?'\u00e7~Y\ua72d\u00ee^\u0092yI?\u00d8l?/\u00bf0?\u008a\u0099\u00f2\u00a5L\u009es\u00d4?g\u00cc\u00faVnI?BZ\u0097%g)'M\u00b4?\u00ff\"0\u0093t\u009dg?\u00cf?\u00d12\"\u00c1\u00dd{\u059bBS?\u00ba\\\u00cf\\\u0084\u00c9\u00c5\u00ed\u00dc\u00ec\u009bm\u00aa$;XrN\u00b2]\u00a1\u00af[I\u0082\u00f3\u00bf%_?\u00d3J\u00c8\u00ef?\u00aaq;\u00e5\u00e3^\u00b5#\u00e8J\u009f\u00bf\u00fb\u00bdu\u009a\u00eaFSB\u024f\u008e{\uff39&%\u00ca\u0505\u00bb\u00d2\n\u00a9 y(?T\\\u00e7D[?WY\u00f1\u00bf\u00e9\u00bbIR/?J\u009a\u0085\u00fbaT\u00b4\u009d\u0082\u00feOY\u00ee\u02e2\u00ab\u00e2]K-E+?\u00b6*,`\u00f9\u00e9d\u00ac\u00b4B\u00bd\u00a4\u008a\u008eu\u00c6^\u009b\u00a5=R\u00d6y+\u0752^3\u00b2\u00a3\u00887?\u00f9\u00df?^34E\u009ekq\u00eaE\u00c1\u063e\u00f8\u00cfd\u009b\u00f5\u00cc\u00dd\u00c9x\u0092\u0088V\u00d9\u78f87X\u00a0\u00f8'\u00f2\u00fd\u00ca\u00f7O@h\u00da\u00d5?+\u00d3{aXai?:\u00f3\u00b30j\u00b6v\u00d3?\u00f2\u00bb\u00ceKRO\u00b1?\u009ekW\u00f6\u00af?s?\u00af\u009f\u00e6{\u00a0\u00b9+K\u0088\u0091Y\u00ffk?K=x\u00b7\u00be\u00f2K\u00bdX\u00cfU??%]r\u00bf\u00faAet]S\u00b3?+\u00ff0\u00ba\u00f6\u00ee=\u00d2G3\u00e9\u00e7O\u0091.\u07300\u00d6Q\u00fd\u0082\u00d9 \u00bc\u00f3U\u00f6I$\u00ad\u00aa5N\u00a8pT\u008cy\u00ff\u008d\u00a3\u00bc\u00b3?\u0092\u00a0\u0099F7/\u00a5\u00e3\u00f7\u00b4k\u00df9*\u00984g2\u00f9\u00ddS)w\u00bdZ-PSx\u008ck\u00975\u00eaCy\u00a2yd#{??yhx?\u00ab\u00d7^\u00f2\"?BXL6\u009et\n\u00a9\ty\u00bdD\u00e0\u00a7r\u0097u\u00efZc\u00c9\u00f7?\u0085E\u00faN\u009cId\u0082\u00fesMkW?\u00a4?\u00877\u0307\u00e7\u0085\u00ea\u00cb?\u02b6\u00fd\u00e9\u00aaj\u0091\u00f5\u00ec\u00f8\u00e0\u00c6\u00f8\u00c4S\u008d'Y\u07e2a\u00d5\u00d5Di\u008f?\u0749\u00b5]\u00db\u22ccY)\u00f7\"\u00f9\u00a2\u00ear\u0086y\u00b2\u00df?cO/\u00ce\u0417\u0085\u00f1?j\u008e?|\u0092\u008cZ\u00add\u00e5\u00f6?\u00a3\u00a0\u00b1?\u0084\u00fc\u00f5\u00d5\u00feI'.\u00b6\u05a25\u00ae\u00e7\u00c6*\u009e{::\u00ff\u0295\u46aaj\u0093B?\u0088\u00d5\u021d\u00e7\u0087?ww?-\u00a2 \u00e5F\u46acz8\u0097\u00d1?VT\u00fe?\u00ba\u00ab\u00ef\u00bco\u008e7\u008c\u00f6?\u00db\u00f1\u00964\u00b8p\u0486?\u00c5?+1\u00be-\u0095f;?'{\u0bb4\u00b8`?#\u03eb\u0091?W\u008d.\u00f9\u00fa\u00b0m\u00d62\u0096\u00e5?\u009f\u00b25\u00bemW\u008c\u0099d?\u00e2Uh\u00e5\u00e3\u00f5J\u0089z\u009f:\u00e3\u00be?\u0093\u00b2cI\u00c9g\u00fd\u00d5+U+\u00a3\u00cd.\u00a7\u00bf\u00c2+?9-b\u00f1\u00a1\u00e1\u012b\u02f4G\u0092\u00cc?,~e\u00ca#\u00b8\u00a9?n\u00f3g\u00bb\uae38\n\u00a9 X/\u00beJm?\u00f7jx\u00a9\u00e9c\u0082\u00ea\u0083\"\u00ecJ\u00c9?\u00fb\u0350w?AF\u00c87]?\u00dcH< *\u00ba?b\u00e8=G(C\u0085\u00a6A\u00c98\u00a2\u00e4A @\u00c5N\u02e9 x\u0083\u00ea\u00f8)\u0099z?+ \u00faL\u00c1J?@\u0083\u00edy\u00a0\u00e5et?\u00c7z?P\u0082h=\u00854?\u00a4C?\u00a0\u00e45\u0095:m?\u02c8=\u008c\u0083?\u00fe\u0083\u00da?\u0090\u058as\u00b4\u00ab\u00e1|\u00ba9?\")\u0098 \u00f55\u0087^\"r\u00a9z?\u00b3P\u008bXw?\u00a8\u00c2*DRx\u00f9\u009c.\u009eEl\u02c7\t\u00abA\u0085\u0099(<\u00c7A\u00e9\u00f2?mS\\\u0083\u0091A\u00f4\u0083\u4a2b\u00c88\u008b\u00abA\u00ca!Dr}4$?M\u00fc\u00f7\u0092\u00c94/X\u0083\u00ea\u00e7`?:V\u009c\u009d4?\u00d7A\u00f5\u00c8R?s\u00d2H_~\u0093?\u00ab?!\u00ae\u0082\u00f0J\u00b5\u00ca?\u009d?\u00a8\u00f6\u00d0{ \u00d0sF,\u0083\u0094\u0092A\u0084\u00feA\u00f3b\u00d3{\u00e8\u008c?\u00fd\u0089?\u0085\u00a2\u0090\u00bbD\u00e3\ua729\\\u00f4\u00b2?%;/\u0098QM\u00b7\u00fc\u054a\u00be\u0082\u00c0,V4 ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/qp_B.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501096",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a48010376785df3a240676a1880c680d3688525d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "634b6aa9431ab9072ece10d7afa0b75434fb182e88673567ee40cb42113087b8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b87a59443b009e9241393e6e1a927d61"
+                }
+            ],
+            "copyrightText": " \u00a9 P2ibC\u00ed2\u00d9+^\u00daV\u0092sQ\u00dd\u00c2\u00f1Q\u00eaD$?\u008am\u00aa\u00b0US\u009d(\u00abr5rfg\u00cdkHH?/*?U?\u00f3\u00f2M?V-\u00942U\u00db\u00dd\u00ea^\u00aa\u00d7)?:\u00bbb\u00adV[\u0094\u00f5#\u00e9 Pu\u00adH\u0090\u00b8\u00c8\u00d5\u0258_4\u0093\u02a3D?\u00e7\u00cd,\u0636P\u0081Wj\u00ad@\u0090\u0083\u0091\u00fbL\u0095&\u00b5m\u00a5)\u00b6\u00c5z\u00b2\u00cbOR>\ud908\uddd5nf?\u00c56R \u00a0\u00d5H*\u00ab\u00f2\u0096) d\u00e5BN\u00b9V\u00ab\u00dd\u00cbRjD\u0085]\u008e\u00f1TL\u00f9\u00a4\u009f\u0092&RM\\\u00a9;*hd\u00ab\u00b5V\u00b9H\u00e5\u00a1}r\u00aa\u00b6J\u00d7b\u00f1&\u00b3\u00adV[\u0094\u00fc?\u00e2?~\u00e5 Wj\u00e4/:6R>\u00aas\u00a7\u00b4\u0084\u00a4-\u0092\u00a0\u05ea\u0083{\u00bdK\u00ea\u00edH\u0090\u00aeuR\u00a4\u05ab/\u009aI\u0082\u009e\u00ab\u00b7\u008b-H\u0099\u0081\u00ab\u0095v\u00aa\u00d2:\u00aa\u00fc\u00a8.r?j\u0088_4\u00b1HZBYj?{\u00aeW\u009eU\t\u00be\u00d4\u0401WkE\u00ee\u00e5Uj?\u008eJ-Y\u00de\n\u00a9\tOZ(\u00d4K\u00e8\u0091S^\u008dE:\u00e8\u0087Qq\u00ac\u00f5V\u0088M[\u00a1aS\u00ba\u0095\u00f4?\u00ea\u00cd?\u00ca,\u00f6\u00aa/\u00f4 \u00ea?R2\u00adZ),gBi\u00a1yRj\u0084\u00edO*I\u00d5\u00ea\u0085C\u00f2\u00a9?\u06a4?\u008d?\u00da\u00c3P(\u0087\u00da\u00e9?B\u00ff\u00a1?S\u00a2\u0084\u00cfB\u06e2\u0099N\u008f\u00b4\"4\u00fb\u009a\u00a21v\u00b0P\u0094\u00bd\u04bd4)\u00b1J\\T\u00aa,\u0082\u00a10\u00e2\u00a0\u00dd?Nz?T]\u00f2P?Lu\u00a8N\u00a2?Vh \u009e\u00da7\u00a3\u00c7x\u00b4\u0085S\u0498tM(C\u0094*\u00da\u00d5F\u00b3m?L\u00d3?\u008a\u0085 \u00da?\u00ed?b\u0085\u00e9D\u008a\u0082?Q;\u00abT\u009d\u00a6=?\u00aa1\u00d4$?cS\u00be\u008c\u00a5\u00b6\u0084?!Jz\u009dB?\u00a2?E6\u0094t\u00d2\u00cfE\u00d6?J\u0097D\u008a\u009d\u00f5\u00bb ^\u0091\u00d4\u016e\u0095z\u008a\u0095?\u00fa \u00f4@\u00a9]En\u0088\u00f5\u0294\u0094[\u00d2\u00cdl\u00a2\u00b9O\u00a8*?\u00b5<\u00ebu?9 }?\u00ba\u052a1?n\u00e8\u0098VJ44\u0091\u00a2\u00c3D\u038bU?:?\u00e5j\u00a2)\u00a6\n\u00a9 P2ibC\u00ed2\u00d9+^\u00daV\u0092sQ\u00dd\u00c2\u00f1Q\u00eaD$?\u008am\u00aa\u00b0US\u009d(\u00abr5rfg\u00cdkHH?/*?U?\u00f3\u00f2M?V-\u00942U\u00db\u00dd\u00ea^\u00aa\u00d7)?:\u00bbb\u00adV[\u0094\u00f5#\u00e9 Pu\u00adH\u0090\u00b8\u00c8\u00d5\u0258_4\u0093\u02a3D?\u00e7\u00cd,\u0636P\u0081Wj\u00ad@\u0090\u0083\u0091\u00fbL\u0095&\u00b5m\u00a5)\u00b6\u00c5z\u00b2\u00cbOR>\ud908\uddd5nf?\u00c56R \u00a0\u00d5H*\u00ab\u00f2\u0096) d\u00e5BN\u00b9V\u00ab\u00dd\u00cbRjD\u0085]\u008e\u00f1TL\u00f9\u00a4\u009f\u0092&RM\\\u00a9;*hd\u00ab\u00b5V\u00b9H\u00e5\u00a1}r\u00aa\u00b6J\u00d7b\u00f1&\u00b3\u00adV[\u0094\u00fc?\u00e2?~\u00e5 Wj\u00e4/:6R>\u00aas\u00a7\u00b4\u0084\u00a4-\u0092\u00a0\u05ea\u0083{\u00bdK\u00ea\u00edH\u0090\u00aeuR\u00a4\u05ab/\u009aI\u0082\u009e\u00ab\u00b7\u008b-H\u0099\u0081\u00ab\u0095v\u00aa\u00d2:\u00aa\u00fc\u00a8.r?j\u0088_4\u00b1HZBYj?{\u00aeW\u009eU\t\u00be\u00d4\u0401WkE\u00ee\u00e5Uj?\u008eJ-Y\u00de\n\u00a9\tOZ(\u00d4K\u00e8\u0091S^\u008dE:\u00e8\u0087Qq\u00ac\u00f5V\u0088M[\u00a1aS\u00ba\u0095\u00f4?\u00ea\u00cd?\u00ca,\u00f6\u00aa/\u00f4 \u00ea?R2\u00adZ),gBi\u00a1yRj\u0084\u00edO*I\u00d5\u00ea\u0085C\u00f2\u00a9?\u06a4?\u008d?\u00da\u00c3P(\u0087\u00da\u00e9?B\u00ff\u00a1?S\u00a2\u0084\u00cfB\u06e2\u0099N\u008f\u00b4\"4\u00fb\u009a\u00a21v\u00b0P\u0094\u00bd\u04bd4)\u00b1J\\T\u00aa,\u0082\u00a10\u00e2\u00a0\u00dd?Nz?T]\u00f2P?Lu\u00a8N\u00a2?Vh \u009e\u00da7\u00a3\u00c7x\u00b4\u0085S\u0498tM(C\u0094*\u00da\u00d5F\u00b3m?L\u00d3?\u008a\u0085 \u00da?\u00ed?b\u0085\u00e9D\u008a\u0082?Q;\u00abT\u009d\u00a6=?\u00aa1\u00d4$?cS\u00be\u008c\u00a5\u00b6\u0084?!Jz\u009dB?\u00a2?E6\u0094t\u00d2\u00cfE\u00d6?J\u0097D\u008a\u009d\u00f5\u00bb ^\u0091\u00d4\u016e\u0095z\u008a\u0095?\u00fa \u00f4@\u00a9]En\u0088\u00f5\u0294\u0094[\u00d2\u00cdl\u00a2\u00b9O\u00a8*?\u00b5<\u00ebu?9 }?\u00ba\u052a1?n\u00e8\u0098VJ44\u0091\u00a2\u00c3D\u038bU?:?\u00e5j\u00a2)\u00a6\n\u00a9 P2ibC\u00ed2\u00d9+^\u00daV\u0092sQ\u00dd\u00c2\u00f1Q\u00eaD$?\u008am\u00aa\u00b0US\u009d(\u00abr5rfg\u00cdkHH?/*?U?\u00f3\u00f2M?V-\u00942U\u00db\u00dd\u00ea^\u00aa\u00d7)?:\u00bbb\u00adV[\u0094\u00f5#\u00e9 Pu\u00adH\u0090\u00b8\u00c8\u00d5\u0258_4\u0093\u02a3D?\u00e7\u00cd,\u0636P\u0081Wj\u00ad@\u0090\u0083\u0091\u00fbL\u0095&\u00b5m\u00a5)\u00b6\u00c5z\u00b2\u00cbOR>\ud908\uddd5nf?\u00c56R \u00a0\u00d5H*\u00ab\u00f2\u0096) d\u00e5BN\u00b9V\u00ab\u00dd\u00cbRjD\u0085]\u008e\u00f1TL\u00f9\u00a4\u009f\u0092&RM\\\u00a9;*hd\u00ab\u00b5V\u00b9H\u00e5\u00a1}r\u00aa\u00b6J\u00d7b\u00f1&\u00b3\u00adV[\u0094\u00fc?\u00e2?~\u00e5 Wj\u00e4/:6R>\u00aas\u00a7\u00b4\u0084\u00a4-\u0092\u00a0\u05ea\u0083{\u00bdK\u00ea\u00edH\u0090\u00aeuR\u00a4\u05ab/\u009aI\u0082\u009e\u00ab\u00b7\u008b-H\u0099\u0081\u00ab\u0095v\u00aa\u00d2:\u00aa\u00fc\u00a8.r?j\u0088_4\u00b1HZBYj?{\u00aeW\u009eU\t\u00be\u00d4\u0401WkE\u00ee\u00e5Uj?\u008eJ-Y\u00de\n\u00a9\tOZ(\u00d4K\u00e8\u0091S^\u008dE:\u00e8\u0087Qq\u00ac\u00f5V\u0088M[\u00a1aS\u00ba\u0095\u00f4?\u00ea\u00cd?\u00ca,\u00f6\u00aa/\u00f4 \u00ea?R2\u00adZ),gBi\u00a1yRj\u0084\u00edO*I\u00d5\u00ea\u0085C\u00f2\u00a9?\u06a4?\u008d?\u00da\u00c3P(\u0087\u00da\u00e9?B\u00ff\u00a1?S\u00a2\u0084\u00cfB\u06e2\u0099N\u008f\u00b4\"4\u00fb\u009a\u00a21v\u00b0P\u0094\u00bd\u04bd4)\u00b1J\\T\u00aa,\u0082\u00a10\u00e2\u00a0\u00dd?Nz?T]\u00f2P?Lu\u00a8N\u00a2?Vh \u009e\u00da7\u00a3\u00c7x\u00b4\u0085S\u0498tM(C\u0094*\u00da\u00d5F\u00b3m?L\u00d3?\u008a\u0085 \u00da?\u00ed?b\u0085\u00e9D\u008a\u0082?Q;\u00abT\u009d\u00a6=?\u00aa1\u00d4$?cS\u00be\u008c\u00a5\u00b6\u0084?!Jz\u009dB?\u00a2?E6\u0094t\u00d2\u00cfE\u00d6?J\u0097D\u008a\u009d\u00f5\u00bb ^\u0091\u00d4\u016e\u0095z\u008a\u0095?\u00fa \u00f4@\u00a9]En\u0088\u00f5\u0294\u0094[\u00d2\u00cdl\u00a2\u00b9O\u00a8*?\u00b5<\u00ebu?9 }?\u00ba\u052a1?n\u00e8\u0098VJ44\u0091\u00a2\u00c3D\u038bU?:?\u00e5j\u00a2)\u00a6 ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/syn_B.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501097",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2789e281508d2d28443d5578f50db5ceaa619321"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f5d41165cfb19cff1917c7c6c76e6932610c542e025df91d1610f5149e49672b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ade0aed96ddf0aab286a082c17701d7"
+                }
+            ],
+            "copyrightText": " \u00a9\tc\u00c7z?0{\u00fbUEv\u00c5NV?\u0087\u00cf\u00e9\u00bc$\u00dfH\u00f9VuV\u07ee7j\u00af\u00fct\u00af\u00deUcV\u008f\u0096\u00a3\u0086\u00ac\u04db\u1856 \u00b8+u?\u00cd,\u00bfs?\u00e4\u00e4\u00df\"/\u00a6A:4@2\u00d5\u00ea?g\u00ad\u00df+W\u008d\u00fe\u0083V?\u0096\u0084\u00faI?\u00ddx\u00f7\u0173\u00a4\u00e08\u00ffT\u008f\u00e4\u00ef\u00f8\u00f9^DI?]\u0095\u00e3-A\t[*3\u00d8}LUt\u00d0B\u00ae8O\u008a?|\u00a8\u00f9\u00e1\u0099\u00ab?\u02fa-[\u00fa#\u009e\u00ea\u0402\":\t\u00dcnjb\u00fb\u00be\u00e5cS7\u00f9\u00af\u00c6I'\u00ca?we?\u00db\u00ceZ?\u00d4^\u00b0To?\u00eaTc?\u00ad?? \u00c94\u0092\u008c\u058c}O\u00d7F|a\u00a4-b~\u00d3z\u009e\u00e3\u00ee\u00fc\u00b2?\u009fD\u0082\u0094P\u00b29i?W\u00b52?\u00b4O\u0099?\u00edU\u00c5dU?\u00f2|\u00f0m\u00f7KY\u0099\u00af\u00da6I\u00bc\u00b6\u0093C\u00a7\u00d0B?\u0098\u00f7S\u00c4\u6ac6?\u0091U\u0089\u00b4\u00b2\u00af\u00e4\u0095'\u0092H(?\u0089\u0085!\u00a3'3]?S*\u06d52\u00e7U\u07fc$\u0096\u00d2HI\n\u00a9\tjPFL?\u00cej\u00eaY\u00c4\u00cf\u00fd\u00838X\u009b\u00ed\u00b2Z\u05614\"%?\u06a5\u0086KV\u01a0?\u00eeq\u009c\u009c\u00f4\u00bf\u00aaBI\u00b1\u00a1\u0092_r\u00d2:\u0082.\u00e9\u00f7\"\u0093\u00a2,\u07e2{?4\u00fd\u00e7*\u0613\u00c1\t*?V\u00a2s\u00b9\u00fa?\u00e7`\u00f3x}zR$P\u0094\u00b5\u00f9\u00f7?W\u008f\u00a4\u00cf\u00f2\u00f7A?\u0095\u00eb\u00e6\u00b4\"\u0088\u0082\u00d1\u00ee\u0590lFqu?\u00cd\u00e8K\u0092D!\u00ad*:v)t\u00beT\u008ci?5\"6V\u00e82\u00e9\u00ff\u00a5\u00a9ZT\u00b8\u00d1?\u00ee?j\u00f9\t\u0096\u00a6\u05cd\u00ed\u008d\u00f1 \u00a8\u00f2'z\tT\u00a4?\u0081?\u04f6kq^jF\u00848\u00e7\u00a4\u00f0?o\u00d3h\u00a2?\u0089\u00a4I\u0215\u00a6\u00f6\u00ed\u00a26\u00ad[\u00bf*\u00fe\u0795\u00bb?Z\u00fb\u0097\u00a6#\u02a1\u00afH?\u00d0\u00ff\u00ff\u008c:\u00f8\u00a5\u00c6{\u0096*?A\n\u00a9\tKhA\u00c1\u00ae3\u00d0r5\u00ab\u00e0Pr\u00e5\u00a3\n\u00a9 W<0\"v;S6\u008d\u00ce\u00f1\u0097\\\u00f5}%\u00e8Y\u00f5}#\u00d4[?\u00944\n\u009c\u00a9\u00fc\u00c9r.\u0092,\u0094\u0083S9\u008d\u05d8OZM?\u00a4\u00d1?\u00d0A\u075b\u00d2a?*\u00adg\u00f8\u00f8\u00fb\u00fa\u00bf\u00f1\u00a2\u00e5O\u023c?E\u00bd\u00d5Z\u00d6,Yw\u00abC\u00ee\u008d?u?\u00d4\u00f8?\u009fq?\u0093\u008d?,R\u0094W\u008fU\u00a2NY\u00fc\u00e6(\u0086\u00fa$\u00cd?$\u0092?\u00d3 \u00ef,\u00f9\u00f1\u009cO\u00eeyt\u00d2(\u00a4)^\u00cc\u00ec\u00bc?\u009b\u00b6V\u00ab\u00abDi \u00aaLu\u00c5*\u0091\u008c\u00bc\u00d8T\u0093Vy?z\u00d6~\u0097/\u00d9s?d/Ry\u00fb1\u00bf4\u0090\u05fdhAiX2i\u009a\u009a\u00f6:\u00eaV\u00f5\u00e8\u00eb\u05e6\u00f5\u00b5/\u00a5t+\u00ecd\u00a6\u00fe$\u00f2Q\n\u00a9 wfE?\u00fcX\u00cfjA\\\u0090\u00fb\u008b\u00a5\u00d1Z\u00b8lT\u00b9\u00c4\u00d5?\u00f9/d?M\u00a2\u00d6c\u0082\u0089HWm\u00f2\u00e1\u00ef\u471a\u00a4+Ro\u0085;~\u00f9=\u0089?\u00b2I\u0080\u00f6&\u00a1_\u00ed7\u04d2`dw4#\u00f7T\u00fb\u00d2\u00ef\u00ee\u00fd'm\u00d5(*\u00e4\u0092?\u00f4#B\u05b8h\u00beJ\u0083n\u00e4\u0095F\u0086M$\u00a4\u009eJ\u008c;\u00e7??5\udb0a\uddd7D\u00d49\t7\u00e0{5iw5.\u00c7n\u00e2~z#\u0092zH\u0097'\u00df?P\u00f7\u00bd\u00a4\u0095\u00f4\u00ba\u07bay\u00fb)\u009ct\u06be\u00c7/5\u00f62Z\u00b4nH\u00baF\u00a9?\u00a2{\u0086\u00f4\u0099b\u00bf\u00e3\u00d4\u00ef\u00f2\u00e9MV\u009b\u00a7\u00ec\u009aH`?\u00b7\u00b86s\u0097\u00f3\u00f4\u0087\u00a1]\u00c8!\u00e2\u0089>g\u00eb\u00f4\u00e2/\u0086\u00baN\u008a\u00e8#GGHOZR\u00a8\u00db-\u00f1i\u0099\u019b1\u00a6\u009bD]?\u00bda\u00ce\u00f7#\u008dh\u00e4\u00ab\u00f8\u00eeM\u00a2\u00eb\u0086+\u00a1tS\u074e\u00ae\u009d.?_1\u00b2+H\u00a2f\u00b0x;G?H\u00c6\u00e5\u00af\u00d2\u00c7$?\u00a2%\u0094\u0080\u02e8y\u008b\u00e8\u00d05uL\u0092i?\u00d1^8\n\u00a9\ttF|dn\u00b1\u00d3Wfi?#?\u00e2\u00f21ue?\u0084e|s\u00e6\u00acm9\u009f?\u0089-\u00b1?]HbF\u00a27\u00d6%5\\'\u00beJ?\u00a2+\u00a2'\u00a3\u00fd;_U\u00b33\u00f7\u00d3\u00fe_{<\u008d1E?4\u00a3Q))\u00fc\u00ffJ!\u00e1Y\u00ae\u00b4.\u00ad\u00b1\u00c4\u00cd?\u00ce N\u00a5n\u00f9Z\u0085\u0752\u00fe\u0097N\u076am\u00ebBM\u00f3IU\u00ea\u0098\u00f9^I\"\u00c9?\u00a2\u00fdv\u00b5\u00f9r\u00f5\u00ec{\u00f7\u00f0gd\u00d3v\u0084}\u00ebN\u00cd\u00e9\u00d2\u00ef\u008d<O\u00e1\u00ec\u00afm\u00d2\u00e9?\u00e9H%\u009e\u0081\u009f\u0098e?eT\u00f6\u0192\u00a3V\u0087\u0403\u0092>\u00fb\u00ae\u00b6d\u00ed6\u0532\u00ecO\u00c0\u009d\u00c74\u0095*BH\u00f1j?Q?\u00dd?\u03c6F?\u00dd)6Di$C\u00d9hU\u008e\u009bKq\u00de7/I\u00d0\u00c2r:\u0095\u00a1Qz-?X\u00cd?\u0195m \u009f\u00a55\u0091rI?\u00ed?\u0098\u00ab\u0094\u00c6U\u00de$\u00b2'\u0092?\u00dfl\u00f9\u008d\u0084\u00e7.\u0088\u00bc=.t??\u00a8xb\u0089X-b\u0095\u00a7\u00e4\u00823?\u00f8?JE\u00e6g?\u00be\u00b6r'l\n\u00a9\tc\u00c7z?0{\u00fbUEv\u00c5NV?\u0087\u00cf\u00e9\u00bc$\u00dfH\u00f9VuV\u07ee7j\u00af\u00fct\u00af\u00deUcV\u008f\u0096\u00a3\u0086\u00ac\u04db\u1856 \u00b8+u?\u00cd,\u00bfs?\u00e4\u00e4\u00df\"/\u00a6A:4@2\u00d5\u00ea?g\u00ad\u00df+W\u008d\u00fe\u0083V?\u0096\u0084\u00faI?\u00ddx\u00f7\u0173\u00a4\u00e08\u00ffT\u008f\u00e4\u00ef\u00f8\u00f9^DI?]\u0095\u00e3-A\t[*3\u00d8}LUt\u00d0B\u00ae8O\u008a?|\u00a8\u00f9\u00e1\u0099\u00ab?\u02fa-[\u00fa#\u009e\u00ea\u0402\":\t\u00dcnjb\u00fb\u00be\u00e5cS7\u00f9\u00af\u00c6I'\u00ca?we?\u00db\u00ceZ?\u00d4^\u00b0To?\u00eaTc?\u00ad?? \u00c94\u0092\u008c\u058c}O\u00d7F|a\u00a4-b~\u00d3z\u009e\u00e3\u00ee\u00fc\u00b2?\u009fD\u0082\u0094P\u00b29i?W\u00b52?\u00b4O\u0099?\u00edU\u00c5dU?\u00f2|\u00f0m\u00f7KY\u0099\u00af\u00da6I\u00bc\u00b6\u0093C\u00a7\u00d0B?\u0098\u00f7S\u00c4\u6ac6?\u0091U\u0089\u00b4\u00b2\u00af\u00e4\u0095'\u0092H(?\u0089\u0085!\u00a3'3]?S*\u06d52\u00e7U\u07fc$\u0096\u00d2HI\n\u00a9\tjPFL?\u00cej\u00eaY\u00c4\u00cf\u00fd\u00838X\u009b\u00ed\u00b2Z\u05614\"%?\u06a5\u0086KV\u01a0?\u00eeq\u009c\u009c\u00f4\u00bf\u00aaBI\u00b1\u00a1\u0092_r\u00d2:\u0082.\u00e9\u00f7\"\u0093\u00a2,\u07e2{?4\u00fd\u00e7*\u0613\u00c1\t*?V\u00a2s\u00b9\u00fa?\u00e7`\u00f3x}zR$P\u0094\u00b5\u00f9\u00f7?W\u008f\u00a4\u00cf\u00f2\u00f7A?\u0095\u00eb\u00e6\u00b4\"\u0088\u0082\u00d1\u00ee\u0590lFqu?\u00cd\u00e8K\u0092D!\u00ad*:v)t\u00beT\u008ci?5\"6V\u00e82\u00e9\u00ff\u00a5\u00a9ZT\u00b8\u00d1?\u00ee?j\u00f9\t\u0096\u00a6\u05cd\u00ed\u008d\u00f1 \u00a8\u00f2'z\tT\u00a4?\u0081?\u04f6kq^jF\u00848\u00e7\u00a4\u00f0?o\u00d3h\u00a2?\u0089\u00a4I\u0215\u00a6\u00f6\u00ed\u00a26\u00ad[\u00bf*\u00fe\u0795\u00bb?Z\u00fb\u0097\u00a6#\u02a1\u00afH?\u00d0\u00ff\u00ff\u008c:\u00f8\u00a5\u00c6{\u0096*?A\n\u00a9\tKhA\u00c1\u00ae3\u00d0r5\u00ab\u00e0Pr\u00e5\u00a3\n\u00a9 W<0\"v;S6\u008d\u00ce\u00f1\u0097\\\u00f5}%\u00e8Y\u00f5}#\u00d4[?\u00944\n\u009c\u00a9\u00fc\u00c9r.\u0092,\u0094\u0083S9\u008d\u05d8OZM?\u00a4\u00d1?\u00d0A\u075b\u00d2a?*\u00adg\u00f8\u00f8\u00fb\u00fa\u00bf\u00f1\u00a2\u00e5O\u023c?E\u00bd\u00d5Z\u00d6,Yw\u00abC\u00ee\u008d?u?\u00d4\u00f8?\u009fq?\u0093\u008d?,R\u0094W\u008fU\u00a2NY\u00fc\u00e6(\u0086\u00fa$\u00cd?$\u0092?\u00d3 \u00ef,\u00f9\u00f1\u009cO\u00eeyt\u00d2(\u00a4)^\u00cc\u00ec\u00bc?\u009b\u00b6V\u00ab\u00abDi \u00aaLu\u00c5*\u0091\u008c\u00bc\u00d8T\u0093Vy?z\u00d6~\u0097/\u00d9s?d/Ry\u00fb1\u00bf4\u0090\u05fdhAiX2i\u009a\u009a\u00f6:\u00eaV\u00f5\u00e8\u00eb\u05e6\u00f5\u00b5/\u00a5t+\u00ecd\u00a6\u00fe$\u00f2Q\n\u00a9 wfE?\u00fcX\u00cfjA\\\u0090\u00fb\u008b\u00a5\u00d1Z\u00b8lT\u00b9\u00c4\u00d5?\u00f9/d?M\u00a2\u00d6c\u0082\u0089HWm\u00f2\u00e1\u00ef\u471a\u00a4+Ro\u0085;~\u00f9=\u0089?\u00b2I\u0080\u00f6&\u00a1_\u00ed7\u04d2`dw4#\u00f7T\u00fb\u00d2\u00ef\u00ee\u00fd'm\u00d5(*\u00e4\u0092?\u00f4#B\u05b8h\u00beJ\u0083n\u00e4\u0095F\u0086M$\u00a4\u009eJ\u008c;\u00e7??5\udb0a\uddd7D\u00d49\t7\u00e0{5iw5.\u00c7n\u00e2~z#\u0092zH\u0097'\u00df?P\u00f7\u00bd\u00a4\u0095\u00f4\u00ba\u07bay\u00fb)\u009ct\u06be\u00c7/5\u00f62Z\u00b4nH\u00baF\u00a9?\u00a2{\u0086\u00f4\u0099b\u00bf\u00e3\u00d4\u00ef\u00f2\u00e9MV\u009b\u00a7\u00ec\u009aH`?\u00b7\u00b86s\u0097\u00f3\u00f4\u0087\u00a1]\u00c8!\u00e2\u0089>g\u00eb\u00f4\u00e2/\u0086\u00baN\u008a\u00e8#GGHOZR\u00a8\u00db-\u00f1i\u0099\u019b1\u00a6\u009bD]?\u00bda\u00ce\u00f7#\u008dh\u00e4\u00ab\u00f8\u00eeM\u00a2\u00eb\u0086+\u00a1tS\u074e\u00ae\u009d.?_1\u00b2+H\u00a2f\u00b0x;G?H\u00c6\u00e5\u00af\u00d2\u00c7$?\u00a2%\u0094\u0080\u02e8y\u008b\u00e8\u00d05uL\u0092i?\u00d1^8\n\u00a9\ttF|dn\u00b1\u00d3Wfi?#?\u00e2\u00f21ue?\u0084e|s\u00e6\u00acm9\u009f?\u0089-\u00b1?]HbF\u00a27\u00d6%5\\'\u00beJ?\u00a2+\u00a2'\u00a3\u00fd;_U\u00b33\u00f7\u00d3\u00fe_{<\u008d1E?4\u00a3Q))\u00fc\u00ffJ!\u00e1Y\u00ae\u00b4.\u00ad\u00b1\u00c4\u00cd?\u00ce N\u00a5n\u00f9Z\u0085\u0752\u00fe\u0097N\u076am\u00ebBM\u00f3IU\u00ea\u0098\u00f9^I\"\u00c9?\u00a2\u00fdv\u00b5\u00f9r\u00f5\u00ec{\u00f7\u00f0gd\u00d3v\u0084}\u00ebN\u00cd\u00e9\u00d2\u00ef\u008d<O\u00e1\u00ec\u00afm\u00d2\u00e9?\u00e9H%\u009e\u0081\u009f\u0098e?eT\u00f6\u0192\u00a3V\u0087\u0403\u0092>\u00fb\u00ae\u00b6d\u00ed6\u0532\u00ecO\u00c0\u009d\u00c74\u0095*BH\u00f1j?Q?\u00dd?\u03c6F?\u00dd)6Di$C\u00d9hU\u008e\u009bKq\u00de7/I\u00d0\u00c2r:\u0095\u00a1Qz-?X\u00cd?\u0195m \u009f\u00a55\u0091rI?\u00ed?\u0098\u00ab\u0094\u00c6U\u00de$\u00b2'\u0092?\u00dfl\u00f9\u008d\u0084\u00e7.\u0088\u00bc=.t??\u00a8xb\u0089X-b\u0095\u00a7\u00e4\u00823?\u00f8?JE\u00e6g?\u00be\u00b6r'l\n\u00a9\tH\u0086%lV\u0098#2E?\u00b4\u00a6O\u00e9\u0082?\u00a4\u018f\u00e84!\u00ads?\u0097?\u00d1=?5?\u00ef\u00d0@\u0084\u009d\u00a1/Ga\u00d4nl\u00fc\u00b9U\u0086\u00b2#\u00da \u00f2wL\u00ddH\u00a2n\u0090r\u00aa\u0097t\") \u008c{\u00a2?U\u009cj\u00d9 k}\u00ad\u00a88?A\u00f2\u00bc\u00ac\u00fe\u0089\u00a89U|V\u0083\u0090\u00a5\u0095\u00a4Z\u0169\"\u00a0\u00e8n\u0089\u00b0\u00b4S4\u0190_\u00ab\u00ae\u0098\u00c9jA\u0083n\u00de?G\u00a6\u0090\u00bdJ\\U\u00a7\u00d1l}+A\u00ca?\u00dar\u00a2?H^\u0094\n\u00a9\t0\u00fa\u00f2ojT9\u00ff\u00fd\u008d-x%\u0091=\u0089?,\u00aa\u00a6sZ\u0095\u00ea\u00ab<\u00a70?\u00a7\u00f1=>\u0091E\u00bfE\u00b4\u0096?/X\u00ea\u0080|?\u0095\u00b2yQ\u00e24\u00b0\u0092o\u00d2% \u02c6\u009aV\u0091\u00e1\u00b0Rx\u00eam3?O\u0083\u0092(\u00e9+\u00c8Y?\u0082\u04a2+ <H\u00fb\u00d8\u00c4F\u00e8\u008d?\u00a5\u00e2\u008c\u00f4A\u00d5u\u009b\u0097U\"?\u00e5rY?H\u00e7ycH\u00a41\u00ef5v\u4686z?\u009bD\u00ffyS+?b_>\u00d3?M! \u00ebm'\u0095zB\u00ce\u00fb\u00ed7,\u00e4\u0093\u00ea\u0228M?\u009e\u00d8\u00fa+\u034e\u00ec\u00fcd?uy<?\"\u00bd\u00ac\u0773\u00bd*^n\u00d2?\u00f5\u00e3E\u00e92\u02b5\u00f3?AG?\u00ed\u00e3m?\u00cf]}R?E?\u00ff_V\u00a5\u00b7\"\u00e9\u05ea?\u0093\u00c93M\u00d1e2\u0090i\u00f2yB'D)*\u00a2\u008f?\u00e2\u00d6-\u00bf<\u009e\u0096?\u00d3h\u00b5\u00cbo=\u008f\u00faQ\u06e5\u00adZ\"I\u00ad\u008c\u009b\u00f0m\u00b6h\u00a1?\u00f6I\u008c\u0091?\u00cd c?\u0084\u0084\u00cc \u00e9{' \u0085 .\u00d9z\u00f2?\n\u00a9\tt\u00acR3\u009a?KmY\u008czUG\u00ec\u00a3i\u00f0J\u0089?\u00ab\u00ab\u009f?H\u00afy\u00fe\u00af<\t\u00a6?\t\u00eb\u00a1P\u00ea_\u00abu\u00a9\u00db\u00d0|#?]N3BS\u00d2\u01eeX?\u00cf,n\u00ea\u00ba\t\u008a+d\u00d3w\u00f9\u00bc\u00a2\u0083\u00e0\u0091?\u00ed|\u0095\u00a1O\u00d7 {0\u008a\u00a7\u00b2Y?\u00adEX\u00a6)q\u0440 &\u00ee?\u00d3T\u0085\u0092+\u008e\u0099\u00dfF\u00a3\u00e1*\u00e6\u00ac6\u0157%VB\u00bd\u00a9 m\u00f3?\u00dfX\t\u00a39?\u00aajgL!&.\u00e9+}\u00d7Q\u008f\u03e5\u00e8\u0429\u00a6\u0095?\u0084?\u00e0\u00c6Gn\u0092*v\u00adFjW\u00dc\u00c37\u009b\u00ef\u00c9\u00ce\u00f9\u00e8\u0089$\u037a\u00ab?i]o\u00fb\u0161H\u00f3\u00ea\u00f3\u00beA?T\u00adcI\u0086\u00e4~\u00be\u00dbuj?$\u00a6\u008a\u00e9\u00a2\u00cd?W\u00e99|\u00ea\u00dfP\u009b\u00b8\u00ee:\u00f5jB\u00a3\u00b0\u00b9\u008cQ?uKb?\u0092\u00f5\u00f6\u0087\u00af\u0094\u00ca\u00d6\u00e3<X?/\u00ab\u00aeS\u00f5hIlP\u00e3v\u00a5?\u0090L\u00a7\u00a6\u00af\u00a5\u008c\u0085P\u0094\u00d4[\u00ec\u06a8\u00b6\u00f5\u00ce\u00c4\u00f8?\u0099\u00ab\u00f19^\u00e7\u00e7\u00ed\u00d2\n\u00a9\tK?8\u00d5\u00f67\u00eb\u00efw\u0092?B\u00c0\u00d0N.\u0099\u00ab\u00ebX\u00a9\u00f0\u00c3F\u00b5\\O\u00cf?\u0090\u00fa\\\ua5ff/\u00a1\u00bb-L\u00a8Y\u00f5\u00b3G,\u00b1O\u00e9o\u00e8W\u00e4fKT\u0684\u00b6\u00cdMW\u0092\u00df\u0707R'P\u00f2Z\u0095N\u00e8\u0085N\u00d8?\u00b6?\u374c$\u0087V\u00d7]{\u00d3\u00f1\u00d7]\u00ad\u00f6O\u00ed?\u00acT\u0094\u0095\u00c5B\u00ddY\u00fb\u00a2\u00f0\u00ad&|\u008d\u00d7%?\u00a7/R\u00e2c 4\u0097\u00aaD~B)f\u00a5\u00e0g\u00e8\u00aa\u00e3Sr\u00b4\u00bcz\u00a4<\u00a4\u00eb\u0082?\u00b6\u0746gpd\u00bd\u00f9E\u00dbBi\u00bb\u00b4Go\u00ae\u00d8$pT\u0080\u00f7\u00d4c\u00b8\u00caZ\u00a3\u00e2\u00c9!\u00ae?9\"T\u0084\u009e\u00d3HR,\u00f4\u0096{\u00ffz\u00a7T\u00ecitq?\u00ce\u00d1\u00ec\u0090\u00c1D(^r\u00c3?\u00ad^\u00bc\u00f4\u009d\u00ec_ \u0081jS?s \u0082\u00af,\u0501MZW?\u00ea\u00b1iU\u0091R\u00f4?\u00b51V\u00ba\u00fb)T\u00afP\u009f?_:lnK\u00d6M\u00a7#\u00bb\u00ab\u0098(G\u008a\u0086\u00d9(\u0096i?\u00ae@L\u00e5\u00f2??i?C\u00b8\u00d2_DhAW#6T\n\u00a9\tJ\u00a1\u00c9ue4Y+\u00b3\u00f2a?\u0093q\u00ba\u00cfy\u0096M>\u00fa \u00ba\u00a0\u00f1?U\u00d8[T\u00fe\u0092\u00a0\u00ca\u00e4\u008aHH\u00d2?)\u00f1\u00e7w\u00f5\u008b\u05df\u00a2\u00e5?\u0087\u00b0?\u00fd7 \u0085h\u00b9\\\u00b0\u00af\u00fd\u00e8\u0796_?\u00ba~\u00c7\u00d1?\u0090\u0096j|\u00d6\nS\u008a?-\u00c8OZ%?\u00b3 \u00d4*?\u00ba\u00fa\u00fd?b\u00f2\u00df\u00ed?\u00ba\u00aa\u0749\u00b0r?\u0081\u00ab6\n\u00a9 o\u00c9V?2k\u00d2I\u00e8\u00b0\u00c8\u00ca\u00ffc)\u00e6?\u00bc^H|F\u008fc\u00c2/\u00ae2\u00fa\u0091\u0084y\u00c7\u00dcF\u0087C3\u00ef?\u008d\u00a0\u0090J\u00f1\u00a7\u00e2\u00a6D{DO\u0089Y\u0081I\u00fc,}_\u009e\u0093\u00bf\u0091PFG:\u0091\u00e1\u00c2Lws_\u00cd/?#\u00afB?\u00eeA\u00a7\u00e1%\u00a58\u009b\u00ae\u0086v\u008b\u00c2\u00f0\u0479\u00be\u00c5bK_-\u00fa&Ir\u009f?\u00bd&?l)?\u00daz\u00efI\u00a4i?F#\u00cd;\u00cel\u00fd&\u00b9;I\u00c1O\u0087\u00aa?\u00ed\u00f0\u00d1:?\u00d7\u00f6?D\u00f7M$\u00a1?e\u00c5S\u00dc\u00fe2\u00b7\u0092MY \u00c5\u00fe\u00a5\u00ee\u00fd/i\u00b6\u0097\u00e7\u0427\u00dac\u00caD'\u00aaa\u00c9w\u00d35\u00a3\u00f1f\u009aW\u00ce\u00ca?\u009e7\u00ae\u00e4\u00f2Su[\u00aa\u0098\u00be80]\u00ee\u00ca\u00fa._.\u00d7|\u00fb\u0096\u0087L?!\u00b6h\u009aH\u008d\u00a8\u00efo:jT?P>M\u00daYK\u0704\u0094U?\u00f1 \u00af\u00e4?*T\udb5f\udd82?/\u00ec\u0098K\u00a9U;\n\u00cf$\u00ed?\u0090_\u00f1 >\u0091W\u00e7?J\u00fc\u00d4\u05e7\u0094N@?p\u06fa(\u00dc5I ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/qp_A.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501098",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "96d35828ff0586f233ea88e2b7bf6616175a70d4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "932c6c7bf5b16382c8b475544c2ae99cb8d27a87e422f8089883f4408c2b7937"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7b0cc8fdffdfca860dcee9b69b051053"
+                }
+            ],
+            "copyrightText": " \u00a9\tLv\u0084?E\u00be\u00f1Th\u0081S\u0098N\u00ca U.\u0093\u00b4L\u00da\u00d7r\u0087?LK\u00c10\u00af\u00c7T\u00cf\\\u00ed\u0090==?\u0487\u00efB\u05a0\u00a3\u00b4-J)T:\u009a?5?\u00d1?:?\u00d5?15DL(\u0098\u0089\u00adDV\u0088\u00f0\u0090\"#\u00d4E\u00e9WE\u00ba\u0098\u00ad1\u00a8\u00b7\u04aa\u009cT@\u00eap\u00a8Q?\u00a7%'kSZ\u00e99z?\u01e1\u00fe\u00fc?\u00aa\u04f6\u00cbl\u009e\u008c\u0085?\u0785\u00adB?\u00a1i\u00d0\u00d5\u00e8t\u00d4\\(\u00a6\u0089CB\u009b\u00a0\u0089\u00c2?\u0080\u0086+D\u00c0M\u008a\"\u00f5\u0088E\u00b0B\u0662-w\u00a2\u00dbB?i\u0093H:UT\u00aa T\u00ed?\u009e\u0088?P\u00b9\u05b6\u0089\u0095&\u00e9z$\u0090?~\u00a6?\u00b9U?v?\u03a2\u008c\u008d?\u0785\u00adB \u00a1k\u00d0\u0568u\u0094[\u8949AB\u009d\u00a0\u008a\"?\u0088\u00861D\u00c8Mj\"\u00f5\u008cE\u00b4B\u05a2-x\u00a2\u00dfB?i\u008bHJUT\u00ba T\u00ea?\u009a\u0088?Q\u00b9V\u00b6\u0089\u009d'ix$\u0098?|\u00a6?\u00b9\u00d5?V6\u0382\u0087\u00efC\u00f7\u00a1kPQ\u00ca?\u00b5?\u00da\n\u00a9\tLv\u0084?E\u00be\u00f1Th\u0081S\u0098N\u00ca U.\u0093\u00b4L\u00da\u00d7r\u0087?LK\u00c10\u00af\u00c7T\u00cf\\\u00ed\u0090==?\u0487\u00efB\u05a0\u00a3\u00b4-J)T:\u009a?5?\u00d1?:?\u00d5?15DL(\u0098\u0089\u00adDV\u0088\u00f0\u0090\"#\u00d4E\u00e9WE\u00ba\u0098\u00ad1\u00a8\u00b7\u04aa\u009cT@\u00eap\u00a8Q?\u00a7%'kSZ\u00e99z?\u01e1\u00fe\u00fc?\u00aa\u04f6\u00cbl\u009e\u008c\u0085?\u0785\u00adB?\u00a1i\u00d0\u00d5\u00e8t\u00d4\\(\u00a6\u0089CB\u009b\u00a0\u0089\u00c2?\u0080\u0086+D\u00c0M\u008a\"\u00f5\u0088E\u00b0B\u0662-w\u00a2\u00dbB?i\u0093H:UT\u00aa T\u00ed?\u009e\u0088?P\u00b9\u05b6\u0089\u0095&\u00e9z$\u0090?~\u00a6?\u00b9U?v?\u03a2\u008c\u008d?\u0785\u00adB \u00a1k\u00d0\u0568u\u0094[\u8949AB\u009d\u00a0\u008a\"?\u0088\u00861D\u00c8Mj\"\u00f5\u008cE\u00b4B\u05a2-x\u00a2\u00dfB?i\u008bHJUT\u00ba T\u00ea?\u009a\u0088?Q\u00b9V\u00b6\u0089\u009d'ix$\u0098?|\u00a6?\u00b9\u00d5?V6\u0382\u0087\u00efC\u00f7\u00a1kPQ\u00ca?\u00b5?\u00da\n\u00a9\tLv\u0084?E\u00be\u00f1Th\u0081S\u0098N\u00ca U.\u0093\u00b4L\u00da\u00d7r\u0087?LK\u00c10\u00af\u00c7T\u00cf\\\u00ed\u0090==?\u0487\u00efB\u05a0\u00a3\u00b4-J)T:\u009a?5?\u00d1?:?\u00d5?15DL(\u0098\u0089\u00adDV\u0088\u00f0\u0090\"#\u00d4E\u00e9WE\u00ba\u0098\u00ad1\u00a8\u00b7\u04aa\u009cT@\u00eap\u00a8Q?\u00a7%'kSZ\u00e99z?\u01e1\u00fe\u00fc?\u00aa\u04f6\u00cbl\u009e\u008c\u0085?\u0785\u00adB?\u00a1i\u00d0\u00d5\u00e8t\u00d4\\(\u00a6\u0089CB\u009b\u00a0\u0089\u00c2?\u0080\u0086+D\u00c0M\u008a\"\u00f5\u0088E\u00b0B\u0662-w\u00a2\u00dbB?i\u0093H:UT\u00aa T\u00ed?\u009e\u0088?P\u00b9\u05b6\u0089\u0095&\u00e9z$\u0090?~\u00a6?\u00b9U?v?\u03a2\u008c\u008d?\u0785\u00adB \u00a1k\u00d0\u0568u\u0094[\u8949AB\u009d\u00a0\u008a\"?\u0088\u00861D\u00c8Mj\"\u00f5\u008cE\u00b4B\u05a2-x\u00a2\u00dfB?i\u008bHJUT\u00ba T\u00ea?\u009a\u0088?Q\u00b9V\u00b6\u0089\u009d'ix$\u0098?|\u00a6?\u00b9\u00d5?V6\u0382\u0087\u00efC\u00f7\u00a1kPQ\u00ca?\u00b5?\u00da\n\u00a9\tLv\u0084?E\u00be\u00f1Th\u0081S\u0098N\u00ca U.\u0093\u00b4L\u00da\u00d7r\u0087?LK\u00c10\u00af\u00c7T\u00cf\\\u00ed\u0090==?\u0487\u00efB\u05a0\u00a3\u00b4-J)T:\u009a?5?\u00d1?:?\u00d5?15DL(\u0098\u0089\u00adDV\u0088\u00f0\u0090\"#\u00d4E\u00e9WE\u00ba\u0098\u00ad1\u00a8\u00b7\u04aa\u009cT@\u00eap\u00a8Q?\u00a7%'kSZ\u00e99z?\u01e1\u00fe\u00fc?\u00aa\u04f6\u00cbl\u009e\u008c\u0085?\u0785\u00adB?\u00a1i\u00d0\u00d5\u00e8t\u00d4\\(\u00a6\u0089CB\u009b\u00a0\u0089\u00c2?\u0080\u0086+D\u00c0M\u008a\"\u00f5\u0088E\u00b0B\u0662-w\u00a2\u00dbB?i\u0093H:UT\u00aa T\u00ed?\u009e\u0088?P\u00b9\u05b6\u0089\u0095&\u00e9z$\u0090?~\u00a6?\u00b9U?v?\u03a2\u008c\u008d?\u0785\u00adB \u00a1k\u00d0\u0568u\u0094[\u8949AB\u009d\u00a0\u008a\"?\u0088\u00861D\u00c8Mj\"\u00f5\u008cE\u00b4B\u05a2-x\u00a2\u00dfB?i\u008bHJUT\u00ba T\u00ea?\u009a\u0088?Q\u00b9V\u00b6\u0089\u009d'ix$\u0098?|\u00a6?\u00b9\u00d5?V6\u0382\u0087\u00efC\u00f7\u00a1kPQ\u00ca?\u00b5?\u00da\n\u00a9\tLv\u0084?E\u00be\u00f1Th\u0081S\u0098N\u00ca U.\u0093\u00b4L\u00da\u00d7r\u0087?LK\u00c10\u00af\u00c7T\u00cf\\\u00ed\u0090==?\u0487\u00efB\u05a0\u00a3\u00b4-J)T:\u009a?5?\u00d1?:?\u00d5?15DL(\u0098\u0089\u00adDV\u0088\u00f0\u0090\"#\u00d4E\u00e9WE\u00ba\u0098\u00ad1\u00a8\u00b7\u04aa\u009cT@\u00eap\u00a8Q?\u00a7%'kSZ\u00e99z?\u01e1\u00fe\u00fc?\u00aa\u04f6\u00cbl\u009e\u008c\u0085?\u0785\u00adB?\u00a1i\u00d0\u00d5\u00e8t\u00d4\\(\u00a6\u0089CB\u009b\u00a0\u0089\u00c2?\u0080\u0086+D\u00c0M\u008a\"\u00f5\u0088E\u00b0B\u0662-w\u00a2\u00dbB?i\u0093H:UT\u00aa T\u00ed?\u009e\u0088?P\u00b9\u05b6\u0089\u0095&\u00e9z$\u0090?~\u00a6?\u00b9U?v?\u03a2\u008c\u008d?\u0785\u00adB \u00a1k\u00d0\u0568u\u0094[\u8949AB\u009d\u00a0\u008a\"?\u0088\u00861D\u00c8Mj\"\u00f5\u008cE\u00b4B\u05a2-x\u00a2\u00dfB?i\u008bHJUT\u00ba T\u00ea?\u009a\u0088?Q\u00b9V\u00b6\u0089\u009d'ix$\u0098?|\u00a6?\u00b9\u00d5?V6\u0382\u0087\u00efC\u00f7\u00a1kPQ\u00ca?\u00b5?\u00da\n\u00a9\tLv\u0084?E\u00be\u00f1Th\u0081S\u0098N\u00ca U.\u0093\u00b4L\u00da\u00d7r\u0087?LK\u00c10\u00af\u00c7T\u00cf\\\u00ed\u0090==?\u0487\u00efB\u05a0\u00a3\u00b4-J)T:\u009a?5?\u00d1?:?\u00d5?15DL(\u0098\u0089\u00adDV\u0088\u00f0\u0090\"#\u00d4E\u00e9WE\u00ba\u0098\u00ad1\u00a8\u00b7\u04aa\u009cT@\u00eap\u00a8Q?\u00a7%'kSZ\u00e99z?\u01e1\u00fe\u00fc?\u00aa\u04f6\u00cbl\u009e\u008c\u0085?\u0785\u00adB?\u00a1i\u00d0\u00d5\u00e8t\u00d4\\(\u00a6\u0089CB\u009b\u00a0\u0089\u00c2?\u0080\u0086+D\u00c0M\u008a\"\u00f5\u0088E\u00b0B\u0662-w\u00a2\u00dbB?i\u0093H:UT\u00aa T\u00ed?\u009e\u0088?P\u00b9\u05b6\u0089\u0095&\u00e9z$\u0090?~\u00a6?\u00b9U?v?\u03a2\u008c\u008d?\u0785\u00adB \u00a1k\u00d0\u0568u\u0094[\u8949AB\u009d\u00a0\u008a\"?\u0088\u00861D\u00c8Mj\"\u00f5\u008cE\u00b4B\u05a2-x\u00a2\u00dfB?i\u008bHJUT\u00ba T\u00ea?\u009a\u0088?Q\u00b9V\u00b6\u0089\u009d'ix$\u0098?|\u00a6?\u00b9\u00d5?V6\u0382\u0087\u00efC\u00f7\u00a1kPQ\u00ca?\u00b5?\u00da\n\u00a9\tLv\u0084?E\u00be\u00f1Th\u0081S\u0098N\u00ca U.\u0093\u00b4L\u00da\u00d7r\u0087?LK\u00c10\u00af\u00c7T\u00cf\\\u00ed\u0090==?\u0487\u00efB\u05a0\u00a3\u00b4-J)T:\u009a?5?\u00d1?:?\u00d5?15DL(\u0098\u0089\u00adDV\u0088\u00f0\u0090\"#\u00d4E\u00e9WE\u00ba\u0098\u00ad1\u00a8\u00b7\u04aa\u009cT@\u00eap\u00a8Q?\u00a7%'kSZ\u00e99z?\u01e1\u00fe\u00fc?\u00aa\u04f6\u00cbl\u009e\u008c\u0085?\u0785\u00adB?\u00a1i\u00d0\u00d5\u00e8t\u00d4\\(\u00a6\u0089CB\u009b\u00a0\u0089\u00c2?\u0080\u0086+D\u00c0M\u008a\"\u00f5\u0088E\u00b0B\u0662-w\u00a2\u00dbB?i\u0093H:UT\u00aa T\u00ed?\u009e\u0088?P\u00b9\u05b6\u0089\u0095&\u00e9z$\u0090?~\u00a6?\u00b9U?v?\u03a2\u008c\u008d?\u0785\u00adB \u00a1k\u00d0\u0568u\u0094[\u8949AB\u009d\u00a0\u008a\"?\u0088\u00861D\u00c8Mj\"\u00f5\u008cE\u00b4B\u05a2-x\u00a2\u00dfB?i\u008bHJUT\u00ba T\u00ea?\u009a\u0088?Q\u00b9V\u00b6\u0089\u009d'ix$\u0098?|\u00a6?\u00b9\u00d5?V6\u0382\u0087\u00efC\u00f7\u00a1kPQ\u00ca?\u00b5?\u00da\n\u00a9\tK\u00ba\u0099A?hd\u0094)Z=\u00b4& \u00ed?j\u008e\u009d:\u008bM=(6\u00c5?\u0093\u00a1\u00ad\u00a1\u00d4h$ \u00aa\u008fA\u00a4\u00a8OTj\u00b8P?*\u00d1F\u078c\u00dd\\\u00ac\u00d43zJ\u00d0!n\u0086?@\u00cb*2\u00b4\t=\u00a6M\n\"\u0084oBN\u00a0L%\n\u00ee\u00a7\u0414\u00a8lT?b\u0084?A5icE\"\u0088\u0095?\u00bb\u00dd?\u00ea\u0095E*\u00bdQ\u00f6\u00a7\u0095?\u00ba?\u008d?F\u0086?@\u008e\u00ba?5 \u0082!P\u00adh\u00a5\u00d1\u07a3\u00f1D\u008a\u008eU?\u00danPH \u00ddQ\u00e8FJ\u00c7u\u00cabP\\\u00ba{\u00d0xz B\u00f4\u00a3?A?(\u00de\u00d0Y\u00ba \u0782\u00ce\u00cbP\u008a\u00e8D?)\u00ea \u0088\u00a2\u00abC@\u00a0\u00a2\u00b4?\u0286\u00ebT)\u009dEb\u0084yER\u0084\u0087B\u0734\u0441\u00a7\u00c5 =Z\u0086KO\u00da?\u00a5?\u02a0\u00e9\u00b4?\u00ba D\u0282:\u00d0J:6t?\u0084\u00fdBZ\u00a6 : Cw\u00a5\u0085?\u66346::\u00d4?y>\u00f4?r\u0085\u00c1C*\u00a19P\u00f5\n\u00a9\tM\u00aa7Bo\u00abT?N\u00822\u0474\u00a4 V\u0082sQB\u00f7F\u00ad?:?m?g\u00a3\u00c5A\u00bf(\"=?~\u0084oA7h ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/syn_A.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501099",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "431a565f4d317d50c0ee2533d70bc901d91ab5c7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "610feb20f68bd2c3b7087e96d31823fcd06a38a146d116ef94bf99c81a1fd26f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6e2928f315e1670b6842955b0e7b4ad8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/qp_C.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501100",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8114f440c719d5993ca7836ad2265f71b14f67f7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c64e147b181dd9fe9a6e810bb7c90cc9b36e11fd2eecfc5d2a8537593ff23a15"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7d626cea95f8d7a4b3f1f6e3d10e923c"
+                }
+            ],
+            "copyrightText": " \u00a9\tp\u00c9x\u00ff\u00d5Kh\u00cf8\u00f2\u00a9z\u00b0&\u00ef~\u00e2aR\u00d77W\u00bc\u00e8\u00cc?\u008e\u0092\u00a2W\u008dY\u00e8K\u00aa.\u00a1\u00a4\u00b9\u00c7\ua716?\u00bfrv \u00aaVKgC\u00e7\u00fbor\u00ed\u00ed%\u00a5 \u00fd\u009d3\u00d5\u00ec{\u00b9s\u00c5_-\u00dd\u00f7\u00e6[\u00e5p}F:F\u00b3~\u00cf\u06efQ?\u00e2| 8\u00b5\u00af \u00bc16\u00c6\u00e2.{\u0092\u00cf$\u008a4\u00e3\u00f0?\u0095\u00a4?\u00e5?;(\u00fc\u00e0ek\u00e91\u00c5m\u00898\u00dc<\u03fc?\n\u00a9 o\u00c62\u00d3w\u00e3J\u00f4\u0096R[:\u00b5\u00ac\u0087\u0082~\u00e6~.\u00fd.~\u00df?\u00e9\u00ebnf\u0098\u00e6\u0085m\u0795H?mm H\u00d6y-|\u00c9$'\u00e5J?\u06513V?^-?\u00a1Y\u00a4\u00ed,r%\u00fe\u009d\u0097F\u009d\u00b3\u00d4[:\u00ba\u00f09YkrVK\u00f1 \u00e7\u00f3\u00dd ~Z\u00ddM\u03ebt\u00f3/\u06dc\u0086\u00f9f!8\u00b1\u00a4?\u00e4\u00f6qJ\u00e1Q\t\u00e3d\u023e?\u00c2@b\u00b9\u00a8\u00c5\u00d4\u00af&\u0099?,\u0566~\u00bb\u0627n\u00f3\u00bcc\u0099|L+\u00c1\u0096\u00beY\u00bcDh\u0093?t\u0099G{u?\u00ff?\u00bc\u00c0\u00bf\u00d9\u00fa\u00e4]\u00e5\u008d\u00ea\u00ba\u00ea?z\u00e4\u00ea-xu\u008e/>m\u00ba\u00acJ8 ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/qp_E.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501101",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a88b3b6ebedd921430614a6502b210fa0b00de4f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ac4acf637b9dbab5ff9d7aa45903b7f6f2fd00cdb940aa305a3ad0a67590f859"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c7a3e5d7f1c987a064a7bdb08944901f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/qp_D.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501102",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c8966552cac4f24dfcd76316566878502ff2ceb2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e755ead45a3c813abc4cc7f395be96601288bb0747210c4e74074c76afd0be23"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c5b2f4c4ec9804f0292b2f12bd558dc5"
+                }
+            ],
+            "copyrightText": " \u00a9 J\u00c32\u00b9\u00cdW\u00ec\u00a6f5\u00a4\u008b?\u00e1r\u00b7\u00e3?\u009fd\u00a6&\n\u00a9\tQ\u00b3`B\u00ae|Z\u00bb\u00ec6<?c\n\u00a9\tRD176K\u00d2?\u0092q\u031c\u0080\u009fn\u0088?\u008c\u00e4G\u00a5\u00e8M)!\u00fd1\u00ad?Zhys\u00cbsT\u0096\u00a7\u00a7O\u0088\u00fa\u00c9jO?\u00f4]5\u00cdZ&\ub8a1\u00a9\u00e6\u0093R\u00f4-IB\u00f4\u0473\u00f6\u0092?\u00c7Du\u00f2\u00b7\u00a0\u0783\u00ea?\u0082?\u008a?\u0099?\u00d2?\u0099?\u06e0\u00f6\u0083\u00e2\u0083\u00ea?\u00a8>\u00a0\u00fa\u0083\u00e6A\u00f4\u0083\u00e7A\u00f4\u0083\u00e7A\u00f4\u0083\u00e3?6\u009d1 \u0098~\u00f9Z\t\u00c2?\u00903h)E\u00e2\u00a3p5Z=\u00a5\u00dd\u00c5)O,\u00a5\ub617.\u00e0\u0094\u008ff\u00f9+U\u00d1H\u00a6\u00a2\u00e4V\u0092U\u00b8?{\n\u00a9 J\u00c32\u00b9\u00cdW\u00ec\u00a6f5\u00a4\u008b?\u00e1r\u00b7\u00e3?\u009fd\u00a6&\n\u00a9\tQ\u00b3`B\u00ae|Z\u00bb\u00ec6<?c\n\u00a9\tRD176K\u00d2?\u0092q\u031c\u0080\u009fn\u0088?\u008c\u00e4G\u00a5\u00e8M)!\u00fd1\u00ad?Zhys\u00cbsT\u0096\u00a7\u00a7O\u0088\u00fa\u00c9jO?\u00f4]5\u00cdZ&\ub8a1\u00a9\u00e6\u0093R\u00f4-IB\u00f4\u0473\u00f6\u0092?\u00c7Du\u00f2\u00b7\u00a0\u0783\u00ea?\u0082?\u008a?\u0099?\u00d2?\u0099?\u06e0\u00f6\u0083\u00e2\u0083\u00ea?\u00a8>\u00a0\u00fa\u0083\u00e6A\u00f4\u0083\u00e7A\u00f4\u0083\u00e7A\u00f4\u0083\u00e3?6\u009d1 \u0098~\u00f9Z\t\u00c2?\u00903h)E\u00e2\u00a3p5Z=\u00a5\u00dd\u00c5)O,\u00a5\ub617.\u00e0\u0094\u008ff\u00f9+U\u00d1H\u00a6\u00a2\u00e4V\u0092U\u00b8?{\n\u00a9 r\nmu?rEc\u028aIkH\u00ddtZ\uda6b\udf50\u00ab\u009b\u00ba3\u0090\u009c\u0092GT\u009c^\u00d3\u00f6\u00fe\u00c6U\u0090Y\u00c69M\u00a8?\u00c5Z\u00bel\u0082\u00d9S`4(\u0396O\u00fa'\u0092?\u0097\u0090} \u00a8>\u00a0\u00f8\u00e1?\u00b4?&\u00d9?\u00b1?\u00b9?\u00a4\u00c2?v\u00a2\u00aa?V\u00e2?cA\u00f1V\u00e4\u009a?R\u00e8l\u0084\u0534\u0081i4\u0099?\u0125\u00dc+\u0097*\u009d\u00ba?\u0093X\u00a0\u00f6 \u0083\u00dc \u00f4t?\u00bfA\u00e8d?\u00c8>?A\u00e3 \u00f97N\u00c8:lH.\u00a9\u0089\u00f0I\u00b4/\u00ea\u0083\u00e8\u0091\u00ce\"Ru\u00ba?\u008d?\u00d2?\u0092%R?n\u00ea\u0090r\u0090\u0083\u00e8\u0083\u00e5r?d\u0092?\u0094?4\u00f2\u00d3\u00d2T\u0083?\u00d5/\u00c3~K\u0084\u0082\u00e9Z\u00af\u00a0\u00e3 \u0082\u0083\u00ef?\u00f0D\u0083a\u0092O!\u0082/ \u00baY?\u00e4R1Z A\u00f4?|?|P|\u00c8>\u0090|\u00be \u00f6d?\u00ab\u0090{ \u00f9XA\u00ed?=Uf?8?\u00a3\u0093\u00e8\u00b0e?\u00baPz\u008eRp\u00e2Pq?*\u00a54\u0085\u00e9\u00c3z?d/\u00b4 \u00d0y ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/tile_A.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501103",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6dd5f58993b246ec1d88e9e4ec644e1fbeee85f3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "96301dd1e5f9756222488185906712f5ceae29e4903e7d7feb75b438470ac268"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e124625d4ad310e2e60e366a63f669c9"
+                }
+            ],
+            "copyrightText": " \u00a9\tp\u00c9x\u00ff\u00d5Kh\u00cf8\u00f2\u00a9z\u00b0&\u00ef~\u00e2aR\u00d77W\u00bc\u00e8\u00cc?\u008e\u0092\u00a2W\u008dY\u00e8K\u00aa.\u00a1\u00a4\u00b9\u00c7\ua716?\u00bfrv \u00aaVKgC\u00e7\u00fbor\u00ed\u00ed%\u00a5 \u00fd\u009d3\u00d5\u00ec{\u00b9s\u00c5_-\u00dd\u00f7\u00e6[\u00e5p}F:F\u00b3~\u00cf\u06efQ?\u00e2| 8\u00b5\u00af \u00bc16\u00c6\u00e2.{\u0092\u00cf$\u008a4\u00e3\u00f0?\u0095\u00a4?\u00e5?;(\u00fc\u00e0ek\u00e91\u00c5m\u00898\u00dc<\u03fc?\n\u00a9 o\u00c62\u00d3w\u00e3J\u00f4\u0096R[:\u00b5\u00ac\u0087\u0082~\u00e6~.\u00fd.~\u00df?\u00e9\u00ebnf\u0098\u00e6\u0085m\u0795H?mm H\u00d6y-|\u00c9$'\u00e5J?\u06513V?^-?\u00a1Y\u00a4\u00ed,r%\u00fe\u009d\u0097F\u009d\u00b3\u00d4[:\u00ba\u00f09YkrVK\u00f1 \u00e7\u00f3\u00dd ~Z\u00ddM\u03ebt\u00f3/\u06dc\u0086\u00f9f!8\u00b1\u00a4?\u00e4\u00f6qJ\u00e1Q\t\u00e3d\u023e?\u00c2@b\u00b9\u00a8\u00c5\u00d4\u00af&\u0099?,\u0566~\u00bb\u0627n\u00f3\u00bcc\u0099|L+\u00c1\u0096\u00beY\u00bcDh\u0093?t\u0099G{u?\u00ff?\u00bc\u00c0\u00bf\u00d9\u00fa\u00e4]\u00e5\u008d\u00ea\u00ba\u00ea?z\u00e4\u00ea-xu\u008e/>m\u00ba\u00acJ8 ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/tile_D.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501104",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "923f8f81742f309fb4da4b84d9c3a22374a9961a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2a2198f31bc64c3b4e8cff4b42a69cb7d6dbe65964ed80399192241a4d58fb36"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "758377994717d15999f53341eb5d6038"
+                }
+            ],
+            "copyrightText": " \u00a9\toWp\u00e4\u00b8nA?\u00f1\u00f5\u2958\u00ac?ZO\u00d0H\u00d1O\u00b1X\u0083(\u00c1\u00aaK\u00fa?\u0080l?\u0098\u0090\u00cc.WB3W\u7e01?~^\u0084\u00a9\u00db[\u0087\u00b4\u00d4\u04a8\u0092\u00b7}4uhVm\u00eb\u009et\u00b3?\u00b0\u00f7 \u0091\u00ba\u00e1c(\u00e4L\u0088\u01f5\u00e43\u00b3;>\u00e9edpQ\u00c3?\u00d4\u009c\u00a7\u0094\u009a?\u00e0[?'\u00e1^\u0084\u033e\n\u00a3l{t \u00d00\u00f3\u00a02\u00ba?\u00ad;\u00ae\u00f8?\u00cc?\u00fb6AfU\u00e6b*(r\u00b4?\u008d\u00bb\u00ea?\u008c\u00ffYz\u00d0J;h\u0086\u00f6\u0096z\u00a4\u00b3\u00e8\u00f8\u00eaFE\u0087\u00bbp\u00a28:\u00e1!\u00d5\u00d6\u00dbH\u00f7?U?Q?t\u00ad\u008a\u0095\u00fe\u009e6?\u00d6?\u072d?\u00a4\u00d5\u00f1S?\u00ebr\u00ceU\u00b2 W\u00e2?\u00d5r#\u00e0JHh#F\u00c8}{\u00c6?(\u00ad?\u00d3\u00c8\u00e1\u01aePc5\"\u00eb\t\u00a6?\u00a1\u0082L\u0091\u00b7\u00d9?4\u0092?\u072f\u0096\u00b1[\u00aaA\u0095\u008d?? vYy\tk\u00d77\t\u00bfeH-\u00ad\u009f\u00c8l\u00abt?\u02e9\u00a1\u008e?\u00e5\u0084,>\u00c4\u00de\u00d1?\u00e5\u00b2\n\u00a9 B\u00bfS\u00b6o?3 \u00ffAX \u00af\u008f*?ZY\tR\u00a6&\u0091/\u0095\u0088\u00a0\u00c5wA;L,?\u00b8\u0560\u00b4?~f,(P\u0122dGn\u00acG\u00f0*g\u0088\u00ca2\u0082\u00c6\u00deJ?\u00f6\u00c2}\u00bd\u00f1\u00c2j\u0088[\u00cbv\u00f3j\u00b9\u0080\u00af \u00b1\u00a4N[\u00f8\u0083%\u0098\u009a \u00a1F\u00fb\u00fc\t\u00fb\u00a4\u00bf\u00a0\u00a5?zmOo\u0797\t!\u057d$\u00a4\u008eE\u0082\u009d\u00d1?b\u009d\u00ab\u00f2]\n\u00a9\tA\u00a8O\u00df`Ae\u00eahKE\u00e3\u009f\u01d2HV\u00d6?\u00b1?e?\"0\u00f5c'*9$\u00f2?\u00b6py\u00c5\u00c9(\u00b5\u00c8J\u00e5^\u00ba\u00b0\u009aZ\u0090WG\u00abe^\u00fe\u00f2?\u0095\u00a4\u0090\u0096OH?\u00df\u00f9\u00aeB\u00c5\u00c2L\u00ab?\u00af\u00f0s\u0097z \u009eh\u00c2GE^v\u00ad\u00a59]B \u00a8\u00bb\u009b\u00b8\u00f2\u00be\u0090c?\u009bq?L\u00e9\u00b4r\u00f2\u00f4G$ \u00c7\u00d1x\u00dd}C%\u042eY\u00b7^\u0086\u0099?\u00f5\u00a4\u0088\u00e3?\"D?\u00cc<\u008c\u00d0c\u00db \u00f0~\u00bf\u00c4f\u00839/\u01030\u00cf\u00e7\u00b9 \u0301RX\u00e8-S\u00cc?\u00b7O\"\u009dy?}?v\u00b1?\u00fbA\u0088\u0092\u00ca*\u0090dwv\u00d9\u00f0\u0083'\u009dVh3\u009cL+\u00c81H\u009f\u00a2q\u00b9$\u0085\u009b\u00e3~?\u00e8b.\u0095yRt\u00aaI!\u0090\u00f8\u07d5\u00e4?\u00ad\u00a2O\u0087\u00b9u \u00b0;\u00b0\u00ad\u00e82\u0099S\u00d0l\u02d0\u00e0&*?\u00c1V\u0083#\u06e7\u0091~ \u00afC?\u00ccK\u00dfdT\u0088\u00c9O\u00fb\u00c7(^\u0085\u0087\u0099\u0092\u00e41\u009fU\u0090l\u00a7?\u00ee~I!_\u00dc\n\u00a9 BVz\u011bo2u}L\u0082\u067f\u00e6<E_?\u00f5\u00cf!*\u00a2\u0088]\u07af\u0095*`\u02a8\u00ba\u00e8\"\u00e4\u00b7<\u00ebF;H\u00ace{\u00c8J WmNs\u00ef\u0095$\u0097\u00d30\n\u00a9 An\u00c6A\u008ejo\u00ff\u00fe\u00ef\u00942+N\u00eb\u00d3p\u00e6'\u00abAj\u00c1q\u00be\u00e6#+\u00e8,\u00ca\u00fa\u00fdZ&#\u00ef0\u00ab\u00a0\u00b2JGqS\u0546\u00fdZ?R\u072ay]\u00be\u0562d\u00d5j\u00f5\u00ea\u0093\u00e7\u00fagH8\u009a\u0692~\u00ad?\u00ca9\u008c\u009c\u00b6\n\u00a9\toWp\u00e4\u00b8nA?\u00f1\u00f5\u2958\u00ac?ZO\u00d0H\u00d1O\u00b1X\u0083(\u00c1\u00aaK\u00fa?\u0080l?\u0098\u0090\u00cc.WB3W\u7e01?~^\u0084\u00a9\u00db[\u0087\u00b4\u00d4\u04a8\u0092\u00b7}4uhVm\u00eb\u009et\u00b3?\u00b0\u00f7 \u0091\u00ba\u00e1c(\u00e4L\u0088\u01f5\u00e43\u00b3;>\u00e9edpQ\u00c3?\u00d4\u009c\u00a7\u0094\u009a?\u00e0[?'\u00e1^\u0084\u033e\n\u00a3l{t \u00d00\u00f3\u00a02\u00ba?\u00ad;\u00ae\u00f8?\u00cc?\u00fb6AfU\u00e6b*(r\u00b4?\u008d\u00bb\u00ea?\u008c\u00ffYz\u00d0J;h\u0086\u00f6\u0096z\u00a4\u00b3\u00e8\u00f8\u00eaFE\u0087\u00bbp\u00a28:\u00e1!\u00d5\u00d6\u00dbH\u00f7?U?Q?t\u00ad\u008a\u0095\u00fe\u009e6?\u00d6?\u072d?\u00a4\u00d5\u00f1S?\u00ebr\u00ceU\u00b2 W\u00e2?\u00d5r#\u00e0JHh#F\u00c8}{\u00c6?(\u00ad?\u00d3\u00c8\u00e1\u01aePc5\"\u00eb\t\u00a6?\u00a1\u0082L\u0091\u00b7\u00d9?4\u0092?\u072f\u0096\u00b1[\u00aaA\u0095\u008d?? vYy\tk\u00d77\t\u00bfeH-\u00ad\u009f\u00c8l\u00abt?\u02e9\u00a1\u008e?\u00e5\u0084,>\u00c4\u00de\u00d1?\u00e5\u00b2\n\u00a9 B\u00bfS\u00b6o?3 \u00ffAX \u00af\u008f*?ZY\tR\u00a6&\u0091/\u0095\u0088\u00a0\u00c5wA;L,?\u00b8\u0560\u00b4?~f,(P\u0122dGn\u00acG\u00f0*g\u0088\u00ca2\u0082\u00c6\u00deJ?\u00f6\u00c2}\u00bd\u00f1\u00c2j\u0088[\u00cbv\u00f3j\u00b9\u0080\u00af \u00b1\u00a4N[\u00f8\u0083%\u0098\u009a \u00a1F\u00fb\u00fc\t\u00fb\u00a4\u00bf\u00a0\u00a5?zmOo\u0797\t!\u057d$\u00a4\u008eE\u0082\u009d\u00d1?b\u009d\u00ab\u00f2]\n\u00a9\tA\u00a8O\u00df`Ae\u00eahKE\u00e3\u009f\u01d2HV\u00d6?\u00b1?e?\"0\u00f5c'*9$\u00f2?\u00b6py\u00c5\u00c9(\u00b5\u00c8J\u00e5^\u00ba\u00b0\u009aZ\u0090WG\u00abe^\u00fe\u00f2?\u0095\u00a4\u0090\u0096OH?\u00df\u00f9\u00aeB\u00c5\u00c2L\u00ab?\u00af\u00f0s\u0097z \u009eh\u00c2GE^v\u00ad\u00a59]B \u00a8\u00bb\u009b\u00b8\u00f2\u00be\u0090c?\u009bq?L\u00e9\u00b4r\u00f2\u00f4G$ \u00c7\u00d1x\u00dd}C%\u042eY\u00b7^\u0086\u0099?\u00f5\u00a4\u0088\u00e3?\"D?\u00cc<\u008c\u00d0c\u00db \u00f0~\u00bf\u00c4f\u00839/\u01030\u00cf\u00e7\u00b9 \u0301RX\u00e8-S\u00cc?\u00b7O\"\u009dy?}?v\u00b1?\u00fbA\u0088\u0092\u00ca*\u0090dwv\u00d9\u00f0\u0083'\u009dVh3\u009cL+\u00c81H\u009f\u00a2q\u00b9$\u0085\u009b\u00e3~?\u00e8b.\u0095yRt\u00aaI!\u0090\u00f8\u07d5\u00e4?\u00ad\u00a2O\u0087\u00b9u \u00b0;\u00b0\u00ad\u00e82\u0099S\u00d0l\u02d0\u00e0&*?\u00c1V\u0083#\u06e7\u0091~ \u00afC?\u00ccK\u00dfdT\u0088\u00c9O\u00fb\u00c7(^\u0085\u0087\u0099\u0092\u00e41\u009fU\u0090l\u00a7?\u00ee~I!_\u00dc\n\u00a9 BVz\u011bo2u}L\u0082\u067f\u00e6<E_?\u00f5\u00cf!*\u00a2\u0088]\u07af\u0095*`\u02a8\u00ba\u00e8\"\u00e4\u00b7<\u00ebF;H\u00ace{\u00c8J WmNs\u00ef\u0095$\u0097\u00d30\n\u00a9 An\u00c6A\u008ejo\u00ff\u00fe\u00ef\u00942+N\u00eb\u00d3p\u00e6'\u00abAj\u00c1q\u00be\u00e6#+\u00e8,\u00ca\u00fa\u00fdZ&#\u00ef0\u00ab\u00a0\u00b2JGqS\u0546\u00fdZ?R\u072ay]\u00be\u0562d\u00d5j\u00f5\u00ea\u0093\u00e7\u00fagH8\u009a\u0692~\u00ad?\u00ca9\u008c\u009c\u00b6\n\u00a9 2\n\u00a9 B_4cA\u009a\u0099s\u00b2\u00ebI!,\u00b8<\u0092?`\u00a5/!*%T\u00f6\u029f\u00ff\u00933\n\u00a9\tV\u00af+D\u00e9\u00a09W?oge]?\u0092Rm\u00cd8?A\u0099|\u0353v\u00b9 \u00f5\u00a2M\u00eeK\u009d qH\u00d9\u00be\u00ec\u0083.S\u00e5\u00caE\u07d2t\u0083?u}\u00f0?m\n\u00a9\t6\u009f\u00fb1or\u00ce^t?\u00a0G\u00c1E\\\u00a2\u00ebU\u008d\u00a0r\u008699\u00d9?F\u00d2\u00ea\\\u00fc\u00a9\u0090z\"\u009a/\u0092?\u00d3\n\u00a9 y/i S\u00a2hm\u00b96\u0090 \u00e9\u00eb\u00e4 f(\u00af|\u00abt?(:?\u00b4e6\u00f6So\u0083\u00b3\u00f7V\u0082p\u009e\u0090~\u00ada\u009f?\u00d8\u00e1$d?a\u00ed4\u03e2p\u00a7\u00ec\u00c7Vh&\u00b5N\u00cc\u00d24P\u00af\u02ede\tn\u00e8j\u00f1k\u00c0?]?T\u0082j?+?\u00feOtV\u0088\u00e7\u00ab 9e$\u00fa?\u00ab\u00f7G\u00d1:\u00f2\u00ba\u0209?\u00c0F\u00ef\u00f5U\u00d0e=H\u00bd\u00f5\u008aIt)e~v\u0693\u00ac?\u00b8$?y\u00bbc\u00d9\ub431W\u00e2n~\u009e\u00a9w+A5\u00b5`\u00f8:\u00e1\u00eb\u009a\u00e4?\"*}k%\u00e7z\u00b1?^\u0085\u0098\u00f75y\u00b6b?T\u00f4N\u009a\u00a53\u00ef\u00fd\u00bb?\u00d5eD\u0082j\u00e8\u00b4\u00cf.\u00fej\u009c?\u00a0\u00a9!+?Y\u00fa\u0292\u00e8Kr\u0089E|?\u00f5p\u008dR\u00fe\u00c8%\u00bb\u008d?ve'h,\u008f?\u009d?U\u00fa\u00bc\u0082\u00c6\u050c\u00cb\u00f6\t(\u00a5\u0090\u0094\u00ce?\u00fb\u00bf\u00aeB\u00bc\u04bcm\u00f2\u00a3QK\u00a1-\u00ec\u00ce\u00e135\u00cf!*n\u00a5\u00e9cc \u00c8'\u00ff>x?T\u0082\u00c9j\u00ee\u00f6 ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/tile_C.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501105",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8114f440c719d5993ca7836ad2265f71b14f67f7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c64e147b181dd9fe9a6e810bb7c90cc9b36e11fd2eecfc5d2a8537593ff23a15"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7d626cea95f8d7a4b3f1f6e3d10e923c"
+                }
+            ],
+            "copyrightText": " \u00a9\tp\u00c9x\u00ff\u00d5Kh\u00cf8\u00f2\u00a9z\u00b0&\u00ef~\u00e2aR\u00d77W\u00bc\u00e8\u00cc?\u008e\u0092\u00a2W\u008dY\u00e8K\u00aa.\u00a1\u00a4\u00b9\u00c7\ua716?\u00bfrv \u00aaVKgC\u00e7\u00fbor\u00ed\u00ed%\u00a5 \u00fd\u009d3\u00d5\u00ec{\u00b9s\u00c5_-\u00dd\u00f7\u00e6[\u00e5p}F:F\u00b3~\u00cf\u06efQ?\u00e2| 8\u00b5\u00af \u00bc16\u00c6\u00e2.{\u0092\u00cf$\u008a4\u00e3\u00f0?\u0095\u00a4?\u00e5?;(\u00fc\u00e0ek\u00e91\u00c5m\u00898\u00dc<\u03fc?\n\u00a9 o\u00c62\u00d3w\u00e3J\u00f4\u0096R[:\u00b5\u00ac\u0087\u0082~\u00e6~.\u00fd.~\u00df?\u00e9\u00ebnf\u0098\u00e6\u0085m\u0795H?mm H\u00d6y-|\u00c9$'\u00e5J?\u06513V?^-?\u00a1Y\u00a4\u00ed,r%\u00fe\u009d\u0097F\u009d\u00b3\u00d4[:\u00ba\u00f09YkrVK\u00f1 \u00e7\u00f3\u00dd ~Z\u00ddM\u03ebt\u00f3/\u06dc\u0086\u00f9f!8\u00b1\u00a4?\u00e4\u00f6qJ\u00e1Q\t\u00e3d\u023e?\u00c2@b\u00b9\u00a8\u00c5\u00d4\u00af&\u0099?,\u0566~\u00bb\u0627n\u00f3\u00bcc\u0099|L+\u00c1\u0096\u00beY\u00bcDh\u0093?t\u0099G{u?\u00ff?\u00bc\u00c0\u00bf\u00d9\u00fa\u00e4]\u00e5\u008d\u00ea\u00ba\u00ea?z\u00e4\u00ea-xu\u008e/>m\u00ba\u00acJ8 ",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/bitstream/tile_B.apv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501107",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9a6d732ac0e4c55b170a3a7bcb8e9a36a4bfb087"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4c4625b6044dc783c55f36a3dc036e8571f75c70fe3febb8f79e3a56eb6502bd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1893ddcec86acc68248425340b7e36ab"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/sequence/pattern1_yuv422p10le_320x240_25fps.y4m",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501108",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "20ffa9dd8151d79351b0f503688ceeef73441f44"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f17ca4b8493d31d84751e91d243a195cd5f9a4e9186e332dfc4b1f9add813428"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7f2816d1b5a8fa076ac31d9902d92dda"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/test/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501109",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bd595b52a59761a5bb59a031caebf457ab6e5b02"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "77220f8f97efef130fc4954b34bf54b27fd97b888fae8a3e95e6fdf8e247444f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3c9435a1304efb219b02edc74bd9e6b8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501110",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0d08fc110f080d18290a4c08bbd36dc1debc90fa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5898047ee17eb1c1ad52eeb3cb045bff66a0fb41df8ce7b4de874469ff25d537"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7a54ff6d4cba3e26d94f4162a0b0e0b2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/.clang-format",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501111",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1b499b6dc702774ce1da76bd77709a6fec0202c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "96dc73d1938127f55b63690af806667ed054f2e313bcad70651c34d71da2ed5e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "22227beaee7c424727435bb59e6d8b77"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-file"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501119",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "092a8e69f6e1351112b5624f05ced33f4b2e8b29"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "71dfcded1b8dede6b38ec2bc633131a78340c67a21a29f947463f0fc5afc35fc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7867c5a8f52290a1f346e73ed52d3f8c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/app/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11501121",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "126d619d9fa0df887a51c424c4980aab71763464"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a2e386c16d40a5be2303e7eab1c34d758def69d56bae22f136c698989dc3cd1a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e0e4093cc90b0b3ea34c14988c2e7e59"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "OpenAPV-2025-10-30.zip/openapv/macos_universal_toolchain.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-a17bd49efce706e7",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-a17bd49efce706e7",
+            "relatedSpdxElement": "SPDXRef-aswf-OpenAPV-openapv",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501039",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501047",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501113",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501115",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501120",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501118",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501116",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501117",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501056",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501049",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501058",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501067",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501057",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501063",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501062",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501064",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501046",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501061",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501069",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501077",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501076",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501044",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501043",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501072",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501071",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501052",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501054",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501078",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501055",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501048",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501059",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501075",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501065",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501045",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501042",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501073",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501074",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501053",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501051",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501066",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501060",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501079",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501080",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501019",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501021",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501023",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501024",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501025",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501026",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501027",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501028",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501029",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501030",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501031",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501032",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501033",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501034",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501035",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501036",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501037",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501038",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501068",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501083",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501084",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501085",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501087",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501089",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501090",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501091",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501094",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501095",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501096",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501097",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501098",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501099",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501100",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501101",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501102",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501103",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501104",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501105",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501107",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501108",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501109",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501110",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501111",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501119",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenAPV-openapv",
+            "relatedSpdxElement": "SPDXRef-item11501121",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
