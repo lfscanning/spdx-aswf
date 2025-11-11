@@ -1,0 +1,158 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T13:30:26Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpddq7wfvs/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpddq7wfvs/code-3d40a780-2db9-4c4a-8300-ded6a99e9ddd",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-d8d8e5e1e2cb9098",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenTimelineIO/docs/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "829a913abe59d07ed941f78f3bff1b7e0261e82f"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5537f010c8d0a5f3",
+            "description": "An extended [CommonMark](https://spec.commonmark.org/) compliant parser,",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/myst-parser@3.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/executablebooks/MyST-Parser",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "myst-parser",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenTimelineIO/docs/requirements.txt",
+            "supplier": "Organization: Executable Books",
+            "versionInfo": "3.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d530a1b07c7dc88e",
+            "description": "Sphinx extension for Read the Docs overrides",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/readthedocs-sphinx-ext@2.1.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/readthedocs/readthedocs-sphinx-ext",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "readthedocs-sphinx-ext",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenTimelineIO/docs/requirements.txt",
+            "supplier": "Organization: Read the Docs",
+            "versionInfo": "2.1.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2d4107fc4f761c83",
+            "description": "Python documentation generator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx@7.3.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "sphinx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenTimelineIO/docs/requirements.txt",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "7.3.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-a1c244d438f2bf77",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.opentimelineio",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-opentimelineio-OpenTimelineIO",
+            "comment": "This package was added to the Trivy analysis for the OpenTimelineIO by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/OpenTimelineIO/archive/829a913abe59d07ed941f78f3bff1b7e0261e82f.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/OpenTimelineIO@829a913abe59d07ed941f78f3bff1b7e0261e82f",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenTimelineIO",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "829a913abe59d07ed941f78f3bff1b7e0261e82f"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-d8d8e5e1e2cb9098",
+            "relatedSpdxElement": "SPDXRef-Package-2d4107fc4f761c83",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8d8e5e1e2cb9098",
+            "relatedSpdxElement": "SPDXRef-Package-5537f010c8d0a5f3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8d8e5e1e2cb9098",
+            "relatedSpdxElement": "SPDXRef-Package-d530a1b07c7dc88e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-opentimelineio-OpenTimelineIO",
+            "relatedSpdxElement": "SPDXRef-Application-d8d8e5e1e2cb9098",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-a1c244d438f2bf77",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-a1c244d438f2bf77",
+            "relatedSpdxElement": "SPDXRef-aswf-opentimelineio-OpenTimelineIO",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
