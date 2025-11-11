@@ -1,0 +1,984 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T13:45:33Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpxnn5z0b4/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpxnn5z0b4/code-a8063cf4-a653-4f84-931a-7d2e1b5d8ebf",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-b56177926bd532af",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenAssetIO-Manager-BAL/tests/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "ecb5fac810d059f8df054b126114064f430679e8"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-1f6289b0d0b2130c",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenAssetIO-MediaCreation/tests/python/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "d58a7da03ae45ecc00702aa782eacd85120a42d7"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-9a3aa96d3d8066bc",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenAssetIO-TraitGen/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "9f0667f1d8691d2314bd43402a1946e07e0aab97"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d8ee916017ed99e1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenAssetIO-TraitGen/tests/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "9f0667f1d8691d2314bd43402a1946e07e0aab97"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-2374b3956db58ab5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenAssetIO/resources/build/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "73ba8e5b7baffbc3a2d6d08aad42896e513dfb57"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-ef694c10f4d78312",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenAssetIO/src/openassetio-python/tests/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "73ba8e5b7baffbc3a2d6d08aad42896e513dfb57"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-290e456510b33c9e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "Template-OpenAssetIO-Manager-Python/tests/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "c57a6c098bfd9d2ac8a0d605f693254b4b02bdcc"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-6dd5149fab57f8b7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "usdOpenAssetIOResolver/tests/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "751925f7a7ed35b98bfea859f5af5ae9779347c1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c1dfbd9ebe638fd1",
+            "description": "The uncompromising code formatter.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/black@22.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "black",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Template-OpenAssetIO-Manager-Python/tests/requirements.txt",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "22.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ae33535af2b17607",
+            "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cmake@3.31.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cmake.org",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause",
+            "name": "cmake",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO/resources/build/requirements.txt",
+            "supplier": "Organization: scikit-build",
+            "versionInfo": "3.31.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-972f8c47872a8ac0",
+            "description": "Conan C/C++ package manager",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/conan@1.66.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://conan.io",
+            "licenseConcluded": "GPL-3.0-only AND Unlicense AND LicenseRef-scancode-unknown AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "conan",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO/resources/build/requirements.txt",
+            "supplier": "Organization: Conan.io",
+            "versionInfo": "1.66.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2ab738e4230efef9",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.1.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-318b7d0beba78c6",
+            "description": "An implementation of JSON Schema validation for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jsonschema@4.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python-jsonschema/jsonschema",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jsonschema",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/tests/requirements.txt",
+            "supplier": "Organization: Python + JSON Schema",
+            "versionInfo": "4.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-830e92be5fcf1359",
+            "description": "An implementation of JSON Schema validation for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jsonschema@4.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python-jsonschema/jsonschema",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jsonschema",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/requirements.txt",
+            "supplier": "Organization: Python + JSON Schema",
+            "versionInfo": "4.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-49525869eda0be5a",
+            "description": "Ninja is a small build system with a focus on speed",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ninja@1.10.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://ninja-build.org/",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ninja",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO/resources/build/requirements.txt",
+            "supplier": "Organization: scikit-build",
+            "versionInfo": "1.10.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6b4112b8c1870bed",
+            "description": "PEP 561 type stubs generator for pybind11 modules",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pybind11-stubgen@2.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sizmailov/pybind11-stubgen",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-cla AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-cla",
+            "name": "pybind11-stubgen",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO/resources/build/requirements.txt",
+            "supplier": "Organization: Sergei Izmailov",
+            "versionInfo": "2.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-26f1453ea128e455",
+            "description": "python code static checker",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pylint@2.15.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND CC-BY-SA-4.0 AND GPL-2.0-only AND NOASSERTION AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-2.0-only AND NOASSERTION",
+            "licenseDeclared": "GPL-2.0-or-later",
+            "name": "pylint",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-Manager-BAL/tests/requirements.txt",
+            "supplier": "Organization: pylint-dev",
+            "versionInfo": "2.15.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-718d73a6c245703d",
+            "description": "python code static checker",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pylint@2.15.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND CC-BY-SA-4.0 AND GPL-2.0-only AND NOASSERTION AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-2.0-only AND NOASSERTION",
+            "licenseDeclared": "GPL-2.0-or-later",
+            "name": "pylint",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Template-OpenAssetIO-Manager-Python/tests/requirements.txt",
+            "supplier": "Organization: pylint-dev",
+            "versionInfo": "2.15.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b9ec9ddc9c28ca03",
+            "description": "python code static checker",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pylint@2.15.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND CC-BY-SA-4.0 AND GPL-2.0-only AND NOASSERTION AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-2.0-only AND NOASSERTION",
+            "licenseDeclared": "GPL-2.0-or-later",
+            "name": "pylint",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/tests/requirements.txt",
+            "supplier": "Organization: pylint-dev",
+            "versionInfo": "2.15.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4f735acc74756ecc",
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@6.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "JSON AND MIT AND MIT AND MIT AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "6.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1e96166beb360d4",
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@7.4.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "JSON AND MIT AND MIT AND MIT AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO/src/openassetio-python/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "7.4.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b3775bbf947dd9fe",
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@6.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "JSON AND MIT AND MIT AND MIT AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: usdOpenAssetIOResolver/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "6.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d077feeebe910143",
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@6.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "JSON AND MIT AND MIT AND MIT AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Template-OpenAssetIO-Manager-Python/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "6.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d3b221c308acb813",
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@6.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "JSON AND MIT AND MIT AND MIT AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-MediaCreation/tests/python/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "6.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-69c733cdacf6c798",
+            "description": "run tests in isolated forked subprocesses",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-forked@1.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/pytest-forked",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest-forked",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: usdOpenAssetIOResolver/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "1.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d99cbfa5098e2e5d",
+            "description": "unittest subTest() support and subtests fixture",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-subtests@0.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/pytest-subtests",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND GPL-3.0-only AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest-subtests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO/src/openassetio-python/tests/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "0.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7b134a136d8e57cb",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a247dc014122eadd",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/tests/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-92e2ad9bffd3e6d4",
+            "description": "Python bindings to the Tree-sitter parsing library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tree-sitter@0.20.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tree-sitter.github.io/tree-sitter/",
+            "licenseConcluded": "ICU AND MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "tree-sitter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/tests/requirements.txt",
+            "supplier": "Organization: tree-sitter",
+            "versionInfo": "0.20.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2ddc4b535597fbe2",
+            "description": "Binary Python wheels for all tree sitter languages.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tree-sitter-languages@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/grantjenks/py-tree-sitter-languages",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "NONE",
+            "name": "tree-sitter-languages",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenAssetIO-TraitGen/tests/requirements.txt",
+            "supplier": "Organization: Grant Jenks",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.openassetio",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-OpenAssetIO",
+            "comment": "This package was added to the Trivy analysis for the OpenAssetIO by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/OpenAssetIO/archive/73ba8e5b7baffbc3a2d6d08aad42896e513dfb57.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/OpenAssetIO@73ba8e5b7baffbc3a2d6d08aad42896e513dfb57",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenAssetIO",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "73ba8e5b7baffbc3a2d6d08aad42896e513dfb57"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-OpenAssetIO-Manager-BAL",
+            "comment": "This package was added to the Trivy analysis for the OpenAssetIO-Manager-BAL by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/OpenAssetIO-Manager-BAL/archive/ecb5fac810d059f8df054b126114064f430679e8.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/OpenAssetIO-Manager-BAL@ecb5fac810d059f8df054b126114064f430679e8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenAssetIO-Manager-BAL",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "ecb5fac810d059f8df054b126114064f430679e8"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-OpenAssetIO-MediaCreation",
+            "comment": "This package was added to the Trivy analysis for the OpenAssetIO-MediaCreation by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/OpenAssetIO-MediaCreation/archive/d58a7da03ae45ecc00702aa782eacd85120a42d7.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/OpenAssetIO-MediaCreation@d58a7da03ae45ecc00702aa782eacd85120a42d7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenAssetIO-MediaCreation",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "d58a7da03ae45ecc00702aa782eacd85120a42d7"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-OpenAssetIO-Test-CMake",
+            "comment": "This package was added to the Trivy analysis for the OpenAssetIO-Test-CMake by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/OpenAssetIO-Test-CMake/archive/6fb668a5301485391a47e3aa96f598d70c3d0507.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/OpenAssetIO-Test-CMake@6fb668a5301485391a47e3aa96f598d70c3d0507",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenAssetIO-Test-CMake",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "6fb668a5301485391a47e3aa96f598d70c3d0507"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-OpenAssetIO-TraitGen",
+            "comment": "This package was added to the Trivy analysis for the OpenAssetIO-TraitGen by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/OpenAssetIO-TraitGen/archive/9f0667f1d8691d2314bd43402a1946e07e0aab97.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/OpenAssetIO-TraitGen@9f0667f1d8691d2314bd43402a1946e07e0aab97",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenAssetIO-TraitGen",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "9f0667f1d8691d2314bd43402a1946e07e0aab97"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-Template-OpenAssetIO-Manager-Python",
+            "comment": "This package was added to the Trivy analysis for the Template-OpenAssetIO-Manager-Python by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/Template-OpenAssetIO-Manager-Python/archive/c57a6c098bfd9d2ac8a0d605f693254b4b02bdcc.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/Template-OpenAssetIO-Manager-Python@c57a6c098bfd9d2ac8a0d605f693254b4b02bdcc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "Template-OpenAssetIO-Manager-Python",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "c57a6c098bfd9d2ac8a0d605f693254b4b02bdcc"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-otio-openassetio",
+            "comment": "This package was added to the Trivy analysis for the otio-openassetio by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/otio-openassetio/archive/ee762d7d24670f84c30baa6149123b6d252a9969.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/otio-openassetio@ee762d7d24670f84c30baa6149123b6d252a9969",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "otio-openassetio",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "ee762d7d24670f84c30baa6149123b6d252a9969"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-usdOpenAssetIOResolver",
+            "comment": "This package was added to the Trivy analysis for the usdOpenAssetIOResolver by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/usdOpenAssetIOResolver/archive/751925f7a7ed35b98bfea859f5af5ae9779347c1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/usdOpenAssetIOResolver@751925f7a7ed35b98bfea859f5af5ae9779347c1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "usdOpenAssetIOResolver",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "751925f7a7ed35b98bfea859f5af5ae9779347c1"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-OpenAssetIO-ComfyUI",
+            "comment": "This package was added to the Trivy analysis for the OpenAssetIO-ComfyUI by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/OpenAssetIO-ComfyUI/archive/c057e35a60683cf0745b8e6bbd0e6b8c8608b83f.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/OpenAssetIO-ComfyUI@c057e35a60683cf0745b8e6bbd0e6b8c8608b83f",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenAssetIO-ComfyUI",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "c057e35a60683cf0745b8e6bbd0e6b8c8608b83f"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openassetio-fpt-openassetio-manager",
+            "comment": "This package was added to the Trivy analysis for the fpt_openassetio_manager by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenAssetIO/fpt_openassetio_manager/archive/21a7340042ac4b2f589325e871c59303f8d315b3.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenAssetIO/fpt_openassetio_manager@21a7340042ac4b2f589325e871c59303f8d315b3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "fpt_openassetio_manager",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "21a7340042ac4b2f589325e871c59303f8d315b3"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-1f6289b0d0b2130c",
+            "relatedSpdxElement": "SPDXRef-Package-d3b221c308acb813",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2374b3956db58ab5",
+            "relatedSpdxElement": "SPDXRef-Package-49525869eda0be5a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2374b3956db58ab5",
+            "relatedSpdxElement": "SPDXRef-Package-6b4112b8c1870bed",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2374b3956db58ab5",
+            "relatedSpdxElement": "SPDXRef-Package-972f8c47872a8ac0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2374b3956db58ab5",
+            "relatedSpdxElement": "SPDXRef-Package-ae33535af2b17607",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-290e456510b33c9e",
+            "relatedSpdxElement": "SPDXRef-Package-718d73a6c245703d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-290e456510b33c9e",
+            "relatedSpdxElement": "SPDXRef-Package-c1dfbd9ebe638fd1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-290e456510b33c9e",
+            "relatedSpdxElement": "SPDXRef-Package-d077feeebe910143",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-6dd5149fab57f8b7",
+            "relatedSpdxElement": "SPDXRef-Package-69c733cdacf6c798",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-6dd5149fab57f8b7",
+            "relatedSpdxElement": "SPDXRef-Package-b3775bbf947dd9fe",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a3aa96d3d8066bc",
+            "relatedSpdxElement": "SPDXRef-Package-2ab738e4230efef9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a3aa96d3d8066bc",
+            "relatedSpdxElement": "SPDXRef-Package-7b134a136d8e57cb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a3aa96d3d8066bc",
+            "relatedSpdxElement": "SPDXRef-Package-830e92be5fcf1359",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b56177926bd532af",
+            "relatedSpdxElement": "SPDXRef-Package-26f1453ea128e455",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8ee916017ed99e1",
+            "relatedSpdxElement": "SPDXRef-Package-2ddc4b535597fbe2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8ee916017ed99e1",
+            "relatedSpdxElement": "SPDXRef-Package-318b7d0beba78c6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8ee916017ed99e1",
+            "relatedSpdxElement": "SPDXRef-Package-4f735acc74756ecc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8ee916017ed99e1",
+            "relatedSpdxElement": "SPDXRef-Package-92e2ad9bffd3e6d4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8ee916017ed99e1",
+            "relatedSpdxElement": "SPDXRef-Package-a247dc014122eadd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d8ee916017ed99e1",
+            "relatedSpdxElement": "SPDXRef-Package-b9ec9ddc9c28ca03",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ef694c10f4d78312",
+            "relatedSpdxElement": "SPDXRef-Package-b1e96166beb360d4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ef694c10f4d78312",
+            "relatedSpdxElement": "SPDXRef-Package-d99cbfa5098e2e5d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-OpenAssetIO-MediaCreation",
+            "relatedSpdxElement": "SPDXRef-Application-1f6289b0d0b2130c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-OpenAssetIO",
+            "relatedSpdxElement": "SPDXRef-Application-2374b3956db58ab5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-Template-OpenAssetIO-Manager-Python",
+            "relatedSpdxElement": "SPDXRef-Application-290e456510b33c9e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-usdOpenAssetIOResolver",
+            "relatedSpdxElement": "SPDXRef-Application-6dd5149fab57f8b7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-OpenAssetIO-TraitGen",
+            "relatedSpdxElement": "SPDXRef-Application-9a3aa96d3d8066bc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-OpenAssetIO-Manager-BAL",
+            "relatedSpdxElement": "SPDXRef-Application-b56177926bd532af",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-OpenAssetIO-TraitGen",
+            "relatedSpdxElement": "SPDXRef-Application-d8ee916017ed99e1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-openassetio-OpenAssetIO",
+            "relatedSpdxElement": "SPDXRef-Application-ef694c10f4d78312",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-OpenAssetIO",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-OpenAssetIO-Manager-BAL",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-OpenAssetIO-MediaCreation",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-OpenAssetIO-Test-CMake",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-OpenAssetIO-TraitGen",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-Template-OpenAssetIO-Manager-Python",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-otio-openassetio",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-usdOpenAssetIOResolver",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-OpenAssetIO-ComfyUI",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28fa474acc7bf000",
+            "relatedSpdxElement": "SPDXRef-aswf-openassetio-fpt-openassetio-manager",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
