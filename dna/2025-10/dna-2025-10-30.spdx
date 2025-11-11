@@ -1,0 +1,1230 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_dna-2025-10-30.zip_1762508205.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-07T09:36:45Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: dna-2025-10-30.zip
+PackageFileName: dna-2025-10-30.zip
+SPDXID: SPDXRef-upload2018
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 33904e54f7ef458d6217766b49e19f90559aca82
+PackageChecksum: SHA1: 27e51db002d6b53dfeb62d12dda2cc916d4a9704
+PackageChecksum: SHA256: ff1beeb37a38e96e7247ddfa1b41a78a0f3b84aed73bcda63618df1d3dcd695c
+PackageChecksum: MD5: 037431ad00183751e5397abd1c41fa55
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2018
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/README.md
+SPDXID: SPDXRef-item11501141
+FileChecksum: SHA1: 797d7a1907eca88bb69cd7118ee8aa5e5b309d6b
+FileChecksum: SHA256: b44fd169f0a6ceb39ebe2a47e133710e0c18ef14c73e8cb921dee54345212f5a
+FileChecksum: MD5: 4060bfc1c55dcf1c34a0ab329bc01c2f
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the Dailies Notes Assistant Project. --> https://github.com/AcademySoftwareFoundation/dna -->
+(c) Copyright Contributors to the Dailies Notes Assistant project. </text>
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/LICENSE
+SPDXID: SPDXRef-item11501128
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/CONTRIBUTING.md
+SPDXID: SPDXRef-item11501129
+FileChecksum: SHA1: 5973b100138a7f15e7c681346ccb9d78f4c4f456
+FileChecksum: SHA256: ad54645bf5152ee1897615a659957014c17a7616e74708bf3acf837608991f15
+FileChecksum: MD5: f3250f2c6c3fff253b9fda1393a5c60c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: Intel
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the Dailies Notes Assistant Project. -->
+Copyright Contributors to the Dailies Notes Assistant Project. </text>
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item11501126
+FileChecksum: SHA1: 33444481f6dc1599cbfe5a6f8dbcf4bffc67d3ac
+FileChecksum: SHA256: b72a33cd14f57f38971130f1a249aecadea384e9ad8d46e754d25d65c1bb8a4d
+FileChecksum: MD5: a03dcb0295d903ee194ccb117b41f870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/GOVERNANCE.md
+SPDXID: SPDXRef-item11501127
+FileChecksum: SHA1: 33444481f6dc1599cbfe5a6f8dbcf4bffc67d3ac
+FileChecksum: SHA256: b72a33cd14f57f38971130f1a249aecadea384e9ad8d46e754d25d65c1bb8a4d
+FileChecksum: MD5: a03dcb0295d903ee194ccb117b41f870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/.gitignore
+SPDXID: SPDXRef-item11501130
+FileChecksum: SHA1: 0bc00a0ebde345d06db40ee2622d4920667eac04
+FileChecksum: SHA256: 310c0b5be8c34cb7d43ee170a522a48f8fb1f25f2536be5336ba08730bd63244
+FileChecksum: MD5: 2d142aa4d198e87f933ee697ca2e7025
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/ASWF/Technical-Charter.md
+SPDXID: SPDXRef-item11501132
+FileChecksum: SHA1: 33444481f6dc1599cbfe5a6f8dbcf4bffc67d3ac
+FileChecksum: SHA256: b72a33cd14f57f38971130f1a249aecadea384e9ad8d46e754d25d65c1bb8a4d
+FileChecksum: MD5: a03dcb0295d903ee194ccb117b41f870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/ASWF/README-ASWF.md
+SPDXID: SPDXRef-item11501133
+FileChecksum: SHA1: aea27ef985f52e370d01691867a5b501b75e94fc
+FileChecksum: SHA256: b1519c651e23fc17cc282dc908b90fa0d5a4245d224f028a674c8b0df45a28b1
+FileChecksum: MD5: 1bbf6ddec727617000d39f35e04a2fe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/sample_dailies_dataset/transcript.json
+SPDXID: SPDXRef-item11501135
+FileChecksum: SHA1: f457bf5cad241e0243b272f8123bfbb4d4405a11
+FileChecksum: SHA256: c2accff8093f22d3b86162babdc115ea3537d0685f7b086ca3cf2a07af8ca5ef
+FileChecksum: MD5: f8fe896239a88fd074b5671c0e6a613e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/sample_dailies_dataset/session.json
+SPDXID: SPDXRef-item11501136
+FileChecksum: SHA1: c3ff0c4ed8be5310fed3306d392306627ab7efce
+FileChecksum: SHA256: 953e0024ca6cc32b7984e9758f687ea320bb1128bd730003e142499c010084c6
+FileChecksum: MD5: 3fae67101b80ffd753fa8b53fc5214eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/sample_dailies_dataset/demo_review_session_recording.wav
+SPDXID: SPDXRef-item11501137
+FileChecksum: SHA1: 681b5f44d877649e08dba70279674a09671c2bd1
+FileChecksum: SHA256: 05aac8490f892eebaa4395f31ac87349c4431963cee8db9ad723403f0bb7f6dc
+FileChecksum: MD5: 6016bd0ce5291a7731b143c4158eca1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	x?Y?S?Q?G?0 Üµÿzþ?ý³ûSú?ùÌ÷öZõ)ô?óêñßðÚïØîòí-íuìÏëIëÖêbêëé?é(éåè½è¯èèèyèèêè\éãésê?ëÓë²ì·íÊîÔïáð÷ñ?ó?ô&õGö~÷Êø?ú û=ühý þàÿ G?l???|?[?)?ð?­	\
+© j ] y   9 µ?!?m?m?û???²??µ?É?¹??§?õ?+ í?åëñ?Ü
+©	t	Q	B	9	0	' û?ë?Ë??4?Ý?{ ¢ m?¿?(?§?9?Á W?ýÿnÿâþKþ´ý/ý¹üCüÄû0ûúÎù?ùDø÷
+© x C +  å !ä  O ö?~?è?d 2?Y?o?O?ã Ò?H?y?@?© »?ñ?x
+©	v?b%?1t9.>F?ð<Í70¿']??Ô	?,?	ûô?"?X?4%þ.Í5§8¨8p75c2³,\$Æ?:?FÀ?l??®??M Z?Õ?ÿ?È?W?t?h?Á?/]?ÿ·øÇñaëæîã{ã`äÎåç_êÆîÂô?ûÙÿ ý ,þ?ûCõ'î*ç.á	Ü?×(Ò?ÎSÌòÍÓҠÙÕàéçpï?ø Õ?«å s 1Úú?õïë?êeëQïðôiûJ? 	y?6?g?¸"?#ç! ³?,?Ö?á??Ú $#©&?+è.=1[23C5¥5å2X-b'?#¸ 3 ?d? #u&.(c(B(u)ä+ù,?*Z#
+© J!ú ­ C?:?¾?~?Å?§???
+© 2&8,R2?8=@?Bé@é<>6e-?# Õ????5	??%?Ë?z?¿ ?" I??J?Ê þàúCøøõÁóñ^ïípì?ììÈí´ïåñÂóËôµôTóðsì"çHáÁÛ'×äÓiÒ?Ó?Ö>Ûãá*éEð@öúôúËøêó#íå:ÞUØßÔIÔjÖÁڐàìæÛìuñ?ô¶ôó?ñþíÓê8è¨æ5ææ:ç?è÷è²é?êìéXéèxç8æÌä>ã¢á.à(ßÝބß?áã¦æê4ïôZúôÿ9?) </text>
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/sample_dailies_dataset/shotgrid_data.json
+SPDXID: SPDXRef-item11501138
+FileChecksum: SHA1: 4181efc046becd47abe2725fb2169b6efe6df582
+FileChecksum: SHA256: d2e8abc40d9edac9b0522832cfcd517cc94f2374a159a3918020d4ec0e53d263
+FileChecksum: MD5: 53669a4b11f85c1f3a160ff5702e331a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/sample_dailies_dataset/README.md
+SPDXID: SPDXRef-item11501139
+FileChecksum: SHA1: aef1290c0a9eedc9cdbd308878ea52feb942f1ac
+FileChecksum: SHA256: c6f665840bc0f43aa00109574aa8f661257322e4dda0ae7a7fc30637e7877721
+FileChecksum: MD5: 561b42935bfb4e766113b37be0612739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/sample_dailies_dataset/demo_review_session_recording.mp3
+SPDXID: SPDXRef-item11501140
+FileChecksum: SHA1: 09699187900ec0b7425f52671ba46098add33be3
+FileChecksum: SHA256: f5e58787e1fe7202f0984ff83d52ba05088a666197d9f35920f94c8ddaa514da
+FileChecksum: MD5: 9def99ef20f7f6586bba9a5f632ca84b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 8vUA?G`·ߒºi Ã0<>èމPOþrëZ×î¬ÅZ?ëò«?'9nµ<²Yr×ÿÿÿØ޷úּ?ê'Qò`?Ö (] ÿû`^ @˓ÚÂà?ð?u,Ni­À?À¥* ã	`À5«È 3ÉøÂ¡ áå?¤Ãc?L¾?1óLÂ`Ã X? ¬ib?«åPf ?È0؈)yÚû?³u\ëúî˨`FðÎX¤½?¶íi-x}@#
+© ?8V¡?H!l?
+© y\?rj"Ð FÀÞØA´ø2Ämv =û&8"À,%é+dP´z1 H_ö®¥>mUÿW?B%õRµØX?¥£q~E8ÖÌ?\/?w?½Ў7dôSîÓ`/«³?åHû^wۯ?¹. }c5nPV©KMb1fÜܶ	Wb?R÷ÿÿý¤J?Z ÿû`c DÒ?Êä?ð?Õ?Hnë??À²T0D* aB?ÃcË8M²!=¨| AN\?U -À.ÉÃ?¬Ió
+© WXdcÁDäÞ?¤µðô	>è.ªX~? 4)ÆÔ!??9¥'RºNûªÎaÙ÷Üs¡¬únÀ¼2&lð6¯Ë0Aêh*?°úþ?¬?þ³׷H`?V°±?ï	@u?7ÅÁ?®ÿû`c?®DЉÂä?ð?Í]<'ãÀ?Àø\Cÿ8ÈÙS°¯[P»)LųÕ@mj7îA?¿ ©+»aazÁGDEI?õ \®?Z?´4Oe?Luôæ¼ì1lÎJ$Ægëý_Æýµ  
+© rJUpǑ4Ü"Ó?ʵ[TRf?DXDÌsß?òW¥u"º©öé.ö±ҒZ½ß?b#@/£ÃìÒFºSvCÁâq[êXà@, ŗ3·'«<Ö;Ö?áe7p®?Û?$'?ðâ??®?+Ùwÿÿ6ÿÿÿó{küÿ«ûç;ÍoXºԀ§vÿÉp?óù3à?æ lÿû`c UHxzò?ð?­£"a­À?À?2ó+$Ü90 9Ã?(¨?ɘ&B?Dð0à"?üj¢?Ay?¶]$zM¶ǚzí.·¯V\¤Rݯ·?jҴÐqP5AQSÀ­aµ`H*C0çG©!Ǣ?Ɠ(?°Ô-D´
+© x?Ébjhrð?<¾ièá?gA&?t?*Д9mv=/s .n¼¾ï9Lý´èëó¿´K?-?k¿4?Uº?3mªú¹G<ç÷÷?-?Sµ¹øá.ñÂî?XÊqÏ?ÙÙûYÙïóùÿÿ9ýÊ÷{÷¹ÞwùýÖÿÿ[æ=ßå|޷ÿû`c?DhЇc?ðà?!:=íÈ?À´l4SÌ?PqÒÁ¡?5ðU KQ`i6u?ksiOÙXU­IDò9<+ŀàwy?é ¥{'£N?¥Ô"jUÇnI)'2ML¾º-á
+©	4ÀcãZL?´5rlÛ2Á AS ¹f&=><?1I<©  D Æ '3%D"Þp2ó?<u PXÖ
+$	S2(u«K E¹òG=TÊD<¾^Kâð¤Ü®Ó?͑?åÀÓ*+P; Ç?NТ7PêB¹Ãö9:N]?ÑqdûL»µ÷?)=?¹ôQë?®9j¤nó¨â½?¬r5«}ËJ?I|Y~qzÒ?§ÊQ¬;X½bG$ú¥:hk?råv?7!.?ÁFe´t32´øe°t?|?tGçAvf?¢Ï <¥ u#
+©	G3Ù4ÃzµB?NGÙ܅$"Òb1¸¬4Àܖù²,h¼Ì~üô?,¤ÊQ?·?æéå?pä+%Ø?P¨r?@
+$ lÓD0âqjÀ aʃ!Òó0@p¨?¸$ $Pè4Y	ó-¨áÂ Ö?®ÌrÇçqÔIñ?˨?ÿbâ*e2æ?²ff/M<̧]N½3u ¤g4LÜp 0Á؄*·RGÌ?Q׫¢¶^®;ál´?¨³ÑúQÌ?@?ÁØÿû`]?KM?»jð?ð?1./mkÀ?À£ @Èì ËÄ?̑CÁ GÀì ÂÀF`4?j&`À¦?fKd?££ƈÖ`¥xQ`?Q4&¡¹c4i}ÌìdÀI n¼i?Ä?À?æ?*b?mÁœ x?âÆMüg?*,cp (wþË'K©­Bß </text>
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/.env
+SPDXID: SPDXRef-item11501145
+FileChecksum: SHA1: 059665d8b4fba81888518bb1b0664ad6ce45abc2
+FileChecksum: SHA256: 06aba18da26f4bc18fe9819361846bc9004cf30ed7cc93a019dffe6b639dcaab
+FileChecksum: MD5: 57e8720771fc1959459fa1f265912adb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/package-lock.json
+SPDXID: SPDXRef-item11501146
+FileChecksum: SHA1: b70abc665c9c410f8b2552ee62154877c3e82cb9
+FileChecksum: SHA256: fd4198c2c450aa4813bfa131d5c0156ba242802cbf3c399285b3404ae3c2017d
+FileChecksum: MD5: 2e765c973c856dc2f58ff1e7991decb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/tsconfig.json
+SPDXID: SPDXRef-item11501147
+FileChecksum: SHA1: 916168243c072245e89f349fb50e0d11696086fb
+FileChecksum: SHA256: 770b4140bbb581e2dfd9ea9946ffc9c75a1d86ba7d2db5f77c83e37cbdf9d808
+FileChecksum: MD5: a3d39fa780ebff65444de257f291ce6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/src/hooks/useDNAFramework.ts
+SPDXID: SPDXRef-item11501150
+FileChecksum: SHA1: 010b1b9d2336cbc8043ba440b310b3427156b0d3
+FileChecksum: SHA256: a649d3d091f6c3cad38ed042128c7ebf18d441e6d23662b5050bacb4a01f18b5
+FileChecksum: MD5: dbc2ee60c55175103d94df89709fdd9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/src/hooks/useGetVersions.ts
+SPDXID: SPDXRef-item11501151
+FileChecksum: SHA1: 6084e31a0f18a93b9c365e2692dd3b769caf6ec4
+FileChecksum: SHA256: 85d5467e534fa0c45583e6ede6f37de7b8bfbbe7bfe8f35ecb6213c8d92ba98b
+FileChecksum: MD5: 98fd80b7f727668b92f141184fba671a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/src/main.tsx
+SPDXID: SPDXRef-item11501152
+FileChecksum: SHA1: 3059d4216c4ba7b074f426647f05d7ed3c16ed3e
+FileChecksum: SHA256: c3104b02e0fa236453d11d01343c2d65163e370f73a0b049afb6231ae4502d13
+FileChecksum: MD5: 58e8f503c0032682c62e1ad0f5b39173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/src/App.tsx
+SPDXID: SPDXRef-item11501153
+FileChecksum: SHA1: da7d1797cab03784a513d555087256e214ce1c9b
+FileChecksum: SHA256: c963b426bc0df8af0b972d50b7dcc5911ed89a91b47c4c42d35bc9692cabc04d
+FileChecksum: MD5: f948e9f232f8cef0dbae104cc0f18f70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/tsconfig.node.json
+SPDXID: SPDXRef-item11501154
+FileChecksum: SHA1: 0cfbfaf690663d45d1dc0dcb8d4c41b9a8e3cdaa
+FileChecksum: SHA256: c3dd0fb522feba3596713f51b95bd53d781d845d24aedbfa2ac093d8b39c5120
+FileChecksum: MD5: eec85c9d7c6b599801557f1afd86672c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/eslint.config.js
+SPDXID: SPDXRef-item11501155
+FileChecksum: SHA1: fcb3d8775b3b0828f2b855f56cdccae809643526
+FileChecksum: SHA256: 088e9031a1668aacb8163463e8c1238c82f9188075c4216b04a615e7ad4c92d4
+FileChecksum: MD5: bd004944a557ff2db5750b2b6a7e456c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/.gitignore
+SPDXID: SPDXRef-item11501156
+FileChecksum: SHA1: 3e4702ac781283f81cd8c3cfb6b20eb573352a48
+FileChecksum: SHA256: 1df3f6ba47bf5af25561ce91c818a684c1775417d07a6606a945bb69a1c929be
+FileChecksum: MD5: 9128af2cabc9bf4833611832731acd04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/tsconfig.app.json
+SPDXID: SPDXRef-item11501157
+FileChecksum: SHA1: 794c660cf0f5f3979dbf74f144324163a313057a
+FileChecksum: SHA256: 922bc5bfb41bdc0768023b2487d54b3ae23c587d999024d4f32cde879ae6f4d8
+FileChecksum: MD5: 06fed9d2d293837c0571529eaae7204a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/vite.config.ts
+SPDXID: SPDXRef-item11501158
+FileChecksum: SHA1: 59678fae62d1a121314b5fe9930606a7aa023145
+FileChecksum: SHA256: 89be90bac21c7c75b09ba0dfe3c1ef0252c7e20ee0ed7ddf9381e36673861169
+FileChecksum: MD5: 289e7e8dd7adb2cdc380143163056474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/README.md
+SPDXID: SPDXRef-item11501159
+FileChecksum: SHA1: 5de590c3aa31544b5f1e638d62009d29258ef58c
+FileChecksum: SHA256: 14e649116424a26ec2a1e47477c37383e4288f690a17167d2d2b88d3c4a5f725
+FileChecksum: MD5: d64fc25e6837b4ffb4c57cc8601aef78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/.cursor/rules/workplace.mdc
+SPDXID: SPDXRef-item11501162
+FileChecksum: SHA1: 3e174b8ac1745f6b46ded23b98042d97fc306122
+FileChecksum: SHA256: 8406049e739eb1daae13d7cf5421ae8b1ee1b067a52d0a0a30fb3a4581029494
+FileChecksum: MD5: 0af4a262850fc9f21826eb74ea215b94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/.cursor/rules/use-radix.mdc
+SPDXID: SPDXRef-item11501163
+FileChecksum: SHA1: b8eb0700ae5639360817c8c25154397ebf5002a3
+FileChecksum: SHA256: aa855126ab23a808c00b51ecf9fbd46f7649fb86ec31d7683bb20a37062f9dd4
+FileChecksum: MD5: 9491316f74f5fa71e6fdf20dc415258b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/package.json
+SPDXID: SPDXRef-item11501164
+FileChecksum: SHA1: ec8b7623b7f350d3038bd3c627cad066777bdd22
+FileChecksum: SHA256: c3c58148d56bd4df5417d79f5d6c011f1d540cfec74f27f37e77a8a9ef3fc147
+FileChecksum: MD5: 6d9468aa37c814870024a69bd547c5e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/public/vite.svg
+SPDXID: SPDXRef-item11501166
+FileChecksum: SHA1: f7f39d7237b791a945d52a5cd7a8fb365f313366
+FileChecksum: SHA256: 4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb
+FileChecksum: MD5: 8e3a10e157f75ada21ab742c022d5430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/frontend-example/index.html
+SPDXID: SPDXRef-item11501167
+FileChecksum: SHA1: 44f8aaad56088295fa0dba319509097f41f2e17c
+FileChecksum: SHA256: cd75f7fdea7abc9055fe40570290bd1678b994cdb5472154e9b7c1b35db5f237
+FileChecksum: MD5: 26a2203c992a9a4a25ad57ef2310bf2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/README-ilm.md
+SPDXID: SPDXRef-item11501168
+FileChecksum: SHA1: e95189e85f21a0fd1ab73889d8b8475e9b8a12a6
+FileChecksum: SHA256: 670d68308fcbe8a507905406c30e3e46badaa01a740fd94a5d7cebffc94336c2
+FileChecksum: MD5: 5cb123b9f3e88050d9554272453f623a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/types.ts
+SPDXID: SPDXRef-item11501170
+FileChecksum: SHA1: f881d247b3839445a839b9f31bf00530cf7510da
+FileChecksum: SHA256: fb3a63caf7e601dc2cb1256b0fdce112197473d8a6dcd0e86c13dcad8b1894df
+FileChecksum: MD5: 6064a9d5fbc4cbec56f7855701ddfd94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/package-lock.json
+SPDXID: SPDXRef-item11501171
+FileChecksum: SHA1: a27f29b8ef7faa4cc58bc8e5de0ca26e7b1a406b
+FileChecksum: SHA256: f868216c66a2f1195e8149c30fe279ff6c46117b4ca0aee33b521374ebf276fe
+FileChecksum: MD5: 73334b516c6219648952f4d132f55d5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: ISC
+LicenseInfoInFile: BlueOak-1.0.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/tsconfig.json
+SPDXID: SPDXRef-item11501172
+FileChecksum: SHA1: ab46f5598540835c0f956e7b30282819b7a99d41
+FileChecksum: SHA256: 243172797127258e0daab914fddf4788f51ed117f93f8887e311cf4eb6178a70
+FileChecksum: MD5: e0702849048216018e622ce855e7bc7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/.eslintrc.js
+SPDXID: SPDXRef-item11501173
+FileChecksum: SHA1: e7268d75220f4fe2df2dd0f88a808eb7cb4ab031
+FileChecksum: SHA256: b186f86cb5b3f630836f078bb71825afd2adc126fd267c2fa26d8aef56256cbd
+FileChecksum: MD5: a0ebf708dad74bffbd7db5e8c3ff917d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/__tests__/openAiInterface.test.ts
+SPDXID: SPDXRef-item11501175
+FileChecksum: SHA1: 6cdc6c281c8ddf5972a73efc751b4fb728c19e0b
+FileChecksum: SHA256: 7e3c60a4844bad74901dd6e9556d3f28b998f3171eefb27ab16d3bee732e8585
+FileChecksum: MD5: ab16703ddd1be14ca61b1e10b46e2a5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/__tests__/dnaFrontendFramework.simple.test.ts
+SPDXID: SPDXRef-item11501176
+FileChecksum: SHA1: e55355c777c0503401782d96956c080024f52583
+FileChecksum: SHA256: f0c0b2a52af0b9e6ce1f4a64061c2c4e833c7f6dfe9b062441bc6befecbc8db3
+FileChecksum: MD5: cf739c6936ad117efb23f4f83d7235a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/__tests__/noteGenerator.test.ts
+SPDXID: SPDXRef-item11501177
+FileChecksum: SHA1: b98bfdec90b32dffe34a6051c5b8c327e95c6f6d
+FileChecksum: SHA256: dd6fb62e8b9d57b08d123378ce1c91b07d739909580158741b76d417f81a429d
+FileChecksum: MD5: bcdd0ab654ea76110ee68932af37369b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/__tests__/liteLlmInterface.test.ts
+SPDXID: SPDXRef-item11501178
+FileChecksum: SHA1: 6aa6409ef9b7df8f735fa9e5b19d4191c4573737
+FileChecksum: SHA256: 1a33283412d8b74877256dc6b9e118f775ecd465dac32c2e911686180e349194
+FileChecksum: MD5: 56187e9e794b3080e66d2896240c9736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/__tests__/llmInterface.test.ts
+SPDXID: SPDXRef-item11501179
+FileChecksum: SHA1: 772d4c763cc29f85b0baf8ad5ef425e12c3c3423
+FileChecksum: SHA256: def8bf1b1a98d918a7af7d8662c98e072e7a0f7438681b0284b5f1f08f910ace
+FileChecksum: MD5: 46e67af01702120ebe238917e1ad0f57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/__tests__/transcriptionAgent.test.ts
+SPDXID: SPDXRef-item11501180
+FileChecksum: SHA1: cd78354cfd2a0841bd82e15029cbcb1208d9d4ca
+FileChecksum: SHA256: 2421c83353a10692a56234b0e4260184615a278ccf411eceef1c7eb0e3d03555
+FileChecksum: MD5: a4070838d2688b3c104e15db72604129
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/__tests__/stateManager.test.ts
+SPDXID: SPDXRef-item11501181
+FileChecksum: SHA1: c304ad9f427c9f1cda6b595af1f16bc60e325339
+FileChecksum: SHA256: 99e06418a7982af9e7d63a5c9b2bdb0b55d52004053e786c9212233ec3e9b299
+FileChecksum: MD5: 7e7c7d158e0d79611009beae732ab32f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/.gitignore
+SPDXID: SPDXRef-item11501182
+FileChecksum: SHA1: a053967d1eddda61fe98a2c4797c41ed6d05f7b7
+FileChecksum: SHA256: e8e65899c98ab3cddabeb0beb1a792c6590ebaf2c7bf19acb47892c1fbc2c3af
+FileChecksum: MD5: 8945118d8773d20d7bfd58293150f1c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/jest.config.cjs
+SPDXID: SPDXRef-item11501183
+FileChecksum: SHA1: 4126d67a69a2c926a1b4bbb2323f175702fd7eaa
+FileChecksum: SHA256: 966dd4280dd7a14409c47a486d7b0981a743a5616d21a65d053e10deb5031ced
+FileChecksum: MD5: e017e58ec6315f33bb2d4400dd129ea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/pnpm-lock.yaml
+SPDXID: SPDXRef-item11501184
+FileChecksum: SHA1: 857f7056e65930ac3568180e8825c62d3761b246
+FileChecksum: SHA256: 38b1e5296aa8f967341d0bcd3c22fb8bb1e97b5681272c6df8f33c21f5fe5132
+FileChecksum: MD5: f44e22987295685dc20c0ed6a6d5e409
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/shell.ts
+SPDXID: SPDXRef-item11501185
+FileChecksum: SHA1: 079ebfae98f3deae82b55d63965b1efddcfeb538
+FileChecksum: SHA256: ac942bed0f15c38118c560d65941416039d49393995bec61fee2bf1e3484e2bb
+FileChecksum: MD5: 99d49f7762e4af6535b1da0c91936aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/.env.template
+SPDXID: SPDXRef-item11501186
+FileChecksum: SHA1: 97f2410d223883f3cb6c5f5964a7f731f45b99d8
+FileChecksum: SHA256: 4bc97658a5006b5c293c88748be9599235b6e5a47fc8417c88a89b8796a7b83b
+FileChecksum: MD5: 35be2933e651c53b1ecb3f5d1684d4c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/state/index.ts
+SPDXID: SPDXRef-item11501188
+FileChecksum: SHA1: 085408b07cb35f03d2217c986d26ad7061b3af53
+FileChecksum: SHA256: fb67f7468782578075d9ef7a71da06638ca949d790029c53c420087c179f5d61
+FileChecksum: MD5: 5bef29d6e3d5c681e93e1e24b7069a3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/state/stateManager.ts
+SPDXID: SPDXRef-item11501189
+FileChecksum: SHA1: fd9538df7916290740f3f31fb95ab92b26a5808f
+FileChecksum: SHA256: 0a97260908cc5e933d147ec74d4d54be0643a81f3b63a79e0bc47a502258db56
+FileChecksum: MD5: 9cbe368fc23176689713b88e309c4da7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/README.md
+SPDXID: SPDXRef-item11501190
+FileChecksum: SHA1: aa81da68cb3f83388c8419da450cda896126fd60
+FileChecksum: SHA256: 2c7d4dc02eca7047715282a060cbc55c2957e5301ec21a7c4ef2f4fde8e451d4
+FileChecksum: MD5: 85d9168a31f2c9a9e493e221597cde46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/package.json
+SPDXID: SPDXRef-item11501191
+FileChecksum: SHA1: ad388932d1fda1c21193c37c77f9cba3248d9537
+FileChecksum: SHA256: c6393486eef84f0cdfda44704b4153db5c052ed83f3e3d7c0ca2dacfb68b04f8
+FileChecksum: MD5: b2e0843232d31bc1e79257898a79c82a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/notes/LLMs/liteLlm.ts
+SPDXID: SPDXRef-item11501194
+FileChecksum: SHA1: 06ce850891badaff667e12abfa8f0550b0aec14d
+FileChecksum: SHA256: 3450c0fdf643b068050076d651ef179d9df7b6934e90b248751098b0c5e465dd
+FileChecksum: MD5: f424c79cb3a30d34ed062f68ca0bd339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/notes/LLMs/openAiInterface.ts
+SPDXID: SPDXRef-item11501195
+FileChecksum: SHA1: c52c8ce2112918f83846d6a94636000a65e9fc8f
+FileChecksum: SHA256: 80c63cacaee3d931b230e618292344587d629b590994bc5d3a4ac0b0f798a672
+FileChecksum: MD5: a05987a79abaad1947749d8b3f524742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/notes/LLMs/llmInterface.ts
+SPDXID: SPDXRef-item11501196
+FileChecksum: SHA1: 8a4d147d93b60e4548101ffcd01464a29514ac48
+FileChecksum: SHA256: 20bec7b2feaa3e98f0d048c357c85d28720b7f75244b7417c50426e1e23b2b17
+FileChecksum: MD5: 41e6f616318444444ad2c2d8a126cb15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/notes/prompt.ts
+SPDXID: SPDXRef-item11501197
+FileChecksum: SHA1: 9ee37cc241f2f76776c41275924c61214f96bad1
+FileChecksum: SHA256: e74f47336fd94cacb3f9c288029f47358bc73d50631e7a663c734e81c78ad196
+FileChecksum: MD5: 3c6cefa8504ed710ed672bf89508a1c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/notes/index.ts
+SPDXID: SPDXRef-item11501198
+FileChecksum: SHA1: 3df6e70b193bef424983ceca7716bc980e58488c
+FileChecksum: SHA256: 9718860da33faacdc146ae79c023a04a5820a851022b4c66e6443265209448f2
+FileChecksum: MD5: d14890842ca0bd839d1e9867aeac0048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/notes/noteGenerator.ts
+SPDXID: SPDXRef-item11501199
+FileChecksum: SHA1: e0b71ea0560bdfd3a419158aefc4b0f65b72a353
+FileChecksum: SHA256: d5c86a3233b437b35274b715acc950c9506ac729a52fbc25fdb7d701303dece4
+FileChecksum: MD5: 1ea9ed6a460d7d69d6e4f9705bc7bcf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/index.ts
+SPDXID: SPDXRef-item11501200
+FileChecksum: SHA1: a548a501dd637afde86728f9946a590cf331b4e3
+FileChecksum: SHA256: e3a60b42f0ffc7d34f2b83f0336867597d618ea415523acc047a9923a975567a
+FileChecksum: MD5: 823327dd03877b4b77f06b49c2f46a6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/tsup.config.ts
+SPDXID: SPDXRef-item11501201
+FileChecksum: SHA1: c886520566f6d6b4adb53f085150a19f22355a03
+FileChecksum: SHA256: 624343652ad512a37f68d0d064dedb4927e5fe77beaf3f7eab95c278dad19a31
+FileChecksum: MD5: 4b5b9c7f7dd5d6274883a912b73f411b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/transcription/transcriptionAgent.ts
+SPDXID: SPDXRef-item11501203
+FileChecksum: SHA1: 52688da0309ea9492fa94f7e07601412d2f79778
+FileChecksum: SHA256: c585b54a8f76abe9ab3a2ad4a569dc0b3ffd88e3125b6ec51f8942f4b2e2bd9f
+FileChecksum: MD5: d21e9471db05a0cdbf82e9080f2a0a05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/transcription/index.ts
+SPDXID: SPDXRef-item11501204
+FileChecksum: SHA1: bd7ed4d79d2b429087bddcb1b1a4f2116ec91567
+FileChecksum: SHA256: 70ae3e2cb95aaa66ff7d0ed9bfa592c4c67310069c8ec5f127844dbb381317e6
+FileChecksum: MD5: 98b2884f506ea06283829814d52e96f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/transcription/vexa/types.ts
+SPDXID: SPDXRef-item11501206
+FileChecksum: SHA1: 3e2fa7d57e729cc648b1a5f8cc6bc942227947ec
+FileChecksum: SHA256: 502b0141d6d622091db3b66b8faf507679fddf415e9b2758fd49d146ec10d6fe
+FileChecksum: MD5: 7bb99e70681d4f6f59056d1e16721074
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/transcription/vexa/vexaTranscriptionAgent.ts
+SPDXID: SPDXRef-item11501207
+FileChecksum: SHA1: d615989fb98506c9fd0c6089db096abae988443f
+FileChecksum: SHA256: 0c54047af87f4148a3a644739e5feb22ed3f27f1ba810e4b810c03078ba3cef5
+FileChecksum: MD5: e15a22ccba30e6cfa131cadbd28e1754
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/transcription/vexa/index.ts
+SPDXID: SPDXRef-item11501208
+FileChecksum: SHA1: 5427a6e48ca58c5250cfab50765a07b73a269ed8
+FileChecksum: SHA256: d06599831b208e442076d724bdfa1a3f9c2e80458cc152cf7c23e14ce8fb0c3a
+FileChecksum: MD5: 19a6d0611e81fda90ab4883c217b35ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/dna-frontend-framework/SHELL.md
+SPDXID: SPDXRef-item11501209
+FileChecksum: SHA1: 6bf0383bf35982f4a8ba94774b66fd2af3d00a20
+FileChecksum: SHA256: b4161e87142338998b53d494a1ad45bbd7b126f3d69db4918d83d0d6a0b42042
+FileChecksum: MD5: bb9baddec4b5c1c3ed5107655a8530a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/.gitignore
+SPDXID: SPDXRef-item11501211
+FileChecksum: SHA1: 675becb232e6b6083d0deb71e79c14fb9a5e01a5
+FileChecksum: SHA256: 80cbe6f7e1685ce9205bef96401c0e27e263e4841897e0e1ddd9dd077189e83d
+FileChecksum: MD5: 1289f12133a554af9a7743bf07893702
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/extension/manifest.json
+SPDXID: SPDXRef-item11501213
+FileChecksum: SHA1: 1c1c10cf694c18246e1994278e53833dfdd8cd9f
+FileChecksum: SHA256: ce6b53cdd5f4b94a5c9bed42f835aabfd5bc811b48f71a3ab63de7b0a17b0287
+FileChecksum: MD5: 07191de691921da7f51d97d74040a0a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/extension/popup.js
+SPDXID: SPDXRef-item11501214
+FileChecksum: SHA1: 1ebadb0b2869f5a15ba3b1f62aa5a2bc75f97058
+FileChecksum: SHA256: 733682787ecd09b0e481d2b3f9c954a5f26749fb47c1f4b5f4e84f09980a12e9
+FileChecksum: MD5: e7bc9a059d66f3c85420d522870d7de7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/extension/popup.html
+SPDXID: SPDXRef-item11501215
+FileChecksum: SHA1: fb5618856eb90debb5dd2247f2711d36554ec320
+FileChecksum: SHA256: b355cac04513b5eb078a9f2b527d5ff8560e6c07ec034a032ba89c09bdd98e48
+FileChecksum: MD5: 95263beceb6d86022fe59ccc482bd5d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/whisper-server/server.py
+SPDXID: SPDXRef-item11501217
+FileChecksum: SHA1: 4f6bca28b139788117967f20251a9882dcc2335f
+FileChecksum: SHA256: ad0a87931046c899fd053617287e9ce9689e1577c7d303768de5105841fb8cd6
+FileChecksum: MD5: 5e58ee5f92968ffa3a2dc7badf2d6c0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/whisper-server/requirements.txt
+SPDXID: SPDXRef-item11501218
+FileChecksum: SHA1: 4951ce90888d100cabfa85aff425ae63efdc9a69
+FileChecksum: SHA256: 4a5644b6d1946ac6474db76b31eeeded2cb31d7d3b6dfe4ad09fe946f5b1616a
+FileChecksum: MD5: bb0e48d690e8e9676a8cd735629a8824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/whisper-server/Dockerfile
+SPDXID: SPDXRef-item11501219
+FileChecksum: SHA1: 36ac12a1a9fbf50cd849e5fca51e5fef2f6ff333
+FileChecksum: SHA256: 66c5c3b8be45e6ebb0340887f8667c12c9451c0174bc45809f8ef909d45651ac
+FileChecksum: MD5: 1acd9a0232b95c61c17955b5d27fe6b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/whisper-server/docker-compose.yml
+SPDXID: SPDXRef-item11501220
+FileChecksum: SHA1: 929d009a46f5ea13d3166efd6e9634d71e165ed3
+FileChecksum: SHA256: ff328442c10143a1d5d76c8ae2275a2a874765ad458d8fd9674350fec697229f
+FileChecksum: MD5: aad7b75dfe49b5f762219aafd908c416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/chrome-extension-test/README.md
+SPDXID: SPDXRef-item11501221
+FileChecksum: SHA1: de2495b5f9509d02de6cea416f57bbaba9e381ce
+FileChecksum: SHA256: e5568b6503ad24febcb937244b2ca253bc8d1cc3d105af28d04860d3944c2e85
+FileChecksum: MD5: a5a04e2c7a2c693518a2fffe4c217504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/prompt_test/.env.example
+SPDXID: SPDXRef-item11501223
+FileChecksum: SHA1: 2d75d6172155aa2e7b6493d306f3c6b7c711c9ec
+FileChecksum: SHA256: a5a16e9008f7f18c90bad61e2ec6d26a5f9cc96c203a83d46b21160527217fb7
+FileChecksum: MD5: 19347c2525f508806d2ef77d0b2a7c20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/prompt_test/requirements.txt
+SPDXID: SPDXRef-item11501224
+FileChecksum: SHA1: b219db095c9ef4ac44adcb6fd0363d20a63d44f2
+FileChecksum: SHA256: 8607b308bfd8802e34de293906640187c183fca4af32750a69a87eacefd0cb74
+FileChecksum: MD5: 0489219d5c0418d85f594c1a524a4a90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/ilm/prompt_test/prompt_evaluation.ipynb
+SPDXID: SPDXRef-item11501225
+FileChecksum: SHA1: 1d0acdb372b3046c3e5121c486bbe79439800c9b
+FileChecksum: SHA256: a8f133c5a8d54e84cea7ca85d79143b795fa31f5886de0a0a5418c23429c9f67
+FileChecksum: MD5: ad320e547e6c6e782ff216b01a9f03df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/README-SPI.md
+SPDXID: SPDXRef-item11501227
+FileChecksum: SHA1: 40ab438ee78e83b17b9c58c986e65dde08555ca6
+FileChecksum: SHA256: 47b4af32649c1623aab88fbdc514122443f6277cd162115288d3ff1d3d3fa806
+FileChecksum: MD5: 4b5bb4c09049e74a8652e4d013f29893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant/docs/prep_llm_inputs.md
+SPDXID: SPDXRef-item11501230
+FileChecksum: SHA1: 18b1650ecb5338d08ee6b26b6f742a5ae8c4feb9
+FileChecksum: SHA256: 2c2aee6d7d1c72b3a8ae8cf36427a09a345c14284ec8d7e069ebea7daf9c628b
+FileChecksum: MD5: a99a70035b0b2e218fe1927193835bf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant/docs/data_flow.png
+SPDXID: SPDXRef-item11501231
+FileChecksum: SHA1: a847aa3c5b912e7ab4732e2ad6e98ca416dbf308
+FileChecksum: SHA256: 224d403345d7273cf674ef3c86799e144c4382700d088c4d8c2fb82e8ea1bdf8
+FileChecksum: MD5: 0d18a1f88b1388ecedcb8f10a828f70a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant/docs/note_assistant.md
+SPDXID: SPDXRef-item11501232
+FileChecksum: SHA1: 6390096dbd43f5c3bcba3f6f6c129a2e2c5ccbe7
+FileChecksum: SHA256: 84890a936f07fb52d1ca58fbeb36cd503ce8485e23af8829dc405845e08e1261
+FileChecksum: MD5: fedf9b0c52fd57a5fe0a9507fe822f4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant/prep_llm_inputs.py
+SPDXID: SPDXRef-item11501233
+FileChecksum: SHA1: 30db94bddaa86fccb2afba85f405714faeec1586
+FileChecksum: SHA256: 5d11cb8eca37cb2244c8a83b978a942a6a584ec6193465b4a779c1d14de40f8e
+FileChecksum: MD5: f2b79fc1bfdca3cc8e1d4fa87977fd72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant/requirements.txt
+SPDXID: SPDXRef-item11501234
+FileChecksum: SHA1: d864d78e37511b4fd22a09421a23a2c215e6b80e
+FileChecksum: SHA256: 248f6c00531b78df95d979f6b7a4bb0b62f675bcf025676afaed71ada19a5db3
+FileChecksum: MD5: 030e0033ccff9fdd5c067056d0801956
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant/note_assistant.py
+SPDXID: SPDXRef-item11501235
+FileChecksum: SHA1: 2394aa502bbcc160b62b2a035badecf08481ecd2
+FileChecksum: SHA256: de9e0aa1d88e5b8d26df382c8cfe3d330151cdac09496388960e4e3a5f1fafb7
+FileChecksum: MD5: 6aca7f8c03e962c74c8c69969a104faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant/README.md
+SPDXID: SPDXRef-item11501236
+FileChecksum: SHA1: 75602ddc4ae06ea07c164c874e3362d7c20465e5
+FileChecksum: SHA256: 44fdcd3c22f8536bb3df5a21a78448a23634708d011c11b5924012e8ab7e12f1
+FileChecksum: MD5: 61ade6074436630751af57e2af3be70c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/backend/playlist.py
+SPDXID: SPDXRef-item11501239
+FileChecksum: SHA1: 6f2e3c6deafb6c83e44088ce9822b405d1713c3b
+FileChecksum: SHA256: d50434df9a36aaf997a816ba9579c8a5a9375b96a3940b137ca67b569d8888bb
+FileChecksum: MD5: 65cb1d7b4d1c80871d446edb6ee38322
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/backend/email_service.py
+SPDXID: SPDXRef-item11501240
+FileChecksum: SHA1: c3c3756cbf1e83daeecb0091623a2d9625e3577b
+FileChecksum: SHA256: b2c4aecd7c5b31266e367b4835399f4218e73ed897ff9e9318e8416e220c39a6
+FileChecksum: MD5: 5f54a1ef6167ed92630dc60e5868e1a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/backend/shotgrid_service.py
+SPDXID: SPDXRef-item11501241
+FileChecksum: SHA1: b27c8831b2f9a2798c1d1be62433d7afd949ceef
+FileChecksum: SHA256: ee3b966bccee826ea208b1d96f8944dd6e56a121c8ea45b0938135e099fa115c
+FileChecksum: MD5: 00cd80056ad2cea3bca1902e4f82a24a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/backend/requirements.txt
+SPDXID: SPDXRef-item11501242
+FileChecksum: SHA1: a28373ecc61784a5ebda837c65a9b58eb862816c
+FileChecksum: SHA256: d3d20c5cc9f5527a201ec75442d79b28695d871e6064f38c1393f5fce114fa3d
+FileChecksum: MD5: 2ff027a245f0ab13331b70347556f947
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/backend/main.py
+SPDXID: SPDXRef-item11501243
+FileChecksum: SHA1: 3fab16e64694270b6e596feda677b2efbe8ac17f
+FileChecksum: SHA256: 58d0633be9636aa21284d1928ee7cd79a4f2a319752be3433b2c27e83fb1a33a
+FileChecksum: MD5: 76d508ed2ace46cb86f3a8346aa9143a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/backend/note_service.py
+SPDXID: SPDXRef-item11501244
+FileChecksum: SHA1: 0b5476ff446e2a766c34a33ee8e2f5f0622d5860
+FileChecksum: SHA256: ebcdb7950849253663c912f801e77cde7421cef3327415ccc9b66a52ca3f5678
+FileChecksum: MD5: 9c3a2711a1e29e0911b292008c358e16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/vite.config.mjs
+SPDXID: SPDXRef-item11501246
+FileChecksum: SHA1: 711404c195a4324394528bf035897d57606a5151
+FileChecksum: SHA256: 4f9fbbdbc10bf58253a12eb98c949427d351c61ade1ed8250a3c9705ef0b50ba
+FileChecksum: MD5: ee80d09370b6bfb1ad86efd9a737e411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/src/main.jsx
+SPDXID: SPDXRef-item11501248
+FileChecksum: SHA1: 2f63439cf7777ed8b16f224249044290aaa401fa
+FileChecksum: SHA256: b371e8d9fe5a5058896bfc0d1d60913e2968444a75105be616c1e7e28ea23aa1
+FileChecksum: MD5: e838375906555d0a556a348fb94d725c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/src/ui.css
+SPDXID: SPDXRef-item11501249
+FileChecksum: SHA1: 0520c0b9126536631c3f587d6c63df03d02ff4bf
+FileChecksum: SHA256: aaf4c98866bf622a2cd7ecd681d5a5f05b673a964dc9b8dc249ad3a2c1db9efd
+FileChecksum: MD5: fdd828d33c2a803a1e78a9469ebaa208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/lib/bot-service.ts
+SPDXID: SPDXRef-item11501251
+FileChecksum: SHA1: 2f0fb4375c7b5a94b964cc094a50c6821b20fa8a
+FileChecksum: SHA256: 1ff2d0c44c468736e2b75d9d57cdf239f14edc9ba1264b84ce56c7ea12baa37c
+FileChecksum: MD5: 4e08a2186c262536d1e8422c134ca69f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/lib/websocket-service.ts
+SPDXID: SPDXRef-item11501252
+FileChecksum: SHA1: fd024a3aaf7b553c308c9cabeb689e088f247140
+FileChecksum: SHA256: 9a071bb2fdfd4b64007418f5c198f121d39b13fa591b0f57095243921d0d7ef9
+FileChecksum: MD5: 58edfd7edf682579ea46c67e90d3a9e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/lib/config.ts
+SPDXID: SPDXRef-item11501253
+FileChecksum: SHA1: d0ed3130840cfafc4cef737689c5f6b6e4f28907
+FileChecksum: SHA256: 89451e1c5795973fdd31bcd852bbf5248b169d89c855f0c655ca337b405186f6
+FileChecksum: MD5: 4bc59b05e2e8c0b9c70fdf43dc3c067a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/lib/transcription-service.ts
+SPDXID: SPDXRef-item11501254
+FileChecksum: SHA1: 54a271d07c9a5067d1ed9d3fa6c432ffd9e46d6f
+FileChecksum: SHA256: c6e69a2789c8671bce6af1ee0459ee5a22d02961341de5fe02665ff41c728800
+FileChecksum: MD5: 9136e2b08af09dadfe223a118a8bbfa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/package.json
+SPDXID: SPDXRef-item11501255
+FileChecksum: SHA1: 8b3aa8d05292883ba200046f178cc6f74861b606
+FileChecksum: SHA256: fa5fa9e2b458e0d32a8c70bc57b98369ac6eaf4fda3ff5360e953ebf3326fc8e
+FileChecksum: MD5: 34a880f18b6bdb44a89572a2e449ca7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/vite-env.d.ts
+SPDXID: SPDXRef-item11501256
+FileChecksum: SHA1: e2eac6bcc8767d416f859eb09486cc8709de95a5
+FileChecksum: SHA256: 65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5
+FileChecksum: MD5: 0352474ba2918efe13895edbc3780d94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/frontend/index.html
+SPDXID: SPDXRef-item11501257
+FileChecksum: SHA1: 8a9718e6d0281f092e392164af33edce8b2f8a3f
+FileChecksum: SHA256: eb5157f6b40a541ad2c90429244125059041f49869afb4c916f89892c16d1303
+FileChecksum: MD5: d9c823997978f18e185986f6ee1f1d6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: dna-2025-10-30.zip/dna/experimental/spi/note_assistant_v2/README.md
+SPDXID: SPDXRef-item11501258
+FileChecksum: SHA1: a60189569c4b5283a880c6023c3c910328680734
+FileChecksum: SHA256: b0773fdb9cdc04c0f85caf8929eac23a79b7636c57ea7d324fa106b5aa2f86d2
+FileChecksum: MD5: 19fdeb0a2e7578ca35341b0cabd1b4b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
