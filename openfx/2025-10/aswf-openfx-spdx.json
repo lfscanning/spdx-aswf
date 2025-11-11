@@ -1,0 +1,89 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T13:43:08Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpkxophiwr/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpkxophiwr/code-01df75f1-907c-40e1-a2ef-41e60369ea84",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-747c8cb05697227f",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND (BSD-3-Clause AND MIT)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "aswf.openfx",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openfx-openfx",
+            "comment": "This package was added to the Trivy analysis for the openfx by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openfx/archive/49ffc2d05c79f40f7c95fef9f7d17e06c9a2cb33.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openfx@49ffc2d05c79f40f7c95fef9f7d17e06c9a2cb33",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND (BSD-3-Clause AND MIT)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openfx",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "49ffc2d05c79f40f7c95fef9f7d17e06c9a2cb33"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openfx-openfx-test",
+            "comment": "This package was added to the Trivy analysis for the openfx-test by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openfx-test/archive/c7e07b6cbb64c9ede2fc656092e33b6b4412adac.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openfx-test@c7e07b6cbb64c9ede2fc656092e33b6b4412adac",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND (BSD-3-Clause AND MIT)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openfx-test",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "c7e07b6cbb64c9ede2fc656092e33b6b4412adac"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-747c8cb05697227f",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-747c8cb05697227f",
+            "relatedSpdxElement": "SPDXRef-aswf-openfx-openfx",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-747c8cb05697227f",
+            "relatedSpdxElement": "SPDXRef-aswf-openfx-openfx-test",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
