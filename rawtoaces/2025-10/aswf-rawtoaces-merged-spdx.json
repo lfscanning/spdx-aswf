@@ -1,0 +1,4193 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T13:33:45Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "No license found",
+            "licenseId": "LicenseRef-No-license-found"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        }
+    ],
+    "name": "/tmp/tmp_g9jt76t/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-aswf/rawtoaces/2025-10/aswf-rawtoaces-full/c0f8008c-2d02-4481-b228-2df4aa8900f6",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "aswf.rawtoaces",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "comment": "This package was added to the Trivy analysis for the rawtoaces by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/rawtoaces/archive/a49c1a9bd30a0a538ad803af968fb115196766d9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/rawtoaces@a49c1a9bd30a0a538ad803af968fb115196766d9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "rawtoaces",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "a49c1a9bd30a0a538ad803af968fb115196766d9"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "comment": "This package was added to the Trivy analysis for the rawtoaces-data by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/rawtoaces-data/archive/aa906b61d04a7e3b1b618b5448a86c43d198b94d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/rawtoaces-data@aa906b61d04a7e3b1b618b5448a86c43d198b94d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "rawtoaces-data",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "aa906b61d04a7e3b1b618b5448a86c43d198b94d"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11446200",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9da77d238eba299a92acbbe21b414421282b51ff"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fb253ca110298ba3ad2c1d360361c09404de96e82354c066757b2ec9fdfe78b3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bd864dcb6e1a421a719183e44b0d9468"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/docs/CHANGES.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446202",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b6d743cbe3cd50879730f7617eff6de1b1663bbc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "718faacab151be064b164f830358e22f8c8cac7a061e51436774899a7c73dbf9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7b739105fec09fd85a178d3874ae0bac"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/docs/CONTRIBUTING.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446193",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8336062fbd75617f18a8762daca44c2e862e868a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c85849f3e7fce75673997ecfa5f576434a2fcd0aeb11048801e166733114efa1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54493ff962d5f46a51299908d22178d8"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/cmake/CodeCoverage.cmake",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446205",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446233",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a7de4b6d10427d6c58be2f5ffe0b9e1d18faf89c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0515e91881e630b0627735537cd3f4a08b27ae9a042628d25af697dc76e0f292"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "989d94ea612d2d8a50488bf5dd4a3eb3"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.github/workflows/analysis.yml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446219",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "241251fdc10e95cb672ae59504c3071bfe3a649f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "694068386957a02c64ed41ea22e34d5fc3ba71a0a124509a4d2eed789eb3ea33"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "39f053c7f36bf2754206b8680d8014ce"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_core/define.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446228",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "62907ae7d6f3323daf113730c2568cf7af1c2acd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "457980390e19f3d4bd6f7d8d59f17c2d04e9a4de2c7ab1e1186a0eddc6c95acb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2574dc09bbad61b2e5116af7b9df19aa"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_util/image_converter.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446251",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5305f1a73b92058733c961a7ad1436bf12df76e1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9f6900aa135f9f2ccea65fce6a88a6a088fbfdd04a6ed72d170a99c3ddb15eeb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0828adea3f07520c47d14705ed6f1a6d"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/include/rawtoaces/image_converter.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446209",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "21ba76d2c7d519603fa18c08f1cae86b15c9e291"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3c5b27f4bd8fe8f40ebead37babdf3c6239f8a66bcbd25a659605fd881c8f162"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91bea5dcfb73a47a6c3865c23e364a1a"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces/main.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446221",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a48d0ad441651fb06569b28d79f7d435764849d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b81a6d041efdae52299391255b7800734b29cf76de464742cfc0077b72effd81"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d81a5012bbdb037522aeb6c7ba29f4e2"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_core/mathOps.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446213",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8f99b47b95f7adfd6de752c30da3648b4f471a82"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dd5cce159a083f8a431c3c93c2be50a8e0c778f8cad2c41b5a50f598ecf4cb57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6412dac6aaef7c187006ff35952e0ec5"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/bindings/py_core.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446211",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c609541a62c9745275038792fd430b85b8f04e9d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f9ad3812bfebb7272150bcd82762d97585bf28d3980245ff9970110d50b118f0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "46b4d58d124949819a2fa26feb69c149"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/bindings/py_core.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446216",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b35be28dff75a26f8d77b6f03bc5c17a4a469575"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aa3032190f991a8ae2edfd1bef298daf9d09fd89eab8b1f8ba9363c088e46783"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "04c73211b4f4c31842e974deb8907018"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/bindings/py_module.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446212",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4c9a8a83050df9c9c7e12a32900cb37068b87efa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9a1d2a790af96f0ebfa3fb8184c76923d0cfae4fbce8473dc916a91facde6be7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "53ccc49fc1929047b1fa0777b4eeff65"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/bindings/py_util.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446215",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aa8913b7fc73b85868c8c474428b1174ff9b005e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b2a4de4f66e7dc07cb4730f10bf944cfee4ca5de5b062584eb4f7a94c4bb0d9f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e7c49d830bfc3395f5b7ee686c348e9d"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/bindings/py_util.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446218",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f2222ee007f89154a9381e59b1cbcd6d27d54511"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f3762c747da8618499479520bfd9679ba834d1e3792fd4f2ef66542c3a22cb87"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cfd93fdc93311f190055211e46a0d31a"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_core/rawtoaces_core.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446252",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4aa34450817903a84146a8724b3b4c2646dffc89"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "46d6b76b012f8183ae6e5aa42ea2a3cff91de82a8627de2c740053da25eae0af"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "556eb6b05c1bfb268009129ecb84a9ba"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/include/rawtoaces/rawtoaces_core.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446222",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "be9a210d258b799323b9e706e21ae83c6fb5d686"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1f250cfe28efbc7c379d41ebf812b219fb729cd1094928904e537c013010d64f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "31fe21a33211dc0164f7cf4b0e8aa56b"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_core/rawtoaces_core_priv.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446227",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1ab01fcde43eee73dff66f307a1f424798949740"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a55832def0770602d51447bf339939020002569e6c39bfbaf44528703b89a76b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7cafc873863b0ad364bcb4ccb03379a9"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_util/rawtoaces_util_priv.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446223",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0f3cb3b1e3cd413dd7afa52f7202cf10f3b94d95"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f2290355ac8cc4e4968b8a9d8bf9659e31b4dca9406f33988f7b786790063b06"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c756f1894f17f99d9359a0ce61237403"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_core/spectral_data.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446253",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "916b01647ade3b04792469b8b17d39ee9996906f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "45f70e3b75a65e2c1e20faf62412ad8796f33d420a821744a0504bb2b2c29415"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5494a2962ab1b0f5f2360ae22877298e"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/include/rawtoaces/spectral_data.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446183",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4fb9292e7e213b4ea57475188659df5c40072519"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "63d075513d07598293ad911a3f37c928e8f663748a9c177f8982dd0260d046b8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2eb3a06517115c4f2cde8bd0387003c6"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/testDNGIdt.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446184",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d6ab57f9889e84b4ad1bca7049ebda5816976943"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f68b0d5b7d4cdd3a5994e8e22ff09afc354de1cd10cc704a2d8cafb7ae0a3b87"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d3a815861b5658849fcb98afc13e2340"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/testIDT.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446188",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1f4fa7e9b35dbd29db1c9cb67d3dab53c521d690"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5d73dae56d2e4244785e042561bbf70512f1b53c6f4064b8f67a12da82f64224"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d34f774d31b3db8bd3c0fe348d85f252"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/testIllum.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446180",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "443631b0bfe8c1a94b6a0ff5d2eb94ea138293c6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c5c14912353418aefbf348272da46091aea8e5343a0493e03c18f874d296b40a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "658ce46f0023da9726243a308f3baed2"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/testLogic.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446176",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "73c813782c7d086e3b8ff5a9322bdb3bf7dd90cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e580ebf05bed63f3b04168b450f806e955b84f875e48c28c36cc2b05c79c8e14"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d1d6593cac2b0a7292476a583b7a6c57"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/testMath.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446186",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "11fe69bc91a96e58abbf526633aa8d32661dbc45"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "02ff0f60ba25086001371f7d8f52140fce96d0902daaf5062892d0bdccbc54ce"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0f081e85b9da72882aae629fe884193c"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/testMisc.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446187",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "96b433946b8c537b3c978b7e95ded5300040e3e3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9181ab8301e6c37cecc92a291e8ffc228e7d2e1823dc3a34d57b9e9b3545253c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b2e590ab7a89345af9093335b36c2b5f"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/testUsageTimer.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446182",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eac72e2accf3e38cf41b85494744a392ac0edd34"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3e1a0ea54c28e3d0ccb09abbf6a4ba608ed30d98434398d2a76741223596f743"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8ffbac80c58f1decf282b0f654d7181e"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/test_SpectralData.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446181",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dd3f979227888965b84364f7678bcd1c76d02067"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "05bcc4ab8276fb475630c35d754199094a3333c931ffac436338222042fe9b47"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b1c0e496e578e3e59f81c12636bbc226"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/test_image_converter.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446165",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "14c257393587e0ccc0c9ba195baab0dcf8405ba4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "72e095e5fb8c338e0e72d10f2d88f0eeb05cb773716797f59b507ab383613392"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "02ba2dab342ca73b090e3c28cebde13b"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/python/test_image_converter.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446171",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d8762d556cb347be5b9690507d76564613f1a451"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2b35fba0132ba02548f0f0e759b4d713314b1b26985794aba78804bd5ae93b68"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "66caf00cee8d8bd3b08b82a8b8486987"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces project. SPDX-License-Identifier: Apache-2.0 https://github.com/AcademySoftwareFoundation/rawtoaces ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/config_tests/core/test_installed_core.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446169",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e516043798e091fa8f74f9c4c9a31ac87f1c121d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "03746e1a961eeac0a291b2edc56c1fbb590f2cdcc8d91c489f084250c6aba398"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "09f93e24c31fce48a5598b068a803f6b"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces project. SPDX-License-Identifier: Apache-2.0 https://github.com/AcademySoftwareFoundation/rawtoaces ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/config_tests/util/test_installed_util.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446174",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e70bf0e9b55a9c0b63cd78e5de422555b7003039"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "74000b2ef1d76d4e8fee85aa1b276621a5cb8a7dc4d49a824bf2240f4b34ee27"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b4b9efa9b6eb502d174f39c777e5cb8"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/usage_example_core.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446175",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7dc28db451253610fba538134109b1dae1fdd798"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ea8681b73418dfde92d5bc921eff3a9a753523bb0d8d140ee5a007418f03848"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9da74be7e7633eda5941a4bb48fb1c12"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/usage_example_util.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446225",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "103eab15c6f9b9c3e68b949a88f1b6d2e4b31588"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b4dd4ee0e7941695daf9e4faaa17072a59182a03edea1bc5130b840f9b27ec5c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1732d2209c910b3c1895ffebc31e497e"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_util/usage_timer.cpp",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446250",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8abd9383535f93e8b13ef8c42ee2f8617d6d6368"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "637a76554ade222e8253ea94cd9fa317390cdc65d54ab5c7ee263e4941c92f11"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9ceb05bf86f63c5fc02ed2c819e38db4"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the rawtoaces Project. ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/include/rawtoaces/usage_timer.h",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446162",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c405fba3a29c95750e1459bc3eae4a003f41cb4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "78181f9a66aaad576203effee334d922375df33e4ea5a8cb8c5d3d967a7103f0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3e42cd873098a3f507a05da7fbc79d31"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.git-blame-ignore-revs",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446168",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f240b2dc66bf8c5a138a4cc5d790fe1661c4522f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3b553e485d54eaa189251ae52bfdde6752fac321fd66f61983f8587adc0ff98a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0defa11ca75a28e97405488d186cafd7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/config_tests/util/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446172",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "781310e5e154f259ffeece06ce867592301c2183"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "05e78aaa8eab965fac43b3b7fc2ac771d6991b6314478aa02ad5ef5bc3323d3e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9279240aa7b965ac7cf6f5c014679cec"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/config_tests/core/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446173",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3d7a807a11b2c1156680f5f68d6d3cd1e2554328"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3ae7bc0eecd445589c22c7e62d32d69e8656553b1b4ef26406de1d9ef4954aa4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cb743317564266d806493a0b59c3008b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/config_tests/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446178",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "445dabde04a0032c6f71f802a8abc1cef3886085"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d9bd91f3e277a05e56138ff0f83f6a7d25cac1b8b7e7104abe367b88a901a404"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "702610776033025bfdc0d367acf9a5fa"
+                }
+            ],
+            "copyrightText": " \u00a9\tW 3\u0083R\u0783G\u00da\u00f0\u00dbD\u00dam\u00a9,\u00ed\u00fb\u00b5?x\u00faVW\u0088-\u00a1M?2\u00c6?\u00f3G\u00f2\u00af:'Y\uda7a\udf82?\u00991\u008fQ\u008a\u00e5U\u0099\u008f5\u058c\u009e\u00e7\u00a7x?\u00ff\u00c5OnA\u00c7\n\u00fc\u00ab\u00e8\u008dho\u00d1/?O?\u05b9\u009f\u00c4Z>?\u0530o \u008aG5\u00d8b\u00cb6\u00b9\u00fbL|\u00e3\u00e6?\u05eb\\\u02d1\u0080r1L\u0093\u009cp:b\u00a3\u00f9?\u0082 \u00acD\u008a2\u00d9?OP\u00ff\u008fo\u0198\u008e8\u008c\u008af9\u00a8(\u00918a\u00f5\u00ae\u00e1\u00f9\u00b79\u00fe\u00ed4#\u008a \u6779q\u0490\u00c6\u00ee?\u00bb?\u00b4r[\u00ab?A>\u0094\u00d1,S?\u00b1?\u00ddI\u00b8zT\u0091\u00dfI \u0095=\u00ea\u0098\"q8\u0090\u00e7=jh\u00ceG?\u00a8?\n\u00a9\trd)S\u00ab7C\u00ce7\u00f3\u00c853\u00e15\u04f75\u00f3\u00ca93\u00e26s\u00f07S\u00fd9d?9\u00b3\u00fb8\u0093\u00db9d?9#\u00e78d?9\u00d3\u00ec:?\u00f5:#\u00b48?\u00d59\u00b3\u00e75\u00e4?:#\u00fc9\u0083\u00e69\u0083\u00d33\u0093\u00dd7\u00e3\u00e16s\u00d47S\u00e76?\u00b56S\u00d24\u00a3 \u00a0\u00d7?0\\ I?\u00f0I?R?Pt?\u00e0\u00b3\nBu?2c!b\u00f7*c\u009a6s\u00c44#\u009b5c\u00b47\u00b3\u00c96C\u00cd5S\u00bf6?\u00b16\u00e3\u00a99\u0083\u00a87\u0093\u00a35\u00b3\u00c97\u00b3\u00c3:#\u00c493\u00f67\u00e3\u00df8\u00b49?\u00c48?\u00d68S\u00d46\u00f2\u00f9?\u00f0\u0081 }?\u00d0n?\u00b0Z?\u00b0a?\u00f0s?\u00c0U?\u00a0c?z?`o?_?Pg?\u00f0q?\u00f0}?\u00c0W?P_?@z?\u00f0K \u008f?\u00f0\u0090?\u00b1 \u008c?a\u00a9?\u00d1\u00da?\u00a2 rB?\u00e22?\" 2?\u00d2 \u0091\u00e3?A\u00b5?\u0081\u00b9?\u00d1_ 2 @\n\u00a9 a2?`V?\u0090o?P\u00f1?\u00a1\u00bb?\u00f21?\u00c2Z?Q\u00b9?\u00e1\u00a3\n\u00a9\t1c?A-\tan?Q\u0090 \u00b1 p\u00c5?`\u00fd?0\u0092?\u041a?\u00b1:?\u0090\u00b5?\u043d?\u00c4B@\u0085\u008a!B\u0085\t\u00a1\u00b1?\u0083\u009d6%\u00cf?q#?\u0090\u00b5 \u00b2?B\u009e {?0{?\u00d0\u00fc?\u00d0\u00de?\u00e1 \u00f2\u0097?\u00c1\u0099?`\u00af \u00c6\t\u0091B?\u00a1\u00df?\u0091\u00f4?! \u00e3 \u00a0?\u00c0\u00d7?\u00a0o?\u00d0v\tQj\t\u00b1w?\u0091I aa?\u0091k?\u00f1#\n\u00a9\taH?aQ \u00fc\nQD qr B\u00d9 \u00b3M \u00e3\u00ad(\u0093\u00f7)S\u00e8?\u00824?0\u00b7?\u00e0\u009f \u009a?\u0090\u0084?\u00b0\u00bb?0\u00dd?A\" \u008b z?Pw \u00e4?pi \u0088 \u00e8?@\u00a6\t\u00c1??qU?A4!\u0083?\u00e2 \u0091\u00f3?\u00b2 \u00a2)?bp '?S!?\"J?R\u00a4?r \u00d2?\u0082\u008f&#\u00ac?\u00a2T?\u00b2\u00b4#\u00f44/$?!\u050e0e\u00e01\u0571-\u0560.\u00f5\u0080*?\u00ab?2Y?b\u008a!C\u00f4?\u04ac\nQ\n\u00a9\tqn17 A qD?\u00a1.?\u00a1\u009b\u00b1\u00e0?r(?\u00b2[?\u0091?\u0090\u00dd?\u00ed?a \u00fd?\u0091.?1.?Q 8?\u0081 \u00c1 p\u00d5?p\u00a1?\u00e0\u00c1?`g?Y?0g \u00ad \u00f0\u00e3?\u0090\u00d7 l?! \u0090\u00eb?A>?\u00c1R P\u00f0?\u00d0\u00e6?\u0080\u00d1?0~?Q[?q\u00a1?\u0081>?\u0081 Qa?\u00812?\u00c1D?\u00f0\u00cb?\u0090\u00f7?\u00f0\u00d8?\u00c1L?\u00c1 \u00d2\u00c9%\u00a4m?RR?\u0082 Q\u00fe?\u00e2\u00a2?\u0094H?\u00a2x?r??rm?\u00f2@?\u00c2R?\u00f4 +\u0085Q?\u049e?B q\u00b7 \u00c7?a\u00e41E?\u00e1V?\u0091>?\u00b0q?\u00c0_?pc?\u00f0K?\u0080j \u0085?@f?\u00f0\u00b8 ;?\u00d1 \u0091\u009f ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/materials/BatteryPark.NEF",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446179",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "76c651882e8b015c5d9ded6ba883def562cb5c22"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d83560c9cbed343b0aabdf3cf273084b04361ec9b5e261b8b2821edd7afe7bfc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "338f897a9d726146f925abe9c5442dee"
+                }
+            ],
+            "copyrightText": " \u00a9 RI?Bn&\u00a3G'?\u00cc\"2\u00bd%\u00b3?*\u00a3Q-CH+be \u0082~#?A\"2\u009a?\u00b2?\u00c2\u00f0 2\u00a2 \u00e2h!\u00c3 \u0082c?\"l\"b\u00a5?R\u00fd#\u00c2\u00ce\"\u00c3^+#\u00ae-c?%?\u0089.\u00f3\u00b2+\u0093\u00e72?\u00f2/ ,CT#\u00a3 \u00c2Q#?x(R\u00f0\"\u00e2j#\u00e3D%\u00f2\u00e6!cn.\u0084s7\u00a3\u00a5)\u00f3Q*S+*S\u008304?2D)3#\u00d50\u0094l4D?3\u0094?.?p24\u00ca?\u00c4G5T9??%>$I2\u00b4+9 3 5\u00a4>4C|0#\u00e67\u00d3\u00ed,\u00e2\u00f2\"r \u00e2%?Bd!\u00f3M6S\u00f54\u00e5L;\u00c3?.c\u00f53\u00c3d(c\u00904\u0093\u00a1#B\u00bb+4?=\u00c5>B\u00e4\u00e0=T9De\u0090B\u00e5=C\u00d5-E\u00a5IJ\u0095\u00e8P\u00b5\u0080L\u00a5\u00aaC\u00850I\u00f5\u008eB5YH?/W\u0096NQ6:[\u00e6\u00b3W\u00b6\tBT?5\u0094?2\u00e4#4\u00a484?\n\u00a9 R\u0087 A \u00a2M j?\u00f2\u00be\"b\u00c0\"\u00e2\u00d6\"2\u00cd!?\u00a3\"?\u00ab?\u00a2r?b_?bT?\u00d27?\u00f2U?\u00e2>?rn?\"\u00c9?rb?\u00c2f?\u0092 \u0081\u00d7?\u00c2 \u00be%?v?!\u00f5?bK?\u00e2 A\u00dc?\u00d2 \u00a2\u00db!\u00a2\u00f7*36)B\u00d4%\u00c2\u00c4$\u00f2\u00c0?R\u00d7#B\u00dd!\u00e2\u00bb#?Y\"Rb#\u00a2\u00bd\"\u0082\u00e4#\u00e2\u00b3#\u0082\u00a7?\u00f22?Re 3?*\u00a3E9\u00a3\u008e'?n?BU!\u0083!+?\u00d2!RX&S0+\u00b3\u00be*\u00e2\u00d6*Sb(\u00f2\u00e6\"\u0092\u00b5$\u00a2~#\u0092\u00d4'\u00e1\u00fa?\u00d2e#B\u00ba\"\u0082\u00db!\u00a2^?1\u00c3?\"r#\u00b3x'B \u0082 \" R;?\u0082C!b\u0083?\u00f1\u00a7?\u00e1\u00e7?\"\\?R)?\u00d2*?r.!\u00a2\u0092?Br?q\u00ff?\u00d2 \u00d2 !\u00fa?R \u00f1\u00ee?\u00e2\u008c!b\u00b4?r \u00b2\u009b&\u00e3b)\u00e2\u00f4 |'\"\n\u00a9 Q[?1P?\u00f1s?\u00d1v?\u0091I?a^?\u0091h?\u00b16?\u0091G?\u00b1k?1I?\u00d1=?QF N?\u0091Z?\u0091G?!W?\u00f1e?\u00f1b?QP \\?\u00d1E G h?\u00f1E?\u00e1I?\u00b1R?\u00e1P?\u0081@?\u00e1\\?\u00c1W?!D?\u0091x?\u0091F b?qL?!#?!K?\u00f1I?QZ?\u00c1T?\u0091Y?\u00b1[?\u00c1L U?\u00a1P?AW?a}#bl'\u00a2&?*'A??\u0091F?\u00d1Y @?A9?\u00c1I?!+?a2?\u0081(?!N F?\u00b1;?\u0091E?\u0091N?\u00c1B?\u00d1;?18 E?\u00e1 \u0091(?q^?\u00a1/ &?\u00e1B?!9?\u0091??Q0?Q^?1??\u00c1??\u00d18?Q9?qB?\u00c1-?\u00b1;?\u00f14?aZ?\u00d10 G?q;?q)?qT?Q8?\u00c1T?A4 9?\u00e1&?qM?Q\n\u00a9 bp 2Y\"\u0092\u00a9 R\u00c8$\"\u00aa\"\u00b3?(\u00b3V(\u00a3\u00b5)\u0093?+D8=\u00d4]3C\u00b1/$?3?l? /$?.\u00f4B4\u00a4\u00849 ;\u00b5\u0091BD\u00b9:?\u00b7@T\u00dcA5?<\u00d4\u00fe;D\u00c2:\u00b5?>\u0084\u00ee@u?@t\u00dc;\u00e4{>E\"?D\u00ba4\u00a4y7\u00b479u\n9\u0084?2\u0084a53\u00c83dn5t\u00842\u00b4<4\u00c4:5?B:$\u00df5\u00c4i4\u0084\u00ae:\u00b4s5?\u00884\u0084\u00883\u00c4\u00d47\u00f4\u00d38d\u00a04$\u00979\u00a4\u00a99T\u00b58$\u00969D\u00c1A\u00f5\u0085D5wB\u0095\u0082D\u00e6?P\u00b6QS?\u0092O\u00d6JO\u00b6ZQ?EP\u00a6yY\u0096\u00caU\u00d6\u00c3\\\u0086\u00c7T\u00b6PR\u00a6\u00a2]?:`\u00f7%\\W?[\u0086\u00da[\u00a7?Y\u0087.^\u0086\u00e9Xv\u0095Y?\u00ddW\u0096\u00ecZv\u00a3[\u0086\u00f5^\u00a7?b\u00a75`'?Y\u00d6\u00c6UvtW\u00a6$L\u0085\u00acMFFY\u00d6\u00f6\\V\u00afWF\u00c1P%\u0084F\u00b5N@T\u00ed>\u00c5\n\u00a9\ty8yo\u00f8nn76T\u0085aO\u00a6\u00daa\u00e7\u00d6n\u0210tHCr\u063fw(zs\u00a8bs\u0098\u00a2y\u00f8\u00c7x?\u008fr\u00e8Mm\u00e7\u00a4f?\u0095k?+o\u00b8?n\u00c7Zb\u0087?Y?\u0099R\u00e5\u00fdS??W\u0096^N5eA?F3\u00e4?1\u00b3\u008c.\u04cf,\u00e3\u0087-s\u0097.\u00a3\u009b/\u0093\u00a40\u00f4?5\u00b4B6TE5\u00a3\u00bd-\u00c3\u00e7/#\u00de0\u00e3\u00d00\u0094?/c\u00b8/?\u00f41\u00b4\n2\u0084\n1\u00d4.2s\u00ca/\u00f3\u00fa2\u00d3\u00e72\u00e4?1\u00f4?3\u0094'4\u00a474\u00e4?2d,1\u00b4?4\u00e4?2d#1?04\u00c4?4\u00b4?44?4\u00e4?/\u00e4?2\u00d4?1\u00b4)3 2\u00d4?4\u00d3\u00c15\u00a4?5\u00e4?4\u0084[4\u00d4N7t89\u008408dS9\u0500=\u00e4\u00b5@\u0084\u00b7>?\u00a3?\u00e4\u00c8@\u0084\u00d5=T\u00c6>?\u009e>\u0139=?\u00a7@\u00a4\u00c1<\u0094\u009e9$^6TD:T`7 5$?6T&2\u0083\u00c11\u00e3\u00bb3?\u00bf1\u00d3\u00c4/ ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/materials/blackmagic_cinema_camera_cinemadng.dng",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446185",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8b4620f7bfd8558636cdcdb61cd45659d66c56b9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "92b06b7e3e5e34c5de07d5001c84ee572feeb1fbe04a0910db12794b92c6bebe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a997b4fdc9b653d4e49d28faa267637f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446190",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4a54202d488c51679157a22703235a969707eeb5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "29ad78d9dd84003f1ee25c29d690d95857e87f1a962de55f16ec47c13806873e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4155f290e0589d5965b19e2c72b3c9ac"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/static_analysis/codechecker_skipfile.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446191",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a45d0472db5953d2d61173a32db70dd462383620"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3b7eb79767b9348c338ee973ebaf613d35996b5fa8ce8e289c90ee1d87942d78"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e253a496f40b6051f0544f43652136a7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/tests/static_analysis/codechecker.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446195",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c89c3af4ec8fc7671195450ecea02e38642f9125"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e9b35a30e90f68098e2a1c2b4f8009367beed8fbe06f510101973fb1dfd0d980"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "66c926dc88cd3bd39a045cb8595b0416"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/cmake/modules/Findlibraw.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446196",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63349c999abecd809521a03b4d7d0c0bf79dc98c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6b2ac1886d1b9941a2d937fbb036db3acac641d9a922053001cd6f11671f7efa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e9e7446f8eae6832b8cc577dae6580e8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/cmake/modules/FindCeres.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446197",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bd423862912326fc0e13f16e56d1344e46793fd7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c055b321246df1435a71a38b4ca432556fca3e2a77e3b39b913a94bae3282101"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "99b80fd00ca70b45673b1f90c19abf18"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/cmake_uninstall.cmake.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446199",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3014931147035d0a8818a7cabe2801452932cb77"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "719f1f086ff1322c211b2c8094ff39260b0d4b84a7554fe90b797b6c6edf2910"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e9e304315d4aee1e56920ec1358aaad3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/docs/CODE_OF_CONDUCT.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446201",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3b2d157d6997e05a48e8cea1e3a6793048483e93"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a6005684048c0338ba535f5bf27aa58564363c8c6a64cbe0d6f6ce22a948d343"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c517859a7499901d562f23fd8397b62d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/docs/CREDITS.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446203",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5d482cc7d1de205e3d73903eefa0a1bce41ddac8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e7f4d4282e1770f7fa1997cfa42e11e8f77227acdf6636acabd4e26ad9c154b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "07cda5c26e422318807846ff1e01d39b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/docs/SECURITY.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446204",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c80ab6b1981a6182be8b0960db5e6c48f8e1b751"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "74d9fc2c6e56a3e729fcdcd5b0e5c5b1102dac028888d85c9352dd706bfcd125"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eaf1f7b9aaf56245f095e9d0de7d4270"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/RAWtoACES_CentOS7.docx",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446208",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "75aa63c8ec7c9d8173f6763ff0ed701c418eba2e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f956116fecea87574d188b71118b9b6c024f094083a5cd967376eb67f5e0eb05"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "92e68a8f339f1ff8055890e388db8896"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446214",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1b822fe8e3c7ef988fadbd5629d8547fd9f43eb5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "90559882f9c27da05084269e3ad9acb0c3e67b05712bda9d9afce5a614fd4469"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d1744f2efde8b05053d9f437b0412a44"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/bindings/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446220",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac442566c2cdb1c18d61c5bfa610cce69b231527"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "da6ebfef147e4909479f2f0e63d3b5b267edf354128b84346219bf893ea00d7a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0b2e81560d49c4d298dc761e8f4c20bf"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_core/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446226",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1b81b22700b70f183da25aa4d1fc4e9b7aaff674"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "204fbbaa7f7010868108a589d60bfda39e8ebc37de1d044258702e90b86255ef"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "68bdb115a3e2151f504aa9f80860c816"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/src/rawtoaces_util/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446231",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "90f654bb3a09482a003c5560de41467f935c9a18"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d570899076aaa79bed6950eff3211931d79590a760887735b67a0dc8f0d8ae02"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b9fa9eb48627695f765f9d1814a0b90f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.github/workflows/clang-format-check.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446232",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0bc1cb1d77761502ab876d2e95ad59aa0571741c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "947626cf7d431213fc0c73a863904f8718c74977a81f31fad4e74baf84fbd5b1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b88fa9f10c766bbaf01c669c6dfcda34"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.github/workflows/build-steps.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446234",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "13c310be70ebb8770d6afba0c9d136901e913cb9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eddd7aa0e238580bf24ce1572265e3877e404c743a1c556608df56b18211f2d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "661e25e962bc179c2ab5ef7358966be2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.github/workflows/coverage.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446235",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "40e6a3e756be16e1893ad82ab1b85e9d6680b3c7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1234fdded6a8982125c5ab25e1097f913b6e69548aa25f470ce8a08f979d44cc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5612b8a562a14f51b3ffb9426891dad4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.github/workflows/ci.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446236",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bfc7ee4f6a9e7d675b47d828a4c56b180162e3ae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9d908fa64ecbd02800dcf320cf76357f75f76c0d815c67343f51462da210d5b4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "073d7c65b310c683fd207cfa33113fe9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.github/PULL_REQUEST_TEMPLATE.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446238",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5ddfaa9fb839a420eb0eab16bfba9f156ade891b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a3b16b6b9f981436b8ad117628390e98ca7d8c7025d3e0d336ca8cb8511025ee"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fce7d603f24b836363eeddfef5c8292f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/build_scripts/install_deps_mac.bash",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446239",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "77939d60aa0ed2ff75013935a5fd69438a90f4a2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1ec76a83ea789f0da985a2eda946c68855f739d07f5138c4d4c8d404badad192"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f5647f498192124c50f1ec2f4747bf09"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/build_scripts/install_aces_container.bash",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446240",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d96f64a7f09201a71ed1d79102ab2a91cf61e5ac"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f342759f4756dd4ea59329ef7dc271ed1e2f9eb45b581c849f55d5b8830ae8fe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "effc743f5de9a8b77f6a4ebc6af9b2de"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/build_scripts/install_deps_linux.bash",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446241",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "96d7ce5fcb19dd5ca40729f6b8bdee5a87b0dedc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e257a6e790a5efcdb1116f75ffdd37d9523b5a84a81977c3e2785e7ccf8c031b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "91cd79a7413f14e03ca27dba4037f49e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/build_scripts/vcpkg.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446242",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0eea28bf790c64d9df88853a2da77ff1b4f184ec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "59f83bc7b8b07170694fb6757bc53793cd81abd36a237d15cb4765b277b10d8f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "74d117828d28b2002da73f06fa01dd3e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/build_scripts/install_deps_windows.bash",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446243",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "98d7eeddeb88aeefcf00f19696ba48e295b44e07"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2db45640c00774a5fd1a998ccb6c5a8ea03668f23c278ee40aa112955cc4dde7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f57b1cf8c53ed588403c3742969d5d8a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/build_scripts/install_deps_yum.bash",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446244",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7a9ebf2bcca1e64b2ce08d63e6a813daf7bc630c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b264700a80bade29cc0432f096f638479d7c41a40f9f5d6d2c0e2d12b645a780"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b98e88aa480736e81717428d86ab4fcc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446247",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "39e90020d6345746e3e9ae43a704b2c538e3bb1b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5cd04b8226aa2e4433107a2e73dab12848fe09e4d52877806c36aa8bcff042fb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "883791ade0d3d1194f072c8dfe8a8d82"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/ASWF/logos/rawtoaces-horizontal-color.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446254",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7eb9e7effefd831a851065ae46de9a667dfd56fe"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ccc38bb48ca76e9eec4c3f9f572294a7e2549e17019b3503e59ae7e1ace7a3a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "53ae9cc33ec43eea0af454fc2123c08b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/Dockerfile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446256",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c92f3eb0ad1c70371e177a4d7d741f90af3f902c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "166acef3d301bd241d0d6da15bc5ad3c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.idea/vcs.xml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446258",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c5f0583196f834f433124e1e370dbed3c20b41b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3e6e800773b39b852a3ccfaf00cfe423a6fab2b454110fe0965e65a14d217b51"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4f587234b0249796ea2b568a0f074d09"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.idea/codeStyles/Project.xml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446259",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9200e66ce487403634a2d4164fd96b0e22ae9dcb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "002937a82d402769fe7a6f4c7541dca0e14e5da8ccbe89dbec78b96d8a707e67"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "afb15913f6649e5ce79bb5777adccfbf"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.idea/misc.xml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446260",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fc33ec8b245dae20c475227a6ca29a04e4ec814a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dc12cf3d0dedb9855fd55bcd6ba56f6cd3f4918f1ca14dc5a3eaed391141babd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eb29fb66c2cf14218368cbdc05ac20b0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.idea/modules.xml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446261",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "927f32eb94c5a4196f7de0dd8f84babfe062e720"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b8d7d2d100026ea24ead768cc03feb6bc711b1a543535351b4ab2f9e7db4b881"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "719f3a7859abc8d39c950950625ae43c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.idea/rawtoaces.iml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446262",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6dd2d4e719895e9e3a913283130f3a77e27acbef"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c2fb634a4633f4c0d609d54acb239404934b7ae76a261926495ec1baff02a586"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fc31c9df8c1e1ef3f3fe6d62bba6b8d2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.idea/.name",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446263",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "89f9aae9c9ff27a734d007b2079fb464c318353c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f7538ed0747c2360b6fb75e090b22cdc41f90410d07575c16876e1ed826b6777"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8271528529a0fb5cdbeab20475070259"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/CMakeLists.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446264",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "192ffb9e730b9f2cf5ec00bf641b40b5f09b58e8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7a596f9458a0084b0c9a22a61a2873ebd85276744001986b04f6b6219a11f49c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "02f74d6dd92f6ba69166bf1dba8ef38b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.codecov.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446265",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9dcd3fe6377b80c04fd5eecb55d5f80354db0976"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b9ad69d277a7cd5c9df192d8070c3bd231e595e2e1f12a88f3d18662cf56ba9f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f702855bd3617c5ca06768ee78cb8a8b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/.clang-format",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446266",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "75125e18c7ff1224c144bebcbbd3da67cb2143ff"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4f8593e9161aa600cf08e0a2990a832bdb29a0b812b06a8d1ae90629ece7c28c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "adef64244723669cb19facb49bf5e88d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446267",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9c3c5c897f971eaf12e91c6cc9380d65ece545d9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "de1c99e4233b2973a70e52d5d5c796c9b290043ead86b8258851500399951894"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1881215d9ec9bbfd4aac142d14fd262d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/configure.cmake",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446269",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d67a245c9c6cb1b371ff060e1eee6685f2eb5f65"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7d2daa5b25612ac999fc65252d19d5b76fb8a1448971eecf463adbef8a7ae05e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7aaac957a8d736e88541a5897ea2c9b3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/config/RAWTOACESBuildTreeSettings.cmake.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446270",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e7d0df24a9b61ad4ea5152da991c8fae33d5489"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c1af09a1b1ecdd2f65c203f300edb71b8a428f0ff957ca3c1b242bee8c4bdbdc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2992ec0f960c2d1774f458205f4e7fbb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/config/RAWTOACESConfigVersion.cmake.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446271",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "105c82687ce7174373b00d9c10ef5c63f4e54709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e52c7efd59382875382930bbee6abd28c986ad94223c19dba42d405125c5a9d2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "83eff7b065d5de79b28c608d0d9012d4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/config/RAWTOACESConfig.cmake.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446272",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "43eea37dc3ee9e723d989fcc5a34b923ba282099"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4e2802807f395d02eda6bc82ce8925001da40343aaf8f18196cb2607fbea852"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e77e87b07f0b12f59b52e59ba19e5cde"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/config/RAWTOACES.pc.in",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446273",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f9424b49be91bd98e2cf73eb68471650c7c0ea9c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f212ee9a9efed43dc4a3cadc6217d8076582352bd77d5ee35eb7aaad79be8549"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e2bfd833ee0f0f0535fbe2531a5026bc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces/RAWtoACES_CentOS7_noyum.docx",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446290",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f7645454986a36b1eb3ab4c66b030bb9e5519fec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "46637f7c575c6bcc93748d9e919d1e6583d4141d12fb85153ef269c1ac9234b2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6413fabedccf56b6191b77468248ac33"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/ARRI_D21_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446308",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "273c3e412800a5b74aeb95dca2ae0d2780192186"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c0cf0e28cc8a5360bcbeb31890157489f0e9dcc22eab4e76de1e175521ca4d1a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d83593b1fab6b830d1d0b7f10a4f0ced"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Arashi_Vision_Insta360_X5_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446305",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3d812cd76ceed8a1c501782b73fe603e8ddc161f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ea37526e815170e836bc920f7967266cef384ef831dd11fc0c992aff59561783"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6af78be1863764453cd731882f0f9c86"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_Digital_Rebel_XTi_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446327",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8616b0f0ba3f023990eb36a15d0c52f59dc10a28"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6e81f8019a3dd0a64b948332ad74be7b8df1f5eb61dfd13a34757aeb1252695d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "292adc3023d4fb881bb5845ca9c1143a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS-1D_X_Mark_II_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446326",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "329472f9a5195ec2828a6186fafb49f4c6bbe617"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "604a6f12acfbbd12579bb2a14a4f4e643c890ad3215d7bf74f66210feefbe903"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "00d6edc37db662b15563e3b27c4f6781"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS-1Ds_Mark_III_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446325",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "982fb78e3132dbd41fa0c6a764043353e3efdfc2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "83b07026e33862da32fb7756ea8af041c36cccfa88af68741daf718ba0001f8c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2b3f05e9d3c2626536866027ee862464"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS-1Ds_Mark_II_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446289",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9608666054f8cea2a89df60b40d1b3799ae479ae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f852d12afe9affafd5ad3532234b4f3a25a1a4e9e48763a38b9537f3b145c40d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b18128850223a8a63d0c81e29963babf"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_100D_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446319",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63cd6d5dba23dce9fa88492604f47deaff4bfa37"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "43075fed88b310fdacfe0a9019db9861dd49865e11bea9323adb3bc11cdf5f5b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a0afb48a51979674462f5e4bfc7f7fb3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_200D_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446321",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2d9a4f3b6bb5c147e836f03ab4724f8c6cdccfff"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4622dd889f5ad5b8de1c0ecf8e68cc2b2d1fbdb807fd18acf8fa72ce5ca5546f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5c4def05fc7380a95d7f0ece958c2dfb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_200D_II_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446309",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "019c52e550da47a3ef8bfd4671f3c1a3dc051c97"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a67a3f7115058da4054d1a58eed41c70b165c7947f63798c9fbc438f6dfb5a6f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3916d7f569e1a887581378cb00cf85ff"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_5DS_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446318",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1fb8963fee5aa499eb832a383cd7bb9bcf63e356"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a7ae44d10eef5a1b87b33ab1baeaa256f2e88827fb271452a629857694a9112c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "22bd77659dad51f3d3f037ddcbd9ac74"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_5D_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446320",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "20d2a9706e198922e97c35998f10bef58e69c9b6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ebe460998c13850d24091311a36fcecde35b06ffac3bc192ba22c8ff390b00bf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9900f7f8f20961b1bdfddcdf684fd8f5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_5D_Mark_III_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446297",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4a5f7e1092416deb2f8b257fbda61cd733697294"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b9de7ede70e331c9d73c4e51bf5c9a2bbfaf3f1c14bc5123a883760d999914ed"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1b00c33f139b11b3d029a695c025ce48"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_5D_Mark_II_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446333",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c706154d57c3d4943aa2c57f8959f04a46399b68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "31c1fee2df4159ea4bbc03db53cb0fca9297c031201d46c73ec824dd15f43407"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "034e2b9b649f5629f7ffc0a00f35ee1f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_5D_Mark_IV_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446331",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "87db970a0690cad14387f1a3d33506e8216d297b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a632911ba7f93fcb048fd3d016d4622051c23303c663ba4c6fd254aca67974d9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ef7b74d319cc2b25873d7d7e1a7f3757"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_600D_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446295",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "acc0314e8fbf9d5334c34b115e86d597b6653656"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3a3bf154f529501f2797a2422c4b973e45f4668ed0382988771f6eee07ea8b5b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1dedc4df9571ca76102a92e51359a4c3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_M_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446313",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "89d02523c5963f05408e9a3534b971d51c5cb6ee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ac24d23e4adc8e3b923901deaf6faac890e47e69603ba116f4e5f1ad7486ab53"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7e76cf5c2ce113061426cc5f3841ecd1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_R10_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446288",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "74b6873745a921c225cdd53b60089aaf3921e690"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "94b2cee8c7e6bbbec79fc9915c2c48a10e036f5daedf6bc36b26752a63118ebb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b50d599d7d05f21e21124b13d78bda9e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_R5_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446304",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "951b85d1bc12b36cae64a41e7973942c0a1fabae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cb482f90c5bda69127a5bea6ce576711983056468d99b2110cd422c09fb7f5a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9225b929fee3f472b907560b691dec9d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_R5m2_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446329",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8c3c3c72837d88e04dca6e8bd9791972e2d85f04"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3770a4859d072eba05e5435107932829b707f9468da55506f1da3706cbb4310b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a66a2ba56b1b8e47d97997c0d51f5ad9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_R6_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446301",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3b44a9652133b33adb27d504733289c3927817c5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "368386819e43b2f680c839bf3e11d3d89b36aa8470bfd6aaa3f6100a9349abaa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fb973f02386603f7277e0a2cccbe6e3f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_EOS_R_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446293",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b4ebd6dcafa643463bde533efdb9aa8d744b0dd7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "30da0d87505d58f63df9f165fca4b4d76aefc9c77b3a07fc97a872a3d273c5fa"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "83a30d0fc25ea84ab59d44ca383f506d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Canon_PowerShot_S90_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446328",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "95a538e65374b88be8244b83acf6f18f78b622e9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7c4459faed17531a576c9036cd897d29ed2f82c41c440e3f6ac5959984683c82"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3acd41af9b77bbf19930f6cf8fe443a8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Fujifilm_X-T3_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446298",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b669ef711a4ae7e541bfd439bb0752faf07b5257"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7e9ebf9e5f65318b9131355e214f5dfe21d2fb215a02f7e8a82ab4830ea0c5b7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fe42787ae2c0a013d213e6a6624f491c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Fujifilm_X-T4_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446312",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8731d9d5856cc057a446a32eb8910b4e750f6e6f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7606e180328ffa77acf58e8a7a08eef5e3b8b4647a71aa5822377a2e7f68e7f4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "127bc484e815932f8002c368152f3447"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Hasselblad_L1D-20c_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446277",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446300",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a4992b6dda31b9a26abf69e87bfb6a86cb58294c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "872cacb38513d81a332eb49731b4a98ba521c539e04685453318cd10d36db94b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "325d8ee0741aac66f5ae07b13bc752d8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D200_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446287",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "03b0953f8f8d21a78e7d01f54b26a3410be22b87"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "68b7dcfe72960f88a27e975f6b60aec2857b912062fd5edbaa8de32eaa96e9a6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "27e758b2f736afdffbaf405caabe9a8e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D3300_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446310",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5f94386f05e4b7d312d232e239adcbb973fcc776"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0800c28a35256c1efd7039acff31064f7a778ee040f99fedcd0f13f393bb3ee4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a244125599328d563405b2915375fc84"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D5100_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446315",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a56014cd86db5eaaf9b7987a51f1d593420c3d90"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b577e84515e7fa26617fa0d159f788a1d9548b77650da3192ea586db2b893ddb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "43a20d02c1568977001b29de45fcbdd6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D5300_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446323",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6dd029119cc196e34408b25cf7b51f95cc7782e4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4002530a868b45d11ddc2e11b8db144ae2011efdda04d25ff10a2f006494ed95"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ecccf88e9c60cffabcb57e8462fa630"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D7000_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446317",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "505453a2b45b1f4aa7e824cf3ef48a9569691110"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "28d4e1d91335bf2aa4d0486afe3abd676e856ba904c9c31715c9b2d172b4a211"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7839921a69e723864d3a23d41bf37543"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D700_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446316",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "64ed9d26f678503bdebba83812701dbd7fd818e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8fb861c9aeae2a338931edc2358ecaf99e154e0afe5f75167aebe6378110ba1b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "48cb22da40002ec3444b1d7230eb7dbd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D70_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446303",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "820d7d53473b76488bd05d86cacbd302c264e43f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c5674b6aef6c068934b7f89ec3d4cda18794249cf04820f996996e9880783908"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ea95620094460de66e0e0eb23aecab56"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D800E_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446286",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9ad2a4a9d1acb1287cfd75ad2e562409addd625c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1193e230dc80dedca507ed8be67e65a9d0d78b2c3c79dcb7616f06120c79dc78"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bf474e47235f6096a813e92f3c838195"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D810_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446330",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9d349a1e312800af7a0d5a48d80e1047c233cb5a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "76ae689cfcaa9eb88c6dd2edc42c6eac3a845bfa01b5141df59003b40f26b425"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eb7a86306c0de73c499391a219aa5675"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_D850_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446332",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e196b3d191275cb8b97316cab9899f5e99af0c0c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ba357c75362fdcdba789a445b77ef6ffdd2ee6a713200ca00dcc94e9ca38f4ec"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d851645a40ad486f151499c99e286478"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Nikon_Z_f_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446307",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "146b77bf581c9a1c1da10770f1d367d04f479604"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f70919436051b2e98f11a1d213a4acbd47cddc0b6fea19e16f28cef5f257a422"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f21e99805180d56ba58b008eb25ed5a6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Panasonic_DC-GX9_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446341",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "66e5b25a15d180dc8e84a9eabbe43cd821119340"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f78b8a9bd8373a4fa417eb4d7969ddf8f54125e635bae2b6fe947db8b64e82d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54e46b2118fb162aac9946cdb21dc020"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/README.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446291",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "480531b07d603de3ffa4b7074c40ebfbb026236d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d1fdf68ce4cdb7e7fb491cc11a78b0d0afb6d15f95243b56bdd82bd1ec02da4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "25272c32e7e613a9aeacf9be5a1eed84"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_DSC-RX100M4_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446322",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2cd09a1e4ae9ae32957e704f82fe5bbcb6b89ba6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "30087e34339e731cee00796545cd405edc026b4821572c7edc9c645bc78130dd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cd633d7ca0237e3d2731b421af5eb1fe"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-6400_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446292",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "90fc974f161427cad5c91bbf1f61c94ca8252c6a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "58cb556ab381ef8848444af8783c9a9a284270731879f3b5d70fd2dbddc0c0d4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "470982aebe265d12a383c605fd80f288"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7CM2_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446299",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "28f21d23b2d760f1dcdc2daaf1b6fdc111d08350"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d779fec6eb7c663d6b97125ee16c71da898cfd6e34653ec40fe0e4e15ab2f03e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5142e7c09b66cf7c5029cdb45e6e9e6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7M3_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446324",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b87e37fbdcdd00950aac350f86b0104489353897"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "14e0db7c70c23baf9c7342d15f8626b48520d5827ffa310843876d409fdf2a55"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "661632c7646fd74abcffc6e109b9f914"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7M4_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446314",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3228fe1031414bb0a6bff9a66b97d07e15848914"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bb73cfdd2600368fa569c726d1d724e6d1ffc939b03ce145c7dfcc540da3ff44"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "347c400d467b0ea92cb2d99ce702d73d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7RM2_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446302",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6be0ac6b0367a3851211005bba75488b28bc22a5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ab49ac6d5ac17509a6c04346895e7adceff83dc1fa78dea6861f946e6e55f33b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2535a98cd1f7987bb93df97b068431c6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7RM3_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446294",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2b059ef85d0fa90982a9da5b11f6ad4495241428"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a42997f5280032e30d9336672ae340ff2dbdbc2ecae5be0384ffe5339ab530e0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c38101b97706f150f03f0beefad6d8db"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7RM4_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446296",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eccf79ea8fc632c4f708650c4994a02a9da39f75"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3894735708a39b265eb7d43000baf0e9bc5b53de4a029ff0cf18d8a694d168ab"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "62c3d6d3a106c0124bf019615d209a51"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7SM2_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446311",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aa35cc566a1707003f2312f04eb0fc22e8949ea5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b50c13de6ea728213aed3a0fc9ff6a7321b42a87c1f45c8a7bcd9cb6ef9ddbab"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bdf3728aec79869b9697de13967ae772"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-7SM3_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446306",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "98bb4d234c55dbe98881918fae9a59d163bdee24"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "54a8ac55ecb157ce61aa7ea3f185fe5de1d4933bca7398db0754ba95706cf6e5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "106536b50f80cf00a7f6c96cf9937140"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/camera/Sony_ILCE-9_380_780_5.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446282",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2484bea8f791673715ac541e10ba6d25aa571c7d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1b63cc85f7cf521bf80450fc60172a424a551cc690fdb05313b2cfa7aaa66da1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7d7dd25cccb6da2a6eccff42af41fc7d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/training/training_spectral.json",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446276",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3622828800b2769093aa73d9abdd5eb0e1a71056"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d014b2380f92c6e975ec93f58b2b8bbbada891d3d31ce1e6e6a2e3e55653c4a8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "675fdb2343d1e11e2c1470b766eed5ef"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/docs/CHANGES_schema.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446280",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "adf086ce9150ea28064ab216a85d8b5c8d1f702b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "085e67622bae24e8000df4ca8198ae2832cdea3f7fe5b692dd2ec39619147ea0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "28f6093320c0be2e6e86bb4fa12ff88d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/illuminant/iso7589_stutung_380_780_5.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446284",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b62bf7279dc5dafd115bb8e229bea483cfecc38f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8751684cf1739c7c166dcef54b357fdbb68150bd554f311001b22e252fc1c698"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "de4b3e1a6e1bbeb5597ad2f8903a05a9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/data/cmf/cmf_1931.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446336",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63ab99ab20cd0e571d21d9e1d88fca0bb2678101"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e57626213fa5d658eb12829e79057cb5ea6e43f9390a43c9c4761500380e195d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "64e679e18973223758c174cf5ebd627f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/.github/workflows/ci.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446337",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7d65523f2a5afb69d76824dd1dfa62a34faa3197"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "952fd44d14cee87882239b707231609d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446339",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5c72dddb5f7e6daf3ef9eedf02109095aabe1bae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "49e8ed8af9b81bf4d9242376228c084bd62bfe1a3633343257a18b51633dec2c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2592e7966815439304bdb4d5e78bca03"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/scripts/check_schema.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446340",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "60da809b6d47381ff66b6498e6db7da9f35f813e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c78b81a482ca7b1aa92d8e050cee826f28f727dd43f5a47a1041012b8751be6b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9e1db132b2e37b0971ba367e78a732b7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/schema_1.0.0.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11446342",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "115558d499f5b50dcbef4711fad8368061120823"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a53c123b7a58ce384b7989429b44966fe6d7d783c18867487c67a39ca964998c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "20612e8367fe4f2819b8b285e33555ec"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "rawtoaces-2025-10-30.zip/rawtoaces-data/schema_0.1.0.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "relatedSpdxElement": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "relatedSpdxElement": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446200",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446202",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446193",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446205",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446233",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446219",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446228",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446251",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446209",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446221",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446213",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446211",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446216",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446212",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446215",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446218",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446252",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446222",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446227",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446223",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446253",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446183",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446184",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446188",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446180",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446176",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446186",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446187",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446182",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446181",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446165",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446171",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446169",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446174",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446175",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446225",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446250",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446162",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446168",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446172",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446173",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446178",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446179",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446185",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446190",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446191",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446195",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446196",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446197",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446199",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446201",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446203",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446204",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446208",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446214",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446220",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446226",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446231",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446232",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446234",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446235",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446236",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446238",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446239",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446240",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446241",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446242",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446243",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446244",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446247",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446254",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446256",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446258",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446259",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446260",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446261",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446262",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446263",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446264",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446265",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446266",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446267",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446269",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446270",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446271",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446272",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relatedSpdxElement": "SPDXRef-item11446273",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446290",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446308",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446305",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446327",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446326",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446325",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446289",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446319",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446321",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446309",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446318",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446320",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446297",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446333",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446331",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446295",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446313",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446288",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446304",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446329",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446301",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446293",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446328",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446298",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446312",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446277",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446300",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446287",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446310",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446315",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446323",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446317",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446316",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446303",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446286",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446330",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446332",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446307",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446341",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446291",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446322",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446292",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446299",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446324",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446314",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446302",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446294",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446296",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446311",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446306",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446282",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446276",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446280",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446284",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446336",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446337",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446339",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446340",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relatedSpdxElement": "SPDXRef-item11446342",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
