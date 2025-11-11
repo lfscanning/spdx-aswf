@@ -1,0 +1,114 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T12:41:21Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpkw3z9f_5/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpkw3z9f_5/code-21474b0a-e194-4b01-b99d-08373c972072",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-d3433426a9cab411",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND MPL-2.0 AND (GPL-2.0 OR MIT) AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND (MIT AND OFL-1.1) AND MIT AND GPL-3.0+ WITH Bison-exception-2.2",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "aswf.openvdb",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openvdb-openvdb",
+            "comment": "This package was added to the Trivy analysis for the openvdb by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openvdb/archive/c69404e4325e75b0e24a4c50e4d22436636cc5ea.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openvdb@c69404e4325e75b0e24a4c50e4d22436636cc5ea",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND MPL-2.0 AND (GPL-2.0 OR MIT) AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND (MIT AND OFL-1.1) AND MIT AND GPL-3.0+ WITH Bison-exception-2.2",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "openvdb",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "c69404e4325e75b0e24a4c50e4d22436636cc5ea"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openvdb-openvdb-clatest",
+            "comment": "This package was added to the Trivy analysis for the openvdb-clatest by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openvdb-clatest/archive/2c0dc90c74733b64c4c0da988549a06052a5e7d2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openvdb-clatest@2c0dc90c74733b64c4c0da988549a06052a5e7d2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND MPL-2.0 AND (GPL-2.0 OR MIT) AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND (MIT AND OFL-1.1) AND MIT AND GPL-3.0+ WITH Bison-exception-2.2",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "openvdb-clatest",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2c0dc90c74733b64c4c0da988549a06052a5e7d2"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openvdb-openvdb-website",
+            "comment": "This package was added to the Trivy analysis for the openvdb-website by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openvdb-website/archive/cad9ad904b67d2cc4a445f17072a3ec6364eff8c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openvdb-website@cad9ad904b67d2cc4a445f17072a3ec6364eff8c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND MPL-2.0 AND (GPL-2.0 OR MIT) AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND (MIT AND OFL-1.1) AND MIT AND GPL-3.0+ WITH Bison-exception-2.2",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "openvdb-website",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "cad9ad904b67d2cc4a445f17072a3ec6364eff8c"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-d3433426a9cab411",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d3433426a9cab411",
+            "relatedSpdxElement": "SPDXRef-aswf-openvdb-openvdb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d3433426a9cab411",
+            "relatedSpdxElement": "SPDXRef-aswf-openvdb-openvdb-clatest",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d3433426a9cab411",
+            "relatedSpdxElement": "SPDXRef-aswf-openvdb-openvdb-website",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
