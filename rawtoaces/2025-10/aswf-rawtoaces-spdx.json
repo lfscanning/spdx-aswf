@@ -1,0 +1,96 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-11T13:33:45Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "No license found",
+            "licenseId": "LicenseRef-No-license-found"
+        }
+    ],
+    "name": "/tmp/tmp_g9jt76t/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp_g9jt76t/code-167f147a-ce0a-436e-b4ef-7f7d4d6b47d2",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "aswf.rawtoaces",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2025-10"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "comment": "This package was added to the Trivy analysis for the rawtoaces by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/rawtoaces/archive/a49c1a9bd30a0a538ad803af968fb115196766d9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/rawtoaces@a49c1a9bd30a0a538ad803af968fb115196766d9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "rawtoaces",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "a49c1a9bd30a0a538ad803af968fb115196766d9"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "comment": "This package was added to the Trivy analysis for the rawtoaces-data by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/rawtoaces-data/archive/aa906b61d04a7e3b1b618b5448a86c43d198b94d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/rawtoaces-data@aa906b61d04a7e3b1b618b5448a86c43d198b94d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-No-license-found",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "rawtoaces-data",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "aa906b61d04a7e3b1b618b5448a86c43d198b94d"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "relatedSpdxElement": "SPDXRef-aswf-rawtoaces-rawtoaces",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f9571b45caa13ff",
+            "relatedSpdxElement": "SPDXRef-aswf-rawtoaces-rawtoaces-data",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
