@@ -1,0 +1,2463 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_openqmc-2025-10-30.zip_1762508268.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-07T09:37:49Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openqmc-2025-10-30.zip
+PackageFileName: openqmc-2025-10-30.zip
+SPDXID: SPDXRef-upload2019
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 138c1fc75f85518352901d8f685c730136bd40f1
+PackageChecksum: SHA1: 9e209ca5407bc44df664682dc3bdb2745f9ce281
+PackageChecksum: SHA256: 21ab9e8252c5b90d3506a55cec6373f5a171e0d1b0fb8abcdc9c3969aa049a4a
+PackageChecksum: MD5: 5d1c202bf89236fa76c145b3049b9d55
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2019
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/matrices.cpp
+SPDXID: SPDXRef-item11501328
+FileChecksum: SHA1: fff27bfa2899bd13463b2aa0a8e92669916b4edf
+FileChecksum: SHA256: 93b6d1638669c38eab35ca18b6400e343741e92e46892890262f6dd4d505aed8
+FileChecksum: MD5: 40091baafab0aa5dbaa833066e833827
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project.
+Copyright (c) 2012 Leonhard Gruenschloss (leonhard@gruenschloss.org) </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/owen.h
+SPDXID: SPDXRef-item11501464
+FileChecksum: SHA1: 55125f5a97054b4eac00565d998b4cff47eca86d
+FileChecksum: SHA256: f5829f6777b6b0e00c47b98902e3c2fc8dcf48e6ce01c6d47cf4a4d84669a65a
+FileChecksum: MD5: 5babb1627d23bc83678870009e4beb5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/charter.md
+SPDXID: SPDXRef-item11501495
+FileChecksum: SHA1: e95c0188ce04e2e5075ec4b0058f430af6bf2796
+FileChecksum: SHA256: 73ac43a1e93750ecbf000edd45c0a7b358486bc6cbab56406a6f157053ed736c
+FileChecksum: MD5: 87b60e1ed55b860425ed34c7fdc38e56
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Copyright Contributors to the OpenQMC Project -->
+copyright in all new contributions shall be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. b.** Except as described in Section 7.c., all code contributions to the Project are </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/process/codereview.md
+SPDXID: SPDXRef-item11501504
+FileChecksum: SHA1: c2923a866f058375689d3c35befa5676ed94440c
+FileChecksum: SHA256: c2ef6f798b347b6b2bda6b86fb7eb40eda5193f77c5de5e04670b38833cc4d6a
+FileChecksum: MD5: 6a2e3baea459c80f8e46e177dc99559a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Copyright Contributors to the OpenQMC Project --> </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/process/deprecation.md
+SPDXID: SPDXRef-item11501505
+FileChecksum: SHA1: e220cb4c657ea981feaba80219467fcbc1ad7cc7
+FileChecksum: SHA256: 486861f89ac0df51d494d1518136bc8db8eaf89be989e7ead2efb3b0fead6fdc
+FileChecksum: MD5: 3c17405b1267a88323ee556fa1e4fabc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Copyright Contributors to the OpenQMC Project --> </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/process/release.md
+SPDXID: SPDXRef-item11501503
+FileChecksum: SHA1: c72648adf34739176d459b4d562a85cc88814d0d
+FileChecksum: SHA256: 3ebc7e360b66d872e27d667570410331444f79b306b5d9f124b47f87cac42665
+FileChecksum: MD5: 9100a6516e0bd08e818ab3bb48f8379d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Copyright Contributors to the OpenQMC Project --> </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/process/security.md
+SPDXID: SPDXRef-item11501502
+FileChecksum: SHA1: 28e25053adad6fe5168abc14307276ad8585f3a6
+FileChecksum: SHA256: c5644c2fbf4171669c850623dd63732a5891b5b7b57b7b1f6771bdd992bd309b
+FileChecksum: MD5: 635bed9fb602be71634e4d20ab54ac8e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Copyright Contributors to the OpenQMC Project --> </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.justfile
+SPDXID: SPDXRef-item11501474
+FileChecksum: SHA1: dde7a2dbfa31404cbc17523b4f90a76bd8a0b85e
+FileChecksum: SHA256: 043302b73e675797466e7586db4862cbacbe41520f016d6c9325c773088dc263
+FileChecksum: MD5: 98d4ce5d7cf6578a7ca0aa5c772f1e30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/CMakeLists.txt
+SPDXID: SPDXRef-item11501353
+FileChecksum: SHA1: 2063d1810c0ff661cbd69cb039f37dba378b421e
+FileChecksum: SHA256: ca248414b6a30bc166817a07ae4e75c5eb3db16591dfa08ebe7dc88801880207
+FileChecksum: MD5: 81ccf31862dd2e36d45ebeb8423d1ac0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/examples/include/CMakeLists.txt
+SPDXID: SPDXRef-item11501274
+FileChecksum: SHA1: 0f492c1c4df4aed91512fe67da19e0b2aa614195
+FileChecksum: SHA256: 6aadc099bd7146df35e5a20c4d658e50ee2b4e181f6cdf497f6978573241c559
+FileChecksum: MD5: e96ef8a7f7e6c8b0096a6b2749792c03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/CMakeLists.txt
+SPDXID: SPDXRef-item11501309
+FileChecksum: SHA1: 7107a78801c4ac245a04f21b56a8a82b32e4a2ca
+FileChecksum: SHA256: 974ccf1b298d45e72233344ed6a1af512c60ec1350b76cd084681aaa0025567b
+FileChecksum: MD5: f14933de39841f2b08f52ccfbf0f328a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/examples/submodule/CMakeLists.txt
+SPDXID: SPDXRef-item11501277
+FileChecksum: SHA1: ee6a8b587e2986286372056178911d61a7ebc693
+FileChecksum: SHA256: ca217e1663234ea4d0e43965a0309ac7bb0761d513d1033c3dd8adba3019e621
+FileChecksum: MD5: 65f5652e7e25fde1df68d4345ea32433
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/CMakeLists.txt
+SPDXID: SPDXRef-item11501283
+FileChecksum: SHA1: 5756669bb62cc94b7967b30250953d6b6c05c19b
+FileChecksum: SHA256: 2a93aa8390fd1e71f5532fe28e90caaf396a5079332654e7ff1f930a25bdacb8
+FileChecksum: MD5: f4df11dbaa37717a6e63900a38000428
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/CMakeLists.txt
+SPDXID: SPDXRef-item11501492
+FileChecksum: SHA1: 2f83e624d49d1418c2977e5b29d3c81bde473b9d
+FileChecksum: SHA256: c985f5fd917aec703f16528b270d28df79cae520fa930472536fc203cf254c4a
+FileChecksum: MD5: 4e4e3b696df0432f0bdc7d679f1f9e8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/CMakeLists.txt
+SPDXID: SPDXRef-item11501326
+FileChecksum: SHA1: 9742c48d6b9ba6f7147dbe19759ecf7b4ab43278
+FileChecksum: SHA256: cd0e359ee59cc465bc5ab81ce9c3c2397ad2b4aa96e2378965d9e4a2a80214de
+FileChecksum: MD5: 7fb6d80e2310ae2d56e7e87248543b40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/CMakeLists.txt
+SPDXID: SPDXRef-item11501471
+FileChecksum: SHA1: 99bc3a22d0bb04a8e2680c3d892befe622c0da10
+FileChecksum: SHA256: 5c3f26bae3e3394050338aa3adcba50750228122ca6700df7edbd882bdc48fe2
+FileChecksum: MD5: 1e147befed8986d74e38fd9e844ff278
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/CMakeLists.txt
+SPDXID: SPDXRef-item11501352
+FileChecksum: SHA1: a44be7d607488514f9b82fe229d2a370d095e984
+FileChecksum: SHA256: b46bf84d233661e1aac97c3b7cfb9e8c368d7cb9e12fea15abd4408523275f50
+FileChecksum: MD5: 8462afe15d1dc2f7e364e31f694b222e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/CMakeLists.txt
+SPDXID: SPDXRef-item11501346
+FileChecksum: SHA1: 2c9af02d236d3ad12529ead15c2ed1eb0220819e
+FileChecksum: SHA256: b7a92ff8a385b2ee48e9203e03e3b52d4cb5e8036695f14479a6a2a1e467091d
+FileChecksum: MD5: 21b0d2415c7138ce4d69c23fdeed5535
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/examples/config/CMakeLists.txt
+SPDXID: SPDXRef-item11501280
+FileChecksum: SHA1: b21f8c9585ffee916dfc7e6188e090ea9e84f4af
+FileChecksum: SHA256: 1886b310403faee706aeab31e4be23149cb56a31c608e001ebe5f7fdd4c8ada6
+FileChecksum: MD5: 9cb27eb7d13f8c22117676dd8c652f23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/CODEOWNERS
+SPDXID: SPDXRef-item11501286
+FileChecksum: SHA1: 32b68f0ffdee4aab6dfdb04400ca8a91cdb9a72a
+FileChecksum: SHA256: b2cbbaa9bde2a5fbae39f55c0eed122a71e611636f6fb82016e9e6c3707a98ab
+FileChecksum: MD5: c4560f76478a543f62b63fdd28df9c24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/CONTRIBUTING.md
+SPDXID: SPDXRef-item11501289
+FileChecksum: SHA1: 3f16c4913bbfde4369ad715f1f0317c89cc40fd5
+FileChecksum: SHA256: cfc53d30a741439e6179599235e13c3c77fee9892bf6e60c2789e9dea1ace730
+FileChecksum: MD5: 3382ad80dbb08ad3afe7941bd5a94175
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/Config.cmake.in
+SPDXID: SPDXRef-item11501282
+FileChecksum: SHA1: 052acca335310e3471f320ec456c0a37e875f5ff
+FileChecksum: SHA256: 423b47b7a5d72305db9a498acf1ef40354100176c850e38179931f47718ce10b
+FileChecksum: MD5: d54879b2a59ceac8b977e2fbb90e71cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/LICENSE
+SPDXID: SPDXRef-item11501287
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/abi.h
+SPDXID: SPDXRef-item11501336
+FileChecksum: SHA1: 1f576f9c5b636cf5855d3d33843e407c0d7f4dd7
+FileChecksum: SHA256: 4e10d58c25af85ed6f1ac0ba600b08dbcc5d9dce7a6009041605e571b0bd7cc3
+FileChecksum: MD5: be29b92ff20688486aab9161faa2b79a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/arch.cpp
+SPDXID: SPDXRef-item11501316
+FileChecksum: SHA1: bc6e49a5ff6d81763db8550d424e5cdb65eec33b
+FileChecksum: SHA256: 6fbcbe8d7bcfd620b6b218c14de722b99b9dcaacfd262ef0a204c17758823bcf
+FileChecksum: MD5: 4c646ecea6c53b5ad6f0679cf3f17f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/arch.h
+SPDXID: SPDXRef-item11501465
+FileChecksum: SHA1: 788a829ed19e92865fbd95b9319f29feb83deb8d
+FileChecksum: SHA256: 3530461542ad20bb123e37ec64b0aa970eab9a2e3d4cc1b36991cbcc81d3f11f
+FileChecksum: MD5: 19398ecd4ae22c4637891fd87d5e040b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/benchmark.cpp
+SPDXID: SPDXRef-item11501323
+FileChecksum: SHA1: b18e49b168ff724d68a6a6bbce610f30134196b0
+FileChecksum: SHA256: 228d2c993aaa81f898e160805fc8b2e564543a1c4bf5afa31b16933ab7fd092c
+FileChecksum: MD5: bcfac92eddf24789ce10baa061fb0198
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/benchmark.cpp
+SPDXID: SPDXRef-item11501334
+FileChecksum: SHA1: ae87cecb5593516d94d74adcabdbc906baa26575
+FileChecksum: SHA256: 0e5fa78197f5a4dfdb727feb2ee4e9cb2b78788ce40af818afb4ffb020a175a7
+FileChecksum: MD5: e3c07b975b1dead744181272df51d6eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/benchmark.h
+SPDXID: SPDXRef-item11501350
+FileChecksum: SHA1: 3365597ea6f5b7910333486be05cca1d47413121
+FileChecksum: SHA256: 2b718a5266482e95f33b3c04696c904b4f563a31670118e19b4e09a2b741812b
+FileChecksum: MD5: ec665a78473b2a06d15da02143eb0d8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/bntables.cpp
+SPDXID: SPDXRef-item11501302
+FileChecksum: SHA1: 6aadd6213ba1c95375cbe799f590b0791567e851
+FileChecksum: SHA256: f734f5ce142e25e2ebc042c2e0043c13787fb1450ab099ed0b9cd6abc2b0ab84
+FileChecksum: MD5: 6c92ccfebf8a30daa531efb637d6303f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/bntables.cpp
+SPDXID: SPDXRef-item11501319
+FileChecksum: SHA1: 5502920af02d824f0be45ea2de9668a51f9cea6a
+FileChecksum: SHA256: d64d10b9b24fe0772534e71d4b0421a2f26f63eadbbbe787e572d8500d5f0b1c
+FileChecksum: MD5: 73b2670d1974e01c928e5068cacff2cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/bntables.h
+SPDXID: SPDXRef-item11501446
+FileChecksum: SHA1: 2449131601234bb8c029e142f23f675ed76c65e9
+FileChecksum: SHA256: f7736119c8fdeddeafe7fa23a5e68ab083973e5448cc2e0feb66ccc355a2822a
+FileChecksum: MD5: 1d6fadae1d0887a22fd7923e6dbe22df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/scripts/check-coverage.sh
+SPDXID: SPDXRef-item11501485
+FileChecksum: SHA1: 9d77caeff20f5e722adf452c452b09aa5198b640
+FileChecksum: SHA256: 6518820f7246c4a80b221c0b27715bacecd1d632ae278a82ddccc857c3ae4254
+FileChecksum: MD5: ac0de0ce0fc338fdacdbdb22bc40456f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/scripts/check-documentation.sh
+SPDXID: SPDXRef-item11501488
+FileChecksum: SHA1: ebb278cf6561fc406bb61af8bd69a2c111acd906
+FileChecksum: SHA256: 30213cdf309c449cf7176d3bde71e458619dd683748488151b9538ef563208d6
+FileChecksum: MD5: 8fbebcb01df4847b7f92184e97c6cb9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/scripts/check-format.sh
+SPDXID: SPDXRef-item11501486
+FileChecksum: SHA1: c0a551d0e7ce92ed3c581e4cf5cfac218ead9abc
+FileChecksum: SHA256: 28454f902b7a9ee417c5b9d35fccb0521a813b39b8f8e7d9a0e1aa9721de5653
+FileChecksum: MD5: b6fb6c7a17518c34ff282283ca1fedb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/scripts/check-lint.sh
+SPDXID: SPDXRef-item11501487
+FileChecksum: SHA1: d0c2876181615be7cd8d0f62c3272bb6651e2f90
+FileChecksum: SHA256: 28dd1705027592db8ae6bef3a3e4f6640d7bc56d15bb86c36d875f7656d627b2
+FileChecksum: MD5: 3d42e8cf5a393ed582dd599fc22bfc1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/cmake_uninstall.cmake.in
+SPDXID: SPDXRef-item11501271
+FileChecksum: SHA1: 0f486ea70501895034d48b6315d1625581ec38a6
+FileChecksum: SHA256: 64d43ded01f03b8c186e4a04b1eb4dc5440735969389a2ade975e4132e44f950
+FileChecksum: MD5: e01f197805673e357118e2d719244678
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/compose.yaml
+SPDXID: SPDXRef-item11501429
+FileChecksum: SHA1: c1e071df9a863da60864eae941cfd062a921e58c
+FileChecksum: SHA256: 617c83ca3d52ba68e98cc7411381b0fecfda15acb4435b4063722816aed8c00f
+FileChecksum: MD5: bc09152b3115189c63dfcc1e11a99e77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/encode.cpp
+SPDXID: SPDXRef-item11501314
+FileChecksum: SHA1: 5a6ae2847ffded821e61faa8474c74f168ad25c0
+FileChecksum: SHA256: 64115d7a6e6bdb0ccb685aad9aa57f4e09837cc03d4a6460b3b3dab84dd4e7a8
+FileChecksum: MD5: 015076ba4a004fd6936577daa3f08503
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/encode.h
+SPDXID: SPDXRef-item11501463
+FileChecksum: SHA1: 6dd87d72cb23b98e438e69164ebdf0b9dc5870be
+FileChecksum: SHA256: a5dd0c8c76cae427b250baea4675be5887371c0ae104d62cdec6ff8779613fcb
+FileChecksum: MD5: 9016a986fd359cfeb20f832171135632
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/scripts/fix-format.sh
+SPDXID: SPDXRef-item11501489
+FileChecksum: SHA1: cee63beb387eb9060194db8e699e037e2057f91b
+FileChecksum: SHA256: 0de1e660428441e3a6461d07988c5eaa0b502cbfb97f18d8e972fc95f0dcf8a8
+FileChecksum: MD5: 6e71e90da5648714ca75f2a47bac43a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/flake.nix
+SPDXID: SPDXRef-item11501284
+FileChecksum: SHA1: 313f3cfe87d4dc14ffd721049b85d40cea8c182a
+FileChecksum: SHA256: aaba5327df893d9b212474bdde5bedc2706eac70293b0a91b0ceec9e7c4c9ee6
+FileChecksum: MD5: d00c7655582c921ecec8d9d672d66e8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/float.cpp
+SPDXID: SPDXRef-item11501306
+FileChecksum: SHA1: ac4358608351a56956bd81137ed78e040c286edc
+FileChecksum: SHA256: 97266f08ae0430b3eb33e2b1188f4506f3aaf8c84de5d41bf588951b9750c7a4
+FileChecksum: MD5: 37c168b1070d51308509a21dce75d276
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/float.h
+SPDXID: SPDXRef-item11501460
+FileChecksum: SHA1: 9fee5c698ef48a2c90f3c3317b158affc3a541b8
+FileChecksum: SHA256: c808c4b3957500f2b28f20ccf256bb17c8b1076e9d27c1fb4a87554a36024441
+FileChecksum: MD5: 72f6e7f4e5ef66fc3b8fd03e0d4dffd0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/frequency.cpp
+SPDXID: SPDXRef-item11501325
+FileChecksum: SHA1: 5d38e964879510be56e5f4ea280d87a552bc0cee
+FileChecksum: SHA256: 902a585b6e4fa3d70a3b144a514ccfb567bbdfefa7b78aab14567bb70b0b24c7
+FileChecksum: MD5: 788b219c8decbe6e7a405a199b231445
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/frequency.cpp
+SPDXID: SPDXRef-item11501343
+FileChecksum: SHA1: 03c05baeca0a437b3a02231c69cbae01b7deb657
+FileChecksum: SHA256: cbe0b9298d8ab77a61224bd0252596272984bfc70811c8fc265b4e1fde6ddda1
+FileChecksum: MD5: 762928f6f1f546e2bccc8c8721d55214
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/frequency.h
+SPDXID: SPDXRef-item11501338
+FileChecksum: SHA1: ae40ff201d27c57624a0a7d4db64b8a485bbba41
+FileChecksum: SHA256: 91e88da7b7169c50a44922e52494ae95370b2d1e9654a220e8637b0bfe0cd3e3
+FileChecksum: MD5: 3b828b7c6a69c254c1d1aeef4f53fcc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/generate.cpp
+SPDXID: SPDXRef-item11501351
+FileChecksum: SHA1: 0822358e1d9db5dda7575148fcb57c556aa0d31c
+FileChecksum: SHA256: 81086efc90527d4e3e889d939433a74974f5d8a852905cb406c3f1ae2cf03043
+FileChecksum: MD5: fc5fc0ed6d15bd6980968956147e62bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/generate.cpp
+SPDXID: SPDXRef-item11501330
+FileChecksum: SHA1: f51979968d7b60104ab09401493c9c8de6bb4b33
+FileChecksum: SHA256: f231f020f14b7baca54f24eff97b947fd04f5ed338ff35e5ad453366e652462d
+FileChecksum: MD5: 22fa1348a1391c5e4c5389813eab95d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/generate.h
+SPDXID: SPDXRef-item11501344
+FileChecksum: SHA1: 94c4464e9dd9c0c4bf69ad98f07630bdf71568b7
+FileChecksum: SHA256: 50038653733fccf2e56c04ba84e13db239bac4d03676804622581b1dab828578
+FileChecksum: MD5: 7ebb8c1ad3a93b4a6a276bd89c429df5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/gpu.cpp
+SPDXID: SPDXRef-item11501315
+FileChecksum: SHA1: bc6e49a5ff6d81763db8550d424e5cdb65eec33b
+FileChecksum: SHA256: 6fbcbe8d7bcfd620b6b218c14de722b99b9dcaacfd262ef0a204c17758823bcf
+FileChecksum: MD5: 4c646ecea6c53b5ad6f0679cf3f17f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/gpu.h
+SPDXID: SPDXRef-item11501459
+FileChecksum: SHA1: 00a2a88595380cad607cc583ad78c8b4adf2fd4c
+FileChecksum: SHA256: bc26964f26379ef5818fed0769c5fa73c974c8d6736ee6dd076212243404653d
+FileChecksum: MD5: 25f6d636022877355f5069acab9efd5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/hypothesis.h
+SPDXID: SPDXRef-item11501311
+FileChecksum: SHA1: cea7e5ee6876fd56051a939e8091eae0d0c92b75
+FileChecksum: SHA256: d27f098b048e6cc46ccdd0ac34b374d57886e50d9d12486eeedeed6f0d2965db
+FileChecksum: MD5: ae940984132d52faff4fc5f871bad432
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/lattice.cpp
+SPDXID: SPDXRef-item11501299
+FileChecksum: SHA1: e04c3d853c60bd3f9c9bd2ab557f5291510ecab8
+FileChecksum: SHA256: e1c61589dc8065b740437d9b03d1cd0a47debbd533aa6aeda21049a1d60438af
+FileChecksum: MD5: 2b51ab398f465d5321c6d607857a81e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/lattice.h
+SPDXID: SPDXRef-item11501444
+FileChecksum: SHA1: a5adec0058758f3069294b6fcdf51a2c5d83a997
+FileChecksum: SHA256: 5eb82d0416f173d5f4555648f2c7fc946f6fefc0dc4cd36a10e5b827cc507d57
+FileChecksum: MD5: 09c87a265228b9e7188a90d3191f15bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/latticebn.cpp
+SPDXID: SPDXRef-item11501295
+FileChecksum: SHA1: b84df2b2d754ec616ad4750b49e2e9866b3500f1
+FileChecksum: SHA256: 8e907fc8761f61f0a415a3fa62ef879f74908c10982b7acedc51434f620b9f3a
+FileChecksum: MD5: 355409d102596083820ba7436ae987c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/latticebn.h
+SPDXID: SPDXRef-item11501438
+FileChecksum: SHA1: 3c1f2c06e840205c94593efcdd0bce0b7dffe30a
+FileChecksum: SHA256: c4107a8d1111feef6ad1cf9626df6756e75a71beb232d07bd1f49d7d209610a4
+FileChecksum: MD5: 13f25f4baa56597e3b3ebb1b8df33560
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/lookup.cpp
+SPDXID: SPDXRef-item11501297
+FileChecksum: SHA1: bc6e49a5ff6d81763db8550d424e5cdb65eec33b
+FileChecksum: SHA256: 6fbcbe8d7bcfd620b6b218c14de722b99b9dcaacfd262ef0a204c17758823bcf
+FileChecksum: MD5: 4c646ecea6c53b5ad6f0679cf3f17f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/lookup.h
+SPDXID: SPDXRef-item11501458
+FileChecksum: SHA1: 37859aafa33ab11c438be27f6a8a9d8a1829abe0
+FileChecksum: SHA256: 2ee8c00c36b1b2677e155359be063bb3c6f1cdf2bb5332105bc578ead4b4d0ea
+FileChecksum: MD5: 2f6c02f0e520f5d905aa9e448de3c0c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/examples/submodule/main.cpp
+SPDXID: SPDXRef-item11501278
+FileChecksum: SHA1: 10bde305fc4412b99d6691601dfae37e2b266c05
+FileChecksum: SHA256: 9b3b3abe8b9c5a68fc9b0ee21fa0d8d928eb5a2ebee008324a661ce3285d5298
+FileChecksum: MD5: b9d584d550daee9188b739b586d592d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/examples/config/main.cpp
+SPDXID: SPDXRef-item11501281
+FileChecksum: SHA1: 10bde305fc4412b99d6691601dfae37e2b266c05
+FileChecksum: SHA256: 9b3b3abe8b9c5a68fc9b0ee21fa0d8d928eb5a2ebee008324a661ce3285d5298
+FileChecksum: MD5: b9d584d550daee9188b739b586d592d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/cmake/examples/include/main.cpp
+SPDXID: SPDXRef-item11501275
+FileChecksum: SHA1: 10bde305fc4412b99d6691601dfae37e2b266c05
+FileChecksum: SHA256: 9b3b3abe8b9c5a68fc9b0ee21fa0d8d928eb5a2ebee008324a661ce3285d5298
+FileChecksum: MD5: b9d584d550daee9188b739b586d592d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/optimise.cpp
+SPDXID: SPDXRef-item11501340
+FileChecksum: SHA1: 27ab31ab9d0037266a246c5dcf0cb245569ca3a7
+FileChecksum: SHA256: 6de13e798c361b4b14568440ef58ba2ec06abf88567942d8696023a584f107a9
+FileChecksum: MD5: 7ae3a120ee51a6103f07be5e61f50664
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/optimise.cpp
+SPDXID: SPDXRef-item11501324
+FileChecksum: SHA1: e780e8ef7b574a36ec6299e747c2b975d4eb257a
+FileChecksum: SHA256: cb3be70ccf2c857dcdf29c981763a100b2f033e63ab5feb805f648456cc24b5a
+FileChecksum: MD5: 4b8e9e31cce6578e11c8e836805e7d7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/optimise.h
+SPDXID: SPDXRef-item11501342
+FileChecksum: SHA1: 1436ad34ac426fede9bc748f9b2c8d178734dc1c
+FileChecksum: SHA256: 0156062a7138a97a3ba860f8d24ab7f6e50605cf36e8b9c8a275bfe2bc05585c
+FileChecksum: MD5: ac74ffa447322c33dee629e4cdd61217
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/oqmc.cpp
+SPDXID: SPDXRef-item11501308
+FileChecksum: SHA1: bc6e49a5ff6d81763db8550d424e5cdb65eec33b
+FileChecksum: SHA256: 6fbcbe8d7bcfd620b6b218c14de722b99b9dcaacfd262ef0a204c17758823bcf
+FileChecksum: MD5: 4c646ecea6c53b5ad6f0679cf3f17f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/oqmc.h
+SPDXID: SPDXRef-item11501461
+FileChecksum: SHA1: c301236bad8c0eec191cadf103fd1d9902e1a824
+FileChecksum: SHA256: ea9f22678a7d3884c7d832126207f458d469d7db638f83bc2eccd1f0a033eb79
+FileChecksum: MD5: a4715490cbce1e5478f7aabcf42f773f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/owen.cpp
+SPDXID: SPDXRef-item11501293
+FileChecksum: SHA1: 4eefc4685a29e7b43caa1c655239688877b595be
+FileChecksum: SHA256: 7f5090b940b34186b5642a15f5235252d29d31676e809c92ffc94de3ded86590
+FileChecksum: MD5: cd3ef626f8e2dea638e92cf472d9cc3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/parallel.h
+SPDXID: SPDXRef-item11501345
+FileChecksum: SHA1: 1708f416c178c18a942e732079cf8efad47f7378
+FileChecksum: SHA256: 031b4abc2c97ff9121d58506f5ad04c24dd1637fcaf28c6eb8891cb7616af06d
+FileChecksum: MD5: 05dad05d67242a923e7d3116bc54b790
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/pcg.cpp
+SPDXID: SPDXRef-item11501303
+FileChecksum: SHA1: cb2b9c173bcb3552656aee0f2a6351d80d5f6055
+FileChecksum: SHA256: 589d10da6d94b39312bdf868677ab9da436c5011859918bb36d79a440a54bccc
+FileChecksum: MD5: ab5cb44d92a96349b1ad81183c9319a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/pcg.h
+SPDXID: SPDXRef-item11501440
+FileChecksum: SHA1: 1976de4ce5f8ab215ba308ee38ceb0afa573ff2b
+FileChecksum: SHA256: 6faf480b0d5d08c20b61e7db7b92cf77e3125b4ef241d3abd9fb652f1d1a2899
+FileChecksum: MD5: 3b977632a5e22a74b488dc785671b06b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/permute.cpp
+SPDXID: SPDXRef-item11501307
+FileChecksum: SHA1: 700805ebbfb911b1a6aa039d4178d1fa28f03bc8
+FileChecksum: SHA256: dc3eb7bc631c58a73ff188b7e9cd64b3435acc827c65ef87727ad8638df63e3e
+FileChecksum: MD5: 03a39c796c02700c3848e1f38d112213
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/permute.h
+SPDXID: SPDXRef-item11501467
+FileChecksum: SHA1: ce4073f1c7e514e391c5e5b51aceea1d63694991
+FileChecksum: SHA256: 6975f77f33893d11f940009ca33ee3fceb8c1243334bfebfa5eb6a57b0aa87b7
+FileChecksum: MD5: 016bb1e8318665bdf6ab0ba411d9fa28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/plot.cpp
+SPDXID: SPDXRef-item11501329
+FileChecksum: SHA1: 26c647e7f610a19be8a481235168e82665cee40b
+FileChecksum: SHA256: 8d4835b31e271f60f30d7fde94c7571f11adc525d76aea3a22e403b4cdf90cd0
+FileChecksum: MD5: 5a620dd6b22529cd4b593040e71e1728
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/plot.cpp
+SPDXID: SPDXRef-item11501348
+FileChecksum: SHA1: e977e0b20b053ec661d4d7564c369ceda91e6050
+FileChecksum: SHA256: ed800cca2237c8a903e98b0bdd510bb27dfaa23768ed6d3463b203f71fe38d82
+FileChecksum: MD5: c64fd75fbbf2e6779d9f0200531ac0d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/plot.h
+SPDXID: SPDXRef-item11501335
+FileChecksum: SHA1: c7485c48fc27272499cbf25c58f56a8e0effce85
+FileChecksum: SHA256: f9062e77d0452738c8d12bfb5d96e188e4420bf84846166c738ec7229ec118ce
+FileChecksum: MD5: 2bc1156fe3e7fad256a863fbec36a0a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/pmj.cpp
+SPDXID: SPDXRef-item11501313
+FileChecksum: SHA1: 2c5533c2b4a84a6a9d483f5aca1bd5879ec46e9c
+FileChecksum: SHA256: a809209c054ef02c66e00e0543bf6d1a226eff19f3b2d27e1bb01825c5be0ca4
+FileChecksum: MD5: 4df2148790356230863d1dec06037ba3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/pmj.h
+SPDXID: SPDXRef-item11501468
+FileChecksum: SHA1: 0e5a956c322ac086f219196da7859fce95a1c3c9
+FileChecksum: SHA256: 5082c7c2302135a1acaf0805e8ba5589872c5ab7623da0875c88869e7b7fd3a9
+FileChecksum: MD5: 2ca41ed86034fedf5c2ad88c1bedee29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/pmjbn.cpp
+SPDXID: SPDXRef-item11501317
+FileChecksum: SHA1: a8c1594e639717c313de2ffd598fd0b4acef7f08
+FileChecksum: SHA256: e1c50dd731b22ce78e077f1f7ccdb99c4e23690b370c3dab3ca4c829e86d3315
+FileChecksum: MD5: 3ad89e09a9cfd57af339f994664e2b40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/pmjbn.h
+SPDXID: SPDXRef-item11501445
+FileChecksum: SHA1: bb584d8b358694783cef74fcb8947a66e9faaa8b
+FileChecksum: SHA256: 235a6ca171918c82df3e440870cb1db2b0671affe5718936b6b05e0330be96eb
+FileChecksum: MD5: 9b633dc3e2b1574756c2db9123437acc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/print.h
+SPDXID: SPDXRef-item11501331
+FileChecksum: SHA1: 9d8a331e2e34b52d54bb55a414b7076767181501
+FileChecksum: SHA256: 831da63164e97803c51e7aeade3d1c5f7c1b9a2a69df58317d76eec8e4e421ec
+FileChecksum: MD5: 046a89424e08a105157e9b4ddbff5daa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/progress.cpp
+SPDXID: SPDXRef-item11501349
+FileChecksum: SHA1: fb5c00383b729f77a5949703d29c811591cb247d
+FileChecksum: SHA256: aa50486f9bd2e227f144d7c2f0371afe266b3a37b7c1e624c359aa88e508ff10
+FileChecksum: MD5: d1ac0df84aed00007bb0851d5e4b8724
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/progress.h
+SPDXID: SPDXRef-item11501347
+FileChecksum: SHA1: b279e8a3a12f42bc926ebf97f181ea1e2cc2e41a
+FileChecksum: SHA256: eaeb5dfbfbdca1c11c388c219edc9458009695bb9289de5b49ecb63537848bfa
+FileChecksum: MD5: 5513b27494ed952e61686d7ae9d3c455
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/range.cpp
+SPDXID: SPDXRef-item11501301
+FileChecksum: SHA1: dca0f5e01b251c8feda2054c3bf33edad923270c
+FileChecksum: SHA256: 1c4ade2bbee53d5fca80937fdb580403016f931d6061782a1f8dacb7b86d9a47
+FileChecksum: MD5: 3f6408b6b137498f49af55af632314b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/range.h
+SPDXID: SPDXRef-item11501470
+FileChecksum: SHA1: 33396680372d46db30c9a251d9c8baccd163fe7a
+FileChecksum: SHA256: f0fab37ac37121c5c7973158ff70289ec0ad91b853ffbd02593d95d07553cf4f
+FileChecksum: MD5: d1eeccb80bc7344c1ca1e24833365673
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/rank1.cpp
+SPDXID: SPDXRef-item11501310
+FileChecksum: SHA1: e0b54022c3260cd653b567cf711396a4aa2f05df
+FileChecksum: SHA256: a908703998dedfd7ab624204b203685821e1c89a793b4baba373cf1d5a766264
+FileChecksum: MD5: 005aea686ae8d0b1768503f5b1e53548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/rank1.h
+SPDXID: SPDXRef-item11501443
+FileChecksum: SHA1: f9469b83149daab44620ec159b0057580747dad6
+FileChecksum: SHA256: b48f4c7d755cda8dac31495e7939eff09612849dba32507ca2148724ff21c487
+FileChecksum: MD5: 4ae69e51b9a3eeb937088e9757059cec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/reverse.cpp
+SPDXID: SPDXRef-item11501292
+FileChecksum: SHA1: 8df81225796d06e5477f0f655e3651f4566b2870
+FileChecksum: SHA256: 2201216c32e3dd774f2c2c66eccf2eef115e308120181a46d570a05901e614e7
+FileChecksum: MD5: 64c487dceacfb7427d17b7e940f9a779
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/reverse.h
+SPDXID: SPDXRef-item11501441
+FileChecksum: SHA1: cd408e9b370d11015fbb8c238fe46bc5ab3315c7
+FileChecksum: SHA256: 8de86bfd8d09cb774db207e75a9f246fb3ba74f382a2861846288d63b7ae7361
+FileChecksum: MD5: 3008864169d40ae883298ab616ca85f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/rng.h
+SPDXID: SPDXRef-item11501339
+FileChecksum: SHA1: d764478a404371436e8862e57483b833568aface
+FileChecksum: SHA256: 4d0adfc2d8c871e939e962555368d13e574c77a542831b65f6e29ed04f1c00ab
+FileChecksum: MD5: 119efa23ab8aa7e125162c5b181389ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/rotate.cpp
+SPDXID: SPDXRef-item11501298
+FileChecksum: SHA1: bc6e49a5ff6d81763db8550d424e5cdb65eec33b
+FileChecksum: SHA256: 6fbcbe8d7bcfd620b6b218c14de722b99b9dcaacfd262ef0a204c17758823bcf
+FileChecksum: MD5: 4c646ecea6c53b5ad6f0679cf3f17f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/rotate.h
+SPDXID: SPDXRef-item11501466
+FileChecksum: SHA1: 73860325456df5da95706aceb7e2e52576573175
+FileChecksum: SHA256: f1e4689ba6bcd37613d6459649ceb04109e7a19b51f751d1bb1becd85358937e
+FileChecksum: MD5: 7107a23386d70ec132dc2fdc377267c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/sampler.cpp
+SPDXID: SPDXRef-item11501300
+FileChecksum: SHA1: dc4d2399a69e168a8bf798ce1edaec3e516374ef
+FileChecksum: SHA256: 6c5b694009bb67597c61ea21ecf384fead410ce857651e3153d78df912ea76fe
+FileChecksum: MD5: 0d19467f0aa59fac97d412c0f7a7ad41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/sampler.h
+SPDXID: SPDXRef-item11501439
+FileChecksum: SHA1: 0f59afcff4eec7f17dd0cc1af86db4ed7830f637
+FileChecksum: SHA256: 0a237d52b4365b0c2c71ca3e777da969b03d8b8b1b5ed7c6e1e1ace93f61dd94
+FileChecksum: MD5: 9889d3bd336e3de8e27a7c97a21b2a58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/shapes.h
+SPDXID: SPDXRef-item11501318
+FileChecksum: SHA1: 495071254d65f9c8510c4e245a8a7da720de465b
+FileChecksum: SHA256: 83075e40a065e304631ef007f893550e1fc43e10598716f5bf2eb5a5910895a3
+FileChecksum: MD5: 90cc17e56838e87a5769095fbca169a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/sobol.cpp
+SPDXID: SPDXRef-item11501304
+FileChecksum: SHA1: 99bc1ab79e6925a8adb0edf390db4a82b4b8db11
+FileChecksum: SHA256: 974a0e411f0bfef3ac0a77974b37eb802fec0b58720466de70e5a22555b556a0
+FileChecksum: MD5: 9136afbef95a29e6da0c8663bfa9d1b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/sobol.h
+SPDXID: SPDXRef-item11501437
+FileChecksum: SHA1: 95ea37ee126bec6b38bf178866843350ef4bda6f
+FileChecksum: SHA256: 89914df818b8be17f6b04e5a0a40729637386777ec39ee6f7755b74e1258648d
+FileChecksum: MD5: a2182ba8ce8b6010e41590f847081494
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/sobolbn.cpp
+SPDXID: SPDXRef-item11501312
+FileChecksum: SHA1: 4757c0d37ac8266c33f1b18ae06d3e0777f01971
+FileChecksum: SHA256: 1100fd23b5fa313103a71b49a6a6164f4c5f17729980fd90ff1a4ace7a3b9ea2
+FileChecksum: MD5: af3d39950fb0c6087adaf469b3ced05b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/sobolbn.h
+SPDXID: SPDXRef-item11501469
+FileChecksum: SHA1: 90eebf63597cfaceef01446263d39a7c7570d503
+FileChecksum: SHA256: b55fad13ef9597265cc5b0377ee704459cfafb38f6f4debdb34d24d291462bc2
+FileChecksum: MD5: 9d0a101dc0e81dba9e1c1e9e7d88e226
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/scripts/split-readme.sh
+SPDXID: SPDXRef-item11501490
+FileChecksum: SHA1: 9672437e36b0db8276c39127d85821bc67db43e9
+FileChecksum: SHA256: 21589219a76679a24bdd6e2dfedef1b910bf495de443c55a348100aa8d59e219
+FileChecksum: MD5: 116abacf2989b9c7d9e82372ec469190
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/state.cpp
+SPDXID: SPDXRef-item11501294
+FileChecksum: SHA1: ae163131814ec8fd1bb7d2a7c2856ad7b1f32ea9
+FileChecksum: SHA256: b53182e80a0d203252c0cec91c651fdaafd3707c48e4aa8a8f1e51b062614531
+FileChecksum: MD5: 56bc668fe3d72949dae58ca5132c7761
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/state.h
+SPDXID: SPDXRef-item11501462
+FileChecksum: SHA1: 09be4019ece8cc0b651ea438a8eda36b2aa92cad
+FileChecksum: SHA256: 160ae6e515f09a96caab7a4d915661a6ca090c8ddb7aa3561799d1a0c8eb4682
+FileChecksum: MD5: 0613506daab851bdd3c68cc73c37412b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/stochastic.cpp
+SPDXID: SPDXRef-item11501296
+FileChecksum: SHA1: bc6e49a5ff6d81763db8550d424e5cdb65eec33b
+FileChecksum: SHA256: 6fbcbe8d7bcfd620b6b218c14de722b99b9dcaacfd262ef0a204c17758823bcf
+FileChecksum: MD5: 4c646ecea6c53b5ad6f0679cf3f17f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/stochastic.h
+SPDXID: SPDXRef-item11501442
+FileChecksum: SHA1: 349e6430709c6a5c5d210bea754d95e412abcb7e
+FileChecksum: SHA256: 9502ee0929f5b1f4c2498dc4353e9bb6ec0ef675966dc3c887bc25ccfba7c50e
+FileChecksum: MD5: e973a93294176e235bfcc807053d40f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/trace.cpp
+SPDXID: SPDXRef-item11501322
+FileChecksum: SHA1: 5b913021740fe88a0c92f35ba9fd3df9e81f7139
+FileChecksum: SHA256: b3b1a8247ab2850c87961dfbf251478556c47ddf9faac5ca142e8b8413d28ac6
+FileChecksum: MD5: 9f5d86893a273151f7c54bb478c52160
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/trace.cpp
+SPDXID: SPDXRef-item11501333
+FileChecksum: SHA1: 0437b140c2bcb800f7a09e5d308b668296e4b32e
+FileChecksum: SHA256: 2c323080ed313709981ae96a61384a33f455912d5a1a436397882e73ffe39500
+FileChecksum: MD5: a9077cf1bc10c889dd134247c8c6e025
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/trace.h
+SPDXID: SPDXRef-item11501337
+FileChecksum: SHA1: 5f2a0e46f331433d07b4f9a34ad0c15360df299f
+FileChecksum: SHA256: bac6dad4811758d052376c4bacd5256d71bfb1bbf8a29864626e770d82169d39
+FileChecksum: MD5: cb8fba1d6c28166bc9388bf6e2da2dec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tests/unused.cpp
+SPDXID: SPDXRef-item11501305
+FileChecksum: SHA1: bc6e49a5ff6d81763db8550d424e5cdb65eec33b
+FileChecksum: SHA256: 6fbcbe8d7bcfd620b6b218c14de722b99b9dcaacfd262ef0a204c17758823bcf
+FileChecksum: MD5: 4c646ecea6c53b5ad6f0679cf3f17f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/unused.h
+SPDXID: SPDXRef-item11501457
+FileChecksum: SHA1: a8272d714eb530cb2908ddd4e31183448a634864
+FileChecksum: SHA256: 5ccf1159b2920bbac5ca1f2e6d290fef99cb13c160cf9a5b800b2c4426becc53
+FileChecksum: MD5: 7974f32c624b678fa74ed73b86dad6d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/python/utility.py
+SPDXID: SPDXRef-item11501268
+FileChecksum: SHA1: 2a6d05e65cd642d50dc782392ddc9308ee25ff50
+FileChecksum: SHA256: 8c08ff25f63879d7af26c7362e3e483d93c970242e90a8da5b4924673e7e75db
+FileChecksum: MD5: fb61bd2f4a700a68d8055d13bd34cb7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/lib/vector.h
+SPDXID: SPDXRef-item11501341
+FileChecksum: SHA1: 3966ac2b1952bb673f58bf643207dbf41c0933c8
+FileChecksum: SHA256: 09f70269e25d5188b55618c765f2e88a55e966743bdfb0d04bcdb564de797f87
+FileChecksum: MD5: 600bcb75d498a4de87f07dd4bc680bf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/python/wrapper.py
+SPDXID: SPDXRef-item11501267
+FileChecksum: SHA1: fd7155a959e9577c54b4e733268334b2f0fcb7c4
+FileChecksum: SHA256: f15ecd297c0812454f12c536ad9a6f566b41bb04c700e98a6a53a99d43a5992f
+FileChecksum: MD5: 26fd74d38fd7b208c13d987661e39ada
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/src/tools/cli/write.h
+SPDXID: SPDXRef-item11501327
+FileChecksum: SHA1: 272c90bc1e42fa89c236a487d8f939ed491d3922
+FileChecksum: SHA256: b267ba475369c7582620bfd15fcee97ccc9ff1a6d63ef79d9bebe21d35ed894b
+FileChecksum: MD5: 50c6e8c952c99a5979a8d8bff3af9fa2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the OpenQMC Project. </text>
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/python/notebooks/performance.ipynb
+SPDXID: SPDXRef-item11501265
+FileChecksum: SHA1: d5d529406092b9c8de5274246578e17e1da6be76
+FileChecksum: SHA256: 5c0f64104ed261aee6857a8694f2fa72ac5114b85c403ae0e2bd3ecdbea0d0fc
+FileChecksum: MD5: 8752cc3b3de7995f3f338f7db83d8028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/python/notebooks/readme-images.ipynb
+SPDXID: SPDXRef-item11501266
+FileChecksum: SHA1: 8dd2d188f9584e300e4a1a817977f55fa941212f
+FileChecksum: SHA256: 72bba7a697dbd5226dc85c7f2b8b466ff37e24b2ef397e5b812a9eee1550dff9
+FileChecksum: MD5: e78744479905ade0fc418b5b401937f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item11501269
+FileChecksum: SHA1: adaed4724d92c6425d48222697d29df2b1e5cf9d
+FileChecksum: SHA256: be0b736b839ace6950b11795ef5406c2b7181b7b8b72fb5926df27ff81f9c0d6
+FileChecksum: MD5: 2fdb75e6573169cb56e2e24b30de6d3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/GOVERNANCE.md
+SPDXID: SPDXRef-item11501285
+FileChecksum: SHA1: 01abfc42480b00629951c91a3b0654fd4f9f9b12
+FileChecksum: SHA256: e8ede1eacce28291338370f724f733dcf79d49895eab8ee02e0b6c662e686798
+FileChecksum: MD5: 5ccf22385f14b6a56a29f64cdafefbfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.envrc
+SPDXID: SPDXRef-item11501288
+FileChecksum: SHA1: 83b258da9c1ca4eb15ce27fbb558c55c1c308e51
+FileChecksum: SHA256: 1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1
+FileChecksum: MD5: 5d7ddb5e872f8e7d98397fe97c189cf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/logo-dark.png
+SPDXID: SPDXRef-item11501355
+FileChecksum: SHA1: 7c593b9e7c18dcd41006862ed1bde1002de476c0
+FileChecksum: SHA256: 0a18dbcc4d638890e819ded472953e2c35bc9df4ae77476e7557944719aff088
+FileChecksum: MD5: 85b1d06a5e05713de7c56e6a39874240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/performance-dark.png
+SPDXID: SPDXRef-item11501357
+FileChecksum: SHA1: cc168a4d5d4529a724f098023559c02f95f550d7
+FileChecksum: SHA256: f8463c5114b998845fda1b4e9e813c6e47d9196d49274ce88a0e6b9b96dd65e3
+FileChecksum: MD5: 4513a6cc793dccb9383380a42904a675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/pair-plot-lattice-dark.png
+SPDXID: SPDXRef-item11501358
+FileChecksum: SHA1: 17cee20181925d2d980fc28cfab03e98e97c6fe8
+FileChecksum: SHA256: cbf78b9757391963645e8448a61e59783e923890f3d38e3470490cdab4de0cf5
+FileChecksum: MD5: 7b7f7f0ff8105827ff4c3bfafaed1ca1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/openqmc-example-dark.png
+SPDXID: SPDXRef-item11501359
+FileChecksum: SHA1: 9ccbaebecf88fc7b45a16b4d5c765acf82c99301
+FileChecksum: SHA256: c4b5f06622b30931dffb277b8216c1f4239f6c4c0a0ebdc6d6ce337c233279f9
+FileChecksum: MD5: 30990f36e1e61944b639cebe6513c095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/error-filter-space-plot-dark.png
+SPDXID: SPDXRef-item11501360
+FileChecksum: SHA1: 9b13991a6aa14bf0126083f0a55229b379bb1c2c
+FileChecksum: SHA256: b3ef4e27ecf1cbd0545b631eaf7c41437478f30bbfdbb4bc0e327560b4cce21d
+FileChecksum: MD5: 8e5c102cf3e2cb2f83eddccdbf0ad106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/error-plot-dark.png
+SPDXID: SPDXRef-item11501361
+FileChecksum: SHA1: 93dbb98e72fa25f78e09b2f12b601ca0835349fc
+FileChecksum: SHA256: bb240d1c7c1f3b07b7f3edb423fb380fd807db05282ec1f945c06b309b103ed4
+FileChecksum: MD5: de2d482be158a122f1e3c50bc65794f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-1-32-light.png
+SPDXID: SPDXRef-item11501362
+FileChecksum: SHA1: be4d7f047ea66197fd102cf895277c5c49ef21c6
+FileChecksum: SHA256: 89d5023cc28a167a82deb2e01f441cf758244a7e24ec83f2025c734f8d47c727
+FileChecksum: MD5: f712130a84f854d6d21c4a4a665b6dae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/pair-plot-pmj-dark.png
+SPDXID: SPDXRef-item11501363
+FileChecksum: SHA1: 79a7ff8dfc4cfa23f12937307b8db8ff00f5d40f
+FileChecksum: SHA256: 1a8fa176bcda9f1a874e2a8279b9f346d0adb6a1240f6bccc6b53a7e44958a08
+FileChecksum: MD5: 5dfde242995810dea04ef587568aaa84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-0-2-dark.png
+SPDXID: SPDXRef-item11501364
+FileChecksum: SHA1: 31b5a7f65d0025fa6a5c7ec65c2265f134674141
+FileChecksum: SHA256: 740e36cfb97b91cda221790b5fe5d99e5669b9b7065d163e9145293e42a1d06a
+FileChecksum: MD5: cf9ce5ee2b0a422c3f5704baf15725df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-sample-splitting-2-8-light.png
+SPDXID: SPDXRef-item11501365
+FileChecksum: SHA1: 69840d4979410a7a806703940a672cabc76c4078
+FileChecksum: SHA256: 13362cabeec92c3aaa7a98d22b656aaf7a7953ea0b2071817e0ffd1465444961
+FileChecksum: MD5: 9cc8150c058eb9d175fc5f4a68ef1cde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-0-2-light.png
+SPDXID: SPDXRef-item11501366
+FileChecksum: SHA1: e654a0a37c870239477754b9ba990ae209aa2267
+FileChecksum: SHA256: d819439c5aae3449caaf042a588ef6f8a209d50b014809c07b9b95f3192ddbea
+FileChecksum: MD5: e34569f2b1c8b6b4ecd0be7550beb69d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/zoneplate-plot-light.png
+SPDXID: SPDXRef-item11501367
+FileChecksum: SHA1: 462612c25ed61660784287a3afe18ba9cb95296c
+FileChecksum: SHA256: bcc73a741dea46a28966b314dab9d4ed48cafd8da2ed846a625c0a85e25d526b
+FileChecksum: MD5: 14dc82bcdc70346f0b3b8d1fce5706b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-1-32-dark.png
+SPDXID: SPDXRef-item11501368
+FileChecksum: SHA1: 78a8bc4eb2ce9b7c5211d7f0b5740dbfded4f94e
+FileChecksum: SHA256: 7851e1e428f467c1c20f4de1f566222c3edd51503d642cf0d5597682595329bb
+FileChecksum: MD5: 1d4435fa9ab296e85ee0bcd0490d3d64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-sample-splitting-2-8-dark.png
+SPDXID: SPDXRef-item11501369
+FileChecksum: SHA1: a259496a546f4545a78fa1267c1e55d1c8e4b469
+FileChecksum: SHA256: dfb6f9cec31e18aea6b38f9ba56b970722335fb270d22da3b9c1a9eb80f5c31b
+FileChecksum: MD5: ad0e79ea832f1e05de800613c35f341d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/error-filter-space-plot-light.png
+SPDXID: SPDXRef-item11501370
+FileChecksum: SHA1: b3114209422f142b85d557d875bfa0fe8b81b512
+FileChecksum: SHA256: 13d4a78f46ad9b0892e28e573b0479eb084525d3418d09e108aaae12d380970a
+FileChecksum: MD5: b5b606658ac63cb43ed29311eefd5802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/pair-plot-lattice-light.png
+SPDXID: SPDXRef-item11501371
+FileChecksum: SHA1: 5c388b0a916e84f508b13b3f14330285520a2598
+FileChecksum: SHA256: 94142194d1449cc4d9ed2f244a4f75121a490aaeaa971f43f6705063f6c71ec3
+FileChecksum: MD5: 94468b94bc8e1607e6598af643fa5f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/pair-plot-sobol-light.png
+SPDXID: SPDXRef-item11501372
+FileChecksum: SHA1: 16f90fc7da7689c8025d7ac40b7a649e96ad0fef
+FileChecksum: SHA256: 3fe51eb0fcdd3fa1ae476c15db8cecdea99ccaf216ec4f1fefcf506586a7eb2f
+FileChecksum: MD5: 373d73cdab6eeef8681dcd5993cc2c1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-sample-splitting-8-2-dark.png
+SPDXID: SPDXRef-item11501373
+FileChecksum: SHA1: 903b4e5e50e779fff6a522c36cb6a2663f0f39ee
+FileChecksum: SHA256: 05802f2b0eb87be3e96912b2dd5a016be132eda57225999748bca53fe24b5435
+FileChecksum: MD5: c53af00d2c8a497b32b881961727b9eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/openqmc-example-light.png
+SPDXID: SPDXRef-item11501374
+FileChecksum: SHA1: b4ba6c865377912682f0adecf5a9a15794d99c7d
+FileChecksum: SHA256: 957938a48f82113e1df85216fb4abf25f3dd0cb6fd9258c4b7598efa4352dcf7
+FileChecksum: MD5: d4347223bee0707e445cacfeb8ee274b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/mc-qmc-compared-dark.png
+SPDXID: SPDXRef-item11501375
+FileChecksum: SHA1: 56e8c999d88fd5f6b8ff17a5d28c182d3143ccff
+FileChecksum: SHA256: 8934396816ea6a61d8c7986ecdadf62750a24c39aa4b5b3f1385b9d3582d64ef
+FileChecksum: MD5: f84c653b789d91ab4c78a4d4e686fb96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/zoneplate-plot-dark.png
+SPDXID: SPDXRef-item11501376
+FileChecksum: SHA1: 845716d87dc4d95682ec42f9d22050945da9e9a6
+FileChecksum: SHA256: 1a41cf6f3bebadd45da3b96a61369e1487a0a2c197f4a454b5deb8bbc5297271
+FileChecksum: MD5: bd7a21db28289df4181c3e496bfd0e78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/performance-light.png
+SPDXID: SPDXRef-item11501377
+FileChecksum: SHA1: eccd0ea7ce6721cc02c783db761d618c93e54e7e
+FileChecksum: SHA256: b9a34d4bbf841d89a3ffa348a3e555095eca7730a8b445704eb0d0cfb5836268
+FileChecksum: MD5: 64e7d823f6c251e91fc826c86df1a9f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-1-2-light.png
+SPDXID: SPDXRef-item11501378
+FileChecksum: SHA1: 98466ebd241aa8b8435e6a9f02bca5c717035d33
+FileChecksum: SHA256: 4c2dd6c737fa76a21e4858f7519a5f9db552a911fdd2c88072b6acebd2ad380b
+FileChecksum: MD5: 1e89cb2275bbb15764dbe6851037c39e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/pair-plot-pmj-light.png
+SPDXID: SPDXRef-item11501379
+FileChecksum: SHA1: 891fdf6af63d7b80b9ed79fea5799c91ca9b370a
+FileChecksum: SHA256: e50646c3b1d26407ef9d385a74a1eaac4e9ace6c00f25983c6840f7504e172ba
+FileChecksum: MD5: 36c1d7344007107ed19c1c4bc38db19d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-1-2-dark.png
+SPDXID: SPDXRef-item11501380
+FileChecksum: SHA1: 53d11df0d9a9e74e4b8051b43d52f5cbc2971516
+FileChecksum: SHA256: 1f2bcacaa2eb8eddb696011983c0f4319d4fcd1699c0212cdaf457ec8d09f5da
+FileChecksum: MD5: 2969a2a4e43a41c212fa8e842788e6d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/cornell-box-sample-splitting-8-2-light.png
+SPDXID: SPDXRef-item11501381
+FileChecksum: SHA1: 8657a35cbbfd422bae523b77f0ce8fc0a6e4bde5
+FileChecksum: SHA256: 11dc2f6a7faa9fbc18239cfa3bdc7e89601864f92ed3294f724311a17a467663
+FileChecksum: MD5: 3e02b875a79c93af7e276dfb7156f003
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/error-plot-light.png
+SPDXID: SPDXRef-item11501382
+FileChecksum: SHA1: 7a0d23b8ecedf3490629694e86a1556dd7a4fdf2
+FileChecksum: SHA256: 90de5c1bdf4d62136f8dad0fd6f008e8f905b62e53f26af114dadc82bb23554b
+FileChecksum: MD5: 19de62b714ee729c0959248512fdcaf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/mc-qmc-compared-light.png
+SPDXID: SPDXRef-item11501383
+FileChecksum: SHA1: e47c2182064d826747fe175c2bdbd56fde9b1ee2
+FileChecksum: SHA256: 1e553a46f85c446d0af4662b34677ed469a820b05ddaaf2f50152b4c323d7f3d
+FileChecksum: MD5: 9c6f445b31c19dbaa9f699d5b9396e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/plots/pair-plot-sobol-dark.png
+SPDXID: SPDXRef-item11501384
+FileChecksum: SHA1: 979f0fa20d7979a2613f371df8dd1b46ed82cb90
+FileChecksum: SHA256: 37b21facb06e2e053edb799b54143413a6caf44bc413543769122ad09cab1d16
+FileChecksum: MD5: 5081ccfc9b3cbc3fa6c6b0adc931534a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-3-dark.png
+SPDXID: SPDXRef-item11501386
+FileChecksum: SHA1: 8210ddfb9aa9173c802cfdf10ef40a6d6c7faf3d
+FileChecksum: SHA256: f536bc2d23e18b9c8a248a3a5f8e25a6114eccc767cbd0fdc039906214c51cc0
+FileChecksum: MD5: 83f1d0581d2a0d77beed360316ee823b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-3-light.png
+SPDXID: SPDXRef-item11501387
+FileChecksum: SHA1: 55f11c905b184e77bd6f14c88b1df2013b545ee4
+FileChecksum: SHA256: 2ad9aa4434f67e9ed109247d442492afba962191371d8a0c029dd3cc15fcfdc0
+FileChecksum: MD5: acef3c729c1ed0f1d83d3a0c42cdde8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/pmj-design-dark.png
+SPDXID: SPDXRef-item11501388
+FileChecksum: SHA1: b43f1477dcf0f129708a4514078ef7f5fc98edee
+FileChecksum: SHA256: 8474e81acfbc75590ee6f8393ddb4c396c69a08f592c812ec015c6feb90bab18
+FileChecksum: MD5: 4c8c0019c31f27f595c7f3bd7cff40a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-1-dark.png
+SPDXID: SPDXRef-item11501389
+FileChecksum: SHA1: ae8f65097b8dc64a6e3f01a7b8939026c11189e1
+FileChecksum: SHA256: b6243de0671ccdfdbea56ac8283f0609f2d39cb6d225c972a4697e7ab88339ba
+FileChecksum: MD5: 5a8bef5630332cb60d31c1c0d4cb1cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-2-light.png
+SPDXID: SPDXRef-item11501390
+FileChecksum: SHA1: 9379a5ed16ea5e1fe26077ea5eeb3d6d84684b27
+FileChecksum: SHA256: 508c8aada525ddde600c7d5df765690f65835a4d44dab77a4baa671b5896e44c
+FileChecksum: MD5: 6437f24b4bf3e5cc3d2e261a93bf4e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-5-dark.png
+SPDXID: SPDXRef-item11501391
+FileChecksum: SHA1: 6a601ad1e695fed867185a111592bdb612aa532f
+FileChecksum: SHA256: 1773db55b330b635a671bc699cbaf4bb52fb7572615754f7cdeda321f642b645
+FileChecksum: MD5: 5e8844e33dba411ab0eab770cefc9594
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-8-dark.png
+SPDXID: SPDXRef-item11501392
+FileChecksum: SHA1: 15b742b8c09774c3c5dbf9d0c69e7b0dbc939900
+FileChecksum: SHA256: ab6b01d38779da9b6d2b5876e6c3e794b2a6ef99421aae5f275befffb3ec93c9
+FileChecksum: MD5: f2a167ba5c62a2aedce67927b1bc6e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/lattice-design-dark.png
+SPDXID: SPDXRef-item11501393
+FileChecksum: SHA1: 4415878f6b02c787b7f62d1efcb2f9373f399551
+FileChecksum: SHA256: 303d47d247407497602df3ccd1ba79b072d09313e3d720b5d0c6997a6ecaefa2
+FileChecksum: MD5: eff7fc162ff05e6106c808cc870f6c8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/lattice-design-light.png
+SPDXID: SPDXRef-item11501394
+FileChecksum: SHA1: 431bdf3f2901759a05707197164fbe4947c4efa3
+FileChecksum: SHA256: 9cfd26b7754ae1d6464619a695a9426cfb48b203c9a3e06f1fab71e08cedb52c
+FileChecksum: MD5: 6bae0cbccd7a8e13a48e8f116db20b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/original/implementation.diagrams
+SPDXID: SPDXRef-item11501396
+FileChecksum: SHA1: 0bb796cf47b3c7418391eb6659a94d9e9386af84
+FileChecksum: SHA256: 4b6dfdd934ef95cde682979a4eb7e1fdb49cc62c18612266ae8cbfd8e55f10fe
+FileChecksum: MD5: c5984a79d0a864ceb2c32fc0d48a391f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/original/example.diagrams
+SPDXID: SPDXRef-item11501397
+FileChecksum: SHA1: b784c7da0677ba8f3fc5f1786f24ce11998a5d61
+FileChecksum: SHA256: d916baa3b8004fdead14968c46ef3fcc6c47684dd6487d04788db59a5d0e3a0d
+FileChecksum: MD5: 02a6d3910575f6e2906591db986b4917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-7-light.png
+SPDXID: SPDXRef-item11501398
+FileChecksum: SHA1: b27011b5157111da398c4607af999859880ba45c
+FileChecksum: SHA256: 88071326ec24b116d0c8a3c19a77bde7265504e1e58770269316ca88e8ca7d80
+FileChecksum: MD5: a2506ef9a57c1f787579affdda94255e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-5-light.png
+SPDXID: SPDXRef-item11501399
+FileChecksum: SHA1: cf1c4cbcce000613ed2a9d1bfc11adad85303292
+FileChecksum: SHA256: 9c7a73e6e0f8179d4d46bcc5147f25757a8627f5939f3e966f38e84d1bd18017
+FileChecksum: MD5: 8585fc1a1117acb23d92df7832541422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-4-light.png
+SPDXID: SPDXRef-item11501400
+FileChecksum: SHA1: 7f3a51ce0fd1b98c9dbf6aeac945ce1d6b8a03e5
+FileChecksum: SHA256: 948e4dac641a5a554618058509eba546e1e98bcc7c1ad5d63a15959e7696658d
+FileChecksum: MD5: a074834077b8a1a8f811ebbaee07f741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/high-level-overview-dark.png
+SPDXID: SPDXRef-item11501401
+FileChecksum: SHA1: e4b501fbc738a4eba05d87043623f2bc7c91d712
+FileChecksum: SHA256: 5607cf26fbfc503c38121f8057ee2d01463409722a7ef661e670d4df2f833749
+FileChecksum: MD5: 3d5bcf9687a0466208e5fb021fc0066f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/optimise-index-seed-dark.png
+SPDXID: SPDXRef-item11501402
+FileChecksum: SHA1: 4faba685d66335e4335eeefbfecf432dce4a1e82
+FileChecksum: SHA256: 421739977db46d8740ce0438b19a3dbeb7e4aee485d32cb533dd4ae542c58319
+FileChecksum: MD5: 0bef9b04d4dd0848f6abb5d1f6ed4dc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-4-dark.png
+SPDXID: SPDXRef-item11501403
+FileChecksum: SHA1: afddb3bb79dfbb7fa9a48ecc5265c787fd4a3881
+FileChecksum: SHA256: e0b77ebeb7338627b7d397fe79426ba0ad4407e84bceca4d972959af8091ad7e
+FileChecksum: MD5: 9f2cf1838e3e8775f42ce8505e703ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-1-light.png
+SPDXID: SPDXRef-item11501404
+FileChecksum: SHA1: 1c1eb8ce6cbc9a9fb5d2b346eb5150d988e2f069
+FileChecksum: SHA256: 1508df7c660db605e460b2906acc9907c157226f83143cf207ac3ec087de6ff3
+FileChecksum: MD5: f8333f00a4592dc251941d917454a288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/blue-noise-procedure-dark.png
+SPDXID: SPDXRef-item11501405
+FileChecksum: SHA1: b7f74136bc56eb73e4c107a52590261c839e040c
+FileChecksum: SHA256: 85d2f5ca38fd809f2aeca33e3c30e107a67920315ffdebbb61e48b92471c6028
+FileChecksum: MD5: b489ada04ad8634b91999bbcd174e23c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/optimise-index-seed-light.png
+SPDXID: SPDXRef-item11501406
+FileChecksum: SHA1: 092ffdc95a379efdf7a2bffdc0f34bc531f9e285
+FileChecksum: SHA256: db5503a9773db6989874a0d30e0a10c5349d4b63abf47e7162bc23dc170ef14f
+FileChecksum: MD5: 4870e677d95f6c1d938e30085063c2bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-2-dark.png
+SPDXID: SPDXRef-item11501407
+FileChecksum: SHA1: 59bb04dcb2d477cd0a2f6cd18358bff3277b8eeb
+FileChecksum: SHA256: 49bb0b693f634c6bfa7d908a9a0995d56bad1655d2ad2584377b03ce2d18b7de
+FileChecksum: MD5: 934e1fcf9959ec374f744d367afac808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-6-dark.png
+SPDXID: SPDXRef-item11501408
+FileChecksum: SHA1: c374cea5ca43390d9f92e78a2478d6c3caae9bd8
+FileChecksum: SHA256: 65cd57d54b9cdd4cb54c8bf9e596faf545b6b60325039ca275fe4e249989bb2a
+FileChecksum: MD5: 4f4cfceac6ca2c71310a92833768be5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/sobol-design-light.png
+SPDXID: SPDXRef-item11501409
+FileChecksum: SHA1: cd5285e3d606b5cba0d5741d4b072d85b75ad0a3
+FileChecksum: SHA256: 83541e1962dbe0b09e4bf5e53698246e4380c9cddd0301ad2840b2aa817b4412
+FileChecksum: MD5: c07d05203cfedea4327c11efc1eb1637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/sobol-design-dark.png
+SPDXID: SPDXRef-item11501410
+FileChecksum: SHA1: dc332c5c1c00a61f6c8d1a1421ce6d3022fb6c46
+FileChecksum: SHA256: 8f7ba8ded12bef1b222f7fe1180bf0cbd635926905bf8befa2cfcfb6d60feac7
+FileChecksum: MD5: 82e7f1dcb5fef8c0b290334d37301d32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-8-light.png
+SPDXID: SPDXRef-item11501411
+FileChecksum: SHA1: 17e11c14c4f1f69d80dbac98e358d35161810409
+FileChecksum: SHA256: de7dc6a58618b4f37bb4f9231c4331fc75840479e7c363c1907784c633007fea
+FileChecksum: MD5: 891ce4e7efec543c835d6e3117c639ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-7-dark.png
+SPDXID: SPDXRef-item11501412
+FileChecksum: SHA1: dcb2b122fb193e101649732b5bc3ac9b35a12b73
+FileChecksum: SHA256: 0cbcba5fe2f0a7cc86b5fc75dae16a521382fdfa1bb1a01d06537a5f3d13a228
+FileChecksum: MD5: 78231c367a06ad95c4fdaa8f8bf18557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/high-level-overview-light.png
+SPDXID: SPDXRef-item11501413
+FileChecksum: SHA1: 9106b38cc6a7dfdffa900a9cee4ce03406574dc6
+FileChecksum: SHA256: c89bffbc05f4cd7d050f43f5ae87360edf2174de7c249b5d54cff7d3b7beb039
+FileChecksum: MD5: 26360b4c5a27e48f27bf687ad2329303
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/blue-noise-procedure-light.png
+SPDXID: SPDXRef-item11501414
+FileChecksum: SHA1: 6ac5124398d92be71c2522c8ef1f40bc2730f4e4
+FileChecksum: SHA256: 4138e86e092ed12a15dab267d61a2a494367fa7aeeaa9eb4b96cf8fdf8795a81
+FileChecksum: MD5: d07f31ec21746330cd2bf432d3d55819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/pmj-design-light.png
+SPDXID: SPDXRef-item11501415
+FileChecksum: SHA1: 30317d263da0e0f47c3ab6b3dad53cdb7f5157c9
+FileChecksum: SHA256: 63370d1b78466f60f9e1f3a3202220a7756b436ffdfd8b80c13879174bde0322
+FileChecksum: MD5: df9a5d11653eaef6ba4a413467a0e577
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/diagrams/domain-tree-graph-6-light.png
+SPDXID: SPDXRef-item11501416
+FileChecksum: SHA1: 6fc40e83c2cba20f430d99ce9d7e635d94256392
+FileChecksum: SHA256: 6ac23e7ac8672c5b19fa8af57352beebc98740217aa8bfb14809031366ec07c9
+FileChecksum: MD5: eb38f72b943072d20a39b7d463e75d51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/logo-light.svg
+SPDXID: SPDXRef-item11501417
+FileChecksum: SHA1: 45339d71a21aef15ab59037f97e3f252afe4dfae
+FileChecksum: SHA256: 11e5690f5a8773cf778a70a1053f729e86a0e50a2ad22576a8b1e9ac68081e98
+FileChecksum: MD5: 688a22d148c989c80a743b34698b34f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/logo-light.png
+SPDXID: SPDXRef-item11501418
+FileChecksum: SHA1: 4aa51f1b1f4950c08b8d39a192e018804b8a8564
+FileChecksum: SHA256: 7999e0a597b8e8f7dedda12d2f390476c67da65b5da8be8796151b564a238ab7
+FileChecksum: MD5: f683ba15e8c576ae8df9e1e7c057ce19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/images/logo-dark.svg
+SPDXID: SPDXRef-item11501419
+FileChecksum: SHA1: 8d793e357edac14739d6c3a921db392c14110815
+FileChecksum: SHA256: 35022fdbaec110bb729c9c5f2aa8cd21600fe9a6362e677f5c852336f2a6e330
+FileChecksum: MD5: ea27e76971fd88cd5a4bf83b9aa2a8d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/doxygen/MAINPAGE.md
+SPDXID: SPDXRef-item11501421
+FileChecksum: SHA1: 77f0a73d735447356fdc795174b612e7f47c15cd
+FileChecksum: SHA256: 9bf5a9a73ea0352cffbdef99cd07dfd1a4585ba1fb2cbb1b1900f4b76afd9700
+FileChecksum: MD5: bda392728096e452539dfdc2f3085cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/doxygen/DoxygenLayout.xml
+SPDXID: SPDXRef-item11501422
+FileChecksum: SHA1: a9b86dcd3d9829ff028dda2c5940f0c376465ad7
+FileChecksum: SHA256: a441d64837e8b94feb7a2869d150d5e55139d0b704a622bfb705fe409b0ad28e
+FileChecksum: MD5: 7ac8cbaa95226ea3ddacd4c5127d5dfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.github/workflows/documentation-job.yml
+SPDXID: SPDXRef-item11501425
+FileChecksum: SHA1: 4c810f4687327bc44883d3732039f6fda7965bdb
+FileChecksum: SHA256: 428bbfe01ec3bf81722e5f7f40a86140cebe2a3ea80f1df76a9e00bb9b829cea
+FileChecksum: MD5: dd3524aeda35904a11d1115675721ecc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.github/workflows/ci-pipeline.yml
+SPDXID: SPDXRef-item11501426
+FileChecksum: SHA1: 1e60d56419103a184cdfaa5b4b6432bb337c02e6
+FileChecksum: SHA256: a79e475075f31da93d5efacc5d9f4c4d325742ea94f3c3f07b2f6740ed9ab38d
+FileChecksum: MD5: ff8e54e229b51e9aebb4284720734e16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.github/workflows/coverage-job.yml
+SPDXID: SPDXRef-item11501427
+FileChecksum: SHA1: cf46f7e310ea4fedbfdf38725595f3057f05ab2c
+FileChecksum: SHA256: a73b9e736d0a2fdfdb5e9c75a3d7549b8e49fedd1bd87dbdf0cd4e6f56b4c975
+FileChecksum: MD5: 31df5957ab719eb67c74dfc40f579e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.github/workflows/static.yml
+SPDXID: SPDXRef-item11501428
+FileChecksum: SHA1: 5d4f26c6b6711d64e6b800d0a2da0162eb2eb02b
+FileChecksum: SHA256: 2be9e6bc0f1ffc70d59c6c6bc2bb6c62f2e6313b57bffa845810b8813022d89f
+FileChecksum: MD5: 7b5a88c6817e8fff16fa5e436dfb5736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.gitmessage
+SPDXID: SPDXRef-item11501430
+FileChecksum: SHA1: f0949e7a21dd5168cc6654a7f4f7efd299a7a685
+FileChecksum: SHA256: 5c4891999a4334a4d04c6632aaf3e6a44c24fe532959569bd5163a9f6913c590
+FileChecksum: MD5: 60edf9939bd1c77bba2aebc72714c64e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.clang-tidy
+SPDXID: SPDXRef-item11501431
+FileChecksum: SHA1: 60ea46d85faa14aa7000704e1670e22d85d885fa
+FileChecksum: SHA256: 117f355540a5655f20825e2ce1301a4b43eaf21b844d2a50d312fd43463f3aa0
+FileChecksum: MD5: 4b0919be45cacb9b2d72998718127eed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.gitignore
+SPDXID: SPDXRef-item11501432
+FileChecksum: SHA1: 78267c6b857bd0e7e564fe0300344c99ce22c2b4
+FileChecksum: SHA256: 7cf716a4fe5bc8466f47ff5895313ad8cf63f18489b552c8804ce7a76ce3cc5c
+FileChecksum: MD5: 1da9204a243219c5c5229fd224d17aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/flake.lock
+SPDXID: SPDXRef-item11501433
+FileChecksum: SHA1: 08108a58c3731747678da7aa17bf0fb18dc90dd5
+FileChecksum: SHA256: f9c479e9031e07fc19b4f8611c05492ab56669e1da42f2a0f3dd5e71bf7897ed
+FileChecksum: MD5: 511d13fd976217ecd18aa7ed8e8e4a03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/CHANGELOG.md
+SPDXID: SPDXRef-item11501434
+FileChecksum: SHA1: 79595d7df9f1643713a336ee5956c577c23a628f
+FileChecksum: SHA256: 303c2a4995bba8549bdcd92c0ce0f7ce6649ee56e1b9ed54b40e1d7ed927ed2b
+FileChecksum: MD5: 4c101798f7e7f8906f42e6af6354af85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/data/lattice/keys.txt
+SPDXID: SPDXRef-item11501449
+FileChecksum: SHA1: c8863980d70b17ab51fb6b96abf34c2be50754bd
+FileChecksum: SHA256: b67e66f013ccc1ce75d0e17881c87b20bd71e00b7951467c72f4e51b8ff1e4db
+FileChecksum: MD5: 7d2047f31e4ecac753dfcfcf3d55224a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/data/lattice/ranks.txt
+SPDXID: SPDXRef-item11501450
+FileChecksum: SHA1: 79489b1e2ea07e98ab7a283e84d0967e79130f32
+FileChecksum: SHA256: 14627f40fd755443a70f5ab3e4fc94147080b701fb0ad4235e8c8124fc38aff2
+FileChecksum: MD5: bb578231c077a3adfb0077e52f183453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/data/sobol/keys.txt
+SPDXID: SPDXRef-item11501452
+FileChecksum: SHA1: 2cdac349398840c7af8cf2a8504ea50c30b9ec7a
+FileChecksum: SHA256: 5f5e4e12edccffc398a725671feaf6964f56e1cf6ae1d147f7327b3047fb7d1a
+FileChecksum: MD5: 14b0e251a78e5c0f5b3dff46b897420f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/data/sobol/ranks.txt
+SPDXID: SPDXRef-item11501453
+FileChecksum: SHA1: 9c13194f9de956dd76035205374a545fcf9400b3
+FileChecksum: SHA256: 7b99f3d0f3ae4bc8ec7d349321453b9056eddc650b71bbb7437e2688cdf5b39b
+FileChecksum: MD5: 44136e7a3f1921d3648c48002e2ab1f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/data/pmj/keys.txt
+SPDXID: SPDXRef-item11501455
+FileChecksum: SHA1: 241996251f8c701b9ed0c757f2d9803a500daa0f
+FileChecksum: SHA256: 60469a43b3af76b94ebb0d535c9d7e556f13d2d5bcedf4d619bcd565b4785c13
+FileChecksum: MD5: 37f8494c3769633eb2b14032cf1d3289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/include/oqmc/data/pmj/ranks.txt
+SPDXID: SPDXRef-item11501456
+FileChecksum: SHA1: 6251bab19fc38b7f98ecd869549c4db11be112c4
+FileChecksum: SHA256: e082860ab1cd919e5fce5f0c56b159a55c3bba5eabf7a54df101c52787426941
+FileChecksum: MD5: 23e7b361ec831b420e4018a6e3e493de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/LICENSE-NVIDIA
+SPDXID: SPDXRef-item11501472
+FileChecksum: SHA1: d1d4c2568effe4e1f4348532185517f5f629ee7a
+FileChecksum: SHA256: 91966bfead9c624f0294de5c30d3f5299d6fb01864a9e87a64c0fbf9af26510b
+FileChecksum: MD5: 4c8564371e628175d01283795703b5c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/SUPPORT.md
+SPDXID: SPDXRef-item11501473
+FileChecksum: SHA1: e0eedf53933ae773e4665d8f249a14ce39baa3c5
+FileChecksum: SHA256: 63e5ed7f4fc5b36b402db4586d55cab2cc55d664b03cbe77c7ea5aa3e5ab1da0
+FileChecksum: MD5: 36406f09e77de8001c6df3ec745a2c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/mkdocs/stylesheets/home.css
+SPDXID: SPDXRef-item11501477
+FileChecksum: SHA1: b20cf4161e493d69669a595f4b3a02e63070801c
+FileChecksum: SHA256: c132259af33114aa0589d4e8c5811e11de965494776430547d37a623509a009e
+FileChecksum: MD5: 9533dab217f1619763c7ecd5b9e9783b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/mkdocs/stylesheets/basic.css
+SPDXID: SPDXRef-item11501478
+FileChecksum: SHA1: ca69f082578c56d208540d2f414b9c53352dd89d
+FileChecksum: SHA256: 5860ab24d4d5b126c5b224074925ff7c41a1a0be407c7dfe13a29afa5a64c493
+FileChecksum: MD5: a4c53208936d6db64f7af8cdaaa9e9df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/mkdocs/javascripts/katex.js
+SPDXID: SPDXRef-item11501480
+FileChecksum: SHA1: 8eec2357f49651531d6bca8bf0aa5d1551a739f2
+FileChecksum: SHA256: 793e39941f3d4cbb89c104831e4eb92efa6e09d50ccdb1ba7919ad87fd340d0a
+FileChecksum: MD5: 9f8428b0807fafd7dfe9a2e6aff08142
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/mkdocs/home.html
+SPDXID: SPDXRef-item11501481
+FileChecksum: SHA1: 7f8350a540ad57c51318e102910d554bd5d0ef21
+FileChecksum: SHA256: 6b0369341dfca4d433365b392c903cbcb51b56e14c7a2ef5af25fca5342a6d51
+FileChecksum: MD5: 9baa3b752829618aa4bda86ad12c334f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.gitattributes
+SPDXID: SPDXRef-item11501482
+FileChecksum: SHA1: 6cf993c287973e038a73d41bf54db90ff0794143
+FileChecksum: SHA256: bf946a721b7339e1ffe4493b7ef2ed86992f261bc075556dcaed4d9cad638058
+FileChecksum: MD5: de47589b76a7afe5704e17b185041c1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/CMakePresets.json
+SPDXID: SPDXRef-item11501483
+FileChecksum: SHA1: 1e6ea697468165d758a3535bb308a3d8b7e21f02
+FileChecksum: SHA256: 5df91b13953457a2bcc77c54f656d4af07fa19b872a1bef6a05062d46929703c
+FileChecksum: MD5: 78dbdbc5fdf931cfc71b11832d437f86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/Doxyfile
+SPDXID: SPDXRef-item11501491
+FileChecksum: SHA1: efe0d480c79be3460df36fae9d811c511d5c749d
+FileChecksum: SHA256: fb774b8400b420ca5cc7a4f0e32f8b22d450fc28e4cd1d0f136cfd4bacd6fb81
+FileChecksum: MD5: bcfa9e59739fd9a9b463dfd26a9c839e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.clang-format
+SPDXID: SPDXRef-item11501493
+FileChecksum: SHA1: 0f6ae0b2cc26fd8e9c0ee2afad704ced82baeebb
+FileChecksum: SHA256: 4df6a6b7001654e2f7e121690a906bd2568cee1aae61f58829d42aa92558ac24
+FileChecksum: MD5: be6264170bba945f5d777c3f4734c8f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/meetings/kickoff_meeting_agenda.md
+SPDXID: SPDXRef-item11501497
+FileChecksum: SHA1: bda48b9fe981ddc8e3e164e0153cb6c1eaea303e
+FileChecksum: SHA256: 1e444a2d37290868afa77b8928ba012cfb29620026e909060c7c6f011d9b9f23
+FileChecksum: MD5: b268762d8dfc313a1a5671f083f3591c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/meetings/yyyy-mm-dd.md
+SPDXID: SPDXRef-item11501498
+FileChecksum: SHA1: 4a0ef10992416f484fab8e3caa4ef3914a2e675c
+FileChecksum: SHA256: 02d957db68e83e91c5cc8067b1a5bddcad3ec53ba8ff331c1aa305890bcea79f
+FileChecksum: MD5: 01167de2eb5b57341ff1c80911d951e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/meetings/2023-06-06.md
+SPDXID: SPDXRef-item11501499
+FileChecksum: SHA1: 96c6e43bef10e1eae75ab78cfb28a6530b20bc03
+FileChecksum: SHA256: b83f7eedb63ee7774835834bfc7a9c7f5ccce57475ea5c519edd8c853962112f
+FileChecksum: MD5: 4ee92ada3e60c5456616fe9fdabc193d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/tsc/project_intake.md
+SPDXID: SPDXRef-item11501500
+FileChecksum: SHA1: bfe6e0eae6cc52f4f42ce4632dce386a84a97a2d
+FileChecksum: SHA256: d90f990c1b6462cecdac9d08d5c669f2e11adc0a26eabce7a2a1ce406af7552f
+FileChecksum: MD5: 20ddaab3a92ec2d888bb15fcb1af06a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/mkdocs.yml
+SPDXID: SPDXRef-item11501506
+FileChecksum: SHA1: 05b928a76fe9c67b6e616e46ed9b6bb9ded09987
+FileChecksum: SHA256: 77c743c388d2f2d38bd9997297a2b6ae47636663d823769e5bbcf9cf494b66f8
+FileChecksum: MD5: da6f420d1da9ee120a3e6aff20a5149c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/README.md
+SPDXID: SPDXRef-item11501507
+FileChecksum: SHA1: 1f013cc528ac64b6c399116da606ab8cd93f6582
+FileChecksum: SHA256: 1eeab2c9c4a1e04381b3a55cc4ea2c17bc82c9c60cea1df8c5f2d39f77866ad3
+FileChecksum: MD5: 4b48ece948ff665728a26922c269382e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/.ignore
+SPDXID: SPDXRef-item11501508
+FileChecksum: SHA1: 728602cca10bfed8e276dde997cb8b01dfa65feb
+FileChecksum: SHA256: 1cbd16d23d24a29c009b3665151ba56fc57a16436a2b52003c7d4b5564fe2c62
+FileChecksum: MD5: fe156a4d401434464d4f12a2ae1ec01b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/SECURITY.md
+SPDXID: SPDXRef-item11501509
+FileChecksum: SHA1: 50d73559044e8a0f0e049e9a0539648afa1b7c91
+FileChecksum: SHA256: a0525e75851da4affcd08432ff80816965b17ec0db94c9b887ae476a84dc3943
+FileChecksum: MD5: f29d6e1e2aa8ce08c68dac4c651fcd1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/COMMITTERS.csv
+SPDXID: SPDXRef-item11501510
+FileChecksum: SHA1: f9fec3a5b1b726f9ebf6d100b5fa57823534b476
+FileChecksum: SHA256: 8995ceba7fd494235cf8c1ed47bb70874f4fa81bcb64b030e6be54e586dd5dbd
+FileChecksum: MD5: 2b519d125568283507faa545bf4c29b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openqmc-2025-10-30.zip/openqmc/CITATION.bib
+SPDXID: SPDXRef-item11501511
+FileChecksum: SHA1: 2e3ae51a0af7ef62798cdf0f745464581c5a76d2
+FileChecksum: SHA256: 60b4d91db3e818a864edcaeaa096db1a2810caccd33436c74642cc79ed6b5685
+FileChecksum: MD5: 0163d62c7dea4409bb922ed9274a9696
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
