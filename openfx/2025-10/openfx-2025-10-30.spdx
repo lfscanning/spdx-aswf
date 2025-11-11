@@ -1,0 +1,4402 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_openfx-2025-10-30.zip_1762507766.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-07T09:29:26Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openfx-2025-10-30.zip
+PackageFileName: openfx-2025-10-30.zip
+SPDXID: SPDXRef-upload2012
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: d145024890b851bbcbf3fd4be3a3f6bae702c51e
+PackageChecksum: SHA1: d8ff447704b9caababff6502547a139598857032
+PackageChecksum: SHA256: bf02906b7e6a20d37b0d5111a036e27f8cfaadbcff2b17797a6ea36097c8f040
+PackageChecksum: MD5: 29c9bcb2e8b80f1f88369cebb69c3670
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2012
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxKeySyms.h
+SPDXID: SPDXRef-item11489055
+FileChecksum: SHA1: c38804b8c193743bc9939b0345e4fc979b62c6d5
+FileChecksum: SHA256: 9a47813d39bb9667f4a28d8dbbc9bf33ec050a50e112ea8b8e87a4a0e838b1df
+FileChecksum: MD5: 1d8c04f03bba878bed3c33fe7c3f95ed
+LicenseConcluded: BSD-3-Clause AND MIT
+LicenseInfoInFile: X11
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-fossology-MIT-CMU-style
+LicenseInfoInFile: LicenseRef-fossology-HPND-warranty-disclaimer
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause
+Copyright (c) 1987, 1994 X Consortium
+Copyright 1987 by Digital Equipment Corporation, Maynard, Massachusetts
+copyright 0x0a9 define kOfxKey_ordfeminine 0x0aa define kOfxKey_guillemotleft 0x0ab	/* left angle quotation mark */ define kOfxKey_notsign 0x0ac define kOfxKey_hyphen 0x0ad define kOfxKey_registered 0x0ae define kOfxKey_macron </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item11488696
+FileChecksum: SHA1: 34a3d05fdedd62e86ca91d48453cb1c891af84e3
+FileChecksum: SHA256: c1ac7793d648424db4ea8d98ce7b8d5c35b0e1634688fc4f0b7d4ee2bc7763e2
+FileChecksum: MD5: c6e0b110c518a211fd8a2601b749c22e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. --> Code of Conduct </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/CONTRIBUTING.md
+SPDXID: SPDXRef-item11488806
+FileChecksum: SHA1: 12d66dbfcd935290dd14c45d77b5479cbe16b230
+FileChecksum: SHA256: 2f9f57e492e4bca13f770a72e0df86c582a3187113c0ad3a7f4580ea2b76d361
+FileChecksum: MD5: 238db3cdd83dad10e55e750eb8cb0f2c
+LicenseConcluded: BSD-3-Clause AND CC-BY-4.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. --> Contributing to OpenFX
+Copyright Notices
+Copyright (c) OpenFX and contributors to the OpenFX Project.
+copyright in the original contributions by a variety of companies and individuals. When the project transferred to ASWF, these copyrights were assigned to a new legal entity, OpenFX a Series of LF Projects, LLC (abbreviated to "OpenFX" in the notice).
+copyright </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/DoxygenIndex.rst
+SPDXID: SPDXRef-item11488722
+FileChecksum: SHA1: 74fec40b79b721a1701db059cfeb82d620e34bf0
+FileChecksum: SHA256: 48c6a05d61b7e387f222e718982b8c9c86859917f786c9336d0d310cf0a7073d
+FileChecksum: MD5: 9dcc1cd607c530277ada914257972ffe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/GOVERNANCE.md
+SPDXID: SPDXRef-item11488699
+FileChecksum: SHA1: 07047017312611721cb5b08032ca80689f8dd792
+FileChecksum: SHA256: 1903f2302c0946261e59dd488e31777f82f297d2bf02e1b03d37b42edc7e0f0a
+FileChecksum: MD5: 83e4eca4d8079ba657acb29ba74a26c7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. --> </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/apiChanges_1_2_Chapter.rst
+SPDXID: SPDXRef-item11488750
+FileChecksum: SHA1: cf33601bc80c7cbd41a743b94fb5c0052992c813
+FileChecksum: SHA256: 7d73bb554532da7a941ae6054aabce2351ee2a1b5fd787c4756e43148d9bbf12
+FileChecksum: MD5: 63ef4087cf63db01d83e97b844bad510
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/index.rst
+SPDXID: SPDXRef-item11488755
+FileChecksum: SHA1: 462e5baebe65567a87e9c8a4c00c83351287754b
+FileChecksum: SHA256: 779b30e10aa0482f13493091e8553eb80dfadcea3a266d1689d4e1e55b0789d3
+FileChecksum: MD5: 5d6eb82b1fa779a160b971f69f8fd19f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/ReleaseNotes/index.rst
+SPDXID: SPDXRef-item11488705
+FileChecksum: SHA1: 66b0a35ea2561e4b84475e12617b94ef03ee832b
+FileChecksum: SHA256: 98319bc639e4021c65aba6ab40d65df82083b4d8a2df14a71dc517131e93d06e
+FileChecksum: MD5: 81d3365f4fd7345ba553de968060ad38
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/index.rst
+SPDXID: SPDXRef-item11488702
+FileChecksum: SHA1: b332edfefecf006c28af0158c78f7e67e96c9f22
+FileChecksum: SHA256: f96a29a71e30e5b06700eaa3abf950a413a254f301507f24732862cbd820d8d7
+FileChecksum: MD5: a66426b3e24a927ce18d2df57668827f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/index.rst
+SPDXID: SPDXRef-item11488717
+FileChecksum: SHA1: 172a7e30b59be921e503f9218916705891b45e44
+FileChecksum: SHA256: a5fdba023137ac351302077640882bb0ac5ee07af6009d357e50525387ff796c
+FileChecksum: MD5: 15d7f90303204aca1f5a86bec4ed798a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/install.md
+SPDXID: SPDXRef-item11488835
+FileChecksum: SHA1: bc4884efbc00d51bba865d643f32328f6105ea96
+FileChecksum: SHA256: b3fa470e992ff74dfd95ba51b6c71ae89d76f7c577efbe5dbb9c3f51d32b5c9a
+FileChecksum: MD5: 342e5dc20faec895f1ac9c20cbb0c5d0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxClipPreferences.rst
+SPDXID: SPDXRef-item11488751
+FileChecksum: SHA1: 7c6b832a668a7da4c77474f7249e1430c60ec298
+FileChecksum: SHA256: 93a30efd88fe0e5b20503327ee557995f09ddd8fef410fceaabb06d6c4b930c9
+FileChecksum: MD5: 79e5ff0c0b573afafaa9e8bfbe8c36a5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxCoordSystem.rst
+SPDXID: SPDXRef-item11488749
+FileChecksum: SHA1: e2c1f35bbbae0e4dea4465450b683b749fdf89a9
+FileChecksum: SHA256: 5fb37286937b856aa7b76d93705f6073b01e9e175993496308433ed4651e97eb
+FileChecksum: MD5: 56b12b5602c4bbd0a43f22ea83f1eefe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxCoreAPI.rst
+SPDXID: SPDXRef-item11488723
+FileChecksum: SHA1: 19cd52c4f3934bafa4c70c47249b4bb8bc944d11
+FileChecksum: SHA256: 756fec66ae9c14fedf59588e177d9d3bf7937168a6124d7024953e198bcb9c8f
+FileChecksum: MD5: f17ae9202a242ad1c9efd4821a3fa092
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxDrawSuiteReference.rst
+SPDXID: SPDXRef-item11488731
+FileChecksum: SHA1: 4aa693fbb79a8d9708abf617463ba3e8f0be4e03
+FileChecksum: SHA256: 98cee8aba662e0f8ea5cd03690842e60e14698dde5dc9ec1b5a30a3ce9ef1052
+FileChecksum: MD5: 6a04ce96ade0c0a3c3760a5d5726e55c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/ofxExample1_Basics.rst
+SPDXID: SPDXRef-item11488784
+FileChecksum: SHA1: 318a03648f03c5d4bbf53d9b82879bb658677e0a
+FileChecksum: SHA256: 93eb1b10fb4d332a936f253842ee91103835cfaa509817b2fa63270dd2b61f24
+FileChecksum: MD5: 4bf6e18702147ffc8d99b17e758a0779
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/ofxExample2_Invert.rst
+SPDXID: SPDXRef-item11488754
+FileChecksum: SHA1: 4908da3fd61ac639f65917c957f9fcd15ce89ad9
+FileChecksum: SHA256: 6ce1f992545a73edce1e0cc67056cc2893940d780f980c77fb123de785f8c9c0
+FileChecksum: MD5: d663309624d8c865b91b721f395a1213
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/ofxExample3_Gain.rst
+SPDXID: SPDXRef-item11488757
+FileChecksum: SHA1: bdd670bdcde0d34005266ca0c917f6b344f7dd18
+FileChecksum: SHA256: ad7e5be492b83d20e4f7bd9047482a6cd1d3cab69213507832a90c4d294d8bcf
+FileChecksum: MD5: 3a0aaba62f30edb8b5e51ba7f74d4adb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/ofxExample4_Saturation.rst
+SPDXID: SPDXRef-item11488756
+FileChecksum: SHA1: bf7cf6d5d1e747e0066da37ca745e5a2e3f7b826
+FileChecksum: SHA256: a0f11c9a12fe18886fe2953d950a8f8a7ca04ad1022ddaea123c204a4c3b774a
+FileChecksum: MD5: b05d0f3031465246e6f6790d6493da4a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/ofxExample5_Circle.rst
+SPDXID: SPDXRef-item11488786
+FileChecksum: SHA1: 77e3a34f11c32db6220b18ed934f1453cddc82b3
+FileChecksum: SHA256: b9f902b5df6d0032ae0fafbeb31c5e659987a20c34fda86d2314e10b4ba12ade
+FileChecksum: MD5: 2ad15bdf1a4dcc872d8c3fbc521311e3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/ofxExamples.rst
+SPDXID: SPDXRef-item11488753
+FileChecksum: SHA1: a7d8211f38e9c1e487ef0f101340808fbe27dfa9
+FileChecksum: SHA256: 14edf3dc405020cac1d1cd1912a07f5dd1d8514cdd85a6ad9990539a90befade
+FileChecksum: MD5: 156230ff8e09c0586c9c7c6a1f057c01
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxHostStruct.rst
+SPDXID: SPDXRef-item11488718
+FileChecksum: SHA1: d089ca0131f5294d8394657d83ce1301c34a5f5a
+FileChecksum: SHA256: ec067a5efcc14ad320a732aac47a2ba4b259fa0c68d18d5232fe5be11917ba3e
+FileChecksum: MD5: 96cb68b4fae423638ad0697c706f5657
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxImageClip.rst
+SPDXID: SPDXRef-item11488745
+FileChecksum: SHA1: 759907c62bef24c483a6db9d44d13b645ae8a48c
+FileChecksum: SHA256: c57c1d9ad51ecd75c7504ea34fcc0271c799b06055a70a276242764586a38e8f
+FileChecksum: MD5: d1677d0afd928677a5d9dee9f8cd8fb4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxImageEffectAPI.rst
+SPDXID: SPDXRef-item11488725
+FileChecksum: SHA1: 4e12561ce6aff8f95a977a2377fde5c5dc6fa526
+FileChecksum: SHA256: 50aa8b444d9106145f2f7499beea168f5f069deb03e407a9a186234ee06a0f1e
+FileChecksum: MD5: 19cdf97b7d58a0b855310c4eafab868b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxImageEffectActions.rst
+SPDXID: SPDXRef-item11488721
+FileChecksum: SHA1: 712a24300023b87870970baf9473b75e7d32f217
+FileChecksum: SHA256: 369d386a5c84fa964c8068d8861da07ebc9d6a3f9c659328638149bf116d87b0
+FileChecksum: MD5: bd1f1e2b3d90eb55ed5a27ccf1a5cc66
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxImageEffectContexts.rst
+SPDXID: SPDXRef-item11488716
+FileChecksum: SHA1: 4e5931ce6e681c030d72ad3c3417c0bc4e363c3e
+FileChecksum: SHA256: d2a314cd581744ddafd228a161a619ecaecc4f6b95f3b28400f7130090e5a448
+FileChecksum: MD5: f43cae285977c6494c919517539efe34
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxImageEffectSuiteReference.rst
+SPDXID: SPDXRef-item11488742
+FileChecksum: SHA1: 704db7acfa295c2e2875f30c2ca6d69797af2bd7
+FileChecksum: SHA256: b7ab28203eec10f6e504dc953b0e065269a0ab7be0e85a50b58c782e22b2f9a6
+FileChecksum: MD5: d2c716a994ec18292789388f87439f41
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxInteractActions.rst
+SPDXID: SPDXRef-item11488714
+FileChecksum: SHA1: cadbd27c56babfbc9e9b2a4f0db3f056854f491e
+FileChecksum: SHA256: 8531268706f6b6534e27e7a38ed36f02bfd98b7ac5b34555ffd6cad9cf6e88ec
+FileChecksum: MD5: 7161f39871209643093ed4bf5b47e757
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxInteractSuiteReference.rst
+SPDXID: SPDXRef-item11488738
+FileChecksum: SHA1: 65376293a94a553c85dd510d5c7e28b28c7f9d9b
+FileChecksum: SHA256: d8ccccc49357be4025853654799a5afcb26d7d56a7a3f360801d86b419427714
+FileChecksum: MD5: 1acd71c582e0d7d08a8c44fac5a3e1de
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxInteracts.rst
+SPDXID: SPDXRef-item11488746
+FileChecksum: SHA1: ff371ab2ac25622fbee044af6773971266ec1ec3
+FileChecksum: SHA256: 69cb6b41c10f2cbf7f6007b8d7889f6024922e2f7780d0db9fc6bdc2709f048b
+FileChecksum: MD5: 64090fbbb9154509ac89391efae3409a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxLoadingSequence.rst
+SPDXID: SPDXRef-item11488743
+FileChecksum: SHA1: 38ae371c639acc6fee8056b1a61e586f76050829
+FileChecksum: SHA256: 2ff5018fbc4e2ac7a8a700ee36ebac705c67502fb0b200116c3657ba8bb5928a
+FileChecksum: MD5: 28633e97f8aef95ed21575a616ed0a17
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxMemorySuiteReference.rst
+SPDXID: SPDXRef-item11488741
+FileChecksum: SHA1: 4cf99e7260b2c0c263895105d91bc5cf53575ce0
+FileChecksum: SHA256: fc113919cc4420ea484d271b97745d35db801f2054037b4a92f4685b1632918d
+FileChecksum: MD5: b8d9e12df43e59427939a983b20adf76
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxMessageSuiteV1Reference.rst
+SPDXID: SPDXRef-item11488736
+FileChecksum: SHA1: d7d14b87ee5298f07b44d09ef834ed7b6b4e5cc9
+FileChecksum: SHA256: 492ecd03254c17ff7b92175b7eb63049df965b570c9b19090458d9a6ab68f5de
+FileChecksum: MD5: c807778c64404874a7e0a8d226df2354
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxMessageSuiteV2Reference.rst
+SPDXID: SPDXRef-item11488737
+FileChecksum: SHA1: b6c4653ed5ba2b98f53910c15b07871f6630af88
+FileChecksum: SHA256: 99c445f9e7e4c23773f42558386b0086726e4be83751cafaa49841516c62f3f1
+FileChecksum: MD5: 1a4af4bb9d78ebf503f5ca40f57ed4be
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxOpenGLRenderSuiteReference.rst
+SPDXID: SPDXRef-item11488732
+FileChecksum: SHA1: 519f6004dffb4aae288c7685dc257c0f3da9f6c3
+FileChecksum: SHA256: fc9915eecb70a507c9e612c010fcf74516bdd9f7ac10c864944f18ced4028193
+FileChecksum: MD5: 7e3c6f4c57e686ae842fdd1a43c21ad9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxPackaging.rst
+SPDXID: SPDXRef-item11488747
+FileChecksum: SHA1: d7f627113f016ceaa4b1bfa77c0bad5bf2f00dc1
+FileChecksum: SHA256: 5bc182f3a07ce6fa9b754f46f28afb0219a40ec110d3ccbea938848d67181dd5
+FileChecksum: MD5: 028988b3b9e280e8bb38d1b330c662f2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxParameter.rst
+SPDXID: SPDXRef-item11488713
+FileChecksum: SHA1: afccedc7b5db388f26f36704456399b77a64be71
+FileChecksum: SHA256: d047af14c4d2d844a0ca021c23bae862493f6a8f6b2176d1ebf2132af4e1e0e9
+FileChecksum: MD5: 1cdf395ea1ff39c998b1198103aa02f1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxParametersSuiteReference.rst
+SPDXID: SPDXRef-item11488733
+FileChecksum: SHA1: cea349b861ce2c1d7c724a660a677a0c1cf552f1
+FileChecksum: SHA256: 58fddf6f99dafcf91d9412bcfce46d4497c152fc76a8df4a8a29f8e4b5be8958
+FileChecksum: MD5: 0184a8413a93e05f4320f927df10d89c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxParametricParamReference.rst
+SPDXID: SPDXRef-item11488729
+FileChecksum: SHA1: 80c53db662cdb1bae453f5bd56b48a17464eddfc
+FileChecksum: SHA256: 16d8b56e2cf33d8c11dcaceb7573ec2f9250d51670783b84971a5c1097be8454
+FileChecksum: MD5: 509a2505a93527c1050f596b076e1d46
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxPluginStruct.rst
+SPDXID: SPDXRef-item11488715
+FileChecksum: SHA1: 65579dd0c832434d367a3e96e1f4bd3569fa4b8f
+FileChecksum: SHA256: 623c463bd7a8466ece0533b1d5f92d96daee67795d4d87e91ce53ac2b9f8d847
+FileChecksum: MD5: d096b7c0286a8f323830a6145ab573ba
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxProcessingArch.rst
+SPDXID: SPDXRef-item11488727
+FileChecksum: SHA1: 91de538a69edd0d37cc22955fae96cc94f8f05b0
+FileChecksum: SHA256: 8772c64066eb5dbbd996b5d462006f64f14cdc189069e9fa7356ce7e6dadb9ab
+FileChecksum: MD5: 05d158751e61e7c4a529c8810c8ce313
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxProgressSuiteReference.rst
+SPDXID: SPDXRef-item11488740
+FileChecksum: SHA1: c77c0523feaa9435cac70a4a71b433d4b2ce5693
+FileChecksum: SHA256: 20dfe16b68911e77a2658cd85f0e3a43fadc9ab8ee76b8510ef90096c39e98d9
+FileChecksum: MD5: 979eb5ac3f179897bd36fa7d6275bc3e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxPropertiesByObject.rst
+SPDXID: SPDXRef-item11488720
+FileChecksum: SHA1: 1750f89eead2d508b7908ade54dc4cc2676ebdcb
+FileChecksum: SHA256: 29866b1f7e4dda326485f67d6de6f6ebc41b84a1e59da11c18ee1bf4cb1975ef
+FileChecksum: MD5: 3f1296a0d4002256107860404b8031b5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxPropertySuiteReference.rst
+SPDXID: SPDXRef-item11488739
+FileChecksum: SHA1: 1555a88ffd99db8f05024afc0aada27d4100f06f
+FileChecksum: SHA256: fe26f4d678bc54b85eae05703b00883936625aa277b732bb2538ecb4db31fe86
+FileChecksum: MD5: c4d6387a4b0df96c224b8fcbd2861483
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxRendering.rst
+SPDXID: SPDXRef-item11488744
+FileChecksum: SHA1: a58b3bd47c2dbfe2a8b7df8e8c3d08b93c8a2554
+FileChecksum: SHA256: 60bdc7dc2191cf9c5a1c044b8c23b0140485ca81cca7cd91bc601cea41e161a9
+FileChecksum: MD5: 1cf8aa56367d7f5b4474b7c47b31c3e3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxStatusCodes.rst
+SPDXID: SPDXRef-item11488724
+FileChecksum: SHA1: dd4b3d0ffa02e23072b2e05948e538509025092f
+FileChecksum: SHA256: 5440b9a694eb784999f56ef779fc501698269da7c7c2b0a425a8829129ba1275
+FileChecksum: MD5: c13872bd61e16abdce5a8a196fb0c7d0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxStructure.rst
+SPDXID: SPDXRef-item11488748
+FileChecksum: SHA1: 2a12c2e3642369d0fc0457d9bd742d9950d4a5e4
+FileChecksum: SHA256: 26715bc97fac8a7839cd7e37f9c45d4315f415babe3951a81cc21ac07c864a56
+FileChecksum: MD5: 12a558ae182cbdfbc906ecb3e267e1bf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxSuiteReference.rst
+SPDXID: SPDXRef-item11488730
+FileChecksum: SHA1: 2f608a4d48104fd861fbb36cae8db9848b385942
+FileChecksum: SHA256: 27527ada24a47e6207c4e404914c4d13355859fecb5c05ed63a07114ad369f87
+FileChecksum: MD5: 7f1b895bb2fb13266d00652330132d8a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxThreadSafety.rst
+SPDXID: SPDXRef-item11488719
+FileChecksum: SHA1: 35870b7fbe239c0b90c6e7b968aeb69f5e7979dd
+FileChecksum: SHA256: a6a84dfc87213847ee62b2c7590027d8e896c5ab51686269b7ed0137fed39fcd
+FileChecksum: MD5: 68c7d0745d713b9de05a28e139995b64
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxThreadingSuiteReference.rst
+SPDXID: SPDXRef-item11488735
+FileChecksum: SHA1: cd4c165f287f580fb58e88f4e1ed7b0a0a870dcf
+FileChecksum: SHA256: 51cf3b41c1c39d2fd4451006f8dad615e236a800582fab9ce6a0dfceda1a58fb
+FileChecksum: MD5: 5c918f0cbd9d3b6247b0cab6415e652d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/suites/ofxTimeLineSuiteReference.rst
+SPDXID: SPDXRef-item11488734
+FileChecksum: SHA1: 570a05a7944a1c67f523234d7ed03ae7c5610e87
+FileChecksum: SHA256: 98e305fa13e2c6240643d4f918f182330670571ac212931600ae955a27cf542e
+FileChecksum: MD5: e090633afb3d38cf070748c404826d73
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/readme.md
+SPDXID: SPDXRef-item11489047
+FileChecksum: SHA1: 4bfe339c36c44902b71912c5c7563d24a3c148f8
+FileChecksum: SHA256: 201d8b2a2c36b4e27c2d65914a53160728970669d7373c717dc7d0258be19b87
+FileChecksum: MD5: 98ca52c8585e9a64cda8a1c7fa976a84
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/ReleaseNotes/relnotes-1.4.rst
+SPDXID: SPDXRef-item11488704
+FileChecksum: SHA1: a789225cd24bb92506119f050e82fb930ac75de6
+FileChecksum: SHA256: 65315e3074b77c108ebe6c815879a987a37d2f218d6c974105fbd1b18aa0667e
+FileChecksum: MD5: 85bb21030177f8329fc189bf00541f9f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/ReleaseNotes/relnotes-1.5.rst
+SPDXID: SPDXRef-item11488706
+FileChecksum: SHA1: e12573eb965743348e546458003b8de7c5cc891b
+FileChecksum: SHA256: 27dc3150faf5258d6d917f5819366607866e06ed347e56b4eadb73ba96efc106
+FileChecksum: MD5: 41b2054a43a865bfd4cc16c8ed05b752
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/CudaKernel.cu
+SPDXID: SPDXRef-item11488915
+FileChecksum: SHA1: 2857f0756db5bbe16f109b4eef221c89b8236e7c
+FileChecksum: SHA256: b03e52899f2aca9087a727057ae4480ea667cca462eaee01d8a2961451a03a0c
+FileChecksum: MD5: 99dc7eef2752bdb04224bdd0ca5bdbb4
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/GPUGain.cpp
+SPDXID: SPDXRef-item11488921
+FileChecksum: SHA1: c39653510deda9e95ddd009c763c20c1744aff97
+FileChecksum: SHA256: 59afd51c3c4b66f6b5fea735ddb844225d56f64a77c28c22b53411197bbfd0db
+FileChecksum: MD5: fe20200a1317d6b47869915101f170eb
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/GPUGain.h
+SPDXID: SPDXRef-item11488917
+FileChecksum: SHA1: 406074007f03464112fdd2d9206e50d7ab474936
+FileChecksum: SHA256: 48a1409f745e33abc933b4e6c631e1daf3d69c2d6c6f5c5e1724efd0336d2793
+FileChecksum: MD5: d00a182cdf830a624e98f74e1633d218
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/LICENSE
+SPDXID: SPDXRef-item11488838
+FileChecksum: SHA1: 3ef20f169060d166c0d1f9263ffb59ea42f14656
+FileChecksum: SHA256: 6ff2054c6e9cde7b708339100cde4947a076f1cf04a7e7b79c3c3e358afdc876
+FileChecksum: MD5: eee27b86cbb707d394b4ac94ab38220b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause
+copyright notice, this list of conditions and the following disclaimer.
+copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIAB </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/LICENSE.md
+SPDXID: SPDXRef-item11488695
+FileChecksum: SHA1: 8f6e9a1ed9306bdb7f7f16c04715bfcd14673842
+FileChecksum: SHA256: 63b0f0533a90223e7dbe5dd50b94821b069672f91797ac03dbbad496b4ca7d9b
+FileChecksum: MD5: 3b7a0307681353123284a5906f5b7a5d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2025, OpenFX and contributors to the OpenFX project </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/Makefile
+SPDXID: SPDXRef-item11488912
+FileChecksum: SHA1: 03c78725a2ecef9dade50babf564cbdf3a5c9e9b
+FileChecksum: SHA256: d2ef888af9ea997cf556344cee49766ad3fa5274177abd0ced283fbf95869807
+FileChecksum: MD5: 43300a040eba32777e03ccefd6c7f4fc
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Makefile.master
+SPDXID: SPDXRef-item11488899
+FileChecksum: SHA1: 0aafe30eb31524f781b1c2d5e1dab694a1134e40
+FileChecksum: SHA256: e205227283ddcb0563f8c77b431f544e375f417b47b46dba5c961bacd1e65d6d
+FileChecksum: MD5: ea5fbdb7290f493797ec27e798b35245
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Makefile.master
+SPDXID: SPDXRef-item11488962
+FileChecksum: SHA1: 86bb306d3301a30795ca4b472793ae90014eef9f
+FileChecksum: SHA256: dae6c0ae94d933a542ce30fb1640ddcb01b8f6735df1a97693e95b492e557316
+FileChecksum: MD5: 4360e9ea8bd1ce2c8711ebf8abe41e49
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/MetalKernel.mm
+SPDXID: SPDXRef-item11488914
+FileChecksum: SHA1: 7421e278b5d8cf15827fa403cf346cc225fd8821
+FileChecksum: SHA256: 420151a456e562bd999e0a35fdc484155a9d784ac5a01ba8b0177a905fcc9fa0
+FileChecksum: MD5: 58c020666976a0788f336a588e055d10
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/OpenCLKernel.cpp
+SPDXID: SPDXRef-item11488916
+FileChecksum: SHA1: ff227c26e428d289ccb66e3e72e9119c07bd281d
+FileChecksum: SHA256: 7d8aa4b1deb802251b8b7c49dd3aae5b7f8510eefed16602dc337de8d826dd2c
+FileChecksum: MD5: 109dd2d067143b1c3cbd5c946886671a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/cmake/OpenFX.cmake
+SPDXID: SPDXRef-item11488698
+FileChecksum: SHA1: 953827cb60aee40ebfc54551a4ee157f3ce9108a
+FileChecksum: SHA256: b8870203ddf2107a99392a8d26fb8e1c230bde6ea1ddc725678731ebda1b727b
+FileChecksum: MD5: ef6e15caa1c644e830be034188dc5128
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/README
+SPDXID: SPDXRef-item11489082
+FileChecksum: SHA1: 3434e00fa32f3a3aaa13e6e1c633c8f1a217e4a2
+FileChecksum: SHA256: 9cec5d2bc2a83edd3bae18b5e3984cbde1db47e6d22d4ff0de55e6318578ec25
+FileChecksum: MD5: ccbefef359dac0987ee4ad2371b2cfe8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Tester/Tester.cpp
+SPDXID: SPDXRef-item11488942
+FileChecksum: SHA1: 921754ec24d59db415a6c0e854df868bb363e6d9
+FileChecksum: SHA256: a80eb0a0f7336d834d71371f25b539a5fc2bf20a30af10587390741ae29d03fe
+FileChecksum: MD5: da33d86e9f7454efd3c13a0fca5703c2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Basic/basic.cpp
+SPDXID: SPDXRef-item11489036
+FileChecksum: SHA1: ef7c0a28da23713f271fbe9e788a048bbc6261ce
+FileChecksum: SHA256: 54357fa5c5c4c6859d4ed5cecf6cf202677ece704871ed6124f8988b90bc6cd7
+FileChecksum: MD5: cc737e8bfd78896956bea571f1554bcc
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Basic/basic.cpp
+SPDXID: SPDXRef-item11488954
+FileChecksum: SHA1: 6059ab01a57cd1e3996cdab5995a859591520e62
+FileChecksum: SHA256: 03400f7899f083b35d478d2b05d53a277f227e103c218f4e828524b569f2f3ca
+FileChecksum: MD5: 18bd8fe79b37a7e6108baf4d280d9a27
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example1/basics.cpp
+SPDXID: SPDXRef-item11488770
+FileChecksum: SHA1: 749e53bc89ce7f0c5b6e2cedca8b531d3a0f6844
+FileChecksum: SHA256: b1537190006a73d1e35779f47c2b762cb19d2aa97b78571e90567d53af3ef549
+FileChecksum: MD5: b2e6726448bda883dbda3090952dc036
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/build-cmake.sh
+SPDXID: SPDXRef-item11489137
+FileChecksum: SHA1: d0a480b2908c500451c897e80df5d1d978ef37a1
+FileChecksum: SHA256: f74980a5ccc1ca8967931677ea57404e347e29dc05ea982d3459c215942fc485
+FileChecksum: MD5: 1e75e9824f18ee91e9221f093618c40d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/build.sh
+SPDXID: SPDXRef-item11488803
+FileChecksum: SHA1: 82c0c8557c5e20f388207e8e1600b8f47d07abf1
+FileChecksum: SHA256: d66c27a6c51c59f05c9d2c3b3ed3b4fb0a57a5bc170e47ff338cb1ac849f50d6
+FileChecksum: MD5: 948706cac18676211f112e0a69bfb8ed
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/cacheDemo.cpp
+SPDXID: SPDXRef-item11489111
+FileChecksum: SHA1: 8da9def90617f93032b8658299f3afaab396c8cd
+FileChecksum: SHA256: 439408aa0ba6f2fc4ab6c039c46f3045a80d6d1e1c2d840d8c3d00fb8ca73d78
+FileChecksum: MD5: 4e5b7eab05403f8dad02c308a4b35e42
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/ChoiceParams/choiceparams.cpp
+SPDXID: SPDXRef-item11488972
+FileChecksum: SHA1: 8a2afeeced51cc9a5fa7eaecd6b01035adc96016
+FileChecksum: SHA256: 066ca7ed1d3c3483815055647752788d32cee40496eb2f43f05d9dcec555c3b4
+FileChecksum: MD5: 89779e1a13703d411292dffc4c7678f8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/ChoiceParams/choiceparams.cpp
+SPDXID: SPDXRef-item11488902
+FileChecksum: SHA1: 482741eadac109d299fe9a8d2fde708129385f46
+FileChecksum: SHA256: bdf0b867d0898d4f66e6c48582e23d3d95db48b893415f18dabfb211bfd690cb
+FileChecksum: MD5: 3d921e5af5c7e60c46fcf46f8bee3e1e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example5/circle.cpp
+SPDXID: SPDXRef-item11488778
+FileChecksum: SHA1: 58ebf4676f84c9cb79bc7357bf8766394fb6702a
+FileChecksum: SHA256: dae4207c01273dd82ecf907a9892214b9bc7cfbe101a59a0b79507ffe5dab2de
+FileChecksum: MD5: ceb15ffb4fe60f94cbe05338a856785a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/ColourSpace/colourspace.cpp
+SPDXID: SPDXRef-item11489022
+FileChecksum: SHA1: 5865466199d4ee8115d529b60bdbe208463db4c6
+FileChecksum: SHA256: 6ac6f40a96268f384ec70b1bdc5c2c2459777bef2214e5b50121384c8b748f8f
+FileChecksum: MD5: 694243d60f051c0bc08dcdf1e2ec81f5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/conanfile.py
+SPDXID: SPDXRef-item11488694
+FileChecksum: SHA1: f03d45b81707e6651d04237675e51343c93daf10
+FileChecksum: SHA256: c13d7ff225fc379f0492e32e02ca8ffda7fbe1c71cef5bedfe3ad189d8d23205
+FileChecksum: MD5: bfaf61a4d176713bdb68a46dd7a62ba8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/conf.py
+SPDXID: SPDXRef-item11488711
+FileChecksum: SHA1: 9839c1e1af0a0318b5e97370b6aafde2b9020000
+FileChecksum: SHA256: 80b23c76b38e568362ca03aad2b3c33247c81c4f78c3482be2667a359cc08cc8
+FileChecksum: MD5: c39085eb0fa45b589c5f21714dc73eff
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> copyright = '''2025, OpenFX a Series of LF Projects, LLC. For web site terms of use, trademark policy and other project policies please see https://lfprojects.org/''' author = 'Contributors to the OpenFX Project' release = '1.5' </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/copyright.py
+SPDXID: SPDXRef-item11489139
+FileChecksum: SHA1: a01ace1842e76d6a57bdeb0db4ce54abfaac2876
+FileChecksum: SHA256: d1ce7fab7183377d00df690f5f0a47892f599bfc389149c24cdc476214b53814
+FileChecksum: MD5: bf6c08ff2901e22e873e0e3c4a5ee835
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> copyright = rb"""/\*
+Copyright.*?
+copyright[0:20])
+copyright = b"""// Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause
+copyright_re=re.compile(oldcopyright, re.MULTILINE | re.DOTALL)
+copyright_re, data):
+copyright in ", file_path) data = re.sub(copyright_re, newcopyright, data) with open(file_path, 'wb') as outf: outf.write(data) </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Transition/crossFade.cpp
+SPDXID: SPDXRef-item11488895
+FileChecksum: SHA1: db79b43139ee6edd20649124b8767612439c58ba
+FileChecksum: SHA256: 4e4e1d2e3af0231e197f0ecb609a41570f2fdfde4c7accfec93644c2929f4f6a
+FileChecksum: MD5: 6447fb6afc7d6edc22ab2714dbb78906
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Custom/custom.cpp
+SPDXID: SPDXRef-item11488977
+FileChecksum: SHA1: 0344d7feff4019345cf6f8aae45262914d2d18eb
+FileChecksum: SHA256: 00a5aebddca0c9a89f06acdb0ad5f75cce885b64081e65ac0fbf5e7b3c3e6909
+FileChecksum: MD5: b62877ebbe2f4f4a2337778044bb7168
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DepthConverter/depthConverter.cpp
+SPDXID: SPDXRef-item11488967
+FileChecksum: SHA1: 20a3abdf32ff7e9406d4b3218e34e59cdeae8b51
+FileChecksum: SHA256: 5ee4aed24805c3938e2c95d1ad444161246419b658240ba7294b621cbdb7234b
+FileChecksum: MD5: 21b3354470b4e511acf62dbe12e76250
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DrawSuite/drawsuite.cpp
+SPDXID: SPDXRef-item11489010
+FileChecksum: SHA1: b8448767840b9c04430fc079095d49c065cc6880
+FileChecksum: SHA256: 6774bec240d395ec2d798a296e117963d8e553ec2f489f118590ec2b00b15d4d
+FileChecksum: MD5: e20550b3791bf623d452c2230080449a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Field/field.cpp
+SPDXID: SPDXRef-item11488948
+FileChecksum: SHA1: e2b888a6bb1ce542dea10186d1fda10fb2e76f57
+FileChecksum: SHA256: e34cedf61a2c45bc7ca6e7b070f4595fb3836b1095981a1e332ef5bf2fbe8fed
+FileChecksum: MD5: aca643959f82196ffd6eb38f271a30cf
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example3/gain.cpp
+SPDXID: SPDXRef-item11488774
+FileChecksum: SHA1: 10398e122402e14cf28d5233273911bdc4118b5b
+FileChecksum: SHA256: 6e227ec8d63fdb8a6568ffd9a025e2f1e781d6a30653677c3ba5efd4ad31c837
+FileChecksum: MD5: 4d26c340356687d76a150999e4690130
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/genColour
+SPDXID: SPDXRef-item11489138
+FileChecksum: SHA1: 19e7d96e84a09383bda78db8cad8ba730f8c9331
+FileChecksum: SHA256: e1dbb150d927220e2187d506722a64acfdc27532d7662214d80064cf537f4533
+FileChecksum: MD5: 0aceba7a0dd9f3e43a8727f215563cc1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause
+Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/genOCIOConfig
+SPDXID: SPDXRef-item11489134
+FileChecksum: SHA1: cc1c4bda0004910b491760041332310c7cda1c21
+FileChecksum: SHA256: 09417c7b0575a13802dc03f535be3680202528266551cc5f8b6f912a43907276
+FileChecksum: MD5: 02607909dedc01739658aea323b76aa6
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/genPropertiesReference.py
+SPDXID: SPDXRef-item11488801
+FileChecksum: SHA1: f3bc7409a2b9d37612a92783f07a53d808db27a2
+FileChecksum: SHA256: 7c8f31f49e9afa85426d14ab4ffcb3b47f251d00750db4c245fe5c7ddb1d211f
+FileChecksum: MD5: 0a006c459554a74e387f6fc158454339
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemo.cpp
+SPDXID: SPDXRef-item11489105
+FileChecksum: SHA1: 557eb664d35779c5862b91811e153155f6454d71
+FileChecksum: SHA256: 67338f93fac6eff743b77bdff3838f54b4f29aecbc886c587e35b1e91742bd70
+FileChecksum: MD5: 8fa7dcf66488cc2d262d05a775cfe071
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoClipInstance.cpp
+SPDXID: SPDXRef-item11489112
+FileChecksum: SHA1: 26efa82e9eacd0ac25957c5c3da8ace18b7b400d
+FileChecksum: SHA256: 60f69aa11a7a2f0ebf6d93f4b50047e3d879c9bc070d74a3bf373a8174892369
+FileChecksum: MD5: 035248253d0738c1eaf4b8aefbf07bb9
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause include <iostream> include <fstream> include <cassert> include <algorithm> include <cmath> include <ctime> </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoClipInstance.h
+SPDXID: SPDXRef-item11489103
+FileChecksum: SHA1: 0e50959090158171955b66aa30d89c848859b03c
+FileChecksum: SHA256: 22b111ddec566f67924ee1375d456a1f42881d71d0292c860df16fe95eb72b64
+FileChecksum: MD5: e15b022b9f771280cfe4409a27ad72c0
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoEffectInstance.cpp
+SPDXID: SPDXRef-item11489110
+FileChecksum: SHA1: aa4a009a4df86cc283a19fe2af426b2aed48f9a6
+FileChecksum: SHA256: 7860341c0dae8a0f3e956036a92fdb18ec46dc86f5f2ede59c6ec653a5ad6b92
+FileChecksum: MD5: ddfafbe2a9cb6f3bd75166189d9b769d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoEffectInstance.h
+SPDXID: SPDXRef-item11489102
+FileChecksum: SHA1: 7e8a2af291819337058113dcad95d6f3971c2b44
+FileChecksum: SHA256: 07cba2cc9cabc2c634f0a4884484bb39b67a3c935b8797b1875ec2a5dc371a28
+FileChecksum: MD5: 8872a858107ee0bea55765824fb00c6f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoHostDescriptor.cpp
+SPDXID: SPDXRef-item11489106
+FileChecksum: SHA1: 729c9515e35bc34359976fb4502a5d0ac1569b9e
+FileChecksum: SHA256: a60e8997cd9718f577e227be763b3cdb35094b5850f732f27dcf484c340057a9
+FileChecksum: MD5: fb734ca4c56874305551fbd7e65ea6ef
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoHostDescriptor.h
+SPDXID: SPDXRef-item11489107
+FileChecksum: SHA1: 43dd7f50af0b8fdba71973ba1ec4f2250754d74a
+FileChecksum: SHA256: 97081dbec2cdd77cd9438e4b2a8f9859069c0f93d4d2149cc0ce3430770dee60
+FileChecksum: MD5: 2f923e4b42caadc4856378985854a4a5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause ifndef HOST_DEMO_HOST_DESCRIPTOR_H define HOST_DEMO_HOST_DESCRIPTOR_H </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoParamInstance.cpp
+SPDXID: SPDXRef-item11489104
+FileChecksum: SHA1: 0751008de5e5acd6203a32b14cdfd2e759c20bcc
+FileChecksum: SHA256: 00c15a80129155b02a1faad3b74779ac86d4e85f2cebb653f6e019d41367e354
+FileChecksum: MD5: af80f03f793a813f43a574b227df3385
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemoParamInstance.h
+SPDXID: SPDXRef-item11489109
+FileChecksum: SHA1: 53b6679d7f601bf24ac999eeaa47c5097b6869b5
+FileChecksum: SHA256: f943bf17fc35997ed6613988d9844a03cdce79613fb005eec6a6b570273b02e9
+FileChecksum: MD5: 62bf5162a7337e22b1d2dd29f83de697
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause ifndef HOST_DEMO_PARAM_INSTANCE_H define HOST_DEMO_PARAM_INSTANCE_H </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Invert/invert.cpp
+SPDXID: SPDXRef-item11488983
+FileChecksum: SHA1: 3694b6b36af1d4ff99a2b910090e26b836948793
+FileChecksum: SHA256: b329709e0bd0b66c754ce8ec003df1a6037d1853dceefcbdc945afc30dc2630f
+FileChecksum: MD5: 18cafa32bd9c20b5c088bdaff9eeb64b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example2/invert.cpp
+SPDXID: SPDXRef-item11488780
+FileChecksum: SHA1: 3cbd7c435d27be330f7616e7808c059fd96253b1
+FileChecksum: SHA256: 5faef5491dd92e67b7b471ec8423549f357616595ee175a79796241ff001e77f
+FileChecksum: MD5: ee870713899c6deacf0c3acbf122b44c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Invert/invert.cpp
+SPDXID: SPDXRef-item11488924
+FileChecksum: SHA1: 9df9bc0ada3342a01b01e6b73bf08715813ccbed
+FileChecksum: SHA256: a1abe14eb5769731494aab24f764b4d66b6e7e441a630614ef220a4b2504f8f4
+FileChecksum: MD5: 72152e3244b242998c4da87526d5e9d1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/multibundle1.cpp
+SPDXID: SPDXRef-item11488886
+FileChecksum: SHA1: c2b142fa0fadd17c0f22c97cb1e4615cf5c148f9
+FileChecksum: SHA256: 5a52df5a8fb0c8c628fd88cb38e27f63314ddcf86d8f6506bdae5c0ab9670961
+FileChecksum: MD5: e51f3913b5e738e246046e43231c37cd
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/multibundle2.cpp
+SPDXID: SPDXRef-item11488883
+FileChecksum: SHA1: 807861b5bbfa3b163a5b5fdb7ad31d6d7a8487a8
+FileChecksum: SHA256: 6efe4d21e2b4571bbfd929cd541487ae989e487c9d1e7911c2c512a5b48c18de
+FileChecksum: MD5: 0f6eb5d96cec403d98ee0d1d4b061c89
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Generator/noise.cpp
+SPDXID: SPDXRef-item11488908
+FileChecksum: SHA1: e095b8262fee2344b8c77eb16a52092bfb2ac10d
+FileChecksum: SHA256: cf403f9ceba1abdf76db4a701253bed805f4b078a48d15edb571775ee4b00e01
+FileChecksum: MD5: 21e2aac00c909cc6a7f297872c8071b3
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofx-native-v1.5_aces-v1.3_ocio-v2.3.h
+SPDXID: SPDXRef-item11489049
+FileChecksum: SHA1: 91257216ab18f9c512b6f20cb8773e8b4eae9ef2
+FileChecksum: SHA256: 299f3d471b57889ddf5f50299bc74cb09f710d55a7def1406a49d5b5437e87c0
+FileChecksum: MD5: 26aa4799bea092d98f2ea99be95960d5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofx.dtd
+SPDXID: SPDXRef-item11489061
+FileChecksum: SHA1: f906ddd7b0e936616fc4f82c104ace8c870ccfa7
+FileChecksum: SHA256: 39a5d49fe600b34418dcb6054f180459c7c94a59fcfeae807ac5afc7ddea67a0
+FileChecksum: MD5: 40115ab0ea1d068ace4f27cc2c797fca
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxColour.h
+SPDXID: SPDXRef-item11489069
+FileChecksum: SHA1: f1aaeee6d1a52a6bc078dca5bdd725d64339cd12
+FileChecksum: SHA256: 136fa093735918a68e7e399b5626222eedb9a97caf9cff0ee7db2e87c0c67802
+FileChecksum: MD5: 3619c718347a096dd3329732d3ade5fd
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxCore.h
+SPDXID: SPDXRef-item11489052
+FileChecksum: SHA1: 5382df53e8df3285c8d53690d471c96c9ff5e162
+FileChecksum: SHA256: 8e5fc80364ca5890fcf5bffb950bfb25036c7f6411f53a756ed9ada5826845e6
+FileChecksum: MD5: 28700421ca96c6acc0f229e79501bc6d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxDialog.h
+SPDXID: SPDXRef-item11489058
+FileChecksum: SHA1: 03ec7ab37d1a83aba2a1b43ae11ef84ea704648b
+FileChecksum: SHA256: 40e1244d066b12ccd59cb7688667dd77a6b20ed7e8a4ba48f573e804389e9c3f
+FileChecksum: MD5: ea8f320e76d882080f609152d57a9842
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxDrawSuite.h
+SPDXID: SPDXRef-item11489059
+FileChecksum: SHA1: 6b3a3dc2a629b0ca83e8b7b1f8f71e020eb447ed
+FileChecksum: SHA256: 5a7313fa518b2e2341064b6a8eced314553b2be4879dc40097905b6085acfbb3
+FileChecksum: MD5: 868cf3a31b0df93584eb6c0dfaa0112b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxGPURender.h
+SPDXID: SPDXRef-item11489064
+FileChecksum: SHA1: 78f769ddac6f2aef7606573820978c413c1ddc49
+FileChecksum: SHA256: 0468422da743eea080a3a7d5d0cbfa9a07593fb374bff10590bdc8a80411bd6e
+FileChecksum: MD5: 40a448f6ec18a2dba58bcdd2c5069890
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxImageEffect.h
+SPDXID: SPDXRef-item11489062
+FileChecksum: SHA1: c257b4cb001fa3adc1bd641a9e060cad15ffb966
+FileChecksum: SHA256: d02b2377cf4919586eeb7aef03873a62acb06e858fa07216d0f6fb0bf1230185
+FileChecksum: MD5: 509a79a4e4d68f7d3fb787fbd8645cb1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxInteract.h
+SPDXID: SPDXRef-item11489068
+FileChecksum: SHA1: 9613c9837e846224eac69b532c63f6dcbfc276e5
+FileChecksum: SHA256: 85c620182631e9ad320937345abfe2cf2171ce4ca0abcd990a367084febc4fa0
+FileChecksum: MD5: dc676eb6d1ca5468b4d212420706c870
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxMemory.h
+SPDXID: SPDXRef-item11489056
+FileChecksum: SHA1: f856b53ddf03521f4150bb1e4ba46d6714ba28db
+FileChecksum: SHA256: 52ba2b7ee3fcb88a04b8ce80e5af3485b1ad25743c58b31b32457a13ea41e871
+FileChecksum: MD5: e3a1a3eda097ec63d629e9d6ad7d861a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxMessage.h
+SPDXID: SPDXRef-item11489070
+FileChecksum: SHA1: c5ccf03bb32d4a84f8d141e607af0d23d60a7480
+FileChecksum: SHA256: 6cdf7598431fdd58c5efc0144cea585083d03aa151d2cda601198136ae860963
+FileChecksum: MD5: b4bd887fa61aab84b2ed94ce6a6054d7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxMultiThread.h
+SPDXID: SPDXRef-item11489060
+FileChecksum: SHA1: 1f98b11d3453bd2d90d889853648aeb45e266b2a
+FileChecksum: SHA256: d59a6816e3b17e2de7639ace9fc03c9a81d58587d64368553d9bcac6473733ba
+FileChecksum: MD5: 50dc0c70b4c89e011efd072caaf44151
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxOld.h
+SPDXID: SPDXRef-item11489050
+FileChecksum: SHA1: 9187f68b402d75fb11a1a8fc3a9e73d3bc532b56
+FileChecksum: SHA256: b0827f39171c5ece4d7b04399fa96a6e8cb4031de949696e58b050902fa04652
+FileChecksum: MD5: 1bc354bf1ac6e0defae856b6047463c3
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxOpenGLRender.h
+SPDXID: SPDXRef-item11489051
+FileChecksum: SHA1: fa4673d311d077aaf12249d44eba10ac3bf8070d
+FileChecksum: SHA256: 8d427d3635773f30d71ce8eb32dc993da5d0dfd550012507f56cf9e7ebac4722
+FileChecksum: MD5: e582b50f51d8f9d4567a02a8a735bf25
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and Contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxParam.h
+SPDXID: SPDXRef-item11489053
+FileChecksum: SHA1: 13ed7c2825ddeba2188743250b186088e41d1f95
+FileChecksum: SHA256: 0d65dc907b714da41d38cd1c64e0c837eaee98343878bdd066b7506853a724fc
+FileChecksum: MD5: 058e0aac0da6bb171794b8486f5e97ab
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxParametricParam.h
+SPDXID: SPDXRef-item11489066
+FileChecksum: SHA1: 3b575d130ebe07e2f76faaf54f8022eff0137b4e
+FileChecksum: SHA256: b06cd279b978a519a5bfdd8f3764457a96f0e5aaf67eb0abd5886a13cc5a222f
+FileChecksum: MD5: afef4abad6e8045e3e963adcc87486d7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxPixels.h
+SPDXID: SPDXRef-item11489063
+FileChecksum: SHA1: 655cf977aa4da3f86c11e4e592255416c3c3399b
+FileChecksum: SHA256: b86e4256d2392394f977c570e6ce14d0f836840ecab4c0cca98a1553cd9dde5b
+FileChecksum: MD5: 9910e5ca8e4c3c163087312d1c338017
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxProgress.h
+SPDXID: SPDXRef-item11489054
+FileChecksum: SHA1: 140365438b560347595908c6b4ebb4075f751a84
+FileChecksum: SHA256: 2d57ce3a4201add43d8dbbd9a926d95bd0fa3839e5357927e1b01831c81f4c22
+FileChecksum: MD5: 367765bd6c37a28d2a737d278378e3a1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxProperty.h
+SPDXID: SPDXRef-item11489075
+FileChecksum: SHA1: e704afc130797335879102a1bf23b06a37c2c977
+FileChecksum: SHA256: b3340b71499571ff55ec05260209dab3311b30b4adc7a04e82df9f2c913e0929
+FileChecksum: MD5: 23cac932c3987a1a82749c7e3209f0b7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofxTimeLine.h
+SPDXID: SPDXRef-item11489076
+FileChecksum: SHA1: a29257556ccc412245eeb20c4024341e49811342
+FileChecksum: SHA256: c36cded0c96c26797092e1574808806af4428b3560b589e6edc54eae2562182a
+FileChecksum: MD5: 37b650013c72837ec0ca901e87be0834
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhBinary.cpp
+SPDXID: SPDXRef-item11489084
+FileChecksum: SHA1: aa2f12b3494d6631303c1186a4724af9ab50083a
+FileChecksum: SHA256: e18a6b56d2051636b3b5deb83ed22b7b80f7fa431c419218387fea277a11eaf7
+FileChecksum: MD5: 3671398aa9846deeabbe572cb12c8b2c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhBinary.h
+SPDXID: SPDXRef-item11489120
+FileChecksum: SHA1: 2d194d645004c7b82dfdcb08c91d45259f7450b8
+FileChecksum: SHA256: b123c2f4a26326201426ee0c597e239de28b722498f22afe03095245b0223d51
+FileChecksum: MD5: 0450dba74c19f7c3db7498618db09186
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause include <string> include <iostream> </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhClip.cpp
+SPDXID: SPDXRef-item11489091
+FileChecksum: SHA1: 2973133ff7bf5123b74134653ebd28c0002514d1
+FileChecksum: SHA256: 90a53f652cae6117b3366453707522135f1bd5c818da15fa4430bcbfe6af65f8
+FileChecksum: MD5: d115cd6699c6edc54951a5cb1d94c67b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhClip.h
+SPDXID: SPDXRef-item11489117
+FileChecksum: SHA1: e31667208624d9cacab2020514458d907e8d8a95
+FileChecksum: SHA256: 35834f636e3f14d8474beb1b567f00e3608b0f889e5904ad22b25755889bf2a7
+FileChecksum: MD5: 998b11f3a2b6f20faa829f3c7f1034e5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhHost.cpp
+SPDXID: SPDXRef-item11489086
+FileChecksum: SHA1: 2b93f23d58958c7213710b010a086c5a79d42caa
+FileChecksum: SHA256: 3a80ee24f2409f8860bd57c80b0daa620552147c3ac3dcc1bdc64c8b3cdc847a
+FileChecksum: MD5: 57d55af60b00ceebc9bd8b79ee08169b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhHost.h
+SPDXID: SPDXRef-item11489128
+FileChecksum: SHA1: 46c41b4d26d1f09ec6dd80025142c6691a157295
+FileChecksum: SHA256: 299af60dac23a8f565fbb7c2d37cdb26e966ca5a6fbc59b2fb85dcf013f4bf27
+FileChecksum: MD5: 6b9c81880326529d984db7173d1fc5a8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhImageEffect.cpp
+SPDXID: SPDXRef-item11489093
+FileChecksum: SHA1: b21d0f2c06c6707adabd5170f5b65aef9ac78ba7
+FileChecksum: SHA256: 53531c130a21f102d8285f83f25b300fac7a1df7d2856f05c34a9d76b2186052
+FileChecksum: MD5: b99889d12a69019511985809873cf196
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhImageEffect.h
+SPDXID: SPDXRef-item11489115
+FileChecksum: SHA1: 1142af6ab4f3c12599ae3ccf00f9b0cb2cf9cedb
+FileChecksum: SHA256: 0008a302d5b41b734ec54a9ac4cc562cfebd65e26f408856bca2cb89c439aea7
+FileChecksum: MD5: d3b43095962d59ebdb35645c722639c2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhImageEffectAPI.cpp
+SPDXID: SPDXRef-item11489095
+FileChecksum: SHA1: 1f19c711fbf16baaed03a13018572de886e46599
+FileChecksum: SHA256: 57c7f7bf50dc73f73492f7c8556ac9e66e42ade2abd95691e5c8481dbc71ced5
+FileChecksum: MD5: 96292ce4198df642bf087bbe26e6e7a5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhImageEffectAPI.h
+SPDXID: SPDXRef-item11489127
+FileChecksum: SHA1: 4cc261377cdf479ddb5518ccabd5dd3126a874dc
+FileChecksum: SHA256: 35daf4d02b7e6760ab60a68474ce67f5bcf556113ece0dba1a3ed03f81c4a72c
+FileChecksum: MD5: 221206eab9003dbafc7c5ad07cf8fb0a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhInteract.cpp
+SPDXID: SPDXRef-item11489092
+FileChecksum: SHA1: f30c8bcf0e21f16a665ba625a3f530e4d634b660
+FileChecksum: SHA256: 96bea0e47210a950c4cfda84a9761f4a91925d13f0528acd43593ee4b021a204
+FileChecksum: MD5: 4214163f56de0915ba4f011127500763
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhInteract.h
+SPDXID: SPDXRef-item11489119
+FileChecksum: SHA1: 75603af4fc636a2f99cac75534d855217bd10628
+FileChecksum: SHA256: ef4e7e799caa2dfeeef06275319c7ab6a75799844853eba6fdcce7ade8d4209b
+FileChecksum: MD5: f67b96bb42fa7cd040d026ce1df16c41
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhMemory.cpp
+SPDXID: SPDXRef-item11489087
+FileChecksum: SHA1: 08bf91c7227951bdeef295919e7428d87ff2923a
+FileChecksum: SHA256: b2c690a09d94b0f461a3a497442f19e942cb0628e805103503fd372772eb39ef
+FileChecksum: MD5: 8a80f26206d5bb9b4709a03729918a04
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhMemory.h
+SPDXID: SPDXRef-item11489124
+FileChecksum: SHA1: d91f7f72d33ac6676b801ad3c18469f271615836
+FileChecksum: SHA256: b84821e3ac8f377b6c5af9f9d20bd3ca9c3371115132a82280462eb4cec9a828
+FileChecksum: MD5: 9b3fda49f990668c82d58a8c7b75a85c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhParam.cpp
+SPDXID: SPDXRef-item11489089
+FileChecksum: SHA1: fbcdfd32e73801521eca82de2309bd526b81daec
+FileChecksum: SHA256: fa21134eda725c43958a18673bb3b9d783515cc4e7a6a830f48cf48b76fecd0d
+FileChecksum: MD5: cfe958f87fda35b6a7b1347f4b4811c4
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhParam.h
+SPDXID: SPDXRef-item11489126
+FileChecksum: SHA1: a811d08040d35010e17df6432cc476605b56440c
+FileChecksum: SHA256: 7a214607662dbe3712866423daec7d510b2fb9d15bea3eb6e2e034fc47422a20
+FileChecksum: MD5: 6d682d6261da19563d82e2f5b05d9ffc
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhPluginAPICache.cpp
+SPDXID: SPDXRef-item11489090
+FileChecksum: SHA1: b56523564bf0f3f68b607286a11afcf95b30413d
+FileChecksum: SHA256: 682b9734aa05bd24067d3256a8f9078171b7a749c0def56babe30ab19ea5c765
+FileChecksum: MD5: 860c288e6a48de897c60f4bb006c336e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhPluginAPICache.h
+SPDXID: SPDXRef-item11489116
+FileChecksum: SHA1: bab806c0a3a0bdf6e134af90042fbe6b4b6af1c6
+FileChecksum: SHA256: 41ade97dbed76c861fd49cfba33536181f552ce8d5929c112946d05b4ec71b08
+FileChecksum: MD5: 401f448c92d1871e175329db13b4c77e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhPluginCache.cpp
+SPDXID: SPDXRef-item11489088
+FileChecksum: SHA1: 9f322ad9ff8a6fac9e6b8da953595515f4946c4e
+FileChecksum: SHA256: de412c08bbd10a15c53cb9410d15cf1c9203067ff9930c79dc0ece7437b1a9c5
+FileChecksum: MD5: 6b70f1a06eae928cf2b3ea2de95e6c33
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhPluginCache.h
+SPDXID: SPDXRef-item11489123
+FileChecksum: SHA1: b8c5c93509ca7ab0faa356e670de17244090cb67
+FileChecksum: SHA256: 444d906cc183bbfb324a7515d8046f498f953431b8c8fd10b8a6464ad924b1fd
+FileChecksum: MD5: ed328956a83e3d746ebb6d7ee0b9f12f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhProgress.h
+SPDXID: SPDXRef-item11489122
+FileChecksum: SHA1: 0b6d04b45f6772d69901eca561a45b6ade701d1a
+FileChecksum: SHA256: f73c5f8affac042f357dc743c3996cf1c197d123a02e7f8e56505bf899573a58
+FileChecksum: MD5: 5ca76a546ffb06b1ca3266d1110dc999
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhPropertySuite.cpp
+SPDXID: SPDXRef-item11489094
+FileChecksum: SHA1: b6821b820382e9e07d697050076f234316995a9b
+FileChecksum: SHA256: 684b8927c6821d3243b18617b8564c880e6f56b9b359e4536ba2bc102bfc5022
+FileChecksum: MD5: d6c5b4f8ef517e8409f4759d4311d582
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhPropertySuite.h
+SPDXID: SPDXRef-item11489125
+FileChecksum: SHA1: b4e88c8db83fa23c1d264b9a1468cc1a9288a374
+FileChecksum: SHA256: 8fe7ff1a7bf392c7dfea4ea6e633011d8398bb08a2c4296eb8183eeab78404cc
+FileChecksum: MD5: 96556f9f27444c63881b7b1b119691e8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhTimeLine.h
+SPDXID: SPDXRef-item11489118
+FileChecksum: SHA1: 8c904c9502fe2070e99eb04408a33c1641392402
+FileChecksum: SHA256: 33cf970cc4f6f6db56099372377e6d7736411d6c5ea15c1395dd3ec526d0bd18
+FileChecksum: MD5: 108e8f9d2ba9fed8a2836e706203468c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/src/ofxhUtilities.cpp
+SPDXID: SPDXRef-item11489085
+FileChecksum: SHA1: ad6813db9058207bfafe3ed94ac0cfce0e386b85
+FileChecksum: SHA256: 4c6f42663175f806ff62e5b27e6a3a0211d7fcbacfa6f946644d9ad1faf0230a
+FileChecksum: MD5: 5a9a1e8381192f23a0a1251b5b63bc57
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhUtilities.h
+SPDXID: SPDXRef-item11489114
+FileChecksum: SHA1: 5b4fdb310ad523af808cc4b604fe77f4cc480ba8
+FileChecksum: SHA256: 9b800eb7f889229f9c0512a0dc68ca5696108c96ecd7c810fa89ad86e79923f9
+FileChecksum: MD5: 2313cc437ef0158fce4741d420d65099
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/include/ofxhXml.h
+SPDXID: SPDXRef-item11489121
+FileChecksum: SHA1: edb87171c527a7cef1d24e2e7fc0a80af900a8a8
+FileChecksum: SHA256: 1e16da6cd899108a0a3d8592d4b97b20376f59aeab8f9331e22f0b522a73d9e5
+FileChecksum: MD5: 479a14a5c0f7522eb620f7cbde9855db
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsCore.cpp
+SPDXID: SPDXRef-item11488875
+FileChecksum: SHA1: af01764459c8a80c714a97d7901c111da293b2f7
+FileChecksum: SHA256: 9f374ecc92d91e6f76cc929cabac500ef16b865754801a991e9be92508681c20
+FileChecksum: MD5: e317b719a495f86023f4bb9abad0f0ef
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause include "ofxsSupportPrivate.h" ifdef DEBUG include <iostream> if defined(__APPLE__) || defined(linux) include <execinfo.h> include <stdlib.h> endif endif </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsCore.h
+SPDXID: SPDXRef-item11488855
+FileChecksum: SHA1: 113f61cb79617c2ead5ef883540e8cfcd15d9a70
+FileChecksum: SHA256: ecb03845c62291cd7019c9fe5959fcbf96db1edf043f555523dd105bfdae9be6
+FileChecksum: MD5: f68e8552480ff919b431c219ae2f70a9
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause
+Copyright OpenFX and contributors to the OpenFX project. and was written by Bruno Nicoletti (bruno@thefoundry.co.uk). </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsImageEffect.cpp
+SPDXID: SPDXRef-item11488865
+FileChecksum: SHA1: 411bac8400f3bb9a0fd512126ec3464e3c034e76
+FileChecksum: SHA256: 2dd7b74bafffbe78140d0b0291792de6317c3a27a5fecb53bea72c268eb0c41e
+FileChecksum: MD5: d9f6d3d505959e03436791bb5a877d1b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsImageEffect.h
+SPDXID: SPDXRef-item11488862
+FileChecksum: SHA1: 743cdb50a8107e35f24673cdb24a6c58743120db
+FileChecksum: SHA256: 82ee54da505ac8e7c304f468cbdd7f9033181ce67065bbe228e6ef429fc6acf1
+FileChecksum: MD5: c332b648e1ebc6a438717256306e5670
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsInteract.cpp
+SPDXID: SPDXRef-item11488876
+FileChecksum: SHA1: d0a39494c8d0d89c8b29c901115b5c5f27b0298b
+FileChecksum: SHA256: f6950cee1ff83f0b99ba9a0f5b00f7606e0c87bc2b93bd9ffdf6b6c081a50a2e
+FileChecksum: MD5: 4f8503201605bff42c71f3217f60be6d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsInteract.h
+SPDXID: SPDXRef-item11488856
+FileChecksum: SHA1: 9b4ddd1e1b65c79775e940df8ed894c081485de0
+FileChecksum: SHA256: 55b8986642a065e9d5fd4138bc99f80b63d9a3964ce56cd84918b205752ca734
+FileChecksum: MD5: 6670a12aacf2f91c84560577c98a81d6
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsLog.cpp
+SPDXID: SPDXRef-item11488871
+FileChecksum: SHA1: 5a3b48a2c0e5588ae09fd02dc2862d42aab2b3fd
+FileChecksum: SHA256: 4244b5bed53c2963bf969267ee3b8e418c2be3d520c03ee8af89a35d1061d208
+FileChecksum: MD5: d325c0f48c04e07dee9c3fc6dfb0f2ce
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsLog.h
+SPDXID: SPDXRef-item11488857
+FileChecksum: SHA1: 36a46d3daacd42f33c340860685aa42e98082ddb
+FileChecksum: SHA256: 0d74f2c6106196b75c841710a67a03cbe0b8d2a58b0a216381766fce69bfa1b1
+FileChecksum: MD5: 0ff596a7b675330f373568a161208c75
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsMemory.h
+SPDXID: SPDXRef-item11488859
+FileChecksum: SHA1: d878d7821c022fcdb39157a0047b6ad82ab339b7
+FileChecksum: SHA256: d6f32b5a309882f75f96bb346555730a503f6fd17f18f1417514b829db6f2d28
+FileChecksum: MD5: 2f2f42f4ec4c58f28c9a391e3100adc7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsMultiThread.cpp
+SPDXID: SPDXRef-item11488878
+FileChecksum: SHA1: dda66d11633d97e11b55730d297bb1061988ccdc
+FileChecksum: SHA256: e467cccb1b6c78ba0264f878a8c763978d34d2db9e81c9540b3e7548572dbf87
+FileChecksum: MD5: 965a346fdeea519ca2a0a6b51775f4f9
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsMultiThread.h
+SPDXID: SPDXRef-item11488854
+FileChecksum: SHA1: f9478af5f8b28696bdbacddcb16c92566a12fa27
+FileChecksum: SHA256: a594bb8c4db80a1e15c99a4f12846738f6e0ed20dd5f54c8f02f77faaa347042
+FileChecksum: MD5: 1644fb03b2ba77ae0c5f39b3c1365c49
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsParam.h
+SPDXID: SPDXRef-item11488853
+FileChecksum: SHA1: 3586213e293c0b9ba72bc2faf69104d8f8569e1b
+FileChecksum: SHA256: 9267fe80a1d102652eca3828d1d0102a54e4b65b6e96a6f0919185b7fb64335c
+FileChecksum: MD5: 87570ddb0f48e575dec8ee5768e56ed8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsParams.cpp
+SPDXID: SPDXRef-item11488874
+FileChecksum: SHA1: fc87fa643873ad38b9a0ed2707b76673530f9b8f
+FileChecksum: SHA256: 7a925f819be17cfdad90e489832422e99d91a35d6c8718053e53b6959a21c4b2
+FileChecksum: MD5: a0eaa59c1819c202a2aa6433f1532bb8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/include/ofxsProcessing.H
+SPDXID: SPDXRef-item11488937
+FileChecksum: SHA1: cf2a43cb308d186bff150a6a34311896f841e76a
+FileChecksum: SHA256: fcc2ed8e43506ef1d49411be9d79e10f3c57352edf77710b736715d035577ebc
+FileChecksum: MD5: 12baad72d92b4f7fbf3500308e8672a7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsProcessing.h
+SPDXID: SPDXRef-item11488860
+FileChecksum: SHA1: 3fd127b36cbecf9ec14062794962e97127753a4f
+FileChecksum: SHA256: 80c57537c7f65c1d11e36909131964b65fd1ada274188346a9ce18ab7ddad255
+FileChecksum: MD5: 8c582f89c20175d3406463b1f90e34d0
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause Author Bruno Nicoletti bruno@thefoundry.co.uk </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsProperty.cpp
+SPDXID: SPDXRef-item11488872
+FileChecksum: SHA1: bc37f84895520e3b9ce268aa93f75ad0827553b7
+FileChecksum: SHA256: 73355c31a87b94a19e113f3a12b3afbd9be118fd45e08cbbbbbb2ce59e507496
+FileChecksum: MD5: 6f96f03a58ebbebcf53ddb846f4d348f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsPropertyValidation.cpp
+SPDXID: SPDXRef-item11488877
+FileChecksum: SHA1: 98c14fe58af604f386f1e5e7ca5c91f7803fd259
+FileChecksum: SHA256: 8efd892c2e093477de1cb5deaa1b4070326983df6f6181b5143b2f44988cfeec
+FileChecksum: MD5: 1b9179bb39d9a4407d87dbd0a9024511
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsSupportPrivate.h
+SPDXID: SPDXRef-item11488870
+FileChecksum: SHA1: 89051b559f9a7dd4d48acb94cc71b19f02e699fd
+FileChecksum: SHA256: 1935650d541f48c1d46295e82606b2855cd3fd24f343ba0ab501a48209c83763
+FileChecksum: MD5: df71ca7f6fd3edf83fa7c9d70b5b7fbe
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/OpenGL/opengl.cpp
+SPDXID: SPDXRef-item11489042
+FileChecksum: SHA1: f0834d884cb0540cd0f05fbaf3401bfc74d61b31
+FileChecksum: SHA256: afeb3d6b868fcdc099efdc77fd5af8e350a19de7fca1c74e6333862cbc8dbe61
+FileChecksum: MD5: 2b4fb5a51be745aea62dad204fbfc02a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/osxDeploy.sh
+SPDXID: SPDXRef-item11488861
+FileChecksum: SHA1: 64edc67c96b036724e5ddd3b5dafb6dfefb2cc2f
+FileChecksum: SHA256: f2f05d30fa76aa75f5ae1777b62fe9383763bf2c8bcea700fa701028f45ca1d2
+FileChecksum: MD5: db2927b1e922376a2496b9335c8a5466
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/include/osxDeploy.sh
+SPDXID: SPDXRef-item11488994
+FileChecksum: SHA1: f8b00074b1db965894db60745d5ce0ea6bec66db
+FileChecksum: SHA256: bf669d2b3479cbb83892e41d5de331899de9ed69c1a7605b2e053fd7f8d43153
+FileChecksum: MD5: 16a0da4f22c2e63c5900a02594e5e6ca
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Overlay/overlay.cpp
+SPDXID: SPDXRef-item11489027
+FileChecksum: SHA1: ccaf7a01ee0ead2e1a1782856be40b26fed7f2de
+FileChecksum: SHA256: f3df034f04c94619cfe493b74cfae25a56281e762c8af975872d07eb0dca3e88
+FileChecksum: MD5: aa4e71f87d75defc7a23437ceec5c5f9
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/PropTester/propTester.cpp
+SPDXID: SPDXRef-item11488842
+FileChecksum: SHA1: 6e9f740969346ecb5e5d4ebccac849e512069190
+FileChecksum: SHA256: b1d5d55d23517bb5b57c4b47f31bc91ac11a9c5a843b5bb2d240d80ddf901f7a
+FileChecksum: MD5: affd7d436049aca6c23fd023f375006b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause ifdef _WINDOWS include <windows.h> endif </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Rectangle/rectangle.cpp
+SPDXID: SPDXRef-item11489019
+FileChecksum: SHA1: a671b0dfb53a6a8a3c6e577844c45afbb9c5d7cd
+FileChecksum: SHA256: 2f6401db8122c7c753a465e76a5dd15f147d0826077489133b93a6d13a6c8fd6
+FileChecksum: MD5: 17525f64141d6c067b294a6bab4ef14d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Retimer/retimer.cpp
+SPDXID: SPDXRef-item11488931
+FileChecksum: SHA1: 072c24e14958885636beb0f40bb9306bf0a004aa
+FileChecksum: SHA256: c56e5cd8c5bd2bddc9406333604d838d15b802b21d93f69e3f28830621c6bea8
+FileChecksum: MD5: bbe1e957964742b680bada34d0584679
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example4/saturation.cpp
+SPDXID: SPDXRef-item11488766
+FileChecksum: SHA1: ab1ca97922d2fdbe3328f71d4ffc03bb71b69126
+FileChecksum: SHA256: 5d85f8c8ff79fff2d6bc51331c2d21f0cf39aa4714701564b7d8d6ab445f34fa
+FileChecksum: MD5: 004f696483954ca90283c08ef1ef065f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/testProperties.cpp
+SPDXID: SPDXRef-item11488999
+FileChecksum: SHA1: 72d608adf6bff473c9b4d3052aa2cfd0de6a2687
+FileChecksum: SHA256: 4493a72f6637231d585bc3f7ea0030644aac5032c7e92f468a72a3a9a980ff73
+FileChecksum: MD5: a7f8e7b49e7e50796b72f9b065b72338
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/test_package/src/test_package.cpp
+SPDXID: SPDXRef-item11489146
+FileChecksum: SHA1: 3aea528b1ec1ec8c5d2901be9c41df9d99352efd
+FileChecksum: SHA256: cd49f48a536d8c9b9839f1f575f862272c6057e0efc7d3eb056b09b4d896067c
+FileChecksum: MD5: 34c58afc47fc6aeac5d4243d4bbfdf23
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright OpenFX and contributors to the OpenFX project. SPDX-License-Identifier: BSD-3-Clause </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/_static/css/custom.css
+SPDXID: SPDXRef-item11488709
+FileChecksum: SHA1: a6ec5dde06766dbca231ee10d6dfc685dbc955fb
+FileChecksum: SHA256: 4e92073791d292083ff4c16c1cfde00e035732d510312088db3853ca35618cec
+FileChecksum: MD5: 3ad9b38755ae762e04d6c50959e56a21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/_static/openfx-horizontal-color.svg
+SPDXID: SPDXRef-item11488710
+FileChecksum: SHA1: e6c23ac962372767a9b82340e51625c61f2f09d3
+FileChecksum: SHA256: ddcfe8d58c382814d25477124292883c48d63229dd4c4a641d75cc6217bd3c77
+FileChecksum: MD5: 9ccd487cee5fddd35120408fd6575fdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Reference/ofxPropertiesReference.rst
+SPDXID: SPDXRef-item11488726
+FileChecksum: SHA1: b2d97740efce1fe54a18575cc4c5c6bf2121b333
+FileChecksum: SHA256: d731b16eb5ea30e649e77e779a06844b149ea466fe775d6c96c49e3eb4e2ca23
+FileChecksum: MD5: ee7a299240fcab1afb93635773d591ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/NMakefile
+SPDXID: SPDXRef-item11488759
+FileChecksum: SHA1: 7c738178987163382ade59cb02d1830aee51cad8
+FileChecksum: SHA256: 1e629f99ae01d5a28b514f9490d18eea37d95e56f0ed3f865ac61286cc8057f1
+FileChecksum: MD5: 5ac7b9c2374da2242f0af85b6884cf2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Makefile
+SPDXID: SPDXRef-item11488760
+FileChecksum: SHA1: 165d74470c37c1dce76466df8cf6381d6d295470
+FileChecksum: SHA256: 3a3882bff05ced59af9bb1230fc17a8e60d4826129b7af1c809181f94804beae
+FileChecksum: MD5: 09ca9225db7e9f533a2159299b8cf0d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/NMakefileCommon
+SPDXID: SPDXRef-item11488761
+FileChecksum: SHA1: 6645239141af6ba52f8b10ba39d082a02d1423f0
+FileChecksum: SHA256: 3392d597b3f3522e183b1e02ea910c5a33fc0a8dda26142e1536457e783cefc5
+FileChecksum: MD5: 6a98c7cee759e1b0aab8a7a15706cd11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/.gitignore
+SPDXID: SPDXRef-item11488762
+FileChecksum: SHA1: c5ece2b07a27fca67d4adc72bdc5d75f1a252d9b
+FileChecksum: SHA256: fb5aff9b486a0658567589d84fd2a5cafeb39ad2adb98d9ccd0e880d91ba7cf4
+FileChecksum: MD5: de740ee71ddfaa7206ac2e2196d3a8fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example4/NMakefile
+SPDXID: SPDXRef-item11488764
+FileChecksum: SHA1: c574cc5c2b704283d770d262fbc7c61b10807a89
+FileChecksum: SHA256: ab843723f11d58cd55e2915f0fe9f8ff32665ac1c751ad0704c908d1ca213753
+FileChecksum: MD5: 8404de1d9e90967b37eeb99a5cd503f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example4/Makefile
+SPDXID: SPDXRef-item11488765
+FileChecksum: SHA1: a662ec2858170230e0e50714abbc3eb004e763ce
+FileChecksum: SHA256: 5a3f4fec30a043142001532603b0d768f79c6303a3cd09c8e5d8054d043b0039
+FileChecksum: MD5: b0eadc9d62ce24787c141960b6011de1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example1/NMakefile
+SPDXID: SPDXRef-item11488768
+FileChecksum: SHA1: b0f6df8324f37605331015917ec88c891590603b
+FileChecksum: SHA256: c1d0cac3b20f9d03a7df4d6adc79a038831590fcb25015b8cee303279bd561f0
+FileChecksum: MD5: efb9297c136ddea7ed58f096f74c0e03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example1/Makefile
+SPDXID: SPDXRef-item11488769
+FileChecksum: SHA1: 2fccff62023cc71e622eab323f1c13ccf3f81eab
+FileChecksum: SHA256: 32e79bcb4a2bbab0d0ff085d7e82fe72c087ba757548e6693ebdd6d487121b82
+FileChecksum: MD5: e454311b8f0b0cc0b777b127ebf94032
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example3/NMakefile
+SPDXID: SPDXRef-item11488772
+FileChecksum: SHA1: d32144776527030c5a3a812624337ee2d8beebbb
+FileChecksum: SHA256: ad9ce215de1b6b939b612221882957f3a20f8225e9994944fa23ef3aa1c61fe3
+FileChecksum: MD5: b19a3bfbe851bffb7dd60d0b74f9667c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example3/Makefile
+SPDXID: SPDXRef-item11488773
+FileChecksum: SHA1: 4ab0c13f09c1249ebc5d5ac62d37c4d8b696c435
+FileChecksum: SHA256: 861cb2f8cd283736dc83e2ffa336d74324fffd9a665dd2906d7211398c9341d4
+FileChecksum: MD5: cc5960e4a7a4efc6a72439e3bf3d4cfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example5/NMakefile
+SPDXID: SPDXRef-item11488776
+FileChecksum: SHA1: 5f984d3ead204aac7537267730ecf12505b99ed7
+FileChecksum: SHA256: 269c9c296e4e6bb5e8cf882d5a3d12a8fe6bb8a8c4ee5f68c1db268015dc25c8
+FileChecksum: MD5: 5a4050195b8ddc8fe44882bf343014f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example5/Makefile
+SPDXID: SPDXRef-item11488777
+FileChecksum: SHA1: 090ff9a04038d0c73cde32201ff322b53a2891e9
+FileChecksum: SHA256: 2454bc4d5b2a09e871fe0f21a93e33bd31fcb254e47a9b28abfbe9970047b708
+FileChecksum: MD5: d227a5374cc4f833049fee957e9f2320
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example2/NMakefile
+SPDXID: SPDXRef-item11488781
+FileChecksum: SHA1: db0f54275f5f750e5483b56fdd74a7b012d5f5c0
+FileChecksum: SHA256: 08c527797175224421aa7726c5c50fe60c23405398dde2cb77fa2489ca65ddb0
+FileChecksum: MD5: 6a5dfcc7085df2df9dd34797e68b8965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/Example2/Makefile
+SPDXID: SPDXRef-item11488782
+FileChecksum: SHA1: 40514579a61dda1a466f11786d39c167a0a5af9d
+FileChecksum: SHA256: b0afc8f38aaf5fde5a692efb24143b83c11302cac9a0a28ea5112187f2a0edd6
+FileChecksum: MD5: 6cc31c2b4b20bb7501a8b28ee8b42f86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Code/MakefileCommon
+SPDXID: SPDXRef-item11488783
+FileChecksum: SHA1: c67962787896b53c5285637bef90a168498db5f5
+FileChecksum: SHA256: 555ec6a7abd13c4e1c5baa3ca4d7b8f2984968689446af1cd220f8763c308d71
+FileChecksum: MD5: 53af25ec748c11528c0ed6b1b037c069
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/README.txt
+SPDXID: SPDXRef-item11488785
+FileChecksum: SHA1: 9c04a4087a5e9552bb345c806e17697a6ceadd04
+FileChecksum: SHA256: bc96c431e467dfcf2c0fd7b5eda2b5d23b461f9318c63b970f5853974940da8b
+FileChecksum: MD5: 283a7e4dcc1705ab6fb3e491eb1a2d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file.README
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/TODO.txt
+SPDXID: SPDXRef-item11488787
+FileChecksum: SHA1: d8bab64f7e430faf9590e01c31118be2a2630eeb
+FileChecksum: SHA256: ff5605bad4b779a7e808e0c2ed44e9c512999de28169875263bd1e1b033489ce
+FileChecksum: MD5: 5a53739938647bb6016aa97e815660f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/kinder720.jpg
+SPDXID: SPDXRef-item11488789
+FileChecksum: SHA1: 901b8f0671fb2b2635d9bc6d6a6ba87c6772e09b
+FileChecksum: SHA256: df01a6003aa21913fccb488af14a098ca31d2a14821680aab9d3c7bda5cd8dff
+FileChecksum: MD5: 90762dd2fb556bc5ff1740a33094aa31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC
+©	appRNtþ±Ï?±稜oêµ?`?Kß[°kó?´½W?í=H²ÈÓX?Ho<Å?«1(¬?Ìa¤ÑÆVÎAz}ºÜiI|CßH­»SԘ4ÝEò×dÆې?ñr£,QÝXÔtût2$¾$ßiójz>¥hp÷l?ģ¾7Û$l²*°5=>Ý4ÝEėŒÆí}OR	X$#tr]²:>dudaÊA ^þ̶ÿºþµ_þM 
+© dvålão9ú\ºR?väã9?v+ákݒW^봵w×wfÏ*³µFÛåOk¯µ{=?»V].­oÎÿh>?ðï5??êñj??×õ1r?8ԗûD?å7BªØÌgýa'uzõª֡?JQiû88Ýôv{i®¶WwÖ×ߎ?IT2kW²½Úø_¦­«$¯¢Õ?×oü?ðþãÀ~%ý¶ä³KYVÐþ?1ïd8þϨ|_!ãX­.ù¾?'ä8U?||¾îCXâÚM8ƅÛZ»ûKk»µ¤ºí½îqâéJ%ÝԜ®ݟ»ßþ?½éëöø? ~տ??jÏٳÇÖ?{øK㇆üMðÛ\®¥m#þ??Ó,µí5?MÃj?¾ </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/pelican.jpg
+SPDXID: SPDXRef-item11488790
+FileChecksum: SHA1: 4726bf9027a3c7454e868672ee7b0765dd854380
+FileChecksum: SHA256: 3b2dc4dfd061079cfdaedbd12098515527d1ec7c7af0cafebc2c2a4b51bdacc6
+FileChecksum: MD5: bb2d020bbf374d25c9f65531071bb44f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC
+©	SLb½1Tì cc4J8Îi?ÅDq(r àOjç	éT2Á~õDçqä~Ѥ?/=Ù#ñUdäÓ?¢sQ0ÐÔ9¶;?yù?¨ÚR;qI·?듊ÍÊAbA9<?I朞ÔÄSN' ÍKreY?É)&$qҀjÊ Q,÷lD?Ìniϼ.7b¬çڣdÝÎ*_¨X¬ª{?4Кa9§yeGAU?ÂÄj_óFæÅ??=*@ </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/dataLayout.jpg
+SPDXID: SPDXRef-item11488791
+FileChecksum: SHA1: 80ddceb3d8ffa8e3b29fa9abd06a9afa86c2c138
+FileChecksum: SHA256: d426261ddca518c6b6333a3062c4665a3cc44b6b3364f37077c8edb997935417
+FileChecksum: MD5: ecca74e7d5a347ecbb329db5479b8b01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC
+©	J1iJö>s8p	qG?K?ñðá®?Îx¦ 5þ­,]<.Äæ50ÐÄ:UÕ?׆?TáRTjF3rW0~?~ÐÞ	øÛáÁ¯øj[Ë+KÉt?øc] ø;ÄVÉ?Þ?ñ6ÍÔvz²MðMms{¥êú}Ş±¡ê:?a¨\õqo?ç O)Î)Ór8âp8ì,§W.Íp?%(ÑÌ2ìD¡MÖÃUp$§N#?^\.. Bµ Æù d°β:µRYá3,· QÍr\ʔc,FYáaRª¡¤§	ÆTêVÃbðõ(ãp8V ÄU÷Õeu§ ò|Áõã¨ ? </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/SaturationNuke.jpg
+SPDXID: SPDXRef-item11488792
+FileChecksum: SHA1: 967df701c5bb8fa9c3c0d2c9f54893d7352e0e81
+FileChecksum: SHA256: 5b5991dee727ad9f0c32116d320557a63bebd37321b40e2c98f6cfa6f5c1aca2
+FileChecksum: MD5: 1073851ff29b06b6263f3a4ff6efce89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/GainControlPanelNuke.jpg
+SPDXID: SPDXRef-item11488793
+FileChecksum: SHA1: 05112a8e026de8d676b6939235d69b2af5fcd49a
+FileChecksum: SHA256: 1f2497038eb6f70f9ff2de3889dff3fda8d818b934f58e283acc3510a9489189
+FileChecksum: MD5: 9e9bcf8c27acee018ef97267aec1e39e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/imagePlane.jpg
+SPDXID: SPDXRef-item11488794
+FileChecksum: SHA1: a73103eb6151ee15947f75a8ad5fdaad07c5e1af
+FileChecksum: SHA256: 8be61c79020ccba670133099ced1cc6e158a566a0c8ebcfaac6e62bb6ae31eef
+FileChecksum: MD5: 7fdd1e502083596dd9d79138fb9100c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/kinderCanonical.jpg
+SPDXID: SPDXRef-item11488795
+FileChecksum: SHA1: efad2a4e9393ccd3f421f0b18c80a86d86a9e945
+FileChecksum: SHA256: e77b515343128af20f79a96b0dfdd2bc9dc97fd2d66506b3378abf6a8cc6f1f5
+FileChecksum: MD5: 383f337bb211cae6e3e0d189af713ae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC
+© F#pV1¸RrQÁ½åê¿óû§ÿà²çÿô?GLR:nc»±T66?ôëuC?eUj`0?h?v.p>=HÁ&˻ nÔò?N¸r\jWBF?j?´  </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/kinderProxy.jpg
+SPDXID: SPDXRef-item11488796
+FileChecksum: SHA1: 9c69178960d8912d1f83b7860736aa6256b9b685
+FileChecksum: SHA256: 3eb9b96d8e4038e463c05b349955b31125f42cf5b1e7662dc94f07b17d1590fe
+FileChecksum: MD5: 08026a1901e2e9802dc7156947a41840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC
+© 4¾cî6âEc´?%Ê.NÐH£݌¿U¢NûÝÚÎ)/ý«=,'?$¢Õӳv¶®W³ߺ調Èhút÷Ò^ÝZ´rZC1Knø4s^²?td´1?Ê?v?ää\æ¤ÒÙ4ä¡}¿¼ÒÝõé»æm? å*"Ò\ɺ³÷%6­¥õ|º«o»z^ÅÈÿ²?Bº¡?ؙ¢xÄq?,FWØ?Զ2#?Á?Է¹?gï^Ú'×ÝѦº4·[ö¥*sç+¨ó)N7qÓ_»½?³þn-¬ø×D[«?kˡo91¬ä?rÁX>nü"!?P¦HÈߜ]*?|Ǚ¥¶®?në×Mok5tóúʥ)F?¤ïwñhô½ÃtõÑ^÷óùÓÆþ%µ
+©	M_QµUi Uîíá{^ áØ@`IBÈê>+§ ´ýU?KXɦù£	8%?²ù]t^HññspS¢´wijìù£³º»´lïѧuý#ÿÁ­?º|_?kí?N¼ïO·Ðþ?Åj-îuvÁ¦?2ÝêVڔÓj3XZêRIrt«môÄ6Ð[ۍô\39Ï?ûJnÿخ9%¾1%$RITùãfÛz8÷?cQwåöɥªO÷W´µnîû¶×[6?G·?Ã? ?cÿÚ+áWÁ???¾?ühñgÂÏ?Eðâ/ýgÅþ?ñ_¾'i6¿ÛÞ?ÓÅ~?m3WÒôÛÿ?ézVâAi?n/ü5?¬i,֗³Æÿ[$ </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sources/Guide/Pics/kinderScout.jpg
+SPDXID: SPDXRef-item11488797
+FileChecksum: SHA1: 5abd618541a46b565eb68275ee7e7edd155c6490
+FileChecksum: SHA256: 7f9a380c5c9c7dd7edeec9e24bcfaea2e304c1ac3b289a83a4274565499c86d5
+FileChecksum: MD5: aeb47b225edbfb451d2dd54c83aaa234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2000 Adobe Systems Incorporateddesc?Adobe RGB (1998)XYZ óQ ÌXYZ curv 3curv 3curv 3XYZ ?O¥?üXYZ 4 ,?XYZ &1?/¾
+©	6ìywl¯o¯nì×?ñÎå)nò~ï®ô?Çë~=ùõ0õ¡õ{¶¯ÚúÝ??ëR%?¾ϯ_Ôèü	£6ÿJ¸¸Õ.¤C4?>k[¯Ýý÷ó?y?úïùc?ë\?Ù>N¾¾¿}ÿ?R õ·?ÒçºÙ>¡%úK¥j6¯?è٣?k¦_ùi½ÿÕG'ßý÷^§½qCÜO[ü￯~»f֛öùý÷¹ß]V?m#°{VÛû˩d®&ûþÿã\înú=>GR®õùuùõ9-_ÂV)¥¬K©#qp²?¸h×Ìÿ?˛ü÷­¡_~?[?Qëkù'·Í÷:/?Z$ZV?¹?Ípb72Çuæ}Á?Ççy?õ˷^jUÉ̓Oïë
+©	m0xf5´¸®CºllÎä?;¯֮Xtµ[uþ®Jķ§]{?Þt·$»¶Ò?´>ÝyjâI?ªïäNR rCåÇÿ,¼ÓúÑ?eÒÿ4?¨۾Ýú>?ñ(ûD×ÛЍ³ZJ -ÖOõë*·«Ý÷3U?w½ûï¯àWÔoô½I®gµ»@FΖèZy~g¼ù~D?ê?埭Låeê)TO_¹~zإ¨øCcÒïì®?¶nÌÈö´߅äþ?­/gçø?Á?ÓÙÜá5?¸¦?ëo6©?¬۝]¿r°ï>Zy~öNzÍÍo?}ߞÿ=Ìå+í·æv-o¦]?¹¹]?e?Ñ<ùѺIó¿ü?é·?jd|ûy÷;¡?5?Ó×þ?
+© Hdvk2?¬?ýÇó?åÏÇ?¾®ºÊTÓwæõwºôüwÜÊr»ôëêz´׺jZ=åìT"?J«? öGû͟óÏÌOõ_òË÷¼þú¹(BU'{»_M_õÕù	ͭ[ü?5ω?K5͞Kd8îá×æó<¿ãë÷;ÿB}aýŦ½??÷ÞþG<êJ]/}õ_×õ©äZÊêúÌ$_]7Ûf,©?"ùû²d̐Gÿ<½}y;^?»ùýýtÕ}æu$úë~¾8Ù>x¢é$ÔÑxcq#ùkçL¾ÏæF|¹?ϥp9EÉÝÝ-þïó]ýIծÿðJÒø_Ś|1JéLRî?4?¼_ûùÿǪèՋMY7?Õù[¡^ÑÉÚ×ùÿÀ </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/pipreq.txt
+SPDXID: SPDXRef-item11488798
+FileChecksum: SHA1: 6c200d28e7822bdf784fb5f57dd34784ebc6ce38
+FileChecksum: SHA256: da4c65647d349998550d7e443a420ff71f4d3501e364d4fd200b78ac3fa3c282
+FileChecksum: MD5: c1727d3fd315bb992f12c8cd80f4761c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/sourceforge/index.html
+SPDXID: SPDXRef-item11488800
+FileChecksum: SHA1: 1ff998e0a8dfeda164230b78d35ebd17db68b775
+FileChecksum: SHA256: 4ebee3236d4b12c0e6d24a84f6448363c647be9617e653fa01c4dc7a1be0a4c4
+FileChecksum: MD5: eb3af014c0140f57062363ff2b960eb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/.gitignore
+SPDXID: SPDXRef-item11488802
+FileChecksum: SHA1: daa71bc129163b4a6d1567ec56ddfccde65ff0fd
+FileChecksum: SHA256: b80d0db9c30daaf78dd0c4a1ecf7be95e9c2f0764557bfef721c63b34e4f8ad9
+FileChecksum: MD5: f48c983db4353b6051d15b28d8d74093
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Documentation/README.md
+SPDXID: SPDXRef-item11488804
+FileChecksum: SHA1: c562f7fa6ffcd402826a253b5f087d86f19ddae9
+FileChecksum: SHA256: 3616c33d54d371f815206bc2f93ff95031be61b18b5f91f7ba646f465ec47ce3
+FileChecksum: MD5: e94c8f19a2f18e97939796f31b2c5c4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/pyproject.toml
+SPDXID: SPDXRef-item11488805
+FileChecksum: SHA1: a0ba3a3dc5e6c01a9b2334ff085d53149279a4b4
+FileChecksum: SHA256: d0d87e0e3db2e60cb939c01dbf0bdac9a8c621e92a55771527df031b295ca58b
+FileChecksum: MD5: 404cae3f19745d5c5954b223ba0019c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-icon-white.svg
+SPDXID: SPDXRef-item11488809
+FileChecksum: SHA1: 5232b7d81979ecb2671f02313b954218e135e935
+FileChecksum: SHA256: 4eb7a550097b4742a9cf58c1ae69ee261e7e9b1bec7e6d1ad4ec43f3a395c834
+FileChecksum: MD5: 929c65ce33da7962f3297e12858179f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-horizontal-white.svg
+SPDXID: SPDXRef-item11488810
+FileChecksum: SHA1: 50c42cf96d04f7a2c3af8b5a2f96c7556573a13f
+FileChecksum: SHA256: 48b91206ca38754e6e292e269246e86c14dbe18ff73221e081c9ce9fbbd349d5
+FileChecksum: MD5: 44009f690e672061050038d9777c3b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-stacked-white.svg
+SPDXID: SPDXRef-item11488811
+FileChecksum: SHA1: 0d835279265e758ebd6a8bccd73f21f9f386e931
+FileChecksum: SHA256: ee38b331feefb316ebea84c7be37f4300c4addc9d0bf40cb95766bddf12d0c22
+FileChecksum: MD5: 02e54d296f202c3dd62397787474abf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-stacked-color.svg
+SPDXID: SPDXRef-item11488812
+FileChecksum: SHA1: 9b95a3ead1d4b4b5bc75756ae98a6f430180f33d
+FileChecksum: SHA256: cafc867132946490ee825bb929f11445a11f8a526e237e470b79de30d7886c9e
+FileChecksum: MD5: 5a6346e4297ccb60768e9dd14225ef39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-horizontal-color.svg
+SPDXID: SPDXRef-item11488813
+FileChecksum: SHA1: e6c23ac962372767a9b82340e51625c61f2f09d3
+FileChecksum: SHA256: ddcfe8d58c382814d25477124292883c48d63229dd4c4a641d75cc6217bd3c77
+FileChecksum: MD5: 9ccd487cee5fddd35120408fd6575fdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-icon-color.svg
+SPDXID: SPDXRef-item11488814
+FileChecksum: SHA1: f4f7089cc34c225a761baf4ac7a1ccd3b80df870
+FileChecksum: SHA256: e374a7edff1a4c6438a0f3215cb514ce0cb3fe5cd5e3d6afe598af3e56c22abe
+FileChecksum: MD5: 8a6efb3f41737a68ce39ccc2822a246c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-icon-black.svg
+SPDXID: SPDXRef-item11488815
+FileChecksum: SHA1: 6e712a28bece6443acbf3ee0e5b11c3dcb0f192c
+FileChecksum: SHA256: 443c8dbcda42e88f4a7e056a5c8d0d457e4e01b2443b35a76604d7567ab7d461
+FileChecksum: MD5: 043e3253b2627b9f6518fa791325a2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-stacked-black.svg
+SPDXID: SPDXRef-item11488816
+FileChecksum: SHA1: 593a95cb33c2802f9a0b61b083b9265d87aadf90
+FileChecksum: SHA256: feb240bdbc3e6cad7208ae3e73f0ef50ffaa7305832abe25a5986d64cafe0fc7
+FileChecksum: MD5: a40034e7556c897517fb690dcc7150da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/svg/openfx-horizontal-black.svg
+SPDXID: SPDXRef-item11488817
+FileChecksum: SHA1: ca531cd41e1389bb357610d3951ba07660ae96cf
+FileChecksum: SHA256: ad82deb3c11e5a8cbd156e366e71b7fffaf8617de2f18221f0a025dbc24074d2
+FileChecksum: MD5: e6e896701cf4ebfec23a53404116c3f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-horizontal-color.png
+SPDXID: SPDXRef-item11488819
+FileChecksum: SHA1: c7677258666dce047efc1f52d81238014ee278e5
+FileChecksum: SHA256: 356cd499d2a398af35eadb0972311a5f4ba34becafb5547a52e6a90be977a216
+FileChecksum: MD5: 1bf8de53ec9f260b5ebc387dbf3bf3e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © v?ÿm´ÿ0Ñk?byþ/QtÇg¡;¨ 1¼?ÍväC½ naëä b?âsy-dK2²fµ!:¢eد?ötBÎ?d?֕NG?D{mS¥éA<۵øn¦?ì¿G?ó®¬ÁܹnSLT*l7ã[]ahdâó!q嬜- ÛúîțG Nþ¢Fíy6^?~úô»§}Îd\¡NGjcè'6wkò?l6×Jqɫ¸^ä%+-!>s?êAÄ?DhZ?â³ÅU	üÌMö&ßU^xîöå+6µ dzÚ.£S?ú]f¡ü½ÉþªaqÉ~¨ïØ1sVðçJ|N\B1µĽ±ºü=ï?PM­r;uéhtMõäÏ3g£Ä?? </text>
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-icon-white.png
+SPDXID: SPDXRef-item11488820
+FileChecksum: SHA1: 91fc609fcbe9d40e29f4b640312aaf3d7403e417
+FileChecksum: SHA256: 77e1c580d8d4b9175d1ff3b12185314c56bc6bab4246df49c835de3ec5724be8
+FileChecksum: MD5: c4afce6e35d2494973a5c2adb37416e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-horizontal-white.png
+SPDXID: SPDXRef-item11488821
+FileChecksum: SHA1: 7f12383dcdf4260ef15a22a4bc9aafbc508b3573
+FileChecksum: SHA256: d6f0a41d060d23d9fb43ed7adf0dc7866191e18f19cee000b4753f22ba93b311
+FileChecksum: MD5: db4824f461d16bb96fa948135c08cf37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-icon-black.png
+SPDXID: SPDXRef-item11488822
+FileChecksum: SHA1: d5d4298e8205caa6abd5c5e57d8eb73c72a5e0a1
+FileChecksum: SHA256: 9ed7704e5dbfecb56247a4cf9703cb227cc89eb156168ec6a41089220968d986
+FileChecksum: MD5: 875ce1faa0a3d54d29f59e0c1b5117ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-horizontal-black.png
+SPDXID: SPDXRef-item11488823
+FileChecksum: SHA1: b83d9f16a215e04e9370ac3e6c1b004f67c14171
+FileChecksum: SHA256: 51e9cc1dc3239ce27af2ead6620f4165a6dc5da32d38f01979097e01d6644c2b
+FileChecksum: MD5: bfd4f3369ad8748a4b11665f86843ffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-icon-color.png
+SPDXID: SPDXRef-item11488824
+FileChecksum: SHA1: 7470ccf8a1db7d54dbe4120d42b9b8258a8791a5
+FileChecksum: SHA256: ee6ee7ea5d7f66492fa83a5a1e14ad4a58fc9bcd6043c86df4bd7c2c1e8867b1
+FileChecksum: MD5: 8c35c9c86eed2658d14a48d569700cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-stacked-black.png
+SPDXID: SPDXRef-item11488825
+FileChecksum: SHA1: 94cb3f17b84c731b227f46b7c0ab67da59487a4d
+FileChecksum: SHA256: fbeeef05cb438c2ad6c96176e75bc41bbade5674ea2bd6cd6a40022b66d533ae
+FileChecksum: MD5: a716ed55eb2bdba9c14a479c5f761bdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-stacked-color.png
+SPDXID: SPDXRef-item11488826
+FileChecksum: SHA1: ecba0a4054e7b134c5f52dc8cb3c6afb2cf1e3c3
+FileChecksum: SHA256: c8673ce6da2ff3228ab3e0bc41b05dffbe2b23db3cde37ba50261642b59e0f5b
+FileChecksum: MD5: 60715e8b7d98dc4240adf373d11009f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/logos/png/openfx-stacked-white.png
+SPDXID: SPDXRef-item11488827
+FileChecksum: SHA1: 5bb0353867bd9ab25459e659d4c68c3bcc74ab9b
+FileChecksum: SHA256: 709b45e9f71381fafdca204a02123284e5be1405233f3b5288221ac25bb8bbe1
+FileChecksum: MD5: 107b1a7c567e029cd77e87f1fa2db899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/.github/ISSUE_TEMPLATE/config.yml
+SPDXID: SPDXRef-item11488830
+FileChecksum: SHA1: 808ecacfa95bc9ee9a9ec8cb2626c0e87187e096
+FileChecksum: SHA256: 9de11f3cee25c07ffae99f0a0aaf3778a7a51b2a456980f6b38f5ae03a309f0f
+FileChecksum: MD5: c9e950be8419c24da25d42671dc2cc81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/.github/ISSUE_TEMPLATE/standard-change.md
+SPDXID: SPDXRef-item11488831
+FileChecksum: SHA1: 85962fa7a8308b3ccbe752fa46abf0b064c451d5
+FileChecksum: SHA256: 123aa4cae59e169c1412e321d140958e83e8c08352638e48d98032ffe4527ef3
+FileChecksum: MD5: 7c78fd3d81c4bb023af8f5393c774d01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/.github/ISSUE_TEMPLATE/issue-template.md
+SPDXID: SPDXRef-item11488832
+FileChecksum: SHA1: d95db4c1791a0a31b3ce57bd253abce2eb55beff
+FileChecksum: SHA256: b86af0d292e4aa173f2cb68b4cbc82e6409e38bcacf66ee3dba293b24cd3cb01
+FileChecksum: MD5: 05045ddc017a908dc784f3983bb30069
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/.github/workflows/build.yml
+SPDXID: SPDXRef-item11488834
+FileChecksum: SHA1: 112de137153d2afa3fe482415b83969a1c5ea3a2
+FileChecksum: SHA256: 50db44cee434155cc28f558be0e7fea6c7c341f1df46d2228fd4d8374db0f2c6
+FileChecksum: MD5: a1a79c2f5b40ae7d6ab8874d08d93a2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/.dir-locals.el
+SPDXID: SPDXRef-item11488836
+FileChecksum: SHA1: 48ccfe81b88029c22f410c86faf527f9a6ff0ef0
+FileChecksum: SHA256: 96fb8f620015fe52de11d6666daf67bb28d92b7046ea4459b16c653182cfe6f5
+FileChecksum: MD5: 574440d46ec780e6e3bfadcc478830c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/README
+SPDXID: SPDXRef-item11488839
+FileChecksum: SHA1: 4bd1314da35e1105265b1afed75073b4aec74e69
+FileChecksum: SHA256: 8cb596066c7ad402e273824d5315f8439b856f0e43d56bf188ddd5077a5904e0
+FileChecksum: MD5: 8050c00357fe357e62f93783b3a57de5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-fossology-LGPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/support.doxy
+SPDXID: SPDXRef-item11488840
+FileChecksum: SHA1: b2b5ca957ad5cdc06b96ad95199a2f5a4bb28a51
+FileChecksum: SHA256: 2ea8f2b77823284fb5b7abca282af4c22b83e5261e2628916901cd179a40aad2
+FileChecksum: MD5: 2d15a1da961b4ac2da800b0c0cdd871a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/PropTester/Makefile
+SPDXID: SPDXRef-item11488843
+FileChecksum: SHA1: 8a739b51d43913221030dc8937a4ad60f789a404
+FileChecksum: SHA256: 0f3ebc542c9f0d735cf372efb7c2734d6e27d9488deef096e377a9bb35d908c4
+FileChecksum: MD5: 4ce853018c1831eea00ac216e1a9a8c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/PropTester/propTester.dsw
+SPDXID: SPDXRef-item11488844
+FileChecksum: SHA1: 938ecc7097619adacb3df8d751592084cdfcfa69
+FileChecksum: SHA256: 416b61dffd5eef683cb1bb1e7179d4a9007ec20da040af17dda8c6cf360218ac
+FileChecksum: MD5: 5902c3cc132bd66d70f7473f10bbd0b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/PropTester/propTester.dsp
+SPDXID: SPDXRef-item11488845
+FileChecksum: SHA1: d48680f01d69d754879791e1478a2b933af25c0c
+FileChecksum: SHA256: 707064fe839ff7ade54de0df87605668ff6a3f22c41a00436cb0f919a016b2e5
+FileChecksum: MD5: b669e7e9f10cac25efbd68a63c273332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/PropTester/CMakeLists.txt
+SPDXID: SPDXRef-item11488846
+FileChecksum: SHA1: cd69d0bf85619cb7f4d2f1301ac84d6dc1c23bf1
+FileChecksum: SHA256: e41f7a9b89c4c0e2c2341a01e65e685b9cfed3e589d11e4b80053480a6d213ba
+FileChecksum: MD5: 1122637433712cbcc7975cdbb1c1fec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/PropTester/propTester.vcproj
+SPDXID: SPDXRef-item11488847
+FileChecksum: SHA1: db8838686eb237c4b8a1c6afdd110861507b7192
+FileChecksum: SHA256: 004a82f15724a11bd47ba1d9d1e3bf1c5200f20240e4eff7f5b48fd9e4735020
+FileChecksum: MD5: 1475d3c3d72387d5f9ee79009fd681ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/PropTester/Info.plist
+SPDXID: SPDXRef-item11488848
+FileChecksum: SHA1: fff2c34085ddbd2d01eacb8765341050add9675d
+FileChecksum: SHA256: 5b19636d022e6815d235ba0fe918dfabaaefd39196d87ebb0d6509b32af3b1e4
+FileChecksum: MD5: 467aae708a88db505fd2c1fa3b4e3863
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/OSXStaticLoader/Makefile
+SPDXID: SPDXRef-item11488850
+FileChecksum: SHA1: 5f81d7b12364ac1258acc00db29374dde8e63062
+FileChecksum: SHA256: cd85b960eb76160ae9c1b958ecc4c2a6e75907f3083acf2ff75d8f2f7215f224
+FileChecksum: MD5: 1bcf5a0c21a4bdac71ed28314ba174d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/OSXStaticLoader/pluginLoader.cpp
+SPDXID: SPDXRef-item11488851
+FileChecksum: SHA1: 9b9923ca86cbd4255832be21aeb8b84b77b88d4f
+FileChecksum: SHA256: ff508e0c2b6decf9facf06c4db3ce2593e09239fd6bdb8a7fd81bdb289887c1c
+FileChecksum: MD5: e80697f1c529ad7080b99bf7c5f484fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/include/ofxsMessage.h
+SPDXID: SPDXRef-item11488858
+FileChecksum: SHA1: 9448241d750563c3ebb1987770b2430273c52e87
+FileChecksum: SHA256: 5d22efdbda1ffd2ff1558bd42926ab39082638657aa24d2c8d84fecb2c7d17c5
+FileChecksum: MD5: e62eaa1cb67753e0154165c228810e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/Makefile
+SPDXID: SPDXRef-item11488864
+FileChecksum: SHA1: 85d34fa4e67e7dace9ba91dae91e52b6801a7b80
+FileChecksum: SHA256: 14de96fa7dda0fd7ca77568957cc37ed2625a9f5fd1d2df2792302f6f338cfc0
+FileChecksum: MD5: e5fc33272ad7ee236e9e921ffdc77def
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsupport.vcproj
+SPDXID: SPDXRef-item11488866
+FileChecksum: SHA1: a4484353dea9da9a7b419d10d30520227eef549a
+FileChecksum: SHA256: fc5a0817aea6cd977635bb343d93ef48d28ae2f037a6fbb2b70857cf0cd33078
+FileChecksum: MD5: 3264b97be744cd2d4b981621ef746ef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/.gdb_history
+SPDXID: SPDXRef-item11488867
+FileChecksum: SHA1: f3c1a3071d40ccacff0e76f59e2cce43df716005
+FileChecksum: SHA256: aa65eb8995f10486b352bde3aa6d3ac7bfe2b75a527b975b4bf3437bd5d2f53d
+FileChecksum: MD5: fad576e27973a9a8e18c3f0d630e9163
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxSupport.dsp
+SPDXID: SPDXRef-item11488868
+FileChecksum: SHA1: 7b305149c76f3528ac5de3d35d91c1813ca92cdf
+FileChecksum: SHA256: 237bc28a96e989ef76e2e17187e5b7591bbeb20e0eaaf4709960525dc5d7b0c9
+FileChecksum: MD5: ab3b82e83c55c1c1cb36a293ab02e954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/ofxsupport.dsw
+SPDXID: SPDXRef-item11488869
+FileChecksum: SHA1: 244a4badc7299596db1ab6ced8257ff843a02913
+FileChecksum: SHA256: 0a234e48b768409c96cb65c9f92f14a2ce3e939b87d09369af62074641ed7766
+FileChecksum: MD5: fd6d0ce3c2eb7d41329a3e5fea70789c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Library/CMakeLists.txt
+SPDXID: SPDXRef-item11488873
+FileChecksum: SHA1: 3acce31151a5f7845d6a0679bbf1f4286fd4706e
+FileChecksum: SHA256: 98254d53ab2c16f8c2338c1b2382956ad1cfc32d4fe5c1ed4610f9f734d52ba3
+FileChecksum: MD5: 4f63b9da68d9d917077aaa880b698dec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/TODO
+SPDXID: SPDXRef-item11488879
+FileChecksum: SHA1: 8b8d03fabdeefd859c9fa8f33d63a7a2779e4043
+FileChecksum: SHA256: 1ab38f5226f3d391161222f0aef7bced238e988c9336d4d80a8ea4cde1551d12
+FileChecksum: MD5: 04206ed840beb1f55a710e822b5e7f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/CMakeLists.txt
+SPDXID: SPDXRef-item11488880
+FileChecksum: SHA1: 45a413f0b86f1571d94aa234490736bd44875d7f
+FileChecksum: SHA256: 2cdb89bae11c404e13c9695cf0d333e13659ea27f49eaf276b9e5ac1f656fdea
+FileChecksum: MD5: a57e7b01fc71c0136ba2546f7d27421a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/PluginRegistration.cpp
+SPDXID: SPDXRef-item11488884
+FileChecksum: SHA1: 68981a8cf70eb7cb2c3cea08ff9731d762645dee
+FileChecksum: SHA256: 6cff760600bf065a6fff7c8d7b933b0799c2c69059d2cd464ce710853cbc4c24
+FileChecksum: MD5: 3e327bfe00142db11552e2ff000afbae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/Makefile
+SPDXID: SPDXRef-item11488885
+FileChecksum: SHA1: 3ea782560da4eb33185ea579d83a903f269caf30
+FileChecksum: SHA256: 5ea49c39dc77e9dbd958cef2e9011d86694726878d85d03a71a1b14b51bb6c79
+FileChecksum: MD5: 43bea8a40931ef307e8eb49cdad50ea8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/multibundle2.h
+SPDXID: SPDXRef-item11488887
+FileChecksum: SHA1: 5b0e965b65a083d0a69fa24943cf633c83514eff
+FileChecksum: SHA256: 68096f5768cc789b685b09f5986f3bf896eee199679fc3b24caccba83488acbb
+FileChecksum: MD5: e8510412b68e035aa68fe608ff6dbac4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/multibundle1.h
+SPDXID: SPDXRef-item11488888
+FileChecksum: SHA1: ef1aa0aef3822c98462acfa32cabf59f1762e957
+FileChecksum: SHA256: f259b76bbefbd36767ddb8f73ee2e956bd538690a068623a8e59485bb388ad52
+FileChecksum: MD5: d0195cc11203ffa7ca5b7b12f0f7ad6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/Info.plist
+SPDXID: SPDXRef-item11488889
+FileChecksum: SHA1: 8842d92b0aeb69e0a0774927792073a43d55bb6b
+FileChecksum: SHA256: 472572213cf2a2d00b83b9a392251d9c192c63fea62e556b976ab1c872c4c958
+FileChecksum: MD5: 224bce76e48f89986712548a0729d5b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/MultiBundle/multibundle.vcproj
+SPDXID: SPDXRef-item11488890
+FileChecksum: SHA1: 7b1a79a5ad37001315090006949f95ebae7eb681
+FileChecksum: SHA256: 1dc2cbc446bfd14eed7f78fa47bc6a802b8b691dd98675ed7244f013c1dfc94c
+FileChecksum: MD5: f5318552149a29d31008a6738854eb49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Transition/crossFade.dsp
+SPDXID: SPDXRef-item11488892
+FileChecksum: SHA1: 8da3d8f183e736a95e7d0706af36ed593ea00b9e
+FileChecksum: SHA256: 945ac668fb206a65561970db81e1170f7d64ef97bd92b2465003d6b6d26a34e2
+FileChecksum: MD5: 4e2347ba03fda74424f57030d478c878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Transition/Makefile
+SPDXID: SPDXRef-item11488893
+FileChecksum: SHA1: 0c5dd62e7f5c03c20e06feb6e726ec9012d02b62
+FileChecksum: SHA256: 359b6d73d98d30c17645c1b9016dca513975c5d6c68a2d364a9c0d43fa1fc4f5
+FileChecksum: MD5: a324079f8d5333f926e3ea748387d4a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Transition/crossFade.vcproj
+SPDXID: SPDXRef-item11488894
+FileChecksum: SHA1: d735434e31d6e693377b6b213b87f12332908bc4
+FileChecksum: SHA256: adabbea6b4338877c4ecec43cd0ad7c7b91d23ccc96da09f302805977c3f6675
+FileChecksum: MD5: 70e370b773fdf439f7f7e239f1fd2bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Transition/Info.plist
+SPDXID: SPDXRef-item11488896
+FileChecksum: SHA1: fff2c34085ddbd2d01eacb8765341050add9675d
+FileChecksum: SHA256: 5b19636d022e6815d235ba0fe918dfabaaefd39196d87ebb0d6509b32af3b1e4
+FileChecksum: MD5: 467aae708a88db505fd2c1fa3b4e3863
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Transition/crossFade.dsw
+SPDXID: SPDXRef-item11488897
+FileChecksum: SHA1: 43783ce6363fbff83150e33d7f7b47c347c08e9c
+FileChecksum: SHA256: 0efa6fd5e30cacb06d4c214996898efc71c3f6f4f44b0f2ca05064faef84ae32
+FileChecksum: MD5: cd9fcb4b4c8bbd418e54b8e0c68d618c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Makefile
+SPDXID: SPDXRef-item11488898
+FileChecksum: SHA1: 7dc61a395a6bec9f9605811e282cb311eba9a066
+FileChecksum: SHA256: 079448268d5f22f858d5c6c95f39001840d9f73b98149d5297f79db1a9191980
+FileChecksum: MD5: 8622b052a1b4c65a5f9c2d129abd8a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/ChoiceParams/Makefile
+SPDXID: SPDXRef-item11488901
+FileChecksum: SHA1: 2293fb589f1d63b4bcab59363d281fcad5a7a238
+FileChecksum: SHA256: 6d513fe78c165262ea612afc40a12705f976859cfdd5522ace6c258933fcda56
+FileChecksum: MD5: c13ebb0d40f14f14a09fa8d733d69537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/ChoiceParams/Info.plist
+SPDXID: SPDXRef-item11488903
+FileChecksum: SHA1: 70550206f44cf88e4f32e81ebe710fe1d9b91208
+FileChecksum: SHA256: 08f6c42daf8909aebdad1c78f9913f8572f4930b0fe8a759f7a6d61428c38b10
+FileChecksum: MD5: d832288477dc93664ccf5cfc69bf55f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Generator/noise.vcproj
+SPDXID: SPDXRef-item11488905
+FileChecksum: SHA1: 5892e40bb56ec92e2597deaaabeecc621318c589
+FileChecksum: SHA256: ff0c8268547be69b938405b824322a9b256204e3f4a248042416a2722755a71b
+FileChecksum: MD5: 5bb476aad05f89e62b08a8ff623b8648
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Generator/Makefile
+SPDXID: SPDXRef-item11488906
+FileChecksum: SHA1: 49f3e40ba6c3cabb7e3435b3386a37edb73141ac
+FileChecksum: SHA256: 06be59414fede6c9d2a27099b5fdc430638c744978feab15c196acb996665a8e
+FileChecksum: MD5: f3b4f4af92a0dc420d4eeb03b15f641b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Generator/noise.dsw
+SPDXID: SPDXRef-item11488907
+FileChecksum: SHA1: 08621b1a3cdb6e768d017609705849c2eb129538
+FileChecksum: SHA256: ceb0019ceccafac8765b637b8c8b0276b69d7fa2480af9c3433aa7978e621801
+FileChecksum: MD5: eb19122c7f7cd1122fd8198f4d6b1932
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Generator/noise.dsp
+SPDXID: SPDXRef-item11488909
+FileChecksum: SHA1: 167aaf2090cd3855b5bd15127333f9eac6207adc
+FileChecksum: SHA256: 29e6e6409e83e37c3f6a85bc6ee97c1c3b7467a369be8269d90e461644cbeb45
+FileChecksum: MD5: 6ddfa98e6225cf1988f79a260b9f04a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Generator/Info.plist
+SPDXID: SPDXRef-item11488910
+FileChecksum: SHA1: dc3a7676c343a81b50bbed88d4d6281a0d36e259
+FileChecksum: SHA256: c4d939192460d516a16e1fbe75efd8346c59fc88b0b2875b96507566e5ceed1e
+FileChecksum: MD5: 6f2307fe91fcd86dea56cc637e7f4ffa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/GPUGain.sln
+SPDXID: SPDXRef-item11488913
+FileChecksum: SHA1: 27bcb12c816db10d31a95e7c273daae237d8d4d8
+FileChecksum: SHA256: 7d3ed03af81e9315fff1e574386941646cee32478bfb4639a465a16ea2c26e46
+FileChecksum: MD5: 843fb8f03a132d6dda207dc4fe3e6c01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/GPUGain.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item11488919
+FileChecksum: SHA1: ec226a94dfbf1fbcbdbfb7a93dbddf8bdbe578e4
+FileChecksum: SHA256: dff049c3a56ad9befb26d61c61d86e11746644500fa4e200c4f2f6bd1562b7f3
+FileChecksum: MD5: 4b8b3bad80cc3f3c78dede262423851b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/GPUGain.vcxproj
+SPDXID: SPDXRef-item11488920
+FileChecksum: SHA1: be9de5c4984c78a7480037e05c6d01037fce3097
+FileChecksum: SHA256: 10e428259dfd1f77d5dc9ec164a7c46bc4e92826b1dde2d9e999da766e040615
+FileChecksum: MD5: 4b5937588e2b9006f28472e17ac185c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/GPUGain/Info.plist
+SPDXID: SPDXRef-item11488922
+FileChecksum: SHA1: bfb33ee270044d78a24c500ecaccac0d44923a4d
+FileChecksum: SHA256: c911e2372e1b6bb390883a4fdc7fa9dca686c8a72d7d22f02eefe1d3905ee5d1
+FileChecksum: MD5: 9b502a011c50aafeb6f8860742168cb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Invert/Makefile
+SPDXID: SPDXRef-item11488925
+FileChecksum: SHA1: 8faa0f4779131d1844a11c0cd4047d1ef3029e0c
+FileChecksum: SHA256: c351a62d3dc7c9cc7f642868445254f833e9bf50356447fd763c32a44d09d249
+FileChecksum: MD5: 781702488b19a74e961844a95a877109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Invert/invert.vcproj
+SPDXID: SPDXRef-item11488926
+FileChecksum: SHA1: 0c6c55a3ce42aad5674398bceada9c329f0c406d
+FileChecksum: SHA256: 4e0306639b8f8bba0bdf71293589d908f55df92a756dcb2628c2b7b128d9e594
+FileChecksum: MD5: 1c9599460e0f2306c8a676e93dd524af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Invert/Info.plist
+SPDXID: SPDXRef-item11488927
+FileChecksum: SHA1: cd33a159f7fb0f82b8b53be902bd28906a12fc95
+FileChecksum: SHA256: 524460a09d6da0ee79f5a90221f53885123dd53ec80b28db2b53841263f0218d
+FileChecksum: MD5: c89e464e6315096e57c315f881fb5cf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Retimer/Makefile
+SPDXID: SPDXRef-item11488929
+FileChecksum: SHA1: aa3e572edb0d574badf7f89b26ac2d16561338f1
+FileChecksum: SHA256: 3831e376da92c28ed28c1b209928b55ce885226b047d51edaed5afabfbc29767
+FileChecksum: MD5: 2eaa60291da65023e174526992d0d22d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Retimer/retimer.dsw
+SPDXID: SPDXRef-item11488930
+FileChecksum: SHA1: 4824183147130d05af6ca590511ca7bf53ea03dc
+FileChecksum: SHA256: 3872c1413a8cd33c5cade996e73efab493adac51b92db0b5f185910f90181454
+FileChecksum: MD5: 184a72d85300507d4c32a39e3172a84e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Retimer/retimer.vcproj
+SPDXID: SPDXRef-item11488932
+FileChecksum: SHA1: 6b78caf0b6ae809671893a576f117ebe35e2ed2d
+FileChecksum: SHA256: 9e4f4a583d0fe3f4ce89681c1c2e27e01a50593d2e75537a9837500a61aceda8
+FileChecksum: MD5: 4da716b451c6830838f366710ced3f56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Retimer/retimer.dsp
+SPDXID: SPDXRef-item11488933
+FileChecksum: SHA1: a86ae4024c11fa4d8e771b994c838555020f7c63
+FileChecksum: SHA256: 721da5133a453e85a4a72dd12bff54c968100857f485bd265801a7f9d70908ef
+FileChecksum: MD5: 7103f14c3cecf16fe2892073ab4e3be6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Retimer/Info.plist
+SPDXID: SPDXRef-item11488934
+FileChecksum: SHA1: c06345121d89a87de6ceae5246ad8200bccf1537
+FileChecksum: SHA256: abc16958e2ff26c4bc154b72c96417d1c4dfc22c059bea61fa044cfe6a5dfa5e
+FileChecksum: MD5: b1657b346622d471295991a8ae92202b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/include/README
+SPDXID: SPDXRef-item11488936
+FileChecksum: SHA1: c4133828a7de4acc4f60d8cbe330618c44fe69cc
+FileChecksum: SHA256: 5e5a8daffeca22965c0f83edd75781dfa840b80f1b4b140bc00e814b219e9da1
+FileChecksum: MD5: 1ddeb725859901a4d122652996583cf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/include/ofxsImageBlender.H
+SPDXID: SPDXRef-item11488938
+FileChecksum: SHA1: a0c2fe78f29556faeb53f6095dd333b7de86e482
+FileChecksum: SHA256: 20d38c1fad9b38b7a09f2fc6e8e5bc3fd18aaec51631d5060c172ea46fbd0c6b
+FileChecksum: MD5: c45128502b2f6dc93b4e1712a0e096b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/CMakeLists.txt
+SPDXID: SPDXRef-item11488939
+FileChecksum: SHA1: 5646e38ef8e3800887f7b907a1037ad00ef875d2
+FileChecksum: SHA256: c89c57ff3709c5b8f0a461fc91c32f4472dee71a89665d1b2d18ca8ca81c24fd
+FileChecksum: MD5: 913e9ad358541207e774af0b0463056f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Tester/Makefile
+SPDXID: SPDXRef-item11488941
+FileChecksum: SHA1: 2099f6bf9f1a4bc309b3336ccd6d7e57b77a6c59
+FileChecksum: SHA256: a34c51de2db9bab45fcb8e42c228788d2b2b14e7ec5cb48c7cf62348d31adf72
+FileChecksum: MD5: 928fa253b100af958b576b39a55e50cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Tester/Tester.vcproj
+SPDXID: SPDXRef-item11488943
+FileChecksum: SHA1: 336cc525332ce730627a039b56ad0c1640e89e4b
+FileChecksum: SHA256: 56d3e218683f1f377186e17ee64c21d8d95fd8934a7d54c85581207a66ea0680
+FileChecksum: MD5: 84b41917c091c6b5308866437c3b102f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Tester/Info.plist
+SPDXID: SPDXRef-item11488944
+FileChecksum: SHA1: 523c25ded889ebbeeef2a24d8d1bfea07f6282f3
+FileChecksum: SHA256: db4230c605faa4e6ced6a4e30c3f522124d7b378f09caac432c1fd87532489e6
+FileChecksum: MD5: 3ec593041e4e9997a0b536d27811ad73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Field/Makefile
+SPDXID: SPDXRef-item11488946
+FileChecksum: SHA1: 1bbca7bd4021a7c2105ddaf3d1d47fc624f7f05c
+FileChecksum: SHA256: e0f5beb3d09f467fccee2489dd150413b82ec5a0dbbaa452815777666ab7c550
+FileChecksum: MD5: 979cb2bc1e7d5b68219fa1deb37a9103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Field/field.vcproj
+SPDXID: SPDXRef-item11488947
+FileChecksum: SHA1: d49ed74ceaf36167eda6d7baf0f7e0d818f7ef5d
+FileChecksum: SHA256: 7ddaf3d3f590586ccee7180d58a88b6cc1e6fd8348368a707c8a8e612d1772e8
+FileChecksum: MD5: efdfbe4f9cb71bc8fa3b4de0a4157d58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Field/Info.plist
+SPDXID: SPDXRef-item11488949
+FileChecksum: SHA1: ca397d9c259130251c935a1f8def6cc6ddd7a287
+FileChecksum: SHA256: 67ee0a9c518bf9d0a48ad054e9da0942dcc92daf783503ca71264e7f501d2161
+FileChecksum: MD5: c075ea11f633b9fe0e8695985d5fb1cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Basic/basic.dsp
+SPDXID: SPDXRef-item11488951
+FileChecksum: SHA1: db887d29d0b2299eca755f3c5938d6ceda4df851
+FileChecksum: SHA256: 6c78435130823768fcf3b0f3b43b7352fa808d0068e792b223e241e11e1ff67a
+FileChecksum: MD5: c7c5ffe26a8fb2c94c1f5476aa0d4807
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Basic/basic.dsw
+SPDXID: SPDXRef-item11488952
+FileChecksum: SHA1: b4f04341979085cdd4fbb3dede51bef15e4017da
+FileChecksum: SHA256: 2dddd4c1425f3349644361357ee30a372b4afbd081919afff0f60c5e9b771abf
+FileChecksum: MD5: 41bc309472fd8b65eee0f3c2dd3511b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Basic/Makefile
+SPDXID: SPDXRef-item11488953
+FileChecksum: SHA1: 64f7c805319fa8c39013754a7ca577dc7330da35
+FileChecksum: SHA256: 06fe61d52204e26b85f37fb684dc70ff76ca02d6daf2691d6fa3038edfb33188
+FileChecksum: MD5: 7133c3310b0c05a0fade7fded954218f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Basic/basic.vcproj
+SPDXID: SPDXRef-item11488955
+FileChecksum: SHA1: 98e668654abb09081a20c43300c4626c76b6e3d0
+FileChecksum: SHA256: eadaf172ecd569489feb5b21d2b48bcf0aeff78b4c1d3ae0e714b9ae5e939821
+FileChecksum: MD5: 5d0f1610875120f602a4628b15cb512c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/Basic/Info.plist
+SPDXID: SPDXRef-item11488956
+FileChecksum: SHA1: 3de8ffa6f8105a41064d50633909c4bf8a3e74ff
+FileChecksum: SHA256: b44f95bce32688dba690d922c936af6950073c3f5ee5be1b76fa552e78c441c3
+FileChecksum: MD5: 6367d66014ac44068eb9abb5de4e0aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Plugins/ExamplePlugs.sln
+SPDXID: SPDXRef-item11488957
+FileChecksum: SHA1: e9c332d11e0f8f619c90bf5d528654555d8db9e6
+FileChecksum: SHA256: 6818e7aaa027b280eb0d6a723d868a600b4cd3392742bf64b5e2baaceab8984e
+FileChecksum: MD5: cf5ad20fb2e7e91f9927e860c8f1f2dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Support/Support.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item11488959
+FileChecksum: SHA1: 315583bd6174922e19f3a85fdde9e31c81552672
+FileChecksum: SHA256: 802632e6ce0acf2f767a11ba022ed6d65dc169563ed599611367de56d7db2f24
+FileChecksum: MD5: a24086e06f51c41f62cea339735d70c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Makefile
+SPDXID: SPDXRef-item11488961
+FileChecksum: SHA1: bd3f4514f5cadf629cc0ea2ebe74ca75a3eff93c
+FileChecksum: SHA256: fb2ab174b8972bcbb87cf48f83a22008954906f6118b43ab37727c219d5781d8
+FileChecksum: MD5: f317a947ee7ac8f7d1b934fea2cda49d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DepthConverter/DepthConverter_2005.vcproj
+SPDXID: SPDXRef-item11488964
+FileChecksum: SHA1: 3ab577e7aaeec55dd77b35fed2568d1f7c09b354
+FileChecksum: SHA256: 1d3cba8f6add801aad89b8bfac7927875e9c5831936e8d36ef2c3b1a836f42c2
+FileChecksum: MD5: 83f66864a046cd549bc8710440a2000c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DepthConverter/Makefile
+SPDXID: SPDXRef-item11488965
+FileChecksum: SHA1: 5387603a451bbe6dd8ec45a1be4f8120ce969c8c
+FileChecksum: SHA256: 62ac823ac344bb7b6be7d042c45e4d39fd05725cf49e28e7ba505b35a3b88b1e
+FileChecksum: MD5: 477dec03246620566847d0aabb715d2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DepthConverter/DepthConverter_2005.sln
+SPDXID: SPDXRef-item11488966
+FileChecksum: SHA1: 7b9f2e181c725c0f715102a46d5b4759897470f4
+FileChecksum: SHA256: d9e480c47e5dd85eff2cb318846751734ee0a776362b7485cdbba42b88887269
+FileChecksum: MD5: b2c51cc160315684a4677673591b0e83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DepthConverter/MakefileOSX
+SPDXID: SPDXRef-item11488968
+FileChecksum: SHA1: 81ac2771a033265c8ffa938bafba7d9be74fd0e5
+FileChecksum: SHA256: ecebe5688b7a99f337b81135eec6a17ac447ae0775f5324763fa33fa6f0343f5
+FileChecksum: MD5: 690c9d77fbe1bf1f63817d5d79c3f645
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DepthConverter/Info.plist
+SPDXID: SPDXRef-item11488969
+FileChecksum: SHA1: 7bbbed82ac465b88055be98b479cd7b8840dc8ca
+FileChecksum: SHA256: 36831aa6bdb191c744dae1ca8980964a84772be6ca603f807613a0579e37748d
+FileChecksum: MD5: aafebb62955612a61927fa77eacba5f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/ChoiceParams/Makefile
+SPDXID: SPDXRef-item11488971
+FileChecksum: SHA1: 120f74c79e3353890e493d07dd384ad64a54f0de
+FileChecksum: SHA256: ba453449c1c0d7ac408ee226086e834756443b21023a607d8c93620633f8454d
+FileChecksum: MD5: c98bd15a11eb67ba4b37f54f8d02a924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/ChoiceParams/MakefileOSX
+SPDXID: SPDXRef-item11488973
+FileChecksum: SHA1: be0cccc1c2906a6113c4e8b41e7c2c186f2411b5
+FileChecksum: SHA256: c0d9b1c2eb6d9af211cdd238c5c77e505c988f37e461b2502bb086ea6fae4cb6
+FileChecksum: MD5: ac7735c33de4514819ff88d03a7cc740
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/ChoiceParams/Info.plist
+SPDXID: SPDXRef-item11488974
+FileChecksum: SHA1: 70550206f44cf88e4f32e81ebe710fe1d9b91208
+FileChecksum: SHA256: 08f6c42daf8909aebdad1c78f9913f8572f4930b0fe8a759f7a6d61428c38b10
+FileChecksum: MD5: d832288477dc93664ccf5cfc69bf55f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Custom/Makefile
+SPDXID: SPDXRef-item11488976
+FileChecksum: SHA1: ff780eae49f4709575a9de06a28a5489d722efb2
+FileChecksum: SHA256: 235571d5013968d1f65c3e2b3ba81109492d0e2759f0b9b9486dc22234a890f2
+FileChecksum: MD5: 8efd9f5f9cb06dd366143351d0a5f8c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Custom/Custom_2005.sln
+SPDXID: SPDXRef-item11488978
+FileChecksum: SHA1: ec9fd2aa622e73f40b225e894af02258da56f29b
+FileChecksum: SHA256: 37b486bbace78664e4e74c0429fb65de2897ab24ef3401a55a1db011c8711725
+FileChecksum: MD5: b6bec95e41daa5ca00c4659394dcda41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Custom/Custom_2005.vcproj
+SPDXID: SPDXRef-item11488979
+FileChecksum: SHA1: 3ceb8531dfa2ea40d3065b35b573dd7038086827
+FileChecksum: SHA256: 29e212eb578ddf9468be0fa7cb5aa9e9dfe3305975649294b38fa4251b8ade01
+FileChecksum: MD5: 125aec5f2f01b12f2f32f2fa33c2b068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Custom/MakefileOSX
+SPDXID: SPDXRef-item11488980
+FileChecksum: SHA1: c24bdeb05ad9c420b17610075dd19010f5630b53
+FileChecksum: SHA256: a4b303612173bdeaf4140ebfae75aedad60daa59d152a6201f34e552e64cc6e8
+FileChecksum: MD5: 3a86959460047e86a9900c910233ee86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Custom/Info.plist
+SPDXID: SPDXRef-item11488981
+FileChecksum: SHA1: ee404a1534ff402e3f8c5361e9989dac3c2850af
+FileChecksum: SHA256: a382aba6158bdc3147799ba45ff17922ad94665ac2365bbad77a66885a5c734d
+FileChecksum: MD5: e6c5794d5160636e347cd27492f5fe26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Invert/Makefile
+SPDXID: SPDXRef-item11488984
+FileChecksum: SHA1: efa60281f20687c8a83036a5f86b06bd60924950
+FileChecksum: SHA256: 2cd6e0041c8cca9937375570bfcd421993764f5acb754d5378410d410c88f9ec
+FileChecksum: MD5: e24673dd676436d517c9b6bdee294038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Invert/MakefileOSX
+SPDXID: SPDXRef-item11488985
+FileChecksum: SHA1: 247578165ebe579109ea18474fab85d3adda7c33
+FileChecksum: SHA256: f19cd9cf9477288250a9e9aa12dcbd586e508a27ab70676cbe1b0ca41c527a59
+FileChecksum: MD5: f5de46598bc9bc7dfc565d3430568d87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Invert/Invert_2005.vcproj
+SPDXID: SPDXRef-item11488986
+FileChecksum: SHA1: f25b3af980bac928331a914a99d4e5334b95e33e
+FileChecksum: SHA256: c8b3a9d757560b397201ea09840107f0f7b5f03c4134fb2ee22d70480ad063db
+FileChecksum: MD5: d61832b3a70ab78c16106b9a75e919f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Invert/Info.plist
+SPDXID: SPDXRef-item11488987
+FileChecksum: SHA1: cd33a159f7fb0f82b8b53be902bd28906a12fc95
+FileChecksum: SHA256: 524460a09d6da0ee79f5a90221f53885123dd53ec80b28db2b53841263f0218d
+FileChecksum: MD5: c89e464e6315096e57c315f881fb5cf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Invert/Invert_2005.sln
+SPDXID: SPDXRef-item11488988
+FileChecksum: SHA1: 04f6526e2d7b78033426565f335a7015ad60b5f6
+FileChecksum: SHA256: b5bc0e2eebe945f81d48bc3cfc3f90cafd3c27551f8683a9280097a9ea397f71
+FileChecksum: MD5: 994465b078d3de78732c81807a31bf4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/XML/example.xml
+SPDXID: SPDXRef-item11488990
+FileChecksum: SHA1: eb8857c4552fdfb141d28a2ec2c2c32070c406f4
+FileChecksum: SHA256: 487e63368c2cae39f196ef6972507b09a173338bf3665a22f37cbdcbf71f39f8
+FileChecksum: MD5: 7df20aa39116d283990a4c35a325f041
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/README.txt
+SPDXID: SPDXRef-item11488991
+FileChecksum: SHA1: cc71717fbbf9061ffe65e43262bb279444a03025
+FileChecksum: SHA256: a242adc945f8cb974c4b8bf1ab5fb84e87a794331f358eb57a899d17b0c79ffc
+FileChecksum: MD5: 696713e04f64eb72ca5560ec43d2d9da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/include/ofxUtilities.H
+SPDXID: SPDXRef-item11488993
+FileChecksum: SHA1: 150d8d317562e4c94d1381f847e4ac7ac9fb5a4b
+FileChecksum: SHA256: f651dbba0bd762650906ccac668bc9f868ec76a2cd1b5d39c187aa3c299d6e51
+FileChecksum: MD5: 37b614d8551e608aa34cd1de34444410
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Examples.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item11488996
+FileChecksum: SHA1: babfbeaeb1bd4b18fb99b3c7fa8a0919ec0bea84
+FileChecksum: SHA256: 549af9d929b28175162774398ec1f84f508d9468a832896677d045795d2029b9
+FileChecksum: MD5: 75b893b134c247c0ee9467312afe8a3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/Makefile
+SPDXID: SPDXRef-item11488998
+FileChecksum: SHA1: 1b1fad045c102373407c8290d8e487dd52365a68
+FileChecksum: SHA256: e2716f48b006910cf28ca1622cdcf770f35f13943768b93d52747e7e61584567
+FileChecksum: MD5: 5aa8eb9b9d221107e5b197aa8219a039
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/Test_2005.vcproj
+SPDXID: SPDXRef-item11489000
+FileChecksum: SHA1: 5431d3ef68287da5d1b2d83fc78500bbae889699
+FileChecksum: SHA256: 04e7713d3ac24cc267324c61279d9263c70915fbdaa0cd864ccbe253b10249fc
+FileChecksum: MD5: 5b2ec5a7397965ed0fb0689fc8fab2ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/ofxLog.H
+SPDXID: SPDXRef-item11489001
+FileChecksum: SHA1: 7f8fbf54eccc3599ca1da2bbdf71b9e0e86e7d24
+FileChecksum: SHA256: d9693493390918e45c0af539d5fd5987ad7ceac7c48cce673de194cee65f371c
+FileChecksum: MD5: c221a3f34e224a16c1af8e2bd9d7f8e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/Test_2005.sln
+SPDXID: SPDXRef-item11489002
+FileChecksum: SHA1: bb03215513a4a45f694c5877554fafe349ccd5dd
+FileChecksum: SHA256: c96abae9c2b64fb9c514eb2c0e85e36da3f56ecb7fdec5899da332b6568f5ab5
+FileChecksum: MD5: 3d154f260d614ecb342d3261e7778717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/MakefileOSX
+SPDXID: SPDXRef-item11489003
+FileChecksum: SHA1: a90abedb51f121f8d6ba69038dfa7234960b7c9c
+FileChecksum: SHA256: 7de28d3aa78d231795f2d563878450f50a1cece8fab5600f537b0fb61db25330
+FileChecksum: MD5: 56db8f7fc38caeb55ff1514cb622f14b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/ofxLog.cpp
+SPDXID: SPDXRef-item11489004
+FileChecksum: SHA1: 5d417c8576056745d60eec90cf8ed9ca4faf21b7
+FileChecksum: SHA256: 51dda7bcd9abb7fc83e2882a19e8150e5228bc37889def6e33e05e6488f4f1a8
+FileChecksum: MD5: 19469608f51b53eee4187a62486eddad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Test/Info.plist
+SPDXID: SPDXRef-item11489005
+FileChecksum: SHA1: 987d378ab28c6e34a1d169980895482e0e442c0b
+FileChecksum: SHA256: 02b9a8ead1bf3fb2b571a9971670fb4468659af81fc5c1439882eb2041be78a9
+FileChecksum: MD5: 03d6f197c22f5fab5fac038e9e56d118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DrawSuite/DrawSuite_2005.sln
+SPDXID: SPDXRef-item11489007
+FileChecksum: SHA1: b16022e67cb463cf2a250df4287de2e090552c8f
+FileChecksum: SHA256: ffa40e67887d0e6ea30e702883a0ad461651c83739b3baed52740c2e579ef401
+FileChecksum: MD5: b940c3536faf09916cdc980157b7f15e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DrawSuite/Makefile
+SPDXID: SPDXRef-item11489008
+FileChecksum: SHA1: ab88c8d3a9d78dcc2dd1ff1e077add23bea0c591
+FileChecksum: SHA256: 0a3674248b131279c0f48fc31fb16d9fa9b8e12b277c272a43cf6ffe1bbbe553
+FileChecksum: MD5: 5fe3718b8145ac57cc23427581fb5b31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DrawSuite/DrawSuite_2005.vcproj
+SPDXID: SPDXRef-item11489009
+FileChecksum: SHA1: 141de29288d58c817751bcdedf29470fa0919bb8
+FileChecksum: SHA256: 467c3f570d4dc98e93b50a242f28294fbe000295463e82a9807bb82ae3110e14
+FileChecksum: MD5: 0634b760217ab5a3965871a58d13b52b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DrawSuite/MakefileOSX
+SPDXID: SPDXRef-item11489011
+FileChecksum: SHA1: 07bf012d5b36ea6a38f0346e74037bd4ef70d8d7
+FileChecksum: SHA256: 0993eeb25a915c94041a1b0589e6885fc2fd9b5f443c2caaad00902f9581246b
+FileChecksum: MD5: 48f025ece172cc023cafb45b027c8bfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/DrawSuite/Info.plist
+SPDXID: SPDXRef-item11489012
+FileChecksum: SHA1: 22101083859c37eb036ff4372a9d292dca3b5d3e
+FileChecksum: SHA256: 74f8f6fc227662b583647dd6e286a8ee6fc7c26d179bf28ead5de5d6e857040d
+FileChecksum: MD5: e7e9b40fecb6b387725c627c2a457ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Rectangle/Makefile
+SPDXID: SPDXRef-item11489014
+FileChecksum: SHA1: f1b85f8e7d14bed269d7dda729cd9be1126d29ef
+FileChecksum: SHA256: b7cc5d0db3c6da32bfc46fec9a07ed195cedc30d50765d43a8d4737e5fb10535
+FileChecksum: MD5: c2e81a003c6c9a579b86ed35a7130653
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Rectangle/Rectangle_2005.vcproj
+SPDXID: SPDXRef-item11489015
+FileChecksum: SHA1: 6d3590c640d22d48b13212091fde3d02ea105ea6
+FileChecksum: SHA256: df4fa1a383b87dec3b848717665afc0cc2ce996c4c180b840fd6994a9ea6433a
+FileChecksum: MD5: 310633519826fc1783086097ae4e5213
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Rectangle/Rectangle_2005.sln
+SPDXID: SPDXRef-item11489016
+FileChecksum: SHA1: dbbb4aff98c61e320e8dc8db09ab59df61ceb6e5
+FileChecksum: SHA256: 11c8d24e3f9e8cb12b9428665e7bb4c869d4647f7da61b8c25c049156e1cf009
+FileChecksum: MD5: 3240a9c00bddd2c8e862b32bb90f4961
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Rectangle/MakefileOSX
+SPDXID: SPDXRef-item11489017
+FileChecksum: SHA1: 6431110ad7711e3beb1b3ed8e0361966a18a7cef
+FileChecksum: SHA256: 03334f45fe25e87d90cc5c215456fd743fa54bec9ee0e7d0a877712c40737118
+FileChecksum: MD5: d21904ecfc249deca3b20b43c48370ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Rectangle/Info.plist
+SPDXID: SPDXRef-item11489018
+FileChecksum: SHA1: e4ec8b46d8ba6e25021ecd5d2e3d726663def197
+FileChecksum: SHA256: a801f42a37edbf2bfb7a13e690834934c7b5446c2910b6444d4656f767413a17
+FileChecksum: MD5: 03c0296fe372b50df70dc5f12b37e6c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/CMakeLists.txt
+SPDXID: SPDXRef-item11489020
+FileChecksum: SHA1: 82c2eb441bcc273da3a61b33e8b0de9833919d75
+FileChecksum: SHA256: ea6f81f5f6bc1207bdc23181b1446baa6f1e57655a894fba52005a39aa4ba3f7
+FileChecksum: MD5: 8fc68c9fc70a6c7459d3f4ff46729852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/ColourSpace/Info.plist
+SPDXID: SPDXRef-item11489023
+FileChecksum: SHA1: 505fa3ba60e8ee7529a46edec0d47a6ec2954ff1
+FileChecksum: SHA256: 9558bf9ac7277e8b2446163a0dcae5e0eab736e9894422ae4f8fddb6279907c3
+FileChecksum: MD5: 2c721f4cac1d0201829403409b13e39e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Info.plist.in
+SPDXID: SPDXRef-item11489024
+FileChecksum: SHA1: bc5c220b8f29db2ccab276638f12ae247730b64e
+FileChecksum: SHA256: 710ced97bba836fb89a1cce7051a1e32b06497067d06565e53b1399d79883b81
+FileChecksum: MD5: 802f8a9a1578bff29abf4ade50556442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/MakefileOSX
+SPDXID: SPDXRef-item11489025
+FileChecksum: SHA1: 0da35de14ab6fb607b9f183763f2ff14955d0e0b
+FileChecksum: SHA256: f08d53a1cc857a94b5d53302a8a08fe8a870222c2a305e85d8c274e100745407
+FileChecksum: MD5: 3f23f57aedf9e678ce38ff4355497dd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Overlay/Makefile
+SPDXID: SPDXRef-item11489028
+FileChecksum: SHA1: 594bc61754bff6720b3c8bc633d03ed3d8f3a552
+FileChecksum: SHA256: 12f2ef914fc43986e74a9cfe59b156ab0e3fb484fa626a11b1f95a8879cbb915
+FileChecksum: MD5: af24aeb328da2c1660a1462c0195022e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Overlay/Overlay_2005.sln
+SPDXID: SPDXRef-item11489029
+FileChecksum: SHA1: 1617ee3fa6591fba54734233f2df3a502705149e
+FileChecksum: SHA256: 3675cfcc709613bae4d918e4a8a2861487fe290a1c4d9a658f504b8f720f9e3f
+FileChecksum: MD5: ade599bd2373bdecdfa6baf47062c7b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Overlay/Overlay_2005.vcproj
+SPDXID: SPDXRef-item11489030
+FileChecksum: SHA1: 94b02e74871973f9f1241f5ac8d6643d71b3170e
+FileChecksum: SHA256: 7846b3e687a62cd902cb1833d0adc45ef7ec110aec6d959b241c9d431689bd9a
+FileChecksum: MD5: 83afc5097a23c0753b6f6df2fb42d434
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Overlay/MakefileOSX
+SPDXID: SPDXRef-item11489031
+FileChecksum: SHA1: a6703407e39e7bdfc920aa7c81113669ad9e2be1
+FileChecksum: SHA256: 8835b71f905cbe8f7e82968f80db2309a148195554d70afe7190a89b3dbb4080
+FileChecksum: MD5: eb05f4af5f466452f56150cf4c5f2115
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Overlay/Info.plist
+SPDXID: SPDXRef-item11489032
+FileChecksum: SHA1: 041c2e8a17f9dde8c4f482261a6ab5657d81b5d9
+FileChecksum: SHA256: 96815f4e8c98462da2a91b4845eb6f33651bc6f4e0b4260d3c0795c4c837e92a
+FileChecksum: MD5: 6e6d3315601664da9159fc515130f85c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Basic/Makefile
+SPDXID: SPDXRef-item11489034
+FileChecksum: SHA1: 6716fd16a0f48de4c5cac0e9573d643f9943f3ee
+FileChecksum: SHA256: b189d516a7ddb018f790c82e5fcdc13495cec0b5ccaf70d76cf88d8227d691e0
+FileChecksum: MD5: b89a265aa0f43c5f1e33b2e57ceba927
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Basic/Basic_2005.vcproj
+SPDXID: SPDXRef-item11489035
+FileChecksum: SHA1: 13f43d4380a7270908ef79b5da93dab54d6a01bd
+FileChecksum: SHA256: 3ac8e967774aa9c6353b8bef8ba13c4961a5ef2a0b7375b46db7a924b2e7d5cc
+FileChecksum: MD5: f6afb4e6b808cb152c30b9a115843fa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Basic/MakefileOSX
+SPDXID: SPDXRef-item11489037
+FileChecksum: SHA1: 9eb444fdffbf0a34c97a597582608c2c3ee4215a
+FileChecksum: SHA256: b596af55a282f2d20e4a16acea99fcf2125120421d3c4444367468f14fe458f4
+FileChecksum: MD5: d7372aff4136ab80a24941ea3aa5eaae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Basic/Basic_2005.sln
+SPDXID: SPDXRef-item11489038
+FileChecksum: SHA1: d421ad55ae6d9446b078435927f4914673d7d94a
+FileChecksum: SHA256: 69daf6f1ca1e77fdbb0bd274727c00524dbfa5a77d628f183c7d6e37435915fc
+FileChecksum: MD5: a49e98025b929a46437269f84c4393d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/Basic/Info.plist
+SPDXID: SPDXRef-item11489039
+FileChecksum: SHA1: 3de8ffa6f8105a41064d50633909c4bf8a3e74ff
+FileChecksum: SHA256: b44f95bce32688dba690d922c936af6950073c3f5ee5be1b76fa552e78c441c3
+FileChecksum: MD5: 6367d66014ac44068eb9abb5de4e0aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/OpenGL/Makefile
+SPDXID: SPDXRef-item11489041
+FileChecksum: SHA1: 21e203bc79ebffe2bd044b4222abd94f83ecdd67
+FileChecksum: SHA256: 1f86eb42630d0ab7259f2f3e9c7836d892e8f45490ed3d2b7ac3af42204017f7
+FileChecksum: MD5: 2ae4d97d268ed94745872c7fb094e1e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/OpenGL/MakefileOSX
+SPDXID: SPDXRef-item11489043
+FileChecksum: SHA1: 86c18b21f82a1aa289893050d2403482fc6f29a3
+FileChecksum: SHA256: 31b76ffc7c5cc2356f1a7e4553ed5d9478cd2f2f1b3b3b21fe5521cf5666fab6
+FileChecksum: MD5: c4aad0156c8d01024a35122ee3a0a648
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/Examples/OpenGL/Info.plist
+SPDXID: SPDXRef-item11489044
+FileChecksum: SHA1: 3a2ed11c3d4373aaff6a4c714a2f10e514a5ce25
+FileChecksum: SHA256: 6e50f6a792e35565e4c19a3b950b6911a20bea226508d6a4f55782160d4fff7c
+FileChecksum: MD5: a96329acc9d37f99d1679900bc1f4258
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/STANDARD_PROCESS.md
+SPDXID: SPDXRef-item11489045
+FileChecksum: SHA1: 89166cd5dcc143d0ebcd8bde5c69f4acf97c5bcc
+FileChecksum: SHA256: a371287c48774c1aa7a0108fccbdb180854115ffe63012a822a68784a2a95a09
+FileChecksum: MD5: 20c04914796654adff49656b61b4b790
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/.gitignore
+SPDXID: SPDXRef-item11489046
+FileChecksum: SHA1: 344a24d785e96be27fefa32e5eaf952af1668855
+FileChecksum: SHA256: b99108247919bedd8618f72b1137cdec6c851ddcced99fa8a18e5d234ac24767
+FileChecksum: MD5: 95ca955c9c94adb0eba1eef13d7caafe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofx-native-v1.5_aces-v1.3_ocio-v2.3.ocio
+SPDXID: SPDXRef-item11489057
+FileChecksum: SHA1: 631579f280d06dcaf1801947f7127694ef18047c
+FileChecksum: SHA256: 463eda1e582b5c9d047f844c5fbe362f50257f4229d95b83274c77fc2442277a
+FileChecksum: MD5: 1b839c1e69cd237d2549000c63221e90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/ofx.doxy
+SPDXID: SPDXRef-item11489065
+FileChecksum: SHA1: 8ee32764521fa98e5962e5bf4f298adaa0d7661e
+FileChecksum: SHA256: dc33e7fe320a09a968f8199e301236dff15b76ae7f8c006dfeaaa416e5bcc590
+FileChecksum: MD5: 1daa52cbee39a2c13b7f94dbc0acf399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/OFX_navheader.png
+SPDXID: SPDXRef-item11489067
+FileChecksum: SHA1: fd10c945866f495205236fb1509c267f42df64fa
+FileChecksum: SHA256: 7396636d0b2b226b296648a0ff94e843b2008e205c3029d0ade9a25e90a97f92
+FileChecksum: MD5: 0699873f9c807db17c11ea0dcb7f37a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/DocSrc/ofx_footer.html
+SPDXID: SPDXRef-item11489072
+FileChecksum: SHA1: f150c258035759f0cbaa1f044fd12951b67d5d91
+FileChecksum: SHA256: e6096fd330267941ecc99a884f315c922bda8413271f214d80dc4343cfe9d2c2
+FileChecksum: MD5: 9e6b87ae82e89d6bda7c7edf1f31072c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/DocSrc/ofx_style.css
+SPDXID: SPDXRef-item11489073
+FileChecksum: SHA1: 3721524d2093d52e77b0459f083364c887943fd0
+FileChecksum: SHA256: 6758317cd44cf46f285887360d9ba81b40d21116dd5f1871ae5fdd73ec656921
+FileChecksum: MD5: 96fe41178f3ec76eb6444ed3e15b29db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/include/DocSrc/ofx_header.html
+SPDXID: SPDXRef-item11489074
+FileChecksum: SHA1: 5826dd6663b90ed3cb37fde7d13c09fc70e1cb1d
+FileChecksum: SHA256: 91a36cafc95542f199fe85491eb4f65f2806558a1d65f3f45fe013037f06a627
+FileChecksum: MD5: 3abcf9348b61f9cc5378099da02e527e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/requirements.txt
+SPDXID: SPDXRef-item11489077
+FileChecksum: SHA1: 2771ce3e8c4376685dad266ae10d4c3cf42fd341
+FileChecksum: SHA256: 885cefdf1baa38daa4847b370e35b8e925ec598286a22f0786f92e0c77615381
+FileChecksum: MD5: c8e3b56d7235abc171e9aa3339e9be59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/BUILDING
+SPDXID: SPDXRef-item11489079
+FileChecksum: SHA1: b8d126dc658fee6632cf3def3eb7984440dc4fdd
+FileChecksum: SHA256: bc8f93fef292fd4e17080608f2f7668ca7293fe6459c02aeb1bd758303d8ba38
+FileChecksum: MD5: 37a80c86b7746cef966b0f6e8787775a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/TTD
+SPDXID: SPDXRef-item11489080
+FileChecksum: SHA1: 356061201819a9b569b3d7ae5da94383a01f3c88
+FileChecksum: SHA256: c16d5a23111f2eb3e2cf00dece7b47505f396ddf6ee3554709b2a771894d8b5f
+FileChecksum: MD5: b329d33aa0849ab20c87befe41862e92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/Makefile
+SPDXID: SPDXRef-item11489081
+FileChecksum: SHA1: c9c97377fa9e5fb70aee946530fbb71a01e79c1a
+FileChecksum: SHA256: 9172e9e6a375d0e508de399a23509022d23729f2ea85aa998de90f733b1a9165
+FileChecksum: MD5: aa2c54ccf748570b65801c07569440ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/HostSupport.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item11489097
+FileChecksum: SHA1: 59c90f3d894bcb18ac05fcb91a297970cfac5b30
+FileChecksum: SHA256: 77f7dc23363876e82d3738afae90703c3c796831f8ffbdeb8c8239274d295367
+FileChecksum: MD5: bd5d74ae9a89c8d9131108dabe2997b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/HostSupport.sln
+SPDXID: SPDXRef-item11489098
+FileChecksum: SHA1: c52b93c8222385f40db81ffa6d0b999ad4395caf
+FileChecksum: SHA256: e35e32a88a01eb0568b7a9c6617a6be94a6f231a42f132c0f7930aa874449ca6
+FileChecksum: MD5: 259bbf896e4a0c71f06ae2725f8c8b37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/CacheDemo.vcproj
+SPDXID: SPDXRef-item11489100
+FileChecksum: SHA1: 94e1b8b0d592c7dd16759f24da5ba2bf9c81f743
+FileChecksum: SHA256: d5eb79df2b9dddf97cf6242fc977dc297b0b33db4f08d0e71b36f5874bd075cd
+FileChecksum: MD5: 5ec6f6aa8548e5522cb6c6b9f21c3c88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/Makefile
+SPDXID: SPDXRef-item11489101
+FileChecksum: SHA1: e89d7a4350bc6fa03b23472973bebfff1fa205a2
+FileChecksum: SHA256: 1dba2adbad9582918306315d31839bf9ae3464ac83d2b8862d58c4a8fa7cc526
+FileChecksum: MD5: 1ae3e5d16b8340537c2d9e19a8ffc6e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/examples/hostDemo.vcproj
+SPDXID: SPDXRef-item11489108
+FileChecksum: SHA1: 68bda398391ab3c0907c709b583d3242de2c09c7
+FileChecksum: SHA256: c7662f16d9435006d1bf2c476e69f4e77ba219787df943af059f6b2146fd9389
+FileChecksum: MD5: ca4653002030b9b7db377320285ad606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/CMakeLists.txt
+SPDXID: SPDXRef-item11489129
+FileChecksum: SHA1: c797ce0acb094e3e39d34150776dd6e8168c51fb
+FileChecksum: SHA256: 1c3528c96d9107b28c93a771611e0881e12ad46923e01446b0fc6a0f8f52ca3a
+FileChecksum: MD5: 6c2fb4168f1f85b65c7b68ef5633af2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/HostSupport/HostSupport.vcproj
+SPDXID: SPDXRef-item11489130
+FileChecksum: SHA1: e00ae071dd2d523210a836b3a974b455156df645
+FileChecksum: SHA256: a65754d9fcd63abdcbaf392ee96259d5ef9e02d8b4b301503c791aa3c90614bd
+FileChecksum: MD5: d769aa41854c9e919bf781f41327be95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/uploadRelease
+SPDXID: SPDXRef-item11489132
+FileChecksum: SHA1: bcf285ab6d2dbda50f0572b194799b0cf1101b31
+FileChecksum: SHA256: fbdd508711ed6f80ccbda5e34a6d8f963403cce908e9caa23579c6e419197138
+FileChecksum: MD5: b6cb140b5646ea3201c1bb6e89292fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/genSupportRelease
+SPDXID: SPDXRef-item11489133
+FileChecksum: SHA1: 962cfb18b624ba63a237fbc752d1d0fa80bdf69d
+FileChecksum: SHA256: c05935da7958f77d9912470d0504253d1fc65e6318c90c909869ad9eb3e00db6
+FileChecksum: MD5: 48b5f16401ddacef4adc0cd6b4c95845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/genSupportDoc
+SPDXID: SPDXRef-item11489135
+FileChecksum: SHA1: ab069b858ec15c262e99fd56c1bf2d0f807742f7
+FileChecksum: SHA256: a052947fc58fc86aa3bffed6346e677385735db741ff6f8ae2ceb7e07d6442dd
+FileChecksum: MD5: 49707b4df432db68c62066de59f1dc1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/scripts/genRelease
+SPDXID: SPDXRef-item11489136
+FileChecksum: SHA1: f0ea892a91aa75b4da0ea1cb937d61a1a0effac0
+FileChecksum: SHA256: 74fe6e80afe381eb8c4447a8387debddb2d6fed59617e37c56d725e3372ab09a
+FileChecksum: MD5: f0af4e4f11fe34b604a83292cc15ca12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/CMakeLists.txt
+SPDXID: SPDXRef-item11489140
+FileChecksum: SHA1: e022d64360693f6591207f3a3b39e9984238a3e9
+FileChecksum: SHA256: 45f6d2c5188bc8a9fb031a747fd89fbc24055654790290992a66e29435dc7aa2
+FileChecksum: MD5: 9d9a4c51987e4186500ded3387293e99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/.readthedocs.yaml
+SPDXID: SPDXRef-item11489141
+FileChecksum: SHA1: 9284c75b7b83d64d528b27db55eb49caa39f955c
+FileChecksum: SHA256: f34f423d3d20d8c5d5f46c8b1a34e07cb3a3add37850808b6bb5bddd8ed3cfe1
+FileChecksum: MD5: 2cda00740d1daa51d6266babe099d868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/release-notes.md
+SPDXID: SPDXRef-item11489142
+FileChecksum: SHA1: 9d2f842aef382294b2608eeee71ff10c4e186a39
+FileChecksum: SHA256: 132086e34388ece7bce8486e646713993f69463206f211558977bbbe035321a6
+FileChecksum: MD5: b189ed3d78f3e38823b94ec892c0a309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/test_package/conanfile.py
+SPDXID: SPDXRef-item11489144
+FileChecksum: SHA1: 76a54993c875ea40e3a1035254f7d503379d2364
+FileChecksum: SHA256: 015c3e9ef3ef9e009893428ce44c713e54f336bb83394e4a688c0d7b9fbd56d8
+FileChecksum: MD5: c9597d8220ab6a5a9e1f42b6afd23256
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx/test_package/CMakeLists.txt
+SPDXID: SPDXRef-item11489147
+FileChecksum: SHA1: ab4d03fa4a832893439baf008931c9ba45007a1a
+FileChecksum: SHA256: 7873e3b147b010bff84338b847552c57fd8abc64df76282cc4243940babaf7b9
+FileChecksum: MD5: df8c5351f843c86942e600083f64ebbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openfx-2025-10-30.zip/openfx-test/README.md
+SPDXID: SPDXRef-item11489149
+FileChecksum: SHA1: 35272a615252e1d2155265a38d4fa1fa4239b56f
+FileChecksum: SHA256: c3375565d1bd37b069923cd5d69978615ad0f2ae40ad6ef39764353e065658c2
+FileChecksum: MD5: 1902ee8d038487f3f20ad5f60b3fa096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-MIT-CMU-style
+LicenseName: MIT-CMU-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-file.README
+LicenseName: See-file.README
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-HPND-warranty-disclaimer
+LicenseName: HPND with warranty disclaimer requirement
+ExtractedText: <text> Permission to use, copy, modify, and distribute this software and
+its documentation for any purpose and without fee is hereby
+granted, provided that the above copyright notice appear in all
+copies and that both that the copyright notice and this
+permission notice and warranty disclaimer appear in supporting
+documentation, and that the name of Lucent or any of its entities
+not be used in advertising or publicity pertaining to
+distribution of the software without specific, written prior
+permission.
+
+LUCENT DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS.
+IN NO EVENT SHALL LUCENT OR ANY OF ITS ENTITIES BE LIABLE FOR ANY
+SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER
+IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
