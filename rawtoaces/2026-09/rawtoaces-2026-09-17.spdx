@@ -1,0 +1,2381 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_rawtoaces-2026-09-17.zip_1791297340.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-10-06T14:35:40Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: rawtoaces-2026-09-17.zip
+PackageFileName: rawtoaces-2026-09-17.zip
+SPDXID: SPDXRef-upload2388
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: aa91c64ce6e9c41d5f747d0284577d4b1e05a471
+PackageChecksum: SHA1: edcc898c5d90a3885e4b204d4fef7aaff951b517
+PackageChecksum: SHA256: 19b90a17dc4797545355bf7b86bb84d3524011dfdc298d21523305c9884066bf
+PackageChecksum: MD5: 39af7e30256bcfde5699a9aa5d8b2455
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2388
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/python/api_index.rst
+SPDXID: SPDXRef-item15156272
+FileChecksum: SHA1: c6998721fb89d039341d3577553b8d8484026434
+FileChecksum: SHA256: acd41dabe46c9271662088c67c3399e8da8fc389b0c1607cf0d49456bcaad971
+FileChecksum: MD5: 6b26ee3db3e55a8df266bcf203d8dbfc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/cpp/api_index.rst
+SPDXID: SPDXRef-item15156278
+FileChecksum: SHA1: 5afa41f32ff1c22e289ad3ee1540717164f7708a
+FileChecksum: SHA256: 1b80f5b132641038b0ab0895555adf1a959fd4a678d6e22a4a2337dfdec68943
+FileChecksum: MD5: b13ae23abb2ce81eecf89a22baf0600b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/cpp/api_reference.rst
+SPDXID: SPDXRef-item15156282
+FileChecksum: SHA1: 70a8159cec07f9b180894fce803559b693b3ee7e
+FileChecksum: SHA256: 6571e5b1ec08ac91ca122d2e2ac98424d993e3109bce0b6ee13fe43facb04c21
+FileChecksum: MD5: beb86554c2170d7872ec13ee9594b4b4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/python/api_reference.rst
+SPDXID: SPDXRef-item15156276
+FileChecksum: SHA1: 49212a8fb2a2a2288e129c7d4c6a4d806984dec8
+FileChecksum: SHA256: 03a807b49c18a102e717c76f8a2cfc926d0f05842f75409e1a1023cfa528b152
+FileChecksum: MD5: 2356f3e88a569a9c4c235594ea0c3c49
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/cmf/cmf_1931.json
+SPDXID: SPDXRef-item15156387
+FileChecksum: SHA1: ff7863a5f38fe724e334cc1177fd791108d0856f
+FileChecksum: SHA256: 4f289294876d64a96092a1e567bb95a3e6dcd4caa2e5eb26b3be8ace0d9420a8
+FileChecksum: MD5: 59996846dec803e9b315620a8740b50b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/contributing.rst
+SPDXID: SPDXRef-item15156267
+FileChecksum: SHA1: 4f5fbc6c6b6f4565219341eeba955779dd349adc
+FileChecksum: SHA256: b5c106214eb393482e61fa5be4d805eb7b31880c45d88ad88f8496b3d5d7f95e
+FileChecksum: MD5: 52b31d3a17ad92918a76aed94e602002
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/getting_started.rst
+SPDXID: SPDXRef-item15156263
+FileChecksum: SHA1: fbc44d8f37704592837ccda288b799532a35871c
+FileChecksum: SHA256: 6d70dcd0cf415fc2fb9e16ed8b7523c95d2a1b0e7ad1010403bd452b011d7453
+FileChecksum: MD5: a11b7d19b24d74686748052d55bcff49
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/cpp/image_converter.rst
+SPDXID: SPDXRef-item15156281
+FileChecksum: SHA1: 2abcbbd5515123bed3567bf04fad7019f00253c3
+FileChecksum: SHA256: 71ea5275a15f161e7f77a73941e86d175a7d4bbe7aa95bb5262fc4bec6731c44
+FileChecksum: MD5: 2a2488f929cedf4edfaa3486b9cf5466
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/python/image_converter.rst
+SPDXID: SPDXRef-item15156275
+FileChecksum: SHA1: b444d1ce497b34836a15366a718432c0c9ec190d
+FileChecksum: SHA256: 1f13144e4ee986712a65fff656ea185b6d875cc5affac34862f7bb449ed8acb4
+FileChecksum: MD5: 4be2a3783c203d2836e3231bb3caa48b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/python/index.rst
+SPDXID: SPDXRef-item15156274
+FileChecksum: SHA1: 4c3087ba326ad5272f7fb8678ba7a71cd53e2546
+FileChecksum: SHA256: 2f9cecab9855c79bf923e41f1a40d76b5a95f776361ab6ed4742318929fa4c76
+FileChecksum: MD5: 022adac19f732987a86e8be29f773066
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/cpp/index.rst
+SPDXID: SPDXRef-item15156280
+FileChecksum: SHA1: 7032c9cba19f01216c8756c3a34750ef44271077
+FileChecksum: SHA256: b011961d700edb227d8a9699597efb4d71461619d01b9cab0746c395ceb38c70
+FileChecksum: MD5: bc007601dadcb979889e2f17b8b1bb85
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/index.rst
+SPDXID: SPDXRef-item15156262
+FileChecksum: SHA1: 00f5840421cb405f5c40a0dc502d4baec0d4cc92
+FileChecksum: SHA256: 1bc2b20dbc7d5fa3ffb7476516b69b3aa6505381589b37890e73dcc2ea36889b
+FileChecksum: MD5: 116aef330fddeb53132041317c08399e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/lens_correction.rst
+SPDXID: SPDXRef-item15156286
+FileChecksum: SHA1: 055b5cb75988b0a94b056efb1d3cf731ebe6d64a
+FileChecksum: SHA256: 27aed6667e81a4f2e0074917bd8227577e0640d60f09f120a0949c12b3caf894
+FileChecksum: MD5: c909a35e53a4263f7ce4d22d69d92f7f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/cpp/rawtoaces_core.rst
+SPDXID: SPDXRef-item15156279
+FileChecksum: SHA1: d27034f13529d0aa628f6f71421a0555904079be
+FileChecksum: SHA256: 6b3eaff3b0fe859fc0bcdf696426b886c4ebefc545ffcc355cee3a526a3e1dd9
+FileChecksum: MD5: 8ae82744a6d89a8d8a27923ea7438eb6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/python/rawtoaces_core.rst
+SPDXID: SPDXRef-item15156273
+FileChecksum: SHA1: 90cf1e1d59bf4617087593b02103431e2721970b
+FileChecksum: SHA256: 20f00216e41ed449e21c0f994b57a1bb08d4a7baa7f703b0af52b7b18a4113cd
+FileChecksum: MD5: bce4e8a9cd24c9f0f8f75049677e01fa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/cpp/spectral_data.rst
+SPDXID: SPDXRef-item15156283
+FileChecksum: SHA1: e00796d3dacee8c9d8108f5fc9fe04e7152872a5
+FileChecksum: SHA256: 02717d1f861ee6f4d9229a3dca78be7e35ee69a23a9da4aa65abc4323b4635cd
+FileChecksum: MD5: 799c56668369f0c9fa2104bd7d539154
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/user_guide.rst
+SPDXID: SPDXRef-item15156268
+FileChecksum: SHA1: aaa26bb46a6a11c7160b58899bdc191488e5d088
+FileChecksum: SHA256: b6635d148efd8379775d1f9e05dfde02b4aa5bf63f15c551b92e933f90909e40
+FileChecksum: MD5: 1d697d0ce8c59491378aa27077721543
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: CC-BY-4.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/ARRI_D21_380_780_5.json
+SPDXID: SPDXRef-item15156394
+FileChecksum: SHA1: f7645454986a36b1eb3ab4c66b030bb9e5519fec
+FileChecksum: SHA256: 46637f7c575c6bcc93748d9e919d1e6583d4141d12fb85153ef269c1ac9234b2
+FileChecksum: MD5: 6413fabedccf56b6191b77468248ac33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Arashi_Vision_Insta360_X5_380_780_5.json
+SPDXID: SPDXRef-item15156413
+FileChecksum: SHA1: 78f67748cf75452abf4fe7dc199ae8cc4d01a9a7
+FileChecksum: SHA256: c1bcb19c925dc6819d36e4cac425e18898198c664ee8e74fe555516d9400f8fa
+FileChecksum: MD5: 5dd428b40fb7bc8a5e277b5b8087cb15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/docs/CHANGES.md
+SPDXID: SPDXRef-item15156254
+FileChecksum: SHA1: b4e21dc3a7fbed63f3780bc48565fa7aa8998a6c
+FileChecksum: SHA256: cc23932a829841ef6322d716e2c2f257876f1c119de5852a3a62996f5780ec2b
+FileChecksum: MD5: 0a099c5e66096ceb8f82939cea0d60b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/CONTRIBUTING.md
+SPDXID: SPDXRef-item15156258
+FileChecksum: SHA1: f92f7dbe41d2883f0acd6845dd029ff41c777372
+FileChecksum: SHA256: a477e226a97f31ee0ecf0201212a72fcd0b881b1e61fc3d8e0f04733d770f0f0
+FileChecksum: MD5: f4f8ffb5edf4df1401b3251be2bc3922
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_Digital_Rebel_XTi_380_780_5.json
+SPDXID: SPDXRef-item15156410
+FileChecksum: SHA1: 3d812cd76ceed8a1c501782b73fe603e8ddc161f
+FileChecksum: SHA256: ea37526e815170e836bc920f7967266cef384ef831dd11fc0c992aff59561783
+FileChecksum: MD5: 6af78be1863764453cd731882f0f9c86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS-1D_X_Mark_II_380_780_5.json
+SPDXID: SPDXRef-item15156434
+FileChecksum: SHA1: c71f4911f4cf6e379787da56c6cdb4e60de543bb
+FileChecksum: SHA256: 719e12a54d7eb467351ea166401d9a76c2a4faa0c31ae08d53ab18648d61f0a2
+FileChecksum: MD5: 669036b949f56accb6344a34b7b4b44d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS-1Ds_Mark_III_380_780_5.json
+SPDXID: SPDXRef-item15156433
+FileChecksum: SHA1: def4afc7f70603a7293a93cda912abfce72d0199
+FileChecksum: SHA256: 337420bff14a676aec6ffe7378e083fc22d1cf01237236cb3bd66ca7c8f2fe7a
+FileChecksum: MD5: f09453b0dd4cd7dba6958914727f67dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS-1Ds_Mark_II_380_780_5.json
+SPDXID: SPDXRef-item15156431
+FileChecksum: SHA1: c332c88deca03a82eb6e237b4811f56c31ca9270
+FileChecksum: SHA256: f2b356ba91c51bd570db478f4dfce8d4a951b3cb8ff0dc8a539ee75a17436e1f
+FileChecksum: MD5: 710b9fc41b98af7bc9ccab6e13d0c3bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_100D_380_780_5.json
+SPDXID: SPDXRef-item15156393
+FileChecksum: SHA1: e629ebf5a783d6a921f15b508c10f175efcfd3fc
+FileChecksum: SHA256: a6a160d617f531430df9ee0d18dc7c84613a953a89f94e90e4b32c665fe898b9
+FileChecksum: MD5: 61828a456d17afc929cb1f4c8374626c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_200D_380_780_5.json
+SPDXID: SPDXRef-item15156425
+FileChecksum: SHA1: 78dd02096b41c4656a885111a94e98e7cfadad34
+FileChecksum: SHA256: f9aaa157bf8c1499990b0c56f4f78636da650b6f4ef3fbfc6fd2a02daf7bcebc
+FileChecksum: MD5: aa9b779000508e24dc4045b4f338f8c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_200D_II_380_780_5.json
+SPDXID: SPDXRef-item15156427
+FileChecksum: SHA1: f0be09d1714a46a70ef0c22df756b78640ff2974
+FileChecksum: SHA256: 74eae917669a1791037861ab52ff43f7c22796d200964476cab1cfa21b3c6b7e
+FileChecksum: MD5: ba9a0072d5d8f813b268ee26725597c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_5DS_380_780_5.json
+SPDXID: SPDXRef-item15156414
+FileChecksum: SHA1: 3607a3a88de67fce19594e3666987efefc1ee1a7
+FileChecksum: SHA256: f624c3a2b90d4986070939c9d2ee3ed4d61100e123724e3090a5024dee533091
+FileChecksum: MD5: 7b57726170181f4676b0bef006073167
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_5D_380_780_5.json
+SPDXID: SPDXRef-item15156423
+FileChecksum: SHA1: 8f3cd3b72338b790564ffe6545326c8c6da60425
+FileChecksum: SHA256: cbb73ad5103aeb9a5f182b56c14e665af3036de02ad8493207d94085bb067d1d
+FileChecksum: MD5: edb6d13b2c2a00438c2c856628275683
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_5D_Mark_III_380_780_5.json
+SPDXID: SPDXRef-item15156426
+FileChecksum: SHA1: 9fc1b7fb911df40b18447e6090d3263e85cdff92
+FileChecksum: SHA256: d8f9db387399dd6611edf5d1660764cf7b78f402e0a9bb68eeea9cdc64628e88
+FileChecksum: MD5: 71dfd87e53b5d8eaec4c86807fc699fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_5D_Mark_II_380_780_5.json
+SPDXID: SPDXRef-item15156401
+FileChecksum: SHA1: 9744860edab4d4a3ee8741dbf786daf6cba2ec49
+FileChecksum: SHA256: 3dd2394e07f00c3fff51de631394ff67b4b72463657f4383ac14855969b93c14
+FileChecksum: MD5: 121c0a767c3b5d824a45495175fbe24a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_5D_Mark_IV_380_780_5.json
+SPDXID: SPDXRef-item15156440
+FileChecksum: SHA1: 41065fcd63d8e69eb91bccc781247b7c2ddc95fa
+FileChecksum: SHA256: c3d5bc6a271fa2d0270386e27aa5dcf258c64223322a1730b03815497375be29
+FileChecksum: MD5: 8c0b07499106af262bd36fe4288a62b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_600D_380_780_5.json
+SPDXID: SPDXRef-item15156438
+FileChecksum: SHA1: f8bcf69503b8eeaff88ba5da303d8e03d4967c2d
+FileChecksum: SHA256: 9a4700eb7228c7731bcb4e92a3dae75a510dbbf1308d7f6fcb8ec7199e3d1adc
+FileChecksum: MD5: 52fd7e0f129c01df9eccf69bfe6c229a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_M_380_780_5.json
+SPDXID: SPDXRef-item15156399
+FileChecksum: SHA1: 50093da865fc13f716b1f34f7f4e153cba86081e
+FileChecksum: SHA256: ceb7015727f88e13bcb486e688c1aefa5c7eae1e24fc0873c84d03f23a096686
+FileChecksum: MD5: 8685232acc723136de801946ded1793f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_R10_380_780_5.json
+SPDXID: SPDXRef-item15156418
+FileChecksum: SHA1: 30eaa44e55104bc4a4b262fd40e7df582588db91
+FileChecksum: SHA256: 288a0398decdf65699c5c88a2dc48644dcd7389bb1d922969ac1e773ba18a282
+FileChecksum: MD5: 4cab8da89a122904f24775bea04cdcde
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_R5_380_780_5.json
+SPDXID: SPDXRef-item15156392
+FileChecksum: SHA1: ed3a7c63fd805e0af6384b4cee6a09b3daa05841
+FileChecksum: SHA256: 6d35746dc44a3e44f3cf7939e957c15bc3f3c62b07a674749b42c140fc00df29
+FileChecksum: MD5: f73c5b7cbf94bd5565b35ea62f776060
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_R5m2_380_780_5.json
+SPDXID: SPDXRef-item15156409
+FileChecksum: SHA1: 8e666f78b7c1317fc47da925fd0087033e3e5953
+FileChecksum: SHA256: b58e96628aa2021eecb2bd3965dfe4fcc2af9a6543a35c739f0247f0687d705b
+FileChecksum: MD5: eb795bfbd137602ca158b67ed7db37b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_R6_380_780_5.json
+SPDXID: SPDXRef-item15156436
+FileChecksum: SHA1: f6919599d3cb8444360ae26324e5ffadbb02dce1
+FileChecksum: SHA256: 8ff0f7329084addeafa433c832aec6e13c5125e7373cec34b4c7d42dfcb8eceb
+FileChecksum: MD5: 8546bdd76f32b9e6a7bb6e8004cb3be8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_R6m2_380_780_5.json
+SPDXID: SPDXRef-item15156405
+FileChecksum: SHA1: a7f27d4a4821a57fec3f0cd94296bcaf5daf708b
+FileChecksum: SHA256: 6819e47131dfdb1836f32970017aed7b7baa4889553936c23065dfabbb527d5d
+FileChecksum: MD5: fe4b01b46eee101ad5651f3df046280a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_RP_380_780_5.json
+SPDXID: SPDXRef-item15156432
+FileChecksum: SHA1: 0279371f8d7d9994997c731efade645eb0a66d7a
+FileChecksum: SHA256: ed3df43361ff0f6e32075f544b0c72ad180e00234fb8c02d12c323c6c932cf7c
+FileChecksum: MD5: 09781c9422e7d840cce37c72f94c566b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_EOS_R_380_780_5.json
+SPDXID: SPDXRef-item15156406
+FileChecksum: SHA1: 80a271e1ec32826be9d6c0d969d91ae123b45c73
+FileChecksum: SHA256: 94069a205897ee46426e79816cca82cef641ed2ef5b4a5d1e94fbe89cacaa362
+FileChecksum: MD5: ebbb3079d1eeb25feff535c32e6f0c87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Canon_PowerShot_S90_380_780_5.json
+SPDXID: SPDXRef-item15156397
+FileChecksum: SHA1: b4ebd6dcafa643463bde533efdb9aa8d744b0dd7
+FileChecksum: SHA256: 30da0d87505d58f63df9f165fca4b4d76aefc9c77b3a07fc97a872a3d273c5fa
+FileChecksum: MD5: 83a30d0fc25ea84ab59d44ca383f506d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/cmake/CodeCoverage.cmake
+SPDXID: SPDXRef-item15156248
+FileChecksum: SHA1: 598c1fe617d11319c6687cbafdab913c9f1bbae4
+FileChecksum: SHA256: c5d50138df8b501fd77cb78b8a013a3c7917a5f51941abf821bfe7efe2755bb7
+FileChecksum: MD5: ff5c9a5d6503dfe1807383413f4d3701
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Fujifilm_GFX_100_380_780_5.json
+SPDXID: SPDXRef-item15156391
+FileChecksum: SHA1: f8dfdb76025c88c07b13a8a5e80dab6b09eafbad
+FileChecksum: SHA256: d47bd7ec461fb9b0af29c248d5a1446df3db930d1f8e899debedf871b4d0939a
+FileChecksum: MD5: 45c17eb8e274d4766657e4cd0113ba97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Fujifilm_X-T3_380_780_5.json
+SPDXID: SPDXRef-item15156435
+FileChecksum: SHA1: 4c09111a94509eb4695c0671dc03e8a9f781496d
+FileChecksum: SHA256: 2492e22b84228497c6602d279471cd8668eda3fb9673bc7bfa38e0c5d3b05c1e
+FileChecksum: MD5: 3b52539e5b9c81bbc231b436a7357c36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Fujifilm_X-T4_380_780_5.json
+SPDXID: SPDXRef-item15156402
+FileChecksum: SHA1: 467d6d83f2d136ef0a49f777ed2c8c5019cca0ee
+FileChecksum: SHA256: e36299929d3d307aed599085d571a04373fe67d08c7058ee9def9bb66892d16f
+FileChecksum: MD5: b70099c359ac7db95492c38ccccea293
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Hasselblad_L1D-20c_380_780_5.json
+SPDXID: SPDXRef-item15156417
+FileChecksum: SHA1: f9868dd5b9aef9698659e08a85c8e2699f52ca65
+FileChecksum: SHA256: 9485b3f9783a4bb78aadfa141cd64562f930d08a35c0862567a7b44a443b19ff
+FileChecksum: MD5: 539c656fb8889ada86b30d5b6004e92e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Hasselblad_L2D-20c_380_780_5.json
+SPDXID: SPDXRef-item15156424
+FileChecksum: SHA1: a6df47951e10c18d154b626b4d03f258181e2da3
+FileChecksum: SHA256: 5f46bc969ececb7e020cec091471cae264cbff95228febd57cfde753ff5aa95e
+FileChecksum: MD5: e3883c0fb7cd5c5e9881807c78c5cb29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/LICENSE
+SPDXID: SPDXRef-item15156257
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/LICENSE
+SPDXID: SPDXRef-item15156379
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D200_380_780_5.json
+SPDXID: SPDXRef-item15156404
+FileChecksum: SHA1: a4992b6dda31b9a26abf69e87bfb6a86cb58294c
+FileChecksum: SHA256: 872cacb38513d81a332eb49731b4a98ba521c539e04685453318cd10d36db94b
+FileChecksum: MD5: 325d8ee0741aac66f5ae07b13bc752d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D3300_380_780_5.json
+SPDXID: SPDXRef-item15156390
+FileChecksum: SHA1: 96dfb7a04945825c05837e0c2587321332b48b1a
+FileChecksum: SHA256: c8b1ef05410719227066d4e214a949a867ff1d61ec12927cfd88b9c1a2bc3efc
+FileChecksum: MD5: 1090ec2057cdc917f6629129eb1b0e76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D5100_380_780_5.json
+SPDXID: SPDXRef-item15156415
+FileChecksum: SHA1: 5f94386f05e4b7d312d232e239adcbb973fcc776
+FileChecksum: SHA256: 0800c28a35256c1efd7039acff31064f7a778ee040f99fedcd0f13f393bb3ee4
+FileChecksum: MD5: a244125599328d563405b2915375fc84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D5300_380_780_5.json
+SPDXID: SPDXRef-item15156420
+FileChecksum: SHA1: d4d1fef73b329490d3d1c80293424e346cd203dc
+FileChecksum: SHA256: a48420e76ccfcb60f8d0cad76dd64787e9416d44f71c99ce200a13776c6a9e29
+FileChecksum: MD5: cb43c9afdda2eb98a0590d56ebb5ce0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D7000_380_780_5.json
+SPDXID: SPDXRef-item15156429
+FileChecksum: SHA1: 6dd029119cc196e34408b25cf7b51f95cc7782e4
+FileChecksum: SHA256: 4002530a868b45d11ddc2e11b8db144ae2011efdda04d25ff10a2f006494ed95
+FileChecksum: MD5: 1ecccf88e9c60cffabcb57e8462fa630
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D700_380_780_5.json
+SPDXID: SPDXRef-item15156422
+FileChecksum: SHA1: 505453a2b45b1f4aa7e824cf3ef48a9569691110
+FileChecksum: SHA256: 28d4e1d91335bf2aa4d0486afe3abd676e856ba904c9c31715c9b2d172b4a211
+FileChecksum: MD5: 7839921a69e723864d3a23d41bf37543
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D70_380_780_5.json
+SPDXID: SPDXRef-item15156421
+FileChecksum: SHA1: 64ed9d26f678503bdebba83812701dbd7fd818e0
+FileChecksum: SHA256: 8fb861c9aeae2a338931edc2358ecaf99e154e0afe5f75167aebe6378110ba1b
+FileChecksum: MD5: 48cb22da40002ec3444b1d7230eb7dbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D800E_380_780_5.json
+SPDXID: SPDXRef-item15156408
+FileChecksum: SHA1: 80832b5fe18f362c43998cab5e0cba8c94071c2a
+FileChecksum: SHA256: 8e8bd2ee474db73361bc4f37937966376ddc6dbcb19fd42dc63fa91bdb93ec40
+FileChecksum: MD5: f72b51d32650064e3aa01a0fd7139301
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D810_380_780_5.json
+SPDXID: SPDXRef-item15156389
+FileChecksum: SHA1: 8e92c1b0acb7fc1ec0ee449cb18d7dd6710dfe15
+FileChecksum: SHA256: fe768979da5b732f3a9974ed04cc81d7446ee27500893bf456207624008d1206
+FileChecksum: MD5: d81fd5b1cbf8a677c677b4fda54e20b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_D850_380_780_5.json
+SPDXID: SPDXRef-item15156437
+FileChecksum: SHA1: 31653539bc31cdc6e182610049b1ba8d38b3bd69
+FileChecksum: SHA256: 8a22f9092a4c19fc128f3f8fb0dae6d5e67e17b5d9c01f646024efaacdbed9d0
+FileChecksum: MD5: 950fd932981633d2bc522609f0f8fcc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Nikon_Z_f_380_780_5.json
+SPDXID: SPDXRef-item15156439
+FileChecksum: SHA1: 8e47737e47bb0fecf16892cee05bf08cd3a86a93
+FileChecksum: SHA256: 0fafdf21d42b5873e2d2db77bfbb075120e01697111944d12ff0529ac44d3943
+FileChecksum: MD5: 3092557a4255ce642cf20afdad131d82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Panasonic_DC-GX9_380_780_5.json
+SPDXID: SPDXRef-item15156412
+FileChecksum: SHA1: d39479fb01253bd67fe31c370f6184b2e4e049bb
+FileChecksum: SHA256: b354d7fb9b3df822e053505e784b9fbede21f0f5ae4c30e8c899497e826b3bb7
+FileChecksum: MD5: d514fbb6c5d59341c09419c7be9226e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/README.md
+SPDXID: SPDXRef-item15156449
+FileChecksum: SHA1: 44cc735cd302e3522c817a90b04dc37a7ac07f15
+FileChecksum: SHA256: 93eb9e244054018ee653947553d4a097f71a4cbdccfa9ca99971a10050b85fff
+FileChecksum: MD5: e7657950f942b47169398777b2cb12f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_DSC-RX100M4_380_780_5.json
+SPDXID: SPDXRef-item15156395
+FileChecksum: SHA1: c1367fc2b27a787294c14fbfa8bfd4f5659c3a8c
+FileChecksum: SHA256: 73d081a99f4d7576a6cef75efb82ebb8398f5879ff7eb34d07c2aa30ab7e53bb
+FileChecksum: MD5: ff0bc0fd4ceeae24d78f848a2d423580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-6400_380_780_5.json
+SPDXID: SPDXRef-item15156428
+FileChecksum: SHA1: f57748f3a3210b8f123df9f8e67bc9f83fdfd513
+FileChecksum: SHA256: 9d44a700c154bc6fcdc63f2e8c8af7f1758e3181a0ccbf374b85461c8fc5fde6
+FileChecksum: MD5: 16f783ccb2190201d4bc2a1973d98058
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7CM2_380_780_5.json
+SPDXID: SPDXRef-item15156396
+FileChecksum: SHA1: 37f6212364620d0726b7ab2e6b0d2b8b81535c4a
+FileChecksum: SHA256: 4d8843e19d7dd85099d7533e12db638c91586651102095ebc6319ce297fcb399
+FileChecksum: MD5: c3537cdb3048a5aaff08259dfca63f31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7M3_380_780_5.json
+SPDXID: SPDXRef-item15156403
+FileChecksum: SHA1: f6a9f3a9b1b956b6da48467fe8e8c7137f849fcd
+FileChecksum: SHA256: c6006a237e63e530bf23e4a8b000dce6875305c9c24e54d1410bbbbb8654195f
+FileChecksum: MD5: 4bd729e52c5ca0d8f4c21da1ac668f58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7M4_380_780_5.json
+SPDXID: SPDXRef-item15156430
+FileChecksum: SHA1: 46bbf2f0d8f2ae6c6bb425e300fd06cc82d566f8
+FileChecksum: SHA256: f7a8dc024ef923820c9d26ef4c31dd48deb28f0ea25cf70dd5a1bce3623576f8
+FileChecksum: MD5: 74985c92decead208132bd378ace4f29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7RM2_380_780_5.json
+SPDXID: SPDXRef-item15156419
+FileChecksum: SHA1: 6e63093574a3c7ee08cf79c0db61216ff2866f0f
+FileChecksum: SHA256: 3a3d6650421e6ba835780b8879b885712d2d4f179788899ba0d735c619c5065c
+FileChecksum: MD5: 70d4d1c0ab89119f6c0b2abd4d535d84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7RM3_380_780_5.json
+SPDXID: SPDXRef-item15156407
+FileChecksum: SHA1: cc052d46fcc1b740d698f8af3484d2196a7fc016
+FileChecksum: SHA256: 0359aad186a62ba8be765416c0fc764d9905aa47062961e8a2d447b02e349fa8
+FileChecksum: MD5: 190af53e67ab31201b24dd52c94b7e4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7RM4_380_780_5.json
+SPDXID: SPDXRef-item15156398
+FileChecksum: SHA1: 4f9af820644fa70e84c35c8e0cc8d32ee684413d
+FileChecksum: SHA256: 2e2efe8ca7b92ba65e54029e751d8e363ba1e40dec513fd8d65f9357bc592033
+FileChecksum: MD5: 9c14dd62f373b09775e5be0f316a9c5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7SM2_380_780_5.json
+SPDXID: SPDXRef-item15156400
+FileChecksum: SHA1: 409a5bacd15dc241761e5a2f08a5b19427d189f2
+FileChecksum: SHA256: 14570ed48d5e93d75433a96f3402398aa5f341f14ac5f6421440f7f97ea1b493
+FileChecksum: MD5: 94004303574767e68e38ebe2ed5488c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-7SM3_380_780_5.json
+SPDXID: SPDXRef-item15156416
+FileChecksum: SHA1: 285746fec0544d37b67993f5a3b3586fdf783093
+FileChecksum: SHA256: de172c494bce62a65681d5451d13f34c3c6809663f07ec50d894acbd5a777d17
+FileChecksum: MD5: 7b3274f46f6ddc3954235569d0260436
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/camera/Sony_ILCE-9_380_780_5.json
+SPDXID: SPDXRef-item15156411
+FileChecksum: SHA1: 5a66f9f6b17412ef3c13d3a7f830ceabd0afe601
+FileChecksum: SHA256: 60a9d16df752934ff0079667b7d1518228e941ca72a134e4914421667fce18d4
+FileChecksum: MD5: 5ce78e88feb34deb315dca659b90e8c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/aliases.json
+SPDXID: SPDXRef-item15156381
+FileChecksum: SHA1: 34f1e7f45d9683a33bed1154325cc24d36e543c9
+FileChecksum: SHA256: cdfc1247fa7fb5e031d9bcb528ef92ac84159fbf1cd038f0c621538cf7a0571f
+FileChecksum: MD5: aae6ebe6ffd542803c0cf419f465b087
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/workflows/analysis.yml
+SPDXID: SPDXRef-item15156330
+FileChecksum: SHA1: bad3937f0636457ca4c93152215057b4673e14d7
+FileChecksum: SHA256: 7deca27a75a9ad177ebce1eb5ac8c36c7b943d8371eaf4ee2d788d78d3f0a076
+FileChecksum: MD5: f0af5293ce83d8740100253371b4ceaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/cache_base.h
+SPDXID: SPDXRef-item15156315
+FileChecksum: SHA1: 4035bbd3c98aa0315a3026563917aeb436314c79
+FileChecksum: SHA256: 93f1521e32f77fda95a95c29f5ac620a2a3e8e2e87a362ce2bd1ffb0de4dcbd8
+FileChecksum: MD5: 3c80ba89c774ae8199cc5e05af6a9203
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/colour_transforms.cpp
+SPDXID: SPDXRef-item15156318
+FileChecksum: SHA1: a0900bcae3d274d96bfccec7698757d0146d0879
+FileChecksum: SHA256: b9e4fdb2751d577a366c64208429141e22a28c421413a66c7336a6fbe1140e47
+FileChecksum: MD5: 5436a171d519a665f107497a3292aadc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/colour_transforms.h
+SPDXID: SPDXRef-item15156316
+FileChecksum: SHA1: d0a72442b2c99ffb4cc037c4ebb209b1985ba75c
+FileChecksum: SHA256: a92200713071eea625295707ff2155ce3e05add5d83e4231788730106e0c3f70
+FileChecksum: MD5: 80117b013dbe586801e5fbd9e3e02268
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/core_math.cpp
+SPDXID: SPDXRef-item15156300
+FileChecksum: SHA1: 55964de078b1c23f3a0a804c1ef874a2c6d081b3
+FileChecksum: SHA256: 5258802a5ebcbb300fdc5e30dd5485b596a056b0635444eb230b516b97194874
+FileChecksum: MD5: 3fafc5dba92884abbe83f889e9979536
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/core_math.h
+SPDXID: SPDXRef-item15156299
+FileChecksum: SHA1: b7e596df6431bccabd604d63581108b95fb3f50c
+FileChecksum: SHA256: 3f0c909e6a43487ebd745887893b3ed37b0761740baeb3f0681c71ad75912475
+FileChecksum: MD5: 32dfb09599675e5eae47a649f19381e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/core_math_priv.h
+SPDXID: SPDXRef-item15156303
+FileChecksum: SHA1: 942d54487ae004e7c0732d882677c5b9a56a2382
+FileChecksum: SHA256: 4a75cbea351f46ce19e671e1c0d786bc53fd3e2e9c5e01366377484582e6a414
+FileChecksum: MD5: c6c40d0abba42d80f1c167a0eb27856b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/define.h
+SPDXID: SPDXRef-item15156302
+FileChecksum: SHA1: d7596d94fa07897dbb281dc745128cd4944bc9f7
+FileChecksum: SHA256: 83acf43ce46103cc6543fef67bfd324cf759bc8b93ee9972e96f25d8dcb0e292
+FileChecksum: MD5: 6b08c9a25d9485c538cad4f93aca85a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/exiftool.cpp
+SPDXID: SPDXRef-item15156313
+FileChecksum: SHA1: a32e4132364d66f20fce7bf4af4b5ce0cb9e4ffe
+FileChecksum: SHA256: 69c467ab636805fde180b0b5191ad2df7e064041f6735c2c3df63784210ed0a2
+FileChecksum: MD5: 4f6abed40130ba7c1184e1d2deb07576
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces project. SPDX-License-Identifier: Apache-2.0 https://github.com/AcademySoftwareFoundation/rawtoaces </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/exiftool.h
+SPDXID: SPDXRef-item15156308
+FileChecksum: SHA1: 3bf691acb210605a55b9ae38cb387514b4892183
+FileChecksum: SHA256: 5fb57b618133fc23dec0927c98f77b9a0a3f6883787965a36b66b92388a75fbe
+FileChecksum: MD5: 447442ade24bd9f4adc2973b3a711bf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces project. SPDX-License-Identifier: Apache-2.0 https://github.com/AcademySoftwareFoundation/rawtoaces </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/scripts/gen_aliases.py
+SPDXID: SPDXRef-item15156448
+FileChecksum: SHA1: e8f523257d2933818b6e49843a6e54a47e8e1c58
+FileChecksum: SHA256: 5ec18c28d3dee86ebd4844b1ac036ccac0268952f83d3f229027e58a701d6ec2
+FileChecksum: MD5: fee57a703aea8ac205e503467c1aa07c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/image_converter.cpp
+SPDXID: SPDXRef-item15156321
+FileChecksum: SHA1: a0ba10082240223a6c06446aae8117e0e8086f05
+FileChecksum: SHA256: d1ab8473c628d7c6807dcd824a1c797ab7a0ce6d1ecf9712f639c439511899a3
+FileChecksum: MD5: f87faca8c25168264adaa62437cc89df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/include/rawtoaces/image_converter.h
+SPDXID: SPDXRef-item15156350
+FileChecksum: SHA1: ca52d93350b7ef9531ca68234788b2b2a286e2f6
+FileChecksum: SHA256: 488c1678885bb4c0124d2a9d06a9e969424a19bfde6963494ac15c23e1e59575
+FileChecksum: MD5: 0e1f03f3ae37242f99cd65fc623b2268
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/illuminant/iso7589_stutung_380_780_5.json
+SPDXID: SPDXRef-item15156383
+FileChecksum: SHA1: 9dc3d479d70abf06af86f9048d1ee249d252f07e
+FileChecksum: SHA256: a7d45a5a98ab7c8fad8ab8370641658a84e497b71c66e70db7b480ca52b25953
+FileChecksum: MD5: 2ee1af09d12be4dc4a4f8afb4089d076
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/lens_correction.cpp
+SPDXID: SPDXRef-item15156311
+FileChecksum: SHA1: ae686b72b595e69744e5e5717f4fa58903749d88
+FileChecksum: SHA256: 434c10764a47f7ead04395c53998f285b2f273dbb3873ffe0c8ffc271436b6fc
+FileChecksum: MD5: bd7535fa4b228a3602d353667ef417e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/lens_correction.h
+SPDXID: SPDXRef-item15156314
+FileChecksum: SHA1: 1914066f2fdf79e682da2168524031d16e7cd049
+FileChecksum: SHA256: c539e05e40b47d63471b572878769a84548fd923eef6bbf2ab05c21e55ad6e7f
+FileChecksum: MD5: d0f49b088e02dd1c7f159d954f268fd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/lens_correction_cache.cpp
+SPDXID: SPDXRef-item15156322
+FileChecksum: SHA1: c33679a301de9348b2d3a066fe48ace103407ad3
+FileChecksum: SHA256: be9118c2cfa3e6b67a915617e846331905e836304b7d81bfea74e0c677c934a7
+FileChecksum: MD5: 364c48ab9ec0987e4bca65b8a9f0b71d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/lens_correction_cache.h
+SPDXID: SPDXRef-item15156319
+FileChecksum: SHA1: 9e7c175c2025302b6dda692c1321753e6b568c05
+FileChecksum: SHA256: 51f575189eec4b589e822aa8146c7b891796b4ebbe97ce07b6adfe8270fa8913
+FileChecksum: MD5: 0d53e5f87e85130fb31bd0e58d95f464
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces/main.cpp
+SPDXID: SPDXRef-item15156290
+FileChecksum: SHA1: c7bdada1b7430d11daaf937f07a72ffd30fba791
+FileChecksum: SHA256: 912b1b6b87afa15656ec889ff8805e40d31b251b2e3a3bd79fde9c951f540bbe
+FileChecksum: MD5: 46fffa18e0dacbe05a2c8e15842bc95b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/misc/pragma.h
+SPDXID: SPDXRef-item15156324
+FileChecksum: SHA1: 41a342016f5daade3b96faf05abca198aa7d512d
+FileChecksum: SHA256: d3f936a820235cb6b9256b02029e5383a4af1e7f068ccc97d94426b0f3bde211
+FileChecksum: MD5: 257afeeb93c3a571c901aa48b5f13d1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/bindings/py_core.cpp
+SPDXID: SPDXRef-item15156294
+FileChecksum: SHA1: d21f5d358800e9e46ada3d76e092fee9930129a3
+FileChecksum: SHA256: aa8794f6ffd27dbd11e9be0040b5d6c5b61d6ba5213ca3026de8b1ca43f9531f
+FileChecksum: MD5: 7f748f3ae6cdb83adcfd94ed3ee9e696
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/bindings/py_core.h
+SPDXID: SPDXRef-item15156292
+FileChecksum: SHA1: c609541a62c9745275038792fd430b85b8f04e9d
+FileChecksum: SHA256: f9ad3812bfebb7272150bcd82762d97585bf28d3980245ff9970110d50b118f0
+FileChecksum: MD5: 46b4d58d124949819a2fa26feb69c149
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/bindings/py_module.cpp
+SPDXID: SPDXRef-item15156297
+FileChecksum: SHA1: b35be28dff75a26f8d77b6f03bc5c17a4a469575
+FileChecksum: SHA256: aa3032190f991a8ae2edfd1bef298daf9d09fd89eab8b1f8ba9363c088e46783
+FileChecksum: MD5: 04c73211b4f4c31842e974deb8907018
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/bindings/py_util.cpp
+SPDXID: SPDXRef-item15156293
+FileChecksum: SHA1: 70f7c8bdc34194062a20f70011962c11f1611f5c
+FileChecksum: SHA256: cb7686d81ff8a402c5e17afca511fc78db32df6a87d2d918de615f4b653b2f30
+FileChecksum: MD5: e57f9a0ae57a87191865500055b87c53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/bindings/py_util.h
+SPDXID: SPDXRef-item15156296
+FileChecksum: SHA1: aa8913b7fc73b85868c8c474428b1174ff9b005e
+FileChecksum: SHA256: b2a4de4f66e7dc07cb4730f10bf944cfee4ca5de5b062584eb4f7a94c4bb0d9f
+FileChecksum: MD5: e7c49d830bfc3395f5b7ee686c348e9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/rawtoaces_core.cpp
+SPDXID: SPDXRef-item15156301
+FileChecksum: SHA1: e0182d7a606f58b63e5bee1c8881685c991e4f56
+FileChecksum: SHA256: 2d45a8fa08aa608d6f708642203ecd7bb787ca6474a734b9c12cd6d7081e5358
+FileChecksum: MD5: afc8035c049a2dd4dca7eece13324db8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/include/rawtoaces/rawtoaces_core.h
+SPDXID: SPDXRef-item15156351
+FileChecksum: SHA1: 28bf05484cc0a94d36258b28750d70cea3bfba78
+FileChecksum: SHA256: 736c22610415b27c3ea670d57d1734ebf534cfe2fa3ee2ba8fee070daa9b1e9c
+FileChecksum: MD5: 57695dfb8ad85d0aad1f42a2f6e91d67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/rawtoaces_core_priv.h
+SPDXID: SPDXRef-item15156305
+FileChecksum: SHA1: a53d052195919e903e7e728c861a9460ce88f8b2
+FileChecksum: SHA256: 391287551b34a9c31c1b7a0e2600d98b9b5deeb1e3c6e11f2e2a4ee7afd59bcf
+FileChecksum: MD5: 63f925cca1ba414b07d742a84342b8a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/rawtoaces_util_priv.h
+SPDXID: SPDXRef-item15156320
+FileChecksum: SHA1: 11d937f1b2ee08e014358004db16c828bb259273
+FileChecksum: SHA256: 642dddf4a6728554df1d1938daef15c55f598d84086489b57d52a33f8746f322
+FileChecksum: MD5: b1c1d67e1fef5567137d0878b0a2a5d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/.github/workflows/release-sign.yml
+SPDXID: SPDXRef-item15156443
+FileChecksum: SHA1: 5e206f1d5576ee4d93a173c31b395326f7208f89
+FileChecksum: SHA256: 64ca26b1115c102d4e9c4fb0a680b3d4cd60d4a568ee6ca85329f722a971277b
+FileChecksum: MD5: 6cb34baf3c74216e8012d09781fde1ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/workflows/release-sign.yml
+SPDXID: SPDXRef-item15156329
+FileChecksum: SHA1: 11d6a935f3b6acfba340e92209f549237fb9770e
+FileChecksum: SHA256: 096d00997465a63354af7050d6628fb2bea6dd07f1a6e66b7597a237ad983376
+FileChecksum: MD5: cdf74fc2e6c73e2fee2f1e33a292d3bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/spectral_data.cpp
+SPDXID: SPDXRef-item15156306
+FileChecksum: SHA1: 0a662357dafaaa588e7c172d0978cc68fb66b1fe
+FileChecksum: SHA256: 988dd2a0497488282b229cd8cfa313218fbab1540304983fe0ddbe891201e62a
+FileChecksum: MD5: 83bccad8839e7c374b7f2901be297263
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/include/rawtoaces/spectral_data.h
+SPDXID: SPDXRef-item15156352
+FileChecksum: SHA1: e52df7161665609925554f44caf0520c71dc1806
+FileChecksum: SHA256: 1777de797aef1a1f3af31e8a69a2820b54917b766c20b5ce665602a4deb70376
+FileChecksum: MD5: 53e0b5a906d8e091331cdfb052a7101f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testCache.cpp
+SPDXID: SPDXRef-item15156228
+FileChecksum: SHA1: 26ecb78b75453f8b7b5e5b16c8217befe25ffa13
+FileChecksum: SHA256: 3b6948ad696fcdaf606248824323603e2feb442d75f304fdee2f14f1a11e1fa2
+FileChecksum: MD5: d5f38b87686c2fcf54214e44b0bf9e13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testColourTransforms.cpp
+SPDXID: SPDXRef-item15156239
+FileChecksum: SHA1: 3126e20c464c68567299f43cdbe9a6502a0b2ab4
+FileChecksum: SHA256: ed8810b3383c5fabb5eee1f5289cea4d0c72195ce7602e9df40b30b6a7b81fe5
+FileChecksum: MD5: 8792df265ed57677efc9b45085718357
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testDNGIdt.cpp
+SPDXID: SPDXRef-item15156230
+FileChecksum: SHA1: 5253e118280617613b67a73b7858aaa2556255c9
+FileChecksum: SHA256: a60e5a9183cde842361a94291446f7807f4a216f807f62fcc1e316b9766c2095
+FileChecksum: MD5: 9d610e271b473eb6d2c9a1cfb16fcddf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testExiftool.cpp
+SPDXID: SPDXRef-item15156225
+FileChecksum: SHA1: e921342a641475648decfe8487d37061e481cea7
+FileChecksum: SHA256: 3ab5c29d905d66a000d753c7a5182cc6f709b351f9b0a83ad7c907086604aec2
+FileChecksum: MD5: 0a9f72c5df549571a45890a563256288
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testIDT.cpp
+SPDXID: SPDXRef-item15156231
+FileChecksum: SHA1: 600b6357ed4d5caa0dd27385b5552d699a6e55c8
+FileChecksum: SHA256: dbf2852a4fbb5951026324306848781a021e0683dce1f51a561ba60ed785ef23
+FileChecksum: MD5: b6877dde6117c61efbbbf99d63d05f38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testIllum.cpp
+SPDXID: SPDXRef-item15156241
+FileChecksum: SHA1: d7a63d3844111817853b17b7a86df06d976cee8b
+FileChecksum: SHA256: ce976946bfd739a94607ab1fabf9fde97b4ce755ecf2d1793fa0d007dc62d117
+FileChecksum: MD5: a8f185aa279e38e4c053f5b5509a1048
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testLensCorrection.cpp
+SPDXID: SPDXRef-item15156234
+FileChecksum: SHA1: cd4a81ebe48a0455474b873e5c8ee8b94231730e
+FileChecksum: SHA256: 4834f925a946d72c1d9cec2e5078e8829a5f1d56e58c5ffd2e5df2e3cd4e2111
+FileChecksum: MD5: 8fe6b4a53a1d3becfb37f353dff84b07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testLogic.cpp
+SPDXID: SPDXRef-item15156226
+FileChecksum: SHA1: 8d98ac42664f04348e13412ab2654d1ff0314217
+FileChecksum: SHA256: 1c1528e1e75fe57297fa6d73bb4f1707e0b33012e79fb8cd2848df79cebacf72
+FileChecksum: MD5: 8395695cf9fe8e2bc7da40e4bbfdddd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testMath.cpp
+SPDXID: SPDXRef-item15156218
+FileChecksum: SHA1: a76de8a6530e8aa0d1057ddb1e947ecde635aa9a
+FileChecksum: SHA256: c259d885a185ca9ae73bd6cb0bd704948a520d89c777ecdf57c0cfe3112636b8
+FileChecksum: MD5: 9d4d138151eac4ee8b844fff5b089a4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testMisc.cpp
+SPDXID: SPDXRef-item15156237
+FileChecksum: SHA1: 9c782262a233d44a0effd8d5a0b24b86638ba112
+FileChecksum: SHA256: 7b9271c862af7c12d7a30b04d193f273768491c03eb56e6148accd9c726eeb4a
+FileChecksum: MD5: 962716b4d1f14b942cb151cb9967af8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/testUsageTimer.cpp
+SPDXID: SPDXRef-item15156238
+FileChecksum: SHA1: bae675839199652392f3213e43d6d0085cc434b6
+FileChecksum: SHA256: c34b092da3f434f0e2ad5a7d1b23a6cafdae0a6298e7a71d5f52a8cea5791ac1
+FileChecksum: MD5: d9623906dc1acea589cb7b854e5fd815
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_SpectralData.cpp
+SPDXID: SPDXRef-item15156229
+FileChecksum: SHA1: 070adf3444d4865f01bb0555c668c8a3c41c5c5f
+FileChecksum: SHA256: 561ce7f701920fabd1456fcfee4ef7f972aa539e0764ece95be4710c77553f2d
+FileChecksum: MD5: 8750493e97a437049f59536a3b07a011
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/python/test_core_bindings.py
+SPDXID: SPDXRef-item15156206
+FileChecksum: SHA1: a298cf68c88cf4acaafee9312031e14f2482442d
+FileChecksum: SHA256: 73cca1b004e537d3a96d01fc95e3d65d2ed7dffc1f481297afbc4e0ba02e4713
+FileChecksum: MD5: 004429356514bac84f4ff4fbfa097b53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_data_helpers.cpp
+SPDXID: SPDXRef-item15156240
+FileChecksum: SHA1: d8b921440c8981eaf5901335e970f8700dd143ed
+FileChecksum: SHA256: c4d6a6383583ab16d3c3606c72df9033e35664861c69d2a5220540b61f59deaf
+FileChecksum: MD5: d6ab28c12eafefebe82172e1ed79e912
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_data_helpers.h
+SPDXID: SPDXRef-item15156233
+FileChecksum: SHA1: 1e00abee8848d026266f655b1c4200a8592af37c
+FileChecksum: SHA256: b8e510989d46df915e1ae95df06d63621f138706891e7515304f2d7be4632148
+FileChecksum: MD5: 8b8f1ba3770f59629e551a0efafb9f11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_image_converter.cpp
+SPDXID: SPDXRef-item15156227
+FileChecksum: SHA1: 17134683ae6e90fe23d4ab86a3dc0b14747989f4
+FileChecksum: SHA256: 77647938aa5105a3cf673a4188b535ed88f0cb4ffc7c3f9387d8ad6e40da2337
+FileChecksum: MD5: de2ebfb9df27798ea61d4c8b1588e301
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/python/test_image_converter.py
+SPDXID: SPDXRef-item15156205
+FileChecksum: SHA1: 2400525715c0cd575bf3b95bdd8530d00ea7d044
+FileChecksum: SHA256: 6c0e048a417fd4e988f7bbaa1cf73823f11a2ba399bc11ba6f49addd392adae7
+FileChecksum: MD5: 57f8eefc883269933277a2e82f071b2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/config_tests/core/test_installed_core.cpp
+SPDXID: SPDXRef-item15156213
+FileChecksum: SHA1: d8762d556cb347be5b9690507d76564613f1a451
+FileChecksum: SHA256: 2b35fba0132ba02548f0f0e759b4d713314b1b26985794aba78804bd5ae93b68
+FileChecksum: MD5: 66caf00cee8d8bd3b08b82a8b8486987
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces project. SPDX-License-Identifier: Apache-2.0 https://github.com/AcademySoftwareFoundation/rawtoaces </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/config_tests/util/test_installed_util.cpp
+SPDXID: SPDXRef-item15156211
+FileChecksum: SHA1: 1ac5fcfe1e38ee7bcffffc40bea2ef0da4a59850
+FileChecksum: SHA256: 1be0368f67f72b3549e8f760be8a6fa02b230ed6cbbe832fdf7727c48909a100
+FileChecksum: MD5: 108ea59cb85004525c4a88afd831c521
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces project. SPDX-License-Identifier: Apache-2.0 https://github.com/AcademySoftwareFoundation/rawtoaces </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_utils.cpp
+SPDXID: SPDXRef-item15156207
+FileChecksum: SHA1: ea17629d66fdf1388301fd79a88f065372217e57
+FileChecksum: SHA256: 702451fdb2afdd02090a0f10d22e9309141bdf36842b33b8f980d541cc20c30c
+FileChecksum: MD5: 6205a95f4e85679fbfdad07629e4a8ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_utils.h
+SPDXID: SPDXRef-item15156224
+FileChecksum: SHA1: 45c495653229c9fbef020fff64909ea135d82761
+FileChecksum: SHA256: 702df0810a5bd7140f583f1168a97ad21720dbd587d994812925f92552dda8aa
+FileChecksum: MD5: a931d5e83ce1b3719d25bc21f054d1d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_utils_image_converter.cpp
+SPDXID: SPDXRef-item15156232
+FileChecksum: SHA1: 38cf6f88356abc820a63c88462f865f16b16f9ea
+FileChecksum: SHA256: 69b9ec1485cfbb119136662c347bd0447089232995b5f12e7038b910f5a1575a
+FileChecksum: MD5: 88b46c9db236651e05f402c54238eec0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/test_utils_image_converter.h
+SPDXID: SPDXRef-item15156245
+FileChecksum: SHA1: 338378a0534a33734162f87dae009e21f63172f3
+FileChecksum: SHA256: 5057d3c00b68d4fceebed2fd2635286655ff3e318db26b37022f0d0f65007dce
+FileChecksum: MD5: 6b1c8c0782e16d775801bd64495165cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/data/training/training_spectral.json
+SPDXID: SPDXRef-item15156385
+FileChecksum: SHA1: 2484bea8f791673715ac541e10ba6d25aa571c7d
+FileChecksum: SHA256: 1b63cc85f7cf521bf80450fc60172a424a551cc690fdb05313b2cfa7aaa66da1
+FileChecksum: MD5: 7d7dd25cccb6da2a6eccff42af41fc7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/transform_cache.cpp
+SPDXID: SPDXRef-item15156310
+FileChecksum: SHA1: 54943f1a754d8c71d2120950332837a8ec043ab5
+FileChecksum: SHA256: d2e03f8e68d090760e5eeceedd78f2fa3df3df02b213fde80193df8dd3554f23
+FileChecksum: MD5: c477fd43b145ce8a1d44cccd2899143f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/transform_cache.h
+SPDXID: SPDXRef-item15156309
+FileChecksum: SHA1: ceff462e0f37058a3865ec42a81a78799801d097
+FileChecksum: SHA256: 3e2dac3bbe23eeedf2d9f6611c6ef6692058d4d3bd0cc28020f84583566d8c62
+FileChecksum: MD5: 4c97ef9a46f110004563e89aaf03e44a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/usage_example_core.cpp
+SPDXID: SPDXRef-item15156216
+FileChecksum: SHA1: 7d45d4b0ef60587726b420f3e684d93c890639a2
+FileChecksum: SHA256: ccb2d95d75643c9668848692e0e2405c37103e95c2e58b834fbad55eeeceb036
+FileChecksum: MD5: f49653549779254ad461bfe20e7925a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/usage_example_util.cpp
+SPDXID: SPDXRef-item15156217
+FileChecksum: SHA1: 7dc28db451253610fba538134109b1dae1fdd798
+FileChecksum: SHA256: 4ea8681b73418dfde92d5bc921eff3a9a753523bb0d8d140ee5a007418f03848
+FileChecksum: MD5: 9da74be7e7633eda5941a4bb48fb1c12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/usage_timer.cpp
+SPDXID: SPDXRef-item15156312
+FileChecksum: SHA1: 22534f877e890d2a869edd1809871d526aed6c5e
+FileChecksum: SHA256: 9c4f4c513cd2a1392dc08dc803c8a4ce6da91555a04fd45ee71680e7ddf21c0e
+FileChecksum: MD5: 187621d4379373f3922a4e713e2468a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/include/rawtoaces/usage_timer.h
+SPDXID: SPDXRef-item15156349
+FileChecksum: SHA1: dd5f46c54afd2ae52acf9f2375acb03685b0754b
+FileChecksum: SHA256: 29392132ce8c4e206f0da17b05985f1f20a366f6dca5f459e8616b96367e9378
+FileChecksum: MD5: 6e1e4443bfad4e28caab0f56a06d316b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the rawtoaces Project. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.git-blame-ignore-revs
+SPDXID: SPDXRef-item15156202
+FileChecksum: SHA1: 8c405fba3a29c95750e1459bc3eae4a003f41cb4
+FileChecksum: SHA256: 78181f9a66aaad576203effee334d922375df33e4ea5a8cb8c5d3d967a7103f0
+FileChecksum: MD5: 3e42cd873098a3f507a05da7fbc79d31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/config_tests/util/CMakeLists.txt
+SPDXID: SPDXRef-item15156210
+FileChecksum: SHA1: e89047c97c31ad8f2b309433758b4c7668df675a
+FileChecksum: SHA256: db1b50035735e976ed70aba63b2430316624f6e639c034e3881774bbcc6054cc
+FileChecksum: MD5: 01755afc614eadb30b77def9c3f6f8d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/config_tests/core/CMakeLists.txt
+SPDXID: SPDXRef-item15156214
+FileChecksum: SHA1: 57e329ed20bfdf277ba841c39aa97e51cfc4ce63
+FileChecksum: SHA256: 5f5ad637d4860d2c43cd234bac5bcc01446319ae02ddecb6091e1ea20b99d8ea
+FileChecksum: MD5: 3d8ca18d4a5f064aa9b2216649367e67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/config_tests/CMakeLists.txt
+SPDXID: SPDXRef-item15156215
+FileChecksum: SHA1: b492a44fac7ad1b1108a25e66a494a4dcf24083e
+FileChecksum: SHA256: fddfbeb759427ff3095d0207e5e10c530e97aca3e36553bf4940c5b02c6ba15e
+FileChecksum: MD5: ca98785ee2e693540d76373f11c1f58f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/materials/lensfun_db/test_data.xml
+SPDXID: SPDXRef-item15156221
+FileChecksum: SHA1: 1d6304a912a2d0f0dc6a5ddffe4600c29e499fbd
+FileChecksum: SHA256: ee7bf4bf896bc052328607333bd3dd3025f41bfbf5f2468a23c0a16fd1e9b245
+FileChecksum: MD5: 33506f74d46b65efd8b189de80630977
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/materials/BatteryPark.NEF
+SPDXID: SPDXRef-item15156222
+FileChecksum: SHA1: 445dabde04a0032c6f71f802a8abc1cef3886085
+FileChecksum: SHA256: d9bd91f3e277a05e56138ff0f83f6a7d25cac1b8b7e7104abe367b88a901a404
+FileChecksum: MD5: 702610776033025bfdc0d367acf9a5fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	W 3RރGÚðÛDÚm©,íûµ?xúVW-¡M?2Æ?óGò¯:'Y򮮂?1QåU5֌ç§x?ÿÅOnAÇü«èhoÑ/?O?ֹÄZ>?԰o G5ØbË6¹ûL|ãæ?׫\ˑr1Lp:b£ù? ¬D2Ù?OPÿoƘ8f9¨(8aõ®áù·9þí4# 杹qҐÆî?»?´r[«?A>Ñ,S?±?ÝI¸zTßI =ê"q8ç=jhÎG?¨?
+©	rd)S«7CÎ7óÈ53á5ӷ5óÊ93â6sð7Sý9d?9³û8Û9d?9#ç8d?9Óì:?õ:#´8?Õ9³ç5ä?:#ü9æ9Ó3Ý7ãá6sÔ7Sç6?µ6SÒ4£  ×?0\ I?ðI?R?Pt?à³Bu?2c!b÷*c6sÄ4#5c´7³É6CÍ5S¿6?±6ã©9¨7£5³É7³Ã:#Ä93ö7ãß8´9?Ä8?Ö8SÔ6òù?ð }?Ðn?°Z?°a?ðs?ÀU? c?z?`o?_?Pg?ðq?ð}?ÀW?P_?@z?ðK ?ð?± ?a©?ÑÚ?¢ rB?â2?" 2?Ò ã?Aµ?¹?Ñ_ 2 @
+© a2?`V?o?Pñ?¡»?ò1?ÂZ?Q¹?á£
+©	1c?A-	an?Q ± pÅ?`ý?0?К?±:?µ?н?ÄB@!B	¡±?6%Ï?q#?µ ²?B {?0{?Ðü?ÐÞ?á ò?Á?`¯ Æ	B?¡ß?ô?! ã  ?À×? o?Ðv	Qj	±w?I aa?k?ñ#
+©	aH?aQ üQD qr BÙ ³M ã­(÷)Sè?4?0·?à ??°»?0Ý?A"  z?Pw ä?pi  è?@¦	Á??qU?A4!?â ó?² ¢)?bp '?S!?"J?R¤?r Ò?&#¬?¢T?²´#ô4/$?!Ԏ0eà1ձ-ՠ.õ*?«?2Y?b!Cô?ҬQ
+©	qn17 A qD?¡.?¡±à?r(?²[??Ý?í?a ý?.?1.?Q 8? Á pÕ?p¡?àÁ?`g?Y?0g ­ ðã?× l?! ë?A>?ÁR Pð?Ðæ?Ñ?0~?Q[?q¡?>? Qa?2?ÁD?ðË?÷?ðØ?ÁL?Á ÒÉ%¤m?RR? Qþ?â¢?H?¢x?r??rm?ò@?ÂR?ô +Q?Ҟ?B q· Ç?aä1E?áV?>?°q?À_?pc?ðK?j ?@f?ð¸ ;?Ñ  </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/materials/blackmagic_cinema_camera_cinemadng.dng
+SPDXID: SPDXRef-item15156223
+FileChecksum: SHA1: 76c651882e8b015c5d9ded6ba883def562cb5c22
+FileChecksum: SHA256: d83560c9cbed343b0aabdf3cf273084b04361ec9b5e261b8b2821edd7afe7bfc
+FileChecksum: MD5: 338f897a9d726146f925abe9c5442dee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © RI?Bn&£G'?Ì"2½%³?*£Q-CH+be ~#?A"2?²?Âð 2¢ âh!Ã c?"l"b¥?Rý#ÂÎ"Ã^+#®-c?%?.ó²+ç2?ò/ ,CT#£ ÂQ#?x(Rð"âj#ãD%òæ!cn.s7£¥)óQ*S+*S04?2D)3#Õ0l4D?3?.?p24Ê?ÄG5T9??%>$I2´+9 3 5¤>4C|0#æ7Óí,âò"r â%?Bd!óM6Sõ4åL;Ã?.cõ3Ãd(c4¡#B»+4?=Å>Bäà=T9DeBå=CÕ-E¥IJèPµL¥ªC0IõB5YH?/WNQ6:[æ³W¶	BT?5?2ä#4¤84?
+© R A ¢M j?ò¾"bÀ"âÖ"2Í!?£"?«?¢r?b_?bT?Ò7?òU?â>?rn?"É?rb?Âf? ×?Â ¾%?v?!õ?bK?â AÜ?Ò ¢Û!¢÷*36)BÔ%ÂÄ$òÀ?R×#BÝ!â»#?Y"Rb#¢½"ä#â³#§?ò2?Re 3?*£E9£'?n?BU!!+?Ò!RX&S0+³¾*âÖ*Sb(òæ"µ$¢~#Ô'áú?Òe#Bº"Û!¢^?1Ã?"r#³x'B  " R;?C!b?ñ§?áç?"\?R)?Ò*?r.!¢?Br?qÿ?Ò Ò !ú?R ñî?â!b´?r ²&ãb)âô |'"
+© Q[?1P?ñs?Ñv?I?a^?h?±6?G?±k?1I?Ñ=?QF N?Z?G?!W?ñe?ñb?QP \?ÑE G h?ñE?áI?±R?áP?@?á\?ÁW?!D?x?F b?qL?!#?!K?ñI?QZ?ÁT?Y?±[?ÁL U?¡P?AW?a}#bl'¢&?*'A??F?ÑY @?A9?ÁI?!+?a2?(?!N F?±;?E?N?ÁB?Ñ;?18 E?á (?q^?¡/ &?áB?!9???Q0?Q^?1??Á??Ñ8?Q9?qB?Á-?±;?ñ4?aZ?Ñ0 G?q;?q)?qT?Q8?ÁT?A4 9?á&?qM?Q
+© bp 2Y"© RÈ$"ª"³?(³V(£µ)?+D8=Ô]3C±/$?3?l? /$?.ôB4¤9 ;µBD¹:?·@TÜA5?<Ôþ;DÂ:µ?>î@u?@tÜ;ä{>E"?Dº4¤y7´79u9?2a53È3dn5t2´<4Ä:5?B:$ß5Äi4®:´s5?43ÄÔ7ôÓ8d 4$9¤©9Tµ8$9DÁAõD5wBDæ?P¶QS?OÖJO¶ZQ?EP¦yYÊUÖÃ\ÇT¶PR¦¢]?:`÷%\W?[Ú[§?Y.^éXvY?ÝWìZv£[õ^§?b§5`'?YÖÆUvtW¦$L¬MFFYÖö\V¯WFÁP%FµN@Tí>Å
+©	y8yoønn76TaO¦ÚaçÖnȐtHCrؿw(zs¨bs¢yøÇx?rèMmç¤f?k?+o¸?nÇZb?Y?RåýS??W^N5eA?F3ä?1³.ӏ,ã-s.£/¤0ô?5´B6TE5£½-Ãç/#Þ0ãÐ0?/c¸/?ô1´21Ô.2sÊ/óú2Óç2ä?1ô?3'4¤74ä?2d,1´?4ä?2d#1?04Ä?4´?44?4ä?/ä?2Ô?1´)3 2Ô?4ÓÁ5¤?5ä?4[4ÔN7t8908dS9Ԁ=äµ@·>?£?äÈ@Õ=TÆ>?>Ĺ=?§@¤Á<9$^6TD:T`7 5$?6T&2Á1ã»3?¿1ÓÄ/ </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/run_valid.sh
+SPDXID: SPDXRef-item15156235
+FileChecksum: SHA1: 72a2e9e8c73b644f04fc341d7794947bf366ee6e
+FileChecksum: SHA256: 5bceb124c7e20c4d61cf244e2467e8bc7d5add43e0c836874992bad3e089a4d8
+FileChecksum: MD5: 3dc417e07ae7ba4dc8bf023b9ca470bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/CMakeLists.txt
+SPDXID: SPDXRef-item15156236
+FileChecksum: SHA1: f1d7547dd03cba192cf3b3ca0018395e82dd4b91
+FileChecksum: SHA256: 6e6b105eb6d648dca8b99200e95f4220307416db1f6f200c0dcc85632c751a13
+FileChecksum: MD5: 8d9d7abe579ebf61d165bba8307358f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/static_analysis/codechecker_skipfile.txt
+SPDXID: SPDXRef-item15156243
+FileChecksum: SHA1: 2fd401bbb5e38334da4015e83976656538d5d10b
+FileChecksum: SHA256: a2282a5faf4cee5ac7f315ce13516c8d8f886d850bd8e4649e9bef9c2baaf2a7
+FileChecksum: MD5: ca8048a4d443b6b4e4b413988fc77d60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/tests/static_analysis/codechecker.json
+SPDXID: SPDXRef-item15156244
+FileChecksum: SHA1: a45d0472db5953d2d61173a32db70dd462383620
+FileChecksum: SHA256: 3b7eb79767b9348c338ee973ebaf613d35996b5fa8ce8e289c90ee1d87942d78
+FileChecksum: MD5: e253a496f40b6051f0544f43652136a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item15156246
+FileChecksum: SHA1: 3014931147035d0a8818a7cabe2801452932cb77
+FileChecksum: SHA256: 719f1f086ff1322c211b2c8094ff39260b0d4b84a7554fe90b797b6c6edf2910
+FileChecksum: MD5: e9e304315d4aee1e56920ec1358aaad3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/cmake/modules/FindCeres.cmake
+SPDXID: SPDXRef-item15156250
+FileChecksum: SHA1: 63349c999abecd809521a03b4d7d0c0bf79dc98c
+FileChecksum: SHA256: 6b2ac1886d1b9941a2d937fbb036db3acac641d9a922053001cd6f11671f7efa
+FileChecksum: MD5: e9e7446f8eae6832b8cc577dae6580e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/cmake_uninstall.cmake.in
+SPDXID: SPDXRef-item15156251
+FileChecksum: SHA1: bd423862912326fc0e13f16e56d1344e46793fd7
+FileChecksum: SHA256: c055b321246df1435a71a38b4ca432556fca3e2a77e3b39b913a94bae3282101
+FileChecksum: MD5: 99b80fd00ca70b45673b1f90c19abf18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/docs/AI_Policy.md
+SPDXID: SPDXRef-item15156253
+FileChecksum: SHA1: 663382c4def226177812a8d164517734c42ae336
+FileChecksum: SHA256: 68f4a23ef817faa09981fe11fd955a84f1756295c15ff50e0c81d52b1a6f38c8
+FileChecksum: MD5: cdd86d5a3f1853fd9aab126c8252db2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright violations, we want a way to find out which contributions might need to be revisited in order to bring the project back into compliance. </text>
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/docs/CREDITS.md
+SPDXID: SPDXRef-item15156255
+FileChecksum: SHA1: 04e77b3c282ff1cf05c0d3f94eeb95dc068d1268
+FileChecksum: SHA256: 25b01397a54f2b8b90cef948c814d4606b907151c6b1cb760403e84ce40873f0
+FileChecksum: MD5: 0af0c7a0348d8bdf9fd9a9585d931641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/RAWtoACES_CentOS7.docx
+SPDXID: SPDXRef-item15156256
+FileChecksum: SHA1: c80ab6b1981a6182be8b0960db5e6c48f8e1b751
+FileChecksum: SHA256: 74d9fc2c6e56a3e729fcdcd5b0e5c5b1102dac028888d85c9352dd706bfcd125
+FileChecksum: MD5: eaf1f7b9aaf56245f095e9d0de7d4270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/Doxyfile.in
+SPDXID: SPDXRef-item15156261
+FileChecksum: SHA1: ade0044a3f5927e9e06cd6f23f739e824b7aeab1
+FileChecksum: SHA256: f84ce720b646471d6e288f289020cd8f68af63cac985ebbbd22231c27289ebdc
+FileChecksum: MD5: 304b1d0d5f52826f91db82aecb8c7e86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/requirements.txt
+SPDXID: SPDXRef-item15156264
+FileChecksum: SHA1: 18ddefef6cb501eb29da3083aadb90f3bf5c8818
+FileChecksum: SHA256: 2ea317c217e9f8aa7b5f337fc5f56054ae19a95b3c6592eae2e0ecf2ce3425c6
+FileChecksum: MD5: da4373fd537a25744b21966a975ed874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/Doxyfile
+SPDXID: SPDXRef-item15156265
+FileChecksum: SHA1: 11d7035f3239f3504207ca8d1fd6e376449c7cea
+FileChecksum: SHA256: 163707fd79e607aa8752afe1fd5e1f274935411c280660cb27d6b7d7cec70ebf
+FileChecksum: MD5: 286c8193ca9298e92bae29c0ca12d440
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/CMakeLists.txt
+SPDXID: SPDXRef-item15156266
+FileChecksum: SHA1: 94f6d32862796fccc3a2b0efb1124a2d61dc6dce
+FileChecksum: SHA256: 37aeae407c5488cea4a251bb79516f7fa9dfccdc563d663ed32e76f53dc3a263
+FileChecksum: MD5: d806b1ad1340dc830cd33b92cc055c64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/api/python/rawtoaces.py
+SPDXID: SPDXRef-item15156271
+FileChecksum: SHA1: 1a4f2c5b4916eb3d287d9905322908f582a14de7
+FileChecksum: SHA256: 674dde5932c62a179968bd91f89f27c4880355b5a580507b63b3f852cd4af6cf
+FileChecksum: MD5: 72548be14a102aea2e520e642c63a788
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/_static/.gitkeep
+SPDXID: SPDXRef-item15156285
+FileChecksum: SHA1: 7563d63505b17d413fba7d3752c5eb9869db5f6b
+FileChecksum: SHA256: f9c89a203109f44129b94887bce5dda4d817c51e35f5586884e20913d560413c
+FileChecksum: MD5: d6f094be3d3af5a646706f265a8b915c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/docs/conf.py
+SPDXID: SPDXRef-item15156287
+FileChecksum: SHA1: d5bd877ed4f64527c1a49fac7709a60dfebba87b
+FileChecksum: SHA256: b9f4e69274768f3528230110e15f25af2a6b98c85b5d34f1e3fc3090e432e709
+FileChecksum: MD5: 23517319f8b6709bb2306a8bdb355725
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces/CMakeLists.txt
+SPDXID: SPDXRef-item15156289
+FileChecksum: SHA1: 9b714850ea9e78acb89eda1f4875b23410d6f3ae
+FileChecksum: SHA256: f92e6369d22c6a4d14fc1e71aa9923625001ff2bce97b55d8f7cf7443feee103
+FileChecksum: MD5: 5fa2bb3778b609fc4295059d40e87bb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/bindings/CMakeLists.txt
+SPDXID: SPDXRef-item15156295
+FileChecksum: SHA1: 5e77b701fafb41a5c62afec8c8c1daee79467c77
+FileChecksum: SHA256: 31462e6ec7586f8a96e356a3d3f56c0f1e90fa99ba5351a4109f12d1345c4fe6
+FileChecksum: MD5: 3606f3bff9b58b38d7b0163cd280791a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_core/CMakeLists.txt
+SPDXID: SPDXRef-item15156304
+FileChecksum: SHA1: aac6bcc6eb5eee6171be7928fa1add536030bb79
+FileChecksum: SHA256: a359658ea72db286137546268b3ba812fec7b6cdcb166c5934e4f7ebc9b12120
+FileChecksum: MD5: bcf077bc165097c9463df78e9afea5cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/src/rawtoaces_util/CMakeLists.txt
+SPDXID: SPDXRef-item15156317
+FileChecksum: SHA1: 301c12f63e5ef146a8335096e76ef1c57ad9eebc
+FileChecksum: SHA256: 891dc2efa2c90581a9c8c0b661f0fecbb9141be9163549572f8452c3230d367f
+FileChecksum: MD5: 218b6fd560ed85cebafd780ff7e27cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/workflows/clang-format-check.yml
+SPDXID: SPDXRef-item15156327
+FileChecksum: SHA1: e6acf196b585a7ddb717d5777df805dc2b6e045e
+FileChecksum: SHA256: 94a277932ac5b6799ea8dcb695fa88c739ab7194706001bc505468caeefa3b38
+FileChecksum: MD5: feb42bb9788c66eca34078d9217f5280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/workflows/build-steps.yml
+SPDXID: SPDXRef-item15156328
+FileChecksum: SHA1: 1cf92f5a65be1984542bc4555e571704b5dd4cef
+FileChecksum: SHA256: 2f661bc07f560bcdfe3c15847fb1348124586ca7bfbb19ad51e6b9bc2c17fd8c
+FileChecksum: MD5: 9ed5eaabff00b56821a51afaf72586c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/workflows/coverage.yml
+SPDXID: SPDXRef-item15156331
+FileChecksum: SHA1: fae310be066eb49c4ef6ce3f8966d566851cb64b
+FileChecksum: SHA256: 3ff9150ff3367f6d14cb630f5442eb6202747d72d8b2ac80f0583046aa3dc53a
+FileChecksum: MD5: b7672d5e61f5edd2ca058ebbdfcbf415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/workflows/docs.yml
+SPDXID: SPDXRef-item15156332
+FileChecksum: SHA1: b82cbd3492ea11b20ce70229ddf71f331c245a22
+FileChecksum: SHA256: 4f4fbd7bb4bc5367b7108f56c83cfd83e7faa06dc67614f4910cfcf376ee1ed4
+FileChecksum: MD5: f15ab0a55b1c4563acb8bf4a04ccdaa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/workflows/ci.yml
+SPDXID: SPDXRef-item15156333
+FileChecksum: SHA1: 4aea7e34f860f6188a23899bb020460d429e1367
+FileChecksum: SHA256: c245355e9a3ccecd70e6b6f833443f42e345f9a7f602359ba8114a8d27070ef4
+FileChecksum: MD5: ad5d6323179fabe810aba41264da70a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item15156334
+FileChecksum: SHA1: 7f31d75253d7fd550c276e03f0da91e5a5e2d05c
+FileChecksum: SHA256: 9f106e3a953fc998d57b2f1e964bc8b5bf1e140b1fb9ab2f5432e2c3d9c293fd
+FileChecksum: MD5: 3cdcb7fccfe08363f9115cec82ae6b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/build_scripts/install_aces_container.bash
+SPDXID: SPDXRef-item15156336
+FileChecksum: SHA1: 77939d60aa0ed2ff75013935a5fd69438a90f4a2
+FileChecksum: SHA256: 1ec76a83ea789f0da985a2eda946c68855f739d07f5138c4d4c8d404badad192
+FileChecksum: MD5: f5647f498192124c50f1ec2f4747bf09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/build_scripts/install_deps_macos.bash
+SPDXID: SPDXRef-item15156337
+FileChecksum: SHA1: b966333754ed84345fc169ed27496699c2bc4516
+FileChecksum: SHA256: db5c838f0219d751c12237e040177d900111711592e1772b510ecdc223117964
+FileChecksum: MD5: 988066a30fccf277c2e40b619f8499a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/build_scripts/vcpkg.json
+SPDXID: SPDXRef-item15156338
+FileChecksum: SHA1: 4ca5feefb24a9e6a1014440b60e35f0511810d75
+FileChecksum: SHA256: 69ae222db4e8cd2a0000add5e74dd015a94764c3d0eb41cb502864fb4eeb2b2d
+FileChecksum: MD5: 04cb003ba6fc70645d191beffb7144f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/build_scripts/build_versioned_docs.py
+SPDXID: SPDXRef-item15156339
+FileChecksum: SHA1: fc47e410979d2900ac3659f4a305763af2968385
+FileChecksum: SHA256: c95623d3f7dee694fc6df811ea088fec91e6120f8dfc3cf74b62633c64715e84
+FileChecksum: MD5: ff201f63ec64493367f92e0f598b5e87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/build_scripts/install_deps_aswf.bash
+SPDXID: SPDXRef-item15156340
+FileChecksum: SHA1: 4446a4d7d958ff06d467224dd2087ea6d433f87c
+FileChecksum: SHA256: 237411c31028ccb22bb32f3dc768f879c09d07d3299ec0c85f52558b0ec7118c
+FileChecksum: MD5: c8d51ea4ee7b546aa96f9e67b5887678
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/build_scripts/install_deps_windows.bash
+SPDXID: SPDXRef-item15156341
+FileChecksum: SHA1: 9d3f59ba0b71cd90857ae45b92077bf5dc5630f1
+FileChecksum: SHA256: d3a1d6d88c1d58926c1df032ee38dc1483909bf2c9a23aa1d264ac171a6ae3ca
+FileChecksum: MD5: c7133052648cc85d7b824ad70ab6117a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/build_scripts/install_deps_ubuntu.bash
+SPDXID: SPDXRef-item15156342
+FileChecksum: SHA1: f546c74808bcc5ec9164b6bdc0bf1baf3dc0d576
+FileChecksum: SHA256: 744506ea89cb2b9c83c812fa96465e2e4a217ed5a29d7bee4b769f4cca153782
+FileChecksum: MD5: a7745abe0feef6b21d75b0e05fb0c483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.gitignore
+SPDXID: SPDXRef-item15156343
+FileChecksum: SHA1: 570b50cecf8c308e3131609907d5b49fa35ed403
+FileChecksum: SHA256: e1f6a3b4c3fb26d96c4cb5e7689ab2aebd322acfd73ad4e1fec86a85e7914f3a
+FileChecksum: MD5: f82e302d22d9c8598c9ef1f399d97d6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/ASWF/logos/rawtoaces-horizontal-color.png
+SPDXID: SPDXRef-item15156346
+FileChecksum: SHA1: 39e90020d6345746e3e9ae43a704b2c538e3bb1b
+FileChecksum: SHA256: 5cd04b8226aa2e4433107a2e73dab12848fe09e4d52877806c36aa8bcff042fb
+FileChecksum: MD5: 883791ade0d3d1194f072c8dfe8a8d82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/Dockerfile
+SPDXID: SPDXRef-item15156353
+FileChecksum: SHA1: 7eb9e7effefd831a851065ae46de9a667dfd56fe
+FileChecksum: SHA256: 4ccc38bb48ca76e9eec4c3f9f572294a7e2549e17019b3503e59ae7e1ace7a3a
+FileChecksum: MD5: 53ae9cc33ec43eea0af454fc2123c08b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.idea/vcs.xml
+SPDXID: SPDXRef-item15156355
+FileChecksum: SHA1: c92f3eb0ad1c70371e177a4d7d741f90af3f902c
+FileChecksum: SHA256: 55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972
+FileChecksum: MD5: 166acef3d301bd241d0d6da15bc5ad3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.idea/codeStyles/Project.xml
+SPDXID: SPDXRef-item15156357
+FileChecksum: SHA1: c5f0583196f834f433124e1e370dbed3c20b41b2
+FileChecksum: SHA256: 3e6e800773b39b852a3ccfaf00cfe423a6fab2b454110fe0965e65a14d217b51
+FileChecksum: MD5: 4f587234b0249796ea2b568a0f074d09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.idea/misc.xml
+SPDXID: SPDXRef-item15156358
+FileChecksum: SHA1: 9200e66ce487403634a2d4164fd96b0e22ae9dcb
+FileChecksum: SHA256: 002937a82d402769fe7a6f4c7541dca0e14e5da8ccbe89dbec78b96d8a707e67
+FileChecksum: MD5: afb15913f6649e5ce79bb5777adccfbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.idea/modules.xml
+SPDXID: SPDXRef-item15156359
+FileChecksum: SHA1: fc33ec8b245dae20c475227a6ca29a04e4ec814a
+FileChecksum: SHA256: dc12cf3d0dedb9855fd55bcd6ba56f6cd3f4918f1ca14dc5a3eaed391141babd
+FileChecksum: MD5: eb29fb66c2cf14218368cbdc05ac20b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.idea/rawtoaces.iml
+SPDXID: SPDXRef-item15156360
+FileChecksum: SHA1: 927f32eb94c5a4196f7de0dd8f84babfe062e720
+FileChecksum: SHA256: b8d7d2d100026ea24ead768cc03feb6bc711b1a543535351b4ab2f9e7db4b881
+FileChecksum: MD5: 719f3a7859abc8d39c950950625ae43c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.idea/.name
+SPDXID: SPDXRef-item15156361
+FileChecksum: SHA1: 6dd2d4e719895e9e3a913283130f3a77e27acbef
+FileChecksum: SHA256: c2fb634a4633f4c0d609d54acb239404934b7ae76a261926495ec1baff02a586
+FileChecksum: MD5: fc31c9df8c1e1ef3f3fe6d62bba6b8d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/CMakeLists.txt
+SPDXID: SPDXRef-item15156362
+FileChecksum: SHA1: b1f31195fa3eb09eb143beb92682b09da11bdc11
+FileChecksum: SHA256: 86c82b59c96f84e788f17d6adaa18439cbd139cfa2f7896b31dde2e1f134041e
+FileChecksum: MD5: c64a376838a2b11fa7a681f1fc7a56a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.readthedocs.yaml
+SPDXID: SPDXRef-item15156363
+FileChecksum: SHA1: 385d6cffcf30d9d5791dcc84cfe2f9c3dd701b8b
+FileChecksum: SHA256: 9b26793e8abe7a48ef8da5b08944ad68ce87494ec84355170f994b341dc01665
+FileChecksum: MD5: 7805118371307b0ddc7ae6475d946e92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.codecov.yml
+SPDXID: SPDXRef-item15156364
+FileChecksum: SHA1: 192ffb9e730b9f2cf5ec00bf641b40b5f09b58e8
+FileChecksum: SHA256: 7a596f9458a0084b0c9a22a61a2873ebd85276744001986b04f6b6219a11f49c
+FileChecksum: MD5: 02f74d6dd92f6ba69166bf1dba8ef38b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/.clang-format
+SPDXID: SPDXRef-item15156365
+FileChecksum: SHA1: 9dcd3fe6377b80c04fd5eecb55d5f80354db0976
+FileChecksum: SHA256: b9ad69d277a7cd5c9df192d8070c3bd231e595e2e1f12a88f3d18662cf56ba9f
+FileChecksum: MD5: f702855bd3617c5ca06768ee78cb8a8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/README.md
+SPDXID: SPDXRef-item15156366
+FileChecksum: SHA1: c5363ea04f68f4e8d67d51f72d7926ccffe8c586
+FileChecksum: SHA256: 35488c5e5b780681fb7bd37a5bbcdcd7fde605f898f4ca0f0233faa9361c0b05
+FileChecksum: MD5: 2189b07a9aab6356e1db4dbc68f9e11a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/configure.cmake
+SPDXID: SPDXRef-item15156367
+FileChecksum: SHA1: a0bc54771c73df14ae2d01f02954e540dbf98085
+FileChecksum: SHA256: 06567bc8ba415438d2c2db5d23c3d0dc41c65d7e1ba885ef717b434c7bb9c8fe
+FileChecksum: MD5: 5941c16f2afdad695413d8a10fab9f52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/SECURITY.md
+SPDXID: SPDXRef-item15156368
+FileChecksum: SHA1: 5d482cc7d1de205e3d73903eefa0a1bce41ddac8
+FileChecksum: SHA256: 4e7f4d4282e1770f7fa1997cfa42e11e8f77227acdf6636acabd4e26ad9c154b
+FileChecksum: MD5: 07cda5c26e422318807846ff1e01d39b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/config/RAWTOACESBuildTreeSettings.cmake.in
+SPDXID: SPDXRef-item15156370
+FileChecksum: SHA1: d67a245c9c6cb1b371ff060e1eee6685f2eb5f65
+FileChecksum: SHA256: 7d2daa5b25612ac999fc65252d19d5b76fb8a1448971eecf463adbef8a7ae05e
+FileChecksum: MD5: 7aaac957a8d736e88541a5897ea2c9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/config/RAWTOACESConfigVersion.cmake.in
+SPDXID: SPDXRef-item15156371
+FileChecksum: SHA1: 3e7d0df24a9b61ad4ea5152da991c8fae33d5489
+FileChecksum: SHA256: c1af09a1b1ecdd2f65c203f300edb71b8a428f0ff957ca3c1b242bee8c4bdbdc
+FileChecksum: MD5: 2992ec0f960c2d1774f458205f4e7fbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/config/RAWTOACESConfig.cmake.in
+SPDXID: SPDXRef-item15156372
+FileChecksum: SHA1: f5f3e35e9172b5e85a542013e454b53e2416cb89
+FileChecksum: SHA256: 8fea3f61419f4ff364a4fcc8b22164fbfa703b604d74476741bdcaf0af340023
+FileChecksum: MD5: 6a860724650a763f1fcac3c52f306f22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/config/RAWTOACES.pc.in
+SPDXID: SPDXRef-item15156373
+FileChecksum: SHA1: 0f8983a7f1a29a4d89da18b02a5c67e5bd64b4d2
+FileChecksum: SHA256: f6e82d0c6805fedc0171ec60043170848aa70a9ff68c86a3dfcb4e9501949278
+FileChecksum: MD5: 5f13237ac0eb2fc975f2478ebc14ad65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces/RAWtoACES_CentOS7_noyum.docx
+SPDXID: SPDXRef-item15156374
+FileChecksum: SHA1: f9424b49be91bd98e2cf73eb68471650c7c0ea9c
+FileChecksum: SHA256: f212ee9a9efed43dc4a3cadc6217d8076582352bd77d5ee35eb7aaad79be8549
+FileChecksum: MD5: e2bfd833ee0f0f0535fbe2531a5026bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/docs/CHANGES.md
+SPDXID: SPDXRef-item15156377
+FileChecksum: SHA1: 8f65461f5816d72917e8808cfd72b94e8e4f89e6
+FileChecksum: SHA256: 53eb34c4af4614b76f258d9247fb8bd88ba1b777d17c424b0a2c638e38d58766
+FileChecksum: MD5: 30fcf70b3d7b72a647b7aef37b2d57ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/docs/CHANGES_schema.md
+SPDXID: SPDXRef-item15156378
+FileChecksum: SHA1: 6e6e6766d8f0e53822f5985cbd11e3bce9d7de02
+FileChecksum: SHA256: e4a12295249fbb695dfcc84e373f90f660873574857fc9350d81dd1b684de199
+FileChecksum: MD5: 85266ea8e965e986e8edda7ad9f5adaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/.github/workflows/ci.yml
+SPDXID: SPDXRef-item15156444
+FileChecksum: SHA1: 63ab99ab20cd0e571d21d9e1d88fca0bb2678101
+FileChecksum: SHA256: e57626213fa5d658eb12829e79057cb5ea6e43f9390a43c9c4761500380e195d
+FileChecksum: MD5: 64e679e18973223758c174cf5ebd627f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/.gitignore
+SPDXID: SPDXRef-item15156445
+FileChecksum: SHA1: 7d65523f2a5afb69d76824dd1dfa62a34faa3197
+FileChecksum: SHA256: cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e
+FileChecksum: MD5: 952fd44d14cee87882239b707231609d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/scripts/check_schema.sh
+SPDXID: SPDXRef-item15156447
+FileChecksum: SHA1: 626e9ec2134bb7fd03af4dcf866e172d0f0f2567
+FileChecksum: SHA256: 3187cba5d04b4319da96c695b3ce879a980b5d6730e2765aeb28f43b04567fa7
+FileChecksum: MD5: 7479164d1174bcc47c49d816e0cae3ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/schema/aliases_1.0.0.json
+SPDXID: SPDXRef-item15156451
+FileChecksum: SHA1: cc3a49c6a3f89c5b85dd45ba256966a0d1fdb0c1
+FileChecksum: SHA256: b00b4b5c038729d3846ca4d877f73f66b5887ed2dc3f9d02d9a199cd0bda5431
+FileChecksum: MD5: 3bc35cb7b992f2f437f2fc01dc2a3967
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/schema/spectral_1.0.0.json
+SPDXID: SPDXRef-item15156452
+FileChecksum: SHA1: 5e28dceb3964a7a7458d8345058dc494f231c4d5
+FileChecksum: SHA256: 54cb19a892789fd449aeb4d45033a719c977a6ca6c4d680c92db81c25c3e8f7d
+FileChecksum: MD5: a79d871e3b5429ecc0613e81ef00956f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: rawtoaces-2026-09-17.zip/rawtoaces-data/schema/spectral_0.1.0.json
+SPDXID: SPDXRef-item15156453
+FileChecksum: SHA1: 115558d499f5b50dcbef4711fad8368061120823
+FileChecksum: SHA256: a53c123b7a58ce384b7989429b44966fe6d7d783c18867487c67a39ca964998c
+FileChecksum: MD5: 20612e8367fe4f2819b8b285e33555ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
