@@ -1,0 +1,89 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T08:34:25Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpo19gejcy/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpo19gejcy/code-a4ed522f-07af-43e3-b8d1-0c2e5589a802",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-32d24acbf86f4f64",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND MPL-2.0 AND (GPL-2.0 OR MIT) AND BSD-3-Clause AND Apache-2.0 AND MIT AND GPL-3.0+ WITH Bison-exception-2.2",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "aswf.openvdb",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openvdb-openvdb",
+            "comment": "This package was added to the Trivy analysis for the openvdb by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openvdb/archive/4d95e56ba7fb227dabea88b4a28c8ae0fca43392.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openvdb@4d95e56ba7fb227dabea88b4a28c8ae0fca43392",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND MPL-2.0 AND (GPL-2.0 OR MIT) AND BSD-3-Clause AND Apache-2.0 AND MIT AND GPL-3.0+ WITH Bison-exception-2.2",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "openvdb",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "4d95e56ba7fb227dabea88b4a28c8ae0fca43392"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openvdb-openvdb-website",
+            "comment": "This package was added to the Trivy analysis for the openvdb-website by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openvdb-website/archive/9c847c9d34b00e6b6ae018bbc499b12b1c1834fd.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openvdb-website@9c847c9d34b00e6b6ae018bbc499b12b1c1834fd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND MPL-2.0 AND (GPL-2.0 OR MIT) AND BSD-3-Clause AND Apache-2.0 AND MIT AND GPL-3.0+ WITH Bison-exception-2.2",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "openvdb-website",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "9c847c9d34b00e6b6ae018bbc499b12b1c1834fd"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-32d24acbf86f4f64",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-32d24acbf86f4f64",
+            "relatedSpdxElement": "SPDXRef-aswf-openvdb-openvdb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-32d24acbf86f4f64",
+            "relatedSpdxElement": "SPDXRef-aswf-openvdb-openvdb-website",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
