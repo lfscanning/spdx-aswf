@@ -1,0 +1,254 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T08:55:10Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpg113xph9/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpg113xph9/code-b513e628-ba62-49b1-ab22-922d2f1466dd",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-16f28d8b68517ad9",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "MaterialX/javascript/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "7cb3403e3eaa5a3ef994999f446fff0cbc58e923"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cfc9b73559c26e9a",
+            "description": "High performance (de)compression in an 8kB package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/fflate@0.8.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://101arrowz.github.io/fflate",
+            "licenseConcluded": "MIT AND MIT AND 0BSD",
+            "licenseDeclared": "0BSD AND MIT",
+            "name": "fflate",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: MaterialX/javascript/package-lock.json",
+            "versionInfo": "0.8.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-efc0200bd6858a67",
+            "description": "Makes a floating panel for controllers on the web.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/lil-gui@0.19.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://lil-gui.georgealways.com",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "lil-gui",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: MaterialX/javascript/package-lock.json",
+            "supplier": "Organization: georgealways",
+            "versionInfo": "0.19.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-52369df6c4fc2b79",
+            "description": "security holding package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/materialxtest@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "NONE",
+            "name": "materialxtest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: MaterialX/javascript/package-lock.json",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d15508724c542617",
+            "description": "security holding package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/materialxview@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "NONE",
+            "name": "materialxview",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: MaterialX/javascript/package-lock.json",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-88d7537c4a133be7",
+            "description": "JavaScript 3D library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/three@0.183.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://threejs.org/",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-2-Clause-Views AND BSD-3-Clause AND CC0-1.0 AND ISC AND LicenseRef-scancode-mgopen-font-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND MIT AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND JSON AND OFL-1.1",
+            "licenseDeclared": "MIT",
+            "name": "three",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: MaterialX/javascript/package-lock.json",
+            "versionInfo": "0.183.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-d68adf1613d6b1e0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND (MIT OR GPL-2.0) AND BSD-3-Clause AND BSL-1.0 AND ISC AND Zlib AND (MIT AND Unlicense) AND (BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND CC0-1.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.materialx",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-materialx-MaterialX",
+            "comment": "This package was added to the Trivy analysis for the MaterialX by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/MaterialX/archive/7cb3403e3eaa5a3ef994999f446fff0cbc58e923.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/MaterialX@7cb3403e3eaa5a3ef994999f446fff0cbc58e923",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND (MIT OR GPL-2.0) AND BSD-3-Clause AND BSL-1.0 AND ISC AND Zlib AND (MIT AND Unlicense) AND (BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND CC0-1.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "MaterialX",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "7cb3403e3eaa5a3ef994999f446fff0cbc58e923"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-materialx-OpenPBR",
+            "comment": "This package was added to the Trivy analysis for the OpenPBR by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/OpenPBR/archive/f8d6d947dfae4c9b599965a86c22826ea7a8dbfb.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/OpenPBR@f8d6d947dfae4c9b599965a86c22826ea7a8dbfb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND (MIT OR GPL-2.0) AND BSD-3-Clause AND BSL-1.0 AND ISC AND Zlib AND (MIT AND Unlicense) AND (BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND CC0-1.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenPBR",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "f8d6d947dfae4c9b599965a86c22826ea7a8dbfb"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-materialx-materialx-website",
+            "comment": "This package was added to the Trivy analysis for the materialx-website by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/materialx-website/archive/75162acd6b55fec95ea8812fb99a487f60e27bff.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/materialx-website@75162acd6b55fec95ea8812fb99a487f60e27bff",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND MIT) AND MIT AND (MIT OR GPL-2.0) AND BSD-3-Clause AND BSL-1.0 AND ISC AND Zlib AND (MIT AND Unlicense) AND (BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND CC0-1.0 AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "materialx-website",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "75162acd6b55fec95ea8812fb99a487f60e27bff"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-16f28d8b68517ad9",
+            "relatedSpdxElement": "SPDXRef-Package-52369df6c4fc2b79",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-16f28d8b68517ad9",
+            "relatedSpdxElement": "SPDXRef-Package-d15508724c542617",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-materialx-MaterialX",
+            "relatedSpdxElement": "SPDXRef-Application-16f28d8b68517ad9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d15508724c542617",
+            "relatedSpdxElement": "SPDXRef-Package-88d7537c4a133be7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d15508724c542617",
+            "relatedSpdxElement": "SPDXRef-Package-cfc9b73559c26e9a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d15508724c542617",
+            "relatedSpdxElement": "SPDXRef-Package-efc0200bd6858a67",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-d68adf1613d6b1e0",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d68adf1613d6b1e0",
+            "relatedSpdxElement": "SPDXRef-aswf-materialx-MaterialX",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d68adf1613d6b1e0",
+            "relatedSpdxElement": "SPDXRef-aswf-materialx-OpenPBR",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d68adf1613d6b1e0",
+            "relatedSpdxElement": "SPDXRef-aswf-materialx-materialx-website",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
