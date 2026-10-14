@@ -1,0 +1,1252 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_OpenAPV-2026-09-17.zip_1791297830.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-10-06T14:43:50Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: OpenAPV-2026-09-17.zip
+PackageFileName: OpenAPV-2026-09-17.zip
+SPDXID: SPDXRef-upload2395
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 4bc56900d054be7f97842b624c27f55a39cd5ab2
+PackageChecksum: SHA1: 724b43cd538323cc487af30f16b10ec77fd1db3b
+PackageChecksum: SHA256: 2ad127f980e67a740935aa03877b8193dff652347f8c1c7799849bcb23f16047
+PackageChecksum: MD5: fe3dde106ba4382fd3e9ccd7dd0b177e
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2395
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/LICENSE
+SPDXID: SPDXRef-item15212491
+FileChecksum: SHA1: 9985911c0c9eb291198fa034a06a34c3c5806fe5
+FileChecksum: SHA256: 7ad8e53c0c3e24e7ba64dbcad5e7706108f3dc67cf6515ef761adac0a39dab25
+FileChecksum: MD5: d5af7c29fe1fc652c0b7cde9e4205dc4
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv.c
+SPDXID: SPDXRef-item15212501
+FileChecksum: SHA1: 79a700d4cc6a538147d3e6cb874d4baa2154e02b
+FileChecksum: SHA256: d6ad99724904117e9eb4c3a4c22f1b509c5f1e395055532dd823dd2331ca1c0f
+FileChecksum: MD5: 7b24231d03985d71bf67199e7c2337bc
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/inc/oapv.h
+SPDXID: SPDXRef-item15212575
+FileChecksum: SHA1: 1ea64eeeca151473c9981a3951054311b845b461
+FileChecksum: SHA256: f004fb9debda0a178b8f60886fc9f42984aa12dd94a608ef3e2c2fa980854e42
+FileChecksum: MD5: d4495ae3b3943cf5931da6b9a3ceb512
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/app/oapv_app_args.h
+SPDXID: SPDXRef-item15212577
+FileChecksum: SHA1: 67cbb612505e56d74c353e90695c10f52df154e4
+FileChecksum: SHA256: 913bdc50d738a87c7113cf3b481aac22aa0b95f4a817b73ff0de05121b43c2dd
+FileChecksum: MD5: 36694bb6fbb4d3da5956e406fecfbe2f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/app/oapv_app_dec.c
+SPDXID: SPDXRef-item15212582
+FileChecksum: SHA1: 2e7d8f0551a938025de1d6768041c28963adce1d
+FileChecksum: SHA256: 47eea1d5c8f1ad72709c822dbe9f000450a53f70632de037d29749dd1e730f62
+FileChecksum: MD5: 25b22239bc4934f2714f9ee368fdf800
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/app/oapv_app_enc.c
+SPDXID: SPDXRef-item15212580
+FileChecksum: SHA1: f1676b7ef2c6597f8ebac99dac5fed0627a2c50a
+FileChecksum: SHA256: 10097c0c46c0b0d3f754cba801ab8e1c181d37b6a641524042cfcfdcbcc0742f
+FileChecksum: MD5: 64c005c88c7ab25c22fa49a38b855193
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/app/oapv_app_util.h
+SPDXID: SPDXRef-item15212578
+FileChecksum: SHA1: 54ddcf914423841914a7910dece0188c4a2110e2
+FileChecksum: SHA256: 3a89a52c67703feb70ccaa0f629189329f988d431397253eee831d696152acd7
+FileChecksum: MD5: d4d6412fe3f3ae2c428f16d502a7a817
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/app/oapv_app_y4m.h
+SPDXID: SPDXRef-item15212579
+FileChecksum: SHA1: c9da7a78c46c5228bb00090e24019cf13b5a8937
+FileChecksum: SHA256: 30cf5e0f725a16e0bd4b58e321c9a00ee00752a540487a96de5f14f1a87cd9f9
+FileChecksum: MD5: 73341c0f6d07b13592fa2930da15b228
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_blk.c
+SPDXID: SPDXRef-item15212504
+FileChecksum: SHA1: 5e8f62dc33f0be40efc7cc6cfa67ce8fd82242bf
+FileChecksum: SHA256: af33d3ae18073b817f7cef15b0bdbb52597a116dd6999d3771b3c8bf43a94fa5
+FileChecksum: MD5: 2cff6e55a34ec56ec2f92456ac6b718a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2026 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_blk.h
+SPDXID: SPDXRef-item15212513
+FileChecksum: SHA1: 630a08d253239d09239a53055415bb4763316e64
+FileChecksum: SHA256: 509ff516ee6ffe141dfae59478a7f8160162e5e1ae57b7beb0d67dc6e3179f23
+FileChecksum: MD5: e70ebd2dc3e8b301a6acf014df7aad40
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2026 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/avx/oapv_blk_avx.c
+SPDXID: SPDXRef-item15212499
+FileChecksum: SHA1: 055fd3e3e25d2ef65df82592656d461f046b90eb
+FileChecksum: SHA256: abb4e0ebae08ee9049ad35645cc9a8c950da213fd009ae7bbdc6970196e22981
+FileChecksum: MD5: 67a3a3258309d2065917b05146d50a05
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2026 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/avx/oapv_blk_avx.h
+SPDXID: SPDXRef-item15212498
+FileChecksum: SHA1: 2874fcb02f35215fb123b4b151a6755c2b5356de
+FileChecksum: SHA256: 233776e2ebae0c924698cb887672ea0edc40516a3d0def3490434ec396d57c39
+FileChecksum: MD5: 4d4bce1dc8944ea60821e34c8db1cb2b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2026 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/neon/oapv_blk_neon.c
+SPDXID: SPDXRef-item15212529
+FileChecksum: SHA1: 9e16cf3aec0a3522f835fec101a6d08413b8c6b4
+FileChecksum: SHA256: 4322f9cd88d62d7489c64af4431e00e735a2a4a2b522839fcf2e3f45a68135ce
+FileChecksum: MD5: e882a204649c12017238f1dc4f233123
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2026 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/neon/oapv_blk_neon.h
+SPDXID: SPDXRef-item15212527
+FileChecksum: SHA1: a848e771c19630e605831dd2f56649f97982c0aa
+FileChecksum: SHA256: 00c789b16d0256db5eba6dd36eac1ceeb5c4aadebccc24c0cf18aad8d4b49f5f
+FileChecksum: MD5: ce6a9694f91b6f53422a02b9f0bb6f40
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2026 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_bs.c
+SPDXID: SPDXRef-item15212511
+FileChecksum: SHA1: cdc0d2292ffcedc3f80121ae1abf5098bc5af96e
+FileChecksum: SHA256: 9a6229191abf2392ec5aa8c7cd49af3c1dd39ad3b34646574f5d10d80ee69858
+FileChecksum: MD5: d9e9c1cdda35da3b8d99aa5d0000c29a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_bs.h
+SPDXID: SPDXRef-item15212503
+FileChecksum: SHA1: 7e6b727870b95e2536fc230ba59d302cc0a00408
+FileChecksum: SHA256: 03d7a3fa6f302628bc62f5653b207930b997301bf064a66e27df49c91c76073a
+FileChecksum: MD5: e1919c5da1c35abaa039cbdacea6f8f3
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_def.h
+SPDXID: SPDXRef-item15212514
+FileChecksum: SHA1: 91847ef125174049050fd54c0d3cee2bd341329f
+FileChecksum: SHA256: 367329afb87369771e50e5d63ecc71d7e514d2971be03425fb350a7f2bdc3b9c
+FileChecksum: MD5: 1c8827c92b2aad8168ba7bf3f5247e9c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_metadata.c
+SPDXID: SPDXRef-item15212523
+FileChecksum: SHA1: 88efcf08bd4830221bd991dcff1ed0e9b955d29a
+FileChecksum: SHA256: bde9baa0def4130063d77c19bb38796d5668d9a60bd81f4c061cfe30027332ac
+FileChecksum: MD5: 584bfec75781e6bc18c052336cf8ed9c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_metadata.h
+SPDXID: SPDXRef-item15212512
+FileChecksum: SHA1: fdac1f02b30b7e23ffb7405df97d2c838beea8c4
+FileChecksum: SHA256: d4cd2144db823d8f96aa92450ba25772f0f8211d0e6f4d5e921cfa4ac5064d48
+FileChecksum: MD5: 4f98dc4b0d7b266d7b9b55037091b35a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_param.c
+SPDXID: SPDXRef-item15212519
+FileChecksum: SHA1: 8b9803ffa8f9f55c1e47ebd3ff6cf2b3fdd5436f
+FileChecksum: SHA256: 9e34018ab4216ffd1ecb6d2f52a9a9399c1662ede22e24f28a32abe97e9634bc
+FileChecksum: MD5: 6b1ddb7f4fcbe47ea87c531e658d54ce
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_param.h
+SPDXID: SPDXRef-item15212518
+FileChecksum: SHA1: 641ad1b62a83560efc2bd22dbd120d92ce6ff64f
+FileChecksum: SHA256: b20181552c23aebee9aa063d47e6548c003c824ab47f33f9ac55bbfea6417604
+FileChecksum: MD5: a71c749e02fc328b5d3ec02251aa3b47
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_port.c
+SPDXID: SPDXRef-item15212520
+FileChecksum: SHA1: 99f081829c97f55a10d70a7f67197eb54e0d4d2e
+FileChecksum: SHA256: ddb2cfd1c5876a9aaa6fd511bd9c01b2541573436bf09cbcd8dcc5998b8a18b6
+FileChecksum: MD5: 2e02524e5ef04e5eab45c2039cf2869e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_port.h
+SPDXID: SPDXRef-item15212500
+FileChecksum: SHA1: ccddf0ac79d75c7de607366d3a9f45fbb9307480
+FileChecksum: SHA256: d5f594e75b23e9e9b725aeaa130199833b1d9268a76b028f1a784234afc09715
+FileChecksum: MD5: 082bd17a46bbc72a0eaee0ad85a5085c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_rc.c
+SPDXID: SPDXRef-item15212517
+FileChecksum: SHA1: db59134890d809440fff5042fe2e67db5d0983be
+FileChecksum: SHA256: 43551a6a9a70f85bed97f6d2380e46896a6465b6fe4ce5b841d7e30e9cbb91b9
+FileChecksum: MD5: dc1db6c40a3cbdd08e108eb94e0e10f1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_rc.h
+SPDXID: SPDXRef-item15212525
+FileChecksum: SHA1: 66775012b778fe006f62032129c15a531a0b426c
+FileChecksum: SHA256: ecf51c035996614b67efbef3d997156ccdc1d55fdaf71e65440630e810658006
+FileChecksum: MD5: caf242fc4d934dad603f452558369f83
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_sad.c
+SPDXID: SPDXRef-item15212535
+FileChecksum: SHA1: 3380a86ac6827723a3e06337f784cf4da5fb00a3
+FileChecksum: SHA256: dcce7304e4e39a358bdbfb9899406c86a0b6fbc3151d066590478e52cb67ea65
+FileChecksum: MD5: 9072c0685847affe6462727fe470f078
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_sad.h
+SPDXID: SPDXRef-item15212534
+FileChecksum: SHA1: 76fc7cbcb35a67a7ed67113d06356ecb5f312d99
+FileChecksum: SHA256: 72280a21449fde54067b60d5e87d1565bf98eef30e0a01918b55e055c0455668
+FileChecksum: MD5: 085086ac2eea8b9953a93b91f6e7a89e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/avx/oapv_sad_avx.c
+SPDXID: SPDXRef-item15212496
+FileChecksum: SHA1: 45c3a8640f9e9012b5fd2ae16ddcc06a93f38af2
+FileChecksum: SHA256: 8f95ea140d8c22c0e2c2ab68506bdbaa8c260a27491e1dd36ed421141a6efe41
+FileChecksum: MD5: abf454dd8c4af94deb1c5f7e4e2bc047
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/avx/oapv_sad_avx.h
+SPDXID: SPDXRef-item15212495
+FileChecksum: SHA1: 2831117d9686cf1c9d7e6423071406453f04bb8e
+FileChecksum: SHA256: 39fd6069bc1a8740f1566ca514268f2b706ea221bcddd319a41e4eedbbdedab5
+FileChecksum: MD5: b1d87fa6a83ed7c2921eaf2cffb45072
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/neon/oapv_sad_neon.c
+SPDXID: SPDXRef-item15212530
+FileChecksum: SHA1: 1aab092911931120b36105ce496002e48ac4cf28
+FileChecksum: SHA256: d3bd968052403c71746ebca236694b76d31bcad2aaf7b0ffd27e050d39077b7f
+FileChecksum: MD5: a9bb5b182cff8c88484fba970d7e9c66
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/neon/oapv_sad_neon.h
+SPDXID: SPDXRef-item15212528
+FileChecksum: SHA1: 1d194f0c39d528680eb407d939c9a8109863b011
+FileChecksum: SHA256: 3c3f4f9429a0e7e9e998c5f93151a7841da1b7293678d3e14e417c19b373c8d6
+FileChecksum: MD5: 4fa8629dda1669b81c72795a31130f70
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/sse/oapv_sad_sse.c
+SPDXID: SPDXRef-item15212507
+FileChecksum: SHA1: 56681b10f1e2910475dce630bb8a34f73fcd9474
+FileChecksum: SHA256: ca6bc1b9a7c86c3533688767fca3bbe387fcd35c5140a28926444c150a613690
+FileChecksum: MD5: 2199683d6106230dd94cf9135d248918
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/sse/oapv_sad_sse.h
+SPDXID: SPDXRef-item15212509
+FileChecksum: SHA1: ea942a38cf71e3b8ab5f33a7ac4eb99295c4af35
+FileChecksum: SHA256: e003adc435ab321c9cdf5c3ad277701d8f16ebc0d5bb2fe17ec824ef9042a5c5
+FileChecksum: MD5: d9eada7982e8629aa8dd507b626f0132
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_tbl.c
+SPDXID: SPDXRef-item15212536
+FileChecksum: SHA1: 5282180cf1a2a912adaf03c7ee4e64d57b499619
+FileChecksum: SHA256: f510145ea4ec6bd384d229297b3942fac2f6cba052fdb5f15930af4b281b4855
+FileChecksum: MD5: be6df9939fc75986c866019d247e46fd
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_tbl.h
+SPDXID: SPDXRef-item15212510
+FileChecksum: SHA1: 249ba071f0736c99d5233853ebbe34dffca5edca
+FileChecksum: SHA256: a030618c2cea4e1f16b9d6e6d4db2b90514a3b3796680075db9f415e65f11c1c
+FileChecksum: MD5: 251277514b6080fd60ec039a187006ee
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_tpool.c
+SPDXID: SPDXRef-item15212502
+FileChecksum: SHA1: f55b7c7406f073f646c8ecdd8cca9e56068b0156
+FileChecksum: SHA256: ec3486aabc3d9e73ba104a4f4b0db50d07365aeee306e417d57f7fdcf48869db
+FileChecksum: MD5: 3f8cc1094355b38119a89cac9c1b4e9a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_tpool.h
+SPDXID: SPDXRef-item15212515
+FileChecksum: SHA1: d85ac6c914f0fbe5c8345557fbcb57278479ece0
+FileChecksum: SHA256: e02216dc1183be52ab7468ebedff11089d6c3a500b7d3ca1febe899b6e6ebc6d
+FileChecksum: MD5: b3f3121d35f4983f8a84f70323e85fc5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_tq.c
+SPDXID: SPDXRef-item15212533
+FileChecksum: SHA1: 764c8fc270b70c3cc1618fdcd993bd8739d6fc66
+FileChecksum: SHA256: f348d2f12b727196971277be51d1eae88380ae7b6721b53b662a38ac1111c63c
+FileChecksum: MD5: cba1d3746cec59a36c449297a60644ae
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_tq.h
+SPDXID: SPDXRef-item15212521
+FileChecksum: SHA1: fbc3201940e6a7dfdcee3b0c0a9775843ba7bc3e
+FileChecksum: SHA256: 52a15dd6ddbf4793c4f53a9cf46e310d147cf71138d4580ced98b4d734b6824c
+FileChecksum: MD5: 02da748ce3225f3f68ecacbe48122df2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/avx/oapv_tq_avx.c
+SPDXID: SPDXRef-item15212497
+FileChecksum: SHA1: 3eb4d8450461bf154538d4a27de0219f57c47335
+FileChecksum: SHA256: f3c42a1e3c98972b8ef4a4d4c1975fbb86b6d31733cb167ba9a97204820966c4
+FileChecksum: MD5: 69f9f54a4bf4866385e3a4a0af789bfc
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/avx/oapv_tq_avx.h
+SPDXID: SPDXRef-item15212494
+FileChecksum: SHA1: d0f2e5d6eea8e3d3127c77245eb0330d64432b57
+FileChecksum: SHA256: 7fb25702ffd71a72f132cbbcbb369bdfadb16b0f1bac69b7e7435a5da6f24f8f
+FileChecksum: MD5: 2cf9f32ed1e70dee69994538d21f9939
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/neon/oapv_tq_neon.c
+SPDXID: SPDXRef-item15212531
+FileChecksum: SHA1: 32aae9e38779cd6a90c8d6937e144107cbdde0aa
+FileChecksum: SHA256: 64170b4295deb9481438f80a94ab9d4de43bfea3eaa0261c39f00d9131bcfce9
+FileChecksum: MD5: e12f8b1b86342493413828fb70e28e4d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/neon/oapv_tq_neon.h
+SPDXID: SPDXRef-item15212532
+FileChecksum: SHA1: f12d759cdd80dbee5991d61fb5576b6ea5e871f9
+FileChecksum: SHA256: a208464547bad14debb9d2556550b8d2de5d27aa7d5fa4b0bbf7a15921fac31e
+FileChecksum: MD5: 7f4e70029a25f83950ebe7a301b234ea
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/sse/oapv_tq_sse.c
+SPDXID: SPDXRef-item15212508
+FileChecksum: SHA1: 605ddd5bcc18820410fdebab870e7043eae196cc
+FileChecksum: SHA256: 2faae4f24137f379fbcee860d3e012a5a108c6b907ff4dbf8cd87d069e9d4ce7
+FileChecksum: MD5: 0ea7244759c4fe29116469bda6b60e6a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/sse/oapv_tq_sse.h
+SPDXID: SPDXRef-item15212506
+FileChecksum: SHA1: 22b5aea6988caed3304333bf582fd47f0b951c5b
+FileChecksum: SHA256: 775404fc826349a9c021343c6ca8387383d87645a2cf4d9b86b49116d71e7001
+FileChecksum: MD5: d1e5c32928c4bfbf3f0c3690bd590db1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_util.c
+SPDXID: SPDXRef-item15212522
+FileChecksum: SHA1: fa15638a2395f79c397dd22bdb98ea1104c1a89d
+FileChecksum: SHA256: 5a80091ba84b82d62ff364f6e32afc6bebdbab7eff89d637687be025d18e1c29
+FileChecksum: MD5: 2913983b3da9eccddf3bf40c1037852c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_util.h
+SPDXID: SPDXRef-item15212516
+FileChecksum: SHA1: ae0a40e17c71a68355670fcd6ab1cf705cf14884
+FileChecksum: SHA256: de28100ad378489895967937b0d826133bb659e6d102a3dcfd0a427cfbed4508
+FileChecksum: MD5: b441cc1fc6df95e518cacf27cb34b8a5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_vlc.c
+SPDXID: SPDXRef-item15212537
+FileChecksum: SHA1: 8824253e9db22592359e5b19a31240b3877c498b
+FileChecksum: SHA256: b1501d7dbf3f688f1d133181a69fc58b71acaefce50e7381b629ddf26a872509
+FileChecksum: MD5: f88579dafe443092878314e90fc18e87
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/oapv_vlc.h
+SPDXID: SPDXRef-item15212538
+FileChecksum: SHA1: 29659b5c7f7df22f35746e30278bbe3642ce7039
+FileChecksum: SHA256: 3a9fad6b8802adfd6b65128d08b8a3f37b73e060d4c2f558ac1ce40a9d3a8920
+FileChecksum: MD5: 5c0f04e657f3fc606993a3a04bef5213
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/windows_x86_64_toolchain.cmake
+SPDXID: SPDXRef-item15212469
+FileChecksum: SHA1: 8385bb4bf3995708240c864b6acc61dfbc763dc8
+FileChecksum: SHA256: da2acd9fdeaa293c1bb3aa54ce6ce8666415e01caf305a5024d8614774bb2c1d
+FileChecksum: MD5: 3c9b978e01986bfec20f842b7304212f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/apv_ext.md
+SPDXID: SPDXRef-item15212471
+FileChecksum: SHA1: 40b594942b7b6b00308f71ae7a58aaf036af9042
+FileChecksum: SHA256: 9991fc05bf65389c34b1f4789928f1406a07ad7c91e3a6f7112f1bafb2a15683
+FileChecksum: MD5: ab93ec4ed467b48c27f90d99fbb9e78a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/apv_isobmff.md
+SPDXID: SPDXRef-item15212472
+FileChecksum: SHA1: aea8570e3961ae4718acfb46b440361aac8f3fea
+FileChecksum: SHA256: 72bbafc4a721a6bd04a558ed128c41ee9985f9d1cc09c8fed3273ba801c6896d
+FileChecksum: MD5: 12ba455d6ca15410dcb7a863a0207d53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_black_bar_64.png
+SPDXID: SPDXRef-item15212474
+FileChecksum: SHA1: 47debeba066d6f8b270915c2c4d42e31a6123580
+FileChecksum: SHA256: 3f95aee0874f3d8d89263f52ddb6f4e6d69638ff372de450c0c8e0d4e4c69976
+FileChecksum: MD5: bd11ea5054caec4f70b2c2567f513023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/apv_parser_on_imhex.png
+SPDXID: SPDXRef-item15212475
+FileChecksum: SHA1: cc48d3fca2d2c778a1b9f9eedfa540724ba43546
+FileChecksum: SHA256: 3c150d96fce8c0c0c6535671f312d9167af1b656f501cc85d107b73f57c20922
+FileChecksum: MD5: 79473fba68ce00b5c69835cb74743bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_bar_64.png
+SPDXID: SPDXRef-item15212476
+FileChecksum: SHA1: b28a32c2dd59f54361a9292918eb50b0f9b55744
+FileChecksum: SHA256: f52d8266153985dfaef39bbc784d5432a6430d41ce7502c101b0bbf1b5edda94
+FileChecksum: MD5: a387fd426093da00a887fe36c03a4c9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_white_bar_256.png
+SPDXID: SPDXRef-item15212477
+FileChecksum: SHA1: f619366dda0a181979778330b8c8d27d92476bff
+FileChecksum: SHA256: e3329fd55483a7311e1456c695c22cc6ca5779e92053d80f674ca8cc326cb5eb
+FileChecksum: MD5: 4a9df353c0e71ce3dfec3bc866fc7482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_white_bar_128.png
+SPDXID: SPDXRef-item15212478
+FileChecksum: SHA1: 9304496c135e6ccbfffd0a10d5a834c01d2d1486
+FileChecksum: SHA256: 9175db83d2e79517aa8b780f33a785e032f8548001c02e3a77a23c6f183f5e6c
+FileChecksum: MD5: e44ae2a49e96ef2542bd1a9c305485fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_bar_256.png
+SPDXID: SPDXRef-item15212479
+FileChecksum: SHA1: 7bee7cd71be584f8bbaa29124aa54be451b30e9a
+FileChecksum: SHA256: dc82c40caa4af13631d4b5c4b489dc0112b4db29cded9a8e1013073944cd939d
+FileChecksum: MD5: 4e293b90a426fac5e62569aa0030aa3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_black_bar_128.png
+SPDXID: SPDXRef-item15212480
+FileChecksum: SHA1: 5ab717d53878376b920cd9d5e26b39e137bb777e
+FileChecksum: SHA256: 2698d6bd3a47fb0915f24b179b986a449d0cbeacf43d60464dd205c2f8b54901
+FileChecksum: MD5: 07b2c30e76d1c5fa9181543bf90a7900
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_bar_128.png
+SPDXID: SPDXRef-item15212481
+FileChecksum: SHA1: c6f86e569a0444bfc318dd4e44378a9b4c05b7e2
+FileChecksum: SHA256: 2bdf056050ad9ba159c2e702af972c763e4a53eb47e825b88f932490d7fb210b
+FileChecksum: MD5: cd31208554295420bda2ffef15e7c59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_white_bar_512.png
+SPDXID: SPDXRef-item15212482
+FileChecksum: SHA1: a789e12f460c73506a12dbbf9a9c17cd3647d24f
+FileChecksum: SHA256: 0371a99709abe40900990c5cb4d769fc28d7da86947e2d208d3518f7afce8ccf
+FileChecksum: MD5: 5b67930d33d9ddc75f5e574a3e7ba89a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_black_bar_512.png
+SPDXID: SPDXRef-item15212483
+FileChecksum: SHA1: 5f0c65f3d6ebbec62262d5c806f52908b1ae9c2a
+FileChecksum: SHA256: a41367a33aab463e627c26a50c268bbf8de1f98f7fb5fc3fb07af2fc3fdc5060
+FileChecksum: MD5: dfe897de8d2100cf81e91c4e8e2f9d2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_white_bar_64.png
+SPDXID: SPDXRef-item15212484
+FileChecksum: SHA1: 142cc30c3b1258dbf8753b5479b5b8ee4386e295
+FileChecksum: SHA256: 519ace2c8c6fc7014306db7b558942bc28a3afb780393f3fc2c8959e82497bbe
+FileChecksum: MD5: 846be9969d52ed40c3a43f37a9779f26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_bar_512.png
+SPDXID: SPDXRef-item15212485
+FileChecksum: SHA1: b8c3ddae15012b7b16e34346cd84171b2c1ee565
+FileChecksum: SHA256: 7e1536b2b5a1474fc1d553aa9ea267bfdf673ccfd38a6f1497f9810751a05e57
+FileChecksum: MD5: 5c40cadc3221aa0b7d969d6f82661e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/img/oapv_logo_black_bar_256.png
+SPDXID: SPDXRef-item15212486
+FileChecksum: SHA1: e85a12861bd7fa8ed466feea8c0696f5f6754808
+FileChecksum: SHA256: a6739966a3bfcc0d05e4f02d86e6a4bd75498ab845cd2daa318b7c18baff9705
+FileChecksum: MD5: e999878985b487bedd419620b3cb6718
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/apv_family.md
+SPDXID: SPDXRef-item15212487
+FileChecksum: SHA1: 48baf150e12d03b2e42da244c1a4239b88521498
+FileChecksum: SHA256: a101e67a8f9556ad5fd69f8073318b900a43e31cdb6a87c923048321d3533918
+FileChecksum: MD5: ebe600b9a293cdc862136585b49cc4aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/readme/programmers_guide.md
+SPDXID: SPDXRef-item15212488
+FileChecksum: SHA1: af897edad5a4a0946980c26478deba97b85c72f3
+FileChecksum: SHA256: 38c90331b50656508068abbeb030e40df74ba6fb0b068f289f4332dab6150fb5
+FileChecksum: MD5: f30ae179d43656c2ecccc9bf5ee66eb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/cmake_uninstall.cmake.in
+SPDXID: SPDXRef-item15212489
+FileChecksum: SHA1: 8ede8cce85126bb8d842ffecca2acbc94913bc8c
+FileChecksum: SHA256: 1c5c3ab9acb5973b65ef2802785cab2173a50b9a1ebad9d473240f3edad3b0f9
+FileChecksum: MD5: 5d89879d816d5e3e1a74acf89a7588c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/ios_arm64_toolchain.cmake
+SPDXID: SPDXRef-item15212490
+FileChecksum: SHA1: 1c186d1530a0a3d4421b681dec22df7c2d95c0dd
+FileChecksum: SHA256: c4b3bd41061b8eaa06c1e60c3f51243ecb1599b3e21eec32ad4861a83b9b640a
+FileChecksum: MD5: 88be81f351d8aff420fb230d3f809c27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/src/CMakeLists.txt
+SPDXID: SPDXRef-item15212524
+FileChecksum: SHA1: 8b8bbebbaa0335073882d68624d49c0e7c927076
+FileChecksum: SHA256: 251fc3e191056f0981695cbf4731a6ee81a9210e06d794587cb71e4b74d35576
+FileChecksum: MD5: ae1bfa0497bdc138f75fa3c9127e5053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/.github/workflows/sign-release.yml
+SPDXID: SPDXRef-item15212541
+FileChecksum: SHA1: 8a58562aba73dc3469994b58f1eb6c8dc1ada68c
+FileChecksum: SHA256: c90f76f2d8647ece875f77b60842b5b84f47ad876a575f897cf06ae8e9300805
+FileChecksum: MD5: 47e9417f26160a830a1c83e154a5e3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/.github/workflows/verify-release-version.yml
+SPDXID: SPDXRef-item15212542
+FileChecksum: SHA1: 9e10f845590e09773a49dfaec855eb28f1c7d011
+FileChecksum: SHA256: 489579ac5edf3960a3ccec715a64290a95d18328f0017a052c38b2e3e84fcff1
+FileChecksum: MD5: 0bd620da0406e20ac37a44703efd153c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/.github/workflows/release_packages.yml
+SPDXID: SPDXRef-item15212543
+FileChecksum: SHA1: 1f1a789e4084fcdb3fbed95c29a07d54bf0604c0
+FileChecksum: SHA256: dbd40dc6f59b2cb476986ca550c78080268f9b9e6052b90fe9bbcf84342802db
+FileChecksum: MD5: 912b74a90ed0a604198b1504c9e5e27d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/.github/workflows/build.yml
+SPDXID: SPDXRef-item15212544
+FileChecksum: SHA1: da83747e3502da931e3281d2ef3c1709f3efdd0c
+FileChecksum: SHA256: 4e3ef868f96c3628d47643be83c5058cd7e5a9cb19ae81c62dca0fb3f4d9199e
+FileChecksum: MD5: 9e6d1232de1806817cad2987c9f7914d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/.github/dependabot.yml
+SPDXID: SPDXRef-item15212545
+FileChecksum: SHA1: 9dc9effba2b3282e6602ec25baa5374227666c4a
+FileChecksum: SHA256: a057c72dbbf1c4e24dade09dba2fcac4d8a2496210d725c015163bb3c0682159
+FileChecksum: MD5: 2fe4ac7d5c650f064e90f603f1beef52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/util/apv.hexpat
+SPDXID: SPDXRef-item15212547
+FileChecksum: SHA1: 1fd28aa67c891d8a8005ed7938438621fd91bca1
+FileChecksum: SHA256: ef2e6b9c8415b349245a61ec15ba37c3f936a479d754a20246687151d1a6a4fc
+FileChecksum: MD5: 73810351f2dfe20c6bf49bef1fc89447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/pkgconfig/oapv.pc.in
+SPDXID: SPDXRef-item15212549
+FileChecksum: SHA1: c1a8748e02bffa9913f969cf6bb7de50edee1f4a
+FileChecksum: SHA256: 7f99a3998a2e7cf15e23defac3845f16a894344119f1f80049b5d8075f8f01b5
+FileChecksum: MD5: b8b26fd850e1da2208d455bce6e0693b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/.gitignore
+SPDXID: SPDXRef-item15212550
+FileChecksum: SHA1: f107dd0f324a0f57c6aff51f3a94dfacb4f1833d
+FileChecksum: SHA256: c15c590236fe8f61f9f9adad01c03fd52879a003b7b8b77915442e5ea2651403
+FileChecksum: MD5: 5de27569193075dffd215ca4086ca22d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/arm64_toolchain.cmake
+SPDXID: SPDXRef-item15212551
+FileChecksum: SHA1: 10bd09c3d514bca3c120e15a0300514b4b05bbe4
+FileChecksum: SHA256: 4434dc923bc3819b62c8665c9fe2e2c55e2818f58cff2a0ba6d8eecb3145eeec
+FileChecksum: MD5: cfa4fb63b627084914cd71bbecd7d936
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/tile_E.apv
+SPDXID: SPDXRef-item15212554
+FileChecksum: SHA1: 7127423e84b7eb17fe8a4d1a891c02516d699ce7
+FileChecksum: SHA256: 9dbff94d7b21fa207669e4ab0ea2c7136d9a7f7e47b0f9307cb0d8ace36bd2a3
+FileChecksum: MD5: 77cd01a8821cd17c2188fca033edc726
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	pÉxÿÕKhÏ8ò©z°&ï~âaR×7W¼èÌ?¢WYèKª.¡¤¹Ç꜖?¿rv ªVKgCçûoríí%¥ ý3Õì{¹sÅ_-Ý÷æ[åp}F:F³~ÏۯQ?â| 8µ¯ ¼16Æâ.{Ï$4ãð?¤?å?;(üàeké1Åm8Ü<ϼ?
+© oÆ2ÓwãJôR[:µ¬~æ~.ý.~ß?éënfæmޕH?mm HÖy-|É$'åJ?ّ3V?^-?¡Y¤í,r%þF³Ô[:ºð9YkrVKñ çóÝ ~ZÝMϫtó/ۜùf!8±¤?äöqJáQ	ãdȾ?Â@b¹¨ÅÔ¯&?,զ~»اnó¼c|L+Á¾Y¼Dh?tG{u?ÿ?¼À¿Ùúä]åêºê?zäê-xu/>mº¬J8 </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/qp_B.apv
+SPDXID: SPDXRef-item15212555
+FileChecksum: SHA1: 28fcd89cbf440c5e72f02f811208825700d00a0f
+FileChecksum: SHA256: 98cdf4d9d4d0ea02a2831c7247e45418eeac7ae54c96daeca69bdff5f77c0141
+FileChecksum: MD5: c7cac366f29dc6571bc814923cadeb4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © X?OwÆy'O?ÄYzf?Mä´?ÿ¥?$ýÒ\]zÀ4c ȟџ?ld¾¹/ôM$Hþ(IJ7Q)\ÙåÕn[aÕj0ÓlX?Ø<ÓWßòlHÏvP6Ó^'áÞ×?ÙZñ#Ú(êc+yÄ[ìâq®k?¨³?LU­wûb.¸dx×Råë%~õ?i»?U?f§Ç,✓V:.~гmNÅHÒïØy}Ïü½ÝòOÞH¤jQAÊOG~ÙrܑSçdAy?Z4r5dóKz?E<®ökÙCp?²ë7+y/ózAÊ/?æ¯x?{øÐ?KÁÙcיß9 ½ß<èöÖõ|?CòÞ@«õղ8K]ÝScê!?¹·êãìýl¯w¿&Á?ð¢
+© zóLΊ8b?mÃ;Uÿß/õ{¢V¿3!?yÛäµAoܺùd³áIھ79ÄVIÒOòþU¶]Ù;ʖCÉýÿjgʕ);å?¢¤å]ÀƝÈùOÿå£n¡áZME²?ûAZ3' 2?ùU.§NÒN¤ے?UÐc
+© zóLΊ8b?mÃ;Uÿß/õ{¢V¿3!?yÛäµAoܺùd³áIھ79ÄVIÒOòþU¶]Ù;ʖCÉýÿjgʕ);å?¢¤å]ÀƝÈùOÿå£n¡áZME²?ûAZ3' 2?ùU.§NÒN¤ے?UÐc
+©	BR LÅvUZrY?@²Õ}a iO±ðl j{ ·.?¬VX?زZ=½&!¡?x>±ÌF"?°ÄH1£HÝ-Ùè3úd§Wù¾É40IØö?V­?À&õMH^Ӛ?lwkÎA~ÿP	¥T.^ú?m[äÕ.%ù?"?rꂷ%н>Aô<?=Ry9?úê(9V¶¿ä?¬ûø9È6¾­½?è6mó7?Aµ½Iä?Ü۠ïø¾AÍ?iß à­m)z¦z?UôÇ?/C?8¡ú¢ DbUÈ8ݔl§$??¯~TUé¤,?¤j8ÒL7ét,ÉSïï_ñ¯BúÝï?ÿÐm ¾?´cý?+èà§ÕUr¤?kê"Çb¼«Ý ãEö|
+©	4qDEiçm`ʨ3Ëi\M[ôò%IÞÔ?pWúõ?+{/÷(_D?ôû6YµúՌ¢Jñ¹XU³ú²?P.ªmV§}Û?ï㿟Ç8<Òt«*Õ{gڙ©¤ñMãbåÊÒó"þ?û±¾å?쫾nø??aãw?u½ã?ÏyóÒc¢?ZÓçË?;í¥\øñ?±åeç?ݫ?Ð?M?³R?'ç~Yꜭî^yI?Øl?/¿0?ò¥LsÔ?gÌúVnI?BZ%g)'M´?ÿ"0tg?Ï?Ñ2"ÁÝ{֛BS?º\Ï\ÉÅíÜìmª$;XrN²]¡¯[Ió¿%_?ÓJÈï?ªq;åã^µ#èJ¿û½uêFSBɏ{Ｙ&%Êԅ»Ò
+© y(?T\çD[?WYñ¿é»IR/?JûaT´þOYîˢ«â]K-E+?¶*,`ùéd¬´B½¤uÆ^¥=RÖy+ݒ^3²£7?ùß?^34EkqêEÁؾøÏdõÌÝÉxVÙ磸7X ø'òýÊ÷O@hÚÕ?+Ó{aXai?:ó³0j¶vÓ?ò»ÎKRO±?kWö¯?s?¯æ{ ¹+KYÿk?K=x·¾òK½XÏU??%]r¿úAet]S³?+ÿ0ºöî=ÒG3éçO.ܰ0ÖQýÙ ¼óUöI$­ª5N¨pTyÿ£¼³? F7/¥ã÷´kß9*4g2ùÝS)w½Z-PSxk5êCy¢yd#{??yhx?«×^ò"?BXL6t
+©	y½Dà§ruïZcÉ÷?EúNIdþsMkW?¤?7̇çêË?ʶýéªjõìøàÆøÄS'YߢaÕÕDi?݉µ]Û⋌Y)÷"ù¢êry²ß?cO/ÎЗñ?j?|Z­dåö?£ ±?üõÕþI'.¶֢5®çÆ*{::ÿʕ䚪jB?Õȝç?ww?-¢ åF䚬z8Ñ?VTþ?º«ï¼o7ö?Ûñ4¸p҆?Å?+1¾-f;?'{ழ¸`?#ϫ?W.ùú°mÖ2å?²5¾mWd?âUhåãõJz:ã¾?²cIÉgýÕ+U+£Í.§¿Â+?9-bñ¡áī˴GÌ?,~eÊ#¸©?nóg»길
+© X/¾Jm?÷jx©écê"ìJÉ?û͐w?AFÈ7]?ÜH< *º?bè=G(C¦AÉ8¢äA @ÅN˩ xêø)z?+ úLÁJ?@íy ået?Çz?Ph=4?¤C? ä5:m?ˈ=?þÚ?֊s´«á|º9?") õ5^"r©z?³PXw?¨Â*DRxù.Elˇ	«A(<ÇAéò?mS\Aô䨫È8«AÊ!Dr}4$?Mü÷É4/Xêç`?:V4?×AõÈR?sÒH_~?«?!®ðJµÊ??¨öÐ{ ÐsF,AþAóbÓ{è?ý?¢»Dãꜩ\ô²?%;/QM·üՊ¾À,V4 </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/syn_B.apv
+SPDXID: SPDXRef-item15212556
+FileChecksum: SHA1: a48010376785df3a240676a1880c680d3688525d
+FileChecksum: SHA256: 634b6aa9431ab9072ece10d7afa0b75434fb182e88673567ee40cb42113087b8
+FileChecksum: MD5: b87a59443b009e9241393e6e1a927d61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © P2ibCí2Ù+^ÚVsQÝÂñQêD$?mª°US(«r5rfgÍkHH?/*?U?óòM?V-2UÛÝê^ª×)?:»b­V[õ#é Pu­H¸ÈÕɘ_4ʣD?çÍ,ضPWj­@ûL&µm¥)¶Åz²ËOR>񒇕nf?Å6R  ÕH*«ò) dåBN¹V«ÝËRjD]ñTLù¤&RM\©;*hd«µV¹Hå¡}rª¶J×bñ&³­V[ü?â?~å Wjä/:6R>ªs§´¤- ת{½KêíH®uR¤֫/I«·-H«vªÒ:ªü¨.r?j_4±HZBYj?{®WU	¾ÔЁWkEîåUj?J-YÞ
+©	OZ(ÔKèS^E:èQq¬õVM[¡aSºô?êÍ?Ê,öª/ô ê?R2­Z),gBi¡yRjíO*IÕêCò©?ڤ??ÚÃP(Úé?Bÿ¡?S¢ÏBۢN´"4û¢1v°P½ҽ4)±J\Tª,¡0â Ý?Nz?T]òP?Lu¨N¢?Vh Ú7£Çx´SҘtM(C*ÚÕF³m?LÓ? Ú?í?béD?Q;«T¦=?ª1Ô$?cS¾¥¶?!JzB?¢?E6tÒÏEÖ?JDõ» ^ÔŮz?ú ô@©]Enõʔ[ÒÍl¢¹O¨*?µ<ëu?9 }?ºԪ1?nèVJ44¢ÃD΋U?:?åj¢)¦
+© P2ibCí2Ù+^ÚVsQÝÂñQêD$?mª°US(«r5rfgÍkHH?/*?U?óòM?V-2UÛÝê^ª×)?:»b­V[õ#é Pu­H¸ÈÕɘ_4ʣD?çÍ,ضPWj­@ûL&µm¥)¶Åz²ËOR>񒇕nf?Å6R  ÕH*«ò) dåBN¹V«ÝËRjD]ñTLù¤&RM\©;*hd«µV¹Hå¡}rª¶J×bñ&³­V[ü?â?~å Wjä/:6R>ªs§´¤- ת{½KêíH®uR¤֫/I«·-H«vªÒ:ªü¨.r?j_4±HZBYj?{®WU	¾ÔЁWkEîåUj?J-YÞ
+©	OZ(ÔKèS^E:èQq¬õVM[¡aSºô?êÍ?Ê,öª/ô ê?R2­Z),gBi¡yRjíO*IÕêCò©?ڤ??ÚÃP(Úé?Bÿ¡?S¢ÏBۢN´"4û¢1v°P½ҽ4)±J\Tª,¡0â Ý?Nz?T]òP?Lu¨N¢?Vh Ú7£Çx´SҘtM(C*ÚÕF³m?LÓ? Ú?í?béD?Q;«T¦=?ª1Ô$?cS¾¥¶?!JzB?¢?E6tÒÏEÖ?JDõ» ^ÔŮz?ú ô@©]Enõʔ[ÒÍl¢¹O¨*?µ<ëu?9 }?ºԪ1?nèVJ44¢ÃD΋U?:?åj¢)¦
+© P2ibCí2Ù+^ÚVsQÝÂñQêD$?mª°US(«r5rfgÍkHH?/*?U?óòM?V-2UÛÝê^ª×)?:»b­V[õ#é Pu­H¸ÈÕɘ_4ʣD?çÍ,ضPWj­@ûL&µm¥)¶Åz²ËOR>񒇕nf?Å6R  ÕH*«ò) dåBN¹V«ÝËRjD]ñTLù¤&RM\©;*hd«µV¹Hå¡}rª¶J×bñ&³­V[ü?â?~å Wjä/:6R>ªs§´¤- ת{½KêíH®uR¤֫/I«·-H«vªÒ:ªü¨.r?j_4±HZBYj?{®WU	¾ÔЁWkEîåUj?J-YÞ
+©	OZ(ÔKèS^E:èQq¬õVM[¡aSºô?êÍ?Ê,öª/ô ê?R2­Z),gBi¡yRjíO*IÕêCò©?ڤ??ÚÃP(Úé?Bÿ¡?S¢ÏBۢN´"4û¢1v°P½ҽ4)±J\Tª,¡0â Ý?Nz?T]òP?Lu¨N¢?Vh Ú7£Çx´SҘtM(C*ÚÕF³m?LÓ? Ú?í?béD?Q;«T¦=?ª1Ô$?cS¾¥¶?!JzB?¢?E6tÒÏEÖ?JDõ» ^ÔŮz?ú ô@©]Enõʔ[ÒÍl¢¹O¨*?µ<ëu?9 }?ºԪ1?nèVJ44¢ÃD΋U?:?åj¢)¦ </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/qp_A.apv
+SPDXID: SPDXRef-item15212557
+FileChecksum: SHA1: 2789e281508d2d28443d5578f50db5ceaa619321
+FileChecksum: SHA256: f5d41165cfb19cff1917c7c6c76e6932610c542e025df91d1610f5149e49672b
+FileChecksum: MD5: 1ade0aed96ddf0aab286a082c17701d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	cÇz?0{ûUEvÅNV?Ïé¼$ßHùVuV߮7j¯üt¯ÞUcV£¬ӛᡖ ¸+u?Í,¿s?ääß"/¦A:4@2Õê?g­ß+WþV?úI?Ýx÷ų¤à8ÿTäïøù^DI?]ã-A	[*3Ø}LUtÐB®8O?|¨ùá«?˺-[ú#êЂ":	Ünjbû¾åcS7ù¯ÆI'Ê?we?ÛÎZ?Ô^°To?êTc?­?? É4֌}O×F|a¤-b~Ózãîü²?DP²9i?Wµ2?´O?íUÅdU?ò|ðm÷KY¯Ú6I¼¶C§ÐB?÷SÄ櫆?U´²¯ä'H(?!£'3]?S*ە2çU߼$ÒHI
+©	jPFL?ÎjêYÄÏý8Xí²Zա4"%?ڥKVƠ?îqô¿ªBI±¡_rÒ:.é÷"¢,ߢ{?4ýç*ؓÁ	*?V¢s¹ú?ç`óx}zR$Pµù÷?W¤Ïò÷A?ëæ´"Ñî֐lFqu?ÍèKD!­*:v)t¾Ti?5"6Vè2éÿ¥©ZT¸Ñ?î?jù	¦׍íñ ¨ò'z	T¤??Ӷkq^jF8ç¤ð?oÓh¢?¤Iȕ¦öí¢6­[¿*þޕ»?Zû¦#ʡ¯H?Ðÿÿ:ø¥Æ{*?A
+©	KhAÁ®3Ðr5«àPrå£
+© W<0"v;S6Îñ\õ}%èYõ}#Ô[?4©üÉr.,S9טOZM?¤Ñ?ÐAݛÒa?*­gøøûú¿ñ¢åOȼ?E½ÕZÖ,Yw«Cî?u?Ôø?q??,RWU¢NYüæ(ú$Í?$?Ó ï,ùñOîytÒ(¤)^Ìì¼?¶V««Di ªLuÅ*¼ØTVy?zÖ~/Ùs?d/Ryû1¿4׽hAiX2iö:êVõèëצõµ/¥t+ìd¦þ$òQ
+© wfE?üXÏjA\û¥ÑZ¸lT¹ÄÕ?ù/d?M¢ÖcHWmòáï䜚¤+Ro;~ù=?²Iö&¡_í7Ӓ`dw4#÷TûÒïîý'mÕ(*ä?ô#Bָh¾JnäFM$¤J;ç??5󒧗DÔ9	7à{5iw5.Çnâ~z#zH'ß?P÷½¤ôº޺yû)tھÇ/5ö2Z´nHºF©?¢{ôb¿ãÔïòéMV§ìH`?·¸6sóô¡]È!â>gëôâ/ºNè#GGHOZR¨Û-ñiƛ1¦D]?½aÎ÷#hä«øîM¢ë+¡tSݎ®.?_1²+H¢f°x;G?HÆå¯ÒÇ$?¢%˨yèÐ5uLi?Ñ^8
+©	tF|dn±ÓWfi?#?âò1ue?e|sæ¬m9?-±?]HbF¢7Ö%5\'¾J?¢+¢'£ý;_U³3÷Óþ_{<1E?4£Q))üÿJ!áY®´.­±ÄÍ?Î N¥nùZݒþNݪmëBMóIUêù^I"É?¢ývµùrõì{÷ðgdÓv}ëNÍéÒï<Oáì¯mÒé?éH%e?eTöƒ£VЃ>û®¶dí6ԲìOÀÇ4*BHñj?Q?Ý?φF?Ý)6Di$CÙhUKqÞ7/IÐÂr:¡Qz-?XÍ?ƕm ¥5rI?í?«ÆUÞ$²'?ßlùç.¼=.t??¨xbX-b§ä3?ø?JEæg?¾¶r'l
+©	cÇz?0{ûUEvÅNV?Ïé¼$ßHùVuV߮7j¯üt¯ÞUcV£¬ӛᡖ ¸+u?Í,¿s?ääß"/¦A:4@2Õê?g­ß+WþV?úI?Ýx÷ų¤à8ÿTäïøù^DI?]ã-A	[*3Ø}LUtÐB®8O?|¨ùá«?˺-[ú#êЂ":	Ünjbû¾åcS7ù¯ÆI'Ê?we?ÛÎZ?Ô^°To?êTc?­?? É4֌}O×F|a¤-b~Ózãîü²?DP²9i?Wµ2?´O?íUÅdU?ò|ðm÷KY¯Ú6I¼¶C§ÐB?÷SÄ櫆?U´²¯ä'H(?!£'3]?S*ە2çU߼$ÒHI
+©	jPFL?ÎjêYÄÏý8Xí²Zա4"%?ڥKVƠ?îqô¿ªBI±¡_rÒ:.é÷"¢,ߢ{?4ýç*ؓÁ	*?V¢s¹ú?ç`óx}zR$Pµù÷?W¤Ïò÷A?ëæ´"Ñî֐lFqu?ÍèKD!­*:v)t¾Ti?5"6Vè2éÿ¥©ZT¸Ñ?î?jù	¦׍íñ ¨ò'z	T¤??Ӷkq^jF8ç¤ð?oÓh¢?¤Iȕ¦öí¢6­[¿*þޕ»?Zû¦#ʡ¯H?Ðÿÿ:ø¥Æ{*?A
+©	KhAÁ®3Ðr5«àPrå£
+© W<0"v;S6Îñ\õ}%èYõ}#Ô[?4©üÉr.,S9טOZM?¤Ñ?ÐAݛÒa?*­gøøûú¿ñ¢åOȼ?E½ÕZÖ,Yw«Cî?u?Ôø?q??,RWU¢NYüæ(ú$Í?$?Ó ï,ùñOîytÒ(¤)^Ìì¼?¶V««Di ªLuÅ*¼ØTVy?zÖ~/Ùs?d/Ryû1¿4׽hAiX2iö:êVõèëצõµ/¥t+ìd¦þ$òQ
+© wfE?üXÏjA\û¥ÑZ¸lT¹ÄÕ?ù/d?M¢ÖcHWmòáï䜚¤+Ro;~ù=?²Iö&¡_í7Ӓ`dw4#÷TûÒïîý'mÕ(*ä?ô#Bָh¾JnäFM$¤J;ç??5󒧗DÔ9	7à{5iw5.Çnâ~z#zH'ß?P÷½¤ôº޺yû)tھÇ/5ö2Z´nHºF©?¢{ôb¿ãÔïòéMV§ìH`?·¸6sóô¡]È!â>gëôâ/ºNè#GGHOZR¨Û-ñiƛ1¦D]?½aÎ÷#hä«øîM¢ë+¡tSݎ®.?_1²+H¢f°x;G?HÆå¯ÒÇ$?¢%˨yèÐ5uLi?Ñ^8
+©	tF|dn±ÓWfi?#?âò1ue?e|sæ¬m9?-±?]HbF¢7Ö%5\'¾J?¢+¢'£ý;_U³3÷Óþ_{<1E?4£Q))üÿJ!áY®´.­±ÄÍ?Î N¥nùZݒþNݪmëBMóIUêù^I"É?¢ývµùrõì{÷ðgdÓv}ëNÍéÒï<Oáì¯mÒé?éH%e?eTöƒ£VЃ>û®¶dí6ԲìOÀÇ4*BHñj?Q?Ý?φF?Ý)6Di$CÙhUKqÞ7/IÐÂr:¡Qz-?XÍ?ƕm ¥5rI?í?«ÆUÞ$²'?ßlùç.¼=.t??¨xbX-b§ä3?ø?JEæg?¾¶r'l
+©	H%lV#2E?´¦Oé?¤Əè4!­s??Ñ=?5?ïÐ@¡/GaÔnlü¹U²#Ú òwLÝH¢nrªt") {¢?UjÙ k}­¨8?Aò¼¬þ¨9U|V¥¤Zũ" èn°´S4Ɛ_«®ÉjAnÞ?G¦½J\U§Ñl}+AÊ?Úr¢?H^
+©	0úòojT9ÿý-x%=?,ª¦sZê«<§0?§ñ=>E¿E´?/Xê|?²yQâ4°oÒ% ˆVá°Rxêm3?O(é+ÈY?Ң+ <HûØÄFè?¥âôAÕuU"?årY?HçycH¤1ï5v䚆z?DÿyS+?b_>Ó?M! ëm'zBÎûí7,äêȨM?Øú+͎ìüd?uy<?"½¬ݳ½*^nÒ?õãEé2ʵó?AG?íãm?Ï]}R?E?ÿ_V¥·"éת?É3MÑe2iòyB'D)*¢?âÖ-¿<?ÓhµËo=úQۥ­Z"I­ðm¶h¡?öI?Í c?Ì é{'  .Ùzò?
+©	t¬R3?KmYzUGì£iðJ?««?H¯yþ¯<	¦?	ë¡Pê_«u©ÛÐ|#?]N3BSÒǮX?Ï,nêº	+dÓwù¼¢à?í|¡O× {0§²Y?­EX¦)qр &î?ÓT+ßF£á*æ¬6ŗ%VB½© mó?ßX	£9?ªjgL!&.é+}×QϥèЩ¦??àÆGn*v­FjWÜÃ7ïÉÎùè$ͺ«?i]oûšHóêó¾A?T­cIä~¾Ûuj?$¦é¢Í?Wé9|êßP¸î:õjB£°¹Q?uKb?õö¯ÊÖã<X?/«®SõhIlPãv¥?L§¦¯¥PÔ[ìڨ¶õÎÄø?«ñ9^ççíÒ
+©	K?8Õö7ëïw?BÀÐN.«ëX©ðÃFµ\OÏ?ú\ꗿ/¡»-L¨Yõ³G,±OéoèWäfKTڄ¶ÍMWß܇R'PòZNèNØ?¶?㝌$V×]{Óñ×]­öOí?¬TÅBÝYû¢ð­&|×%?§/Râc 4ªD~B)f¥àgèªãSr´¼z¤<¤ë?¶݆gpd½ùEÛBi»´Go®Ø$pT÷Ôc¸ÊZ£âÉ!®?9"TÓHR,ô{ÿz§Tìitq?ÎÑìÁD(^rÃ?­^¼ôì_ jS?s ¯,ԁMZW?ê±iURô?µ1Vºû)T¯P?_:lnKÖM§#»«(GÙ(i?®@Låò??i?C¸Ò_DhAW#6T
+©	J¡Éue4Y+³òa?qºÏyM>ú º ñ?UØ[Tþ ÊäHHÒ?)ñçwõן¢å?°?ý7 h¹\°¯ýèޖ_?º~ÇÑ?j|ÖS?-ÈOZ%?³ Ô*?ºúý?bòßí?ºª݉°r?«6
+© oÉV?2kÒIè°ÈÊÿc)æ?¼^H|FcÂ/®2úyÇÜFC3ï? Jñ§â¦D{DOYIü,}_¿PFG:áÂLws_Í/?#¯B?îA§á%¥8®vÂðѹ¾ÅbK_-ú&Ir?½&?l)?ÚzïI¤i?F#Í;Îlý&¹;IÁOª?íðÑ:?×ö?D÷M$¡?eÅSÜþ2·MY Åþ¥îý/i¶çЧÚcÊD'ªaÉwÓ5£ñfWÎÊ?7®äòSu[ª¾80]îÊú._.×|ûL?!¶hH¨ïo:jT?P>MÚYK܄U?ñ ¯ä?*T󧶂?/ìK©U;Ï$í?_ñ >Wç?JüÔקN@?pۺ(Ü5I </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/syn_A.apv
+SPDXID: SPDXRef-item15212558
+FileChecksum: SHA1: 96d35828ff0586f233ea88e2b7bf6616175a70d4
+FileChecksum: SHA256: 932c6c7bf5b16382c8b475544c2ae99cb8d27a87e422f8089883f4408c2b7937
+FileChecksum: MD5: 7b0cc8fdffdfca860dcee9b69b051053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	Lv?E¾ñThSNÊ U.´LÚ×r?LKÁ0¯ÇTÏ\í==?҇ïB֠£´-J)T:?5?Ñ?:?Õ?15DL(­DVð"#ÔEéWEº­1¨·ҪT@êp¨Q?§%'kSZé9z?ǡþü?ªӶËl?ޅ­B?¡iÐÕètÔ\(¦CB Â?+DÀM"õE°B٢-w¢ÛB?iH:UTª Tí??P¹ֶ&éz$?~¦?¹U?v?΢?ޅ­B ¡kÐըu[襉AB "?1DÈMj"õE´B֢-x¢ßB?iHJUTº Tê??Q¹V¶'ix$?|¦?¹Õ?V6΂ïC÷¡kPQÊ?µ?Ú
+©	Lv?E¾ñThSNÊ U.´LÚ×r?LKÁ0¯ÇTÏ\í==?҇ïB֠£´-J)T:?5?Ñ?:?Õ?15DL(­DVð"#ÔEéWEº­1¨·ҪT@êp¨Q?§%'kSZé9z?ǡþü?ªӶËl?ޅ­B?¡iÐÕètÔ\(¦CB Â?+DÀM"õE°B٢-w¢ÛB?iH:UTª Tí??P¹ֶ&éz$?~¦?¹U?v?΢?ޅ­B ¡kÐըu[襉AB "?1DÈMj"õE´B֢-x¢ßB?iHJUTº Tê??Q¹V¶'ix$?|¦?¹Õ?V6΂ïC÷¡kPQÊ?µ?Ú
+©	Lv?E¾ñThSNÊ U.´LÚ×r?LKÁ0¯ÇTÏ\í==?҇ïB֠£´-J)T:?5?Ñ?:?Õ?15DL(­DVð"#ÔEéWEº­1¨·ҪT@êp¨Q?§%'kSZé9z?ǡþü?ªӶËl?ޅ­B?¡iÐÕètÔ\(¦CB Â?+DÀM"õE°B٢-w¢ÛB?iH:UTª Tí??P¹ֶ&éz$?~¦?¹U?v?΢?ޅ­B ¡kÐըu[襉AB "?1DÈMj"õE´B֢-x¢ßB?iHJUTº Tê??Q¹V¶'ix$?|¦?¹Õ?V6΂ïC÷¡kPQÊ?µ?Ú
+©	Lv?E¾ñThSNÊ U.´LÚ×r?LKÁ0¯ÇTÏ\í==?҇ïB֠£´-J)T:?5?Ñ?:?Õ?15DL(­DVð"#ÔEéWEº­1¨·ҪT@êp¨Q?§%'kSZé9z?ǡþü?ªӶËl?ޅ­B?¡iÐÕètÔ\(¦CB Â?+DÀM"õE°B٢-w¢ÛB?iH:UTª Tí??P¹ֶ&éz$?~¦?¹U?v?΢?ޅ­B ¡kÐըu[襉AB "?1DÈMj"õE´B֢-x¢ßB?iHJUTº Tê??Q¹V¶'ix$?|¦?¹Õ?V6΂ïC÷¡kPQÊ?µ?Ú
+©	Lv?E¾ñThSNÊ U.´LÚ×r?LKÁ0¯ÇTÏ\í==?҇ïB֠£´-J)T:?5?Ñ?:?Õ?15DL(­DVð"#ÔEéWEº­1¨·ҪT@êp¨Q?§%'kSZé9z?ǡþü?ªӶËl?ޅ­B?¡iÐÕètÔ\(¦CB Â?+DÀM"õE°B٢-w¢ÛB?iH:UTª Tí??P¹ֶ&éz$?~¦?¹U?v?΢?ޅ­B ¡kÐըu[襉AB "?1DÈMj"õE´B֢-x¢ßB?iHJUTº Tê??Q¹V¶'ix$?|¦?¹Õ?V6΂ïC÷¡kPQÊ?µ?Ú
+©	Lv?E¾ñThSNÊ U.´LÚ×r?LKÁ0¯ÇTÏ\í==?҇ïB֠£´-J)T:?5?Ñ?:?Õ?15DL(­DVð"#ÔEéWEº­1¨·ҪT@êp¨Q?§%'kSZé9z?ǡþü?ªӶËl?ޅ­B?¡iÐÕètÔ\(¦CB Â?+DÀM"õE°B٢-w¢ÛB?iH:UTª Tí??P¹ֶ&éz$?~¦?¹U?v?΢?ޅ­B ¡kÐըu[襉AB "?1DÈMj"õE´B֢-x¢ßB?iHJUTº Tê??Q¹V¶'ix$?|¦?¹Õ?V6΂ïC÷¡kPQÊ?µ?Ú
+©	Lv?E¾ñThSNÊ U.´LÚ×r?LKÁ0¯ÇTÏ\í==?҇ïB֠£´-J)T:?5?Ñ?:?Õ?15DL(­DVð"#ÔEéWEº­1¨·ҪT@êp¨Q?§%'kSZé9z?ǡþü?ªӶËl?ޅ­B?¡iÐÕètÔ\(¦CB Â?+DÀM"õE°B٢-w¢ÛB?iH:UTª Tí??P¹ֶ&éz$?~¦?¹U?v?΢?ޅ­B ¡kÐըu[襉AB "?1DÈMj"õE´B֢-x¢ßB?iHJUTº Tê??Q¹V¶'ix$?|¦?¹Õ?V6΂ïC÷¡kPQÊ?µ?Ú
+©	KºA?hd)Z=´& í?j:M=(6Å?¡­¡Ôh$ ªA¤¨OTj¸P?*ÑFތÝ\¬Ô3zJÐ!n?@Ë*2´	=¦M"oBN L%î§Д¨lT?b?A5icE"?»Ý?êE*½Qö§?º??F?@º?5 !P­h¥ÑޣñDU?ÚnPH ÝQèFJÇuÊbP\º{Ðxz Bô£?A?(ÞÐYº ނÎËPèD?)ê ¢«C@ ¢´?ʆëT)EbyERBܴс§Å =ZKOÚ?¥?ʠé´?º Dʂ:ÐJ:6t?ýBZ¦ : Cw¥?昴6::Ô?y>ô?rÁC*¡9Põ
+©	Mª7Bo«T?N2Ѵ¤ VsQB÷F­?:?m?g£ÅA¿("=?~oA7h </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/qp_C.apv
+SPDXID: SPDXRef-item15212559
+FileChecksum: SHA1: 431a565f4d317d50c0ee2533d70bc901d91ab5c7
+FileChecksum: SHA256: 610feb20f68bd2c3b7087e96d31823fcd06a38a146d116ef94bf99c81a1fd26f
+FileChecksum: MD5: 6e2928f315e1670b6842955b0e7b4ad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/qp_F.apv
+SPDXID: SPDXRef-item15212560
+FileChecksum: SHA1: b47ee6731b4ea3c834e861f5022deef0023ee286
+FileChecksum: SHA256: f32ecf1afde7c8aaa7ee02c9e8249347d8ff07001225bdf54bff8d7f45ce20dc
+FileChecksum: MD5: 36eb37bc3c9ac0e7daf00d59b70214e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/qp_E.apv
+SPDXID: SPDXRef-item15212561
+FileChecksum: SHA1: 8114f440c719d5993ca7836ad2265f71b14f67f7
+FileChecksum: SHA256: c64e147b181dd9fe9a6e810bb7c90cc9b36e11fd2eecfc5d2a8537593ff23a15
+FileChecksum: MD5: 7d626cea95f8d7a4b3f1f6e3d10e923c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	pÉxÿÕKhÏ8ò©z°&ï~âaR×7W¼èÌ?¢WYèKª.¡¤¹Ç꜖?¿rv ªVKgCçûoríí%¥ ý3Õì{¹sÅ_-Ý÷æ[åp}F:F³~ÏۯQ?â| 8µ¯ ¼16Æâ.{Ï$4ãð?¤?å?;(üàeké1Åm8Ü<ϼ?
+© oÆ2ÓwãJôR[:µ¬~æ~.ý.~ß?éënfæmޕH?mm HÖy-|É$'åJ?ّ3V?^-?¡Y¤í,r%þF³Ô[:ºð9YkrVKñ çóÝ ~ZÝMϫtó/ۜùf!8±¤?äöqJáQ	ãdȾ?Â@b¹¨ÅÔ¯&?,զ~»اnó¼c|L+Á¾Y¼Dh?tG{u?ÿ?¼À¿Ùúä]åêºê?zäê-xu/>mº¬J8 </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/qp_D.apv
+SPDXID: SPDXRef-item15212562
+FileChecksum: SHA1: a88b3b6ebedd921430614a6502b210fa0b00de4f
+FileChecksum: SHA256: ac4acf637b9dbab5ff9d7aa45903b7f6f2fd00cdb940aa305a3ad0a67590f859
+FileChecksum: MD5: c7a3e5d7f1c987a064a7bdb08944901f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/tile_A.apv
+SPDXID: SPDXRef-item15212563
+FileChecksum: SHA1: c8966552cac4f24dfcd76316566878502ff2ceb2
+FileChecksum: SHA256: e755ead45a3c813abc4cc7f395be96601288bb0747210c4e74074c76afd0be23
+FileChecksum: MD5: c5b2f4c4ec9804f0292b2f12bd558dc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © JÃ2¹ÍWì¦f5¤?ár·ã?d¦&
+©	Q³`B®|Z»ì6<?c
+©	RD176KÒ?q̜n?äG¥èM)!ý1­?ZhysËsT§§OúÉjO?ô]5ÍZ&뢡©æRô-IBôѳö?ÇDuò· ރê????Ò??۠öâê?¨> úæAôçAôçAôã?61 ~ùZ	Â?3h)Eâ£p5Z=¥ÝÅ)O,¥똗.àfù+UÑH¦¢äVU¸?{
+© JÃ2¹ÍWì¦f5¤?ár·ã?d¦&
+©	Q³`B®|Z»ì6<?c
+©	RD176KÒ?q̜n?äG¥èM)!ý1­?ZhysËsT§§OúÉjO?ô]5ÍZ&뢡©æRô-IBôѳö?ÇDuò· ރê????Ò??۠öâê?¨> úæAôçAôçAôã?61 ~ùZ	Â?3h)Eâ£p5Z=¥ÝÅ)O,¥똗.àfù+UÑH¦¢äVU¸?{
+© rmu?rEcʊIkHÝtZ򪽐«º3GT^ÓöþÆUYÆ9M¨?ÅZ¾lÙS`4(ΖOú'?} ¨> øá?´?&Ù?±?¹?¤Â?v¢ª?Vâ?cAñVä?RèlԴi4?ĥÜ+*º?X ö Ü ôt?¿Aèd?È>?Aã ù7NÈ:lH.©ðI´/êèÎ"Ruº??Ò?%R?nêrèår?d??4òÓÒT?Õ/Ã~KéZ¯ ã ï?ðDaO!/ ºY?äR1Z Aô?|?|P|È>|¾ öd?«{ ùXAí?=Uf?8?£è°e?ºPzRpâPq?*¥4éÃz?d/´ Ðy </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/tile_D.apv
+SPDXID: SPDXRef-item15212564
+FileChecksum: SHA1: 6dd5f58993b246ec1d88e9e4ec644e1fbeee85f3
+FileChecksum: SHA256: 96301dd1e5f9756222488185906712f5ceae29e4903e7d7feb75b438470ac268
+FileChecksum: MD5: e124625d4ad310e2e60e366a63f669c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	pÉxÿÕKhÏ8ò©z°&ï~âaR×7W¼èÌ?¢WYèKª.¡¤¹Ç꜖?¿rv ªVKgCçûoríí%¥ ý3Õì{¹sÅ_-Ý÷æ[åp}F:F³~ÏۯQ?â| 8µ¯ ¼16Æâ.{Ï$4ãð?¤?å?;(üàeké1Åm8Ü<ϼ?
+© oÆ2ÓwãJôR[:µ¬~æ~.ý.~ß?éënfæmޕH?mm HÖy-|É$'åJ?ّ3V?^-?¡Y¤í,r%þF³Ô[:ºð9YkrVKñ çóÝ ~ZÝMϫtó/ۜùf!8±¤?äöqJáQ	ãdȾ?Â@b¹¨ÅÔ¯&?,զ~»اnó¼c|L+Á¾Y¼Dh?tG{u?ÿ?¼À¿Ùúä]åêºê?zäê-xu/>mº¬J8 </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/tile_C.apv
+SPDXID: SPDXRef-item15212565
+FileChecksum: SHA1: 923f8f81742f309fb4da4b84d9c3a22374a9961a
+FileChecksum: SHA256: 2a2198f31bc64c3b4e8cff4b42a69cb7d6dbe65964ed80399192241a4d58fb36
+FileChecksum: MD5: 758377994717d15999f53341eb5d6038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	oWpä¸nA?ñõ⥘¬?ZOÐHÑO±X(ÁªKú?l?Ì.WB3W縁?~^©Û[´ÔҨ·}4uhVmët³?°÷ ºác(äLǵä3³;>éedpQÃ?Ô§?à[?'á^̾£l{t Ð0ó 2º?­;®ø?Ì?û6AfUæb*(r´?»ê?ÿYzÐJ;höz¤³èøêFE»p¢8:á!ÕÖÛH÷?U?Q?t­þ6?Ö?ܭ?¤ÕñS?ërÎU² Wâ?Õr#àJHh#FÈ}{Æ?(­?ÓÈáƮPc5"ë	¦?¡L·Ù?4?ܯ±[ªA?? vYy	k×7	¿eH-­Èl«t?˩¡?å,>ÄÞÑ?å²
+© B¿S¶o?3 ÿAX ¯*?ZY	R¦&/ ÅwA;L,?¸ՠ´?~f,(PĢdGn¬Gð*gÊ2ÆÞJ?öÂ}½ñÂj[Ëvój¹¯ ±¤N[ø% ¡Fûü	û¤¿ ¥?zmOoޗ	!ս$¤EÑ?b«ò]
+©	A¨Oß`AeêhKEãǒHVÖ?±?e?"0õc'*9$ò?¶pyÅÉ(µÈJå^º°ZWG«e^þò?¤OH?ßù®BÅÂL«?¯ðsz hÂGE^v­¥9]B ¨»¸ò¾c?q?Lé´ròôG$ ÇÑxÝ}C%ЮY·^?õ¤ã?"D?Ì<ÐcÛ ð~¿Äf9/ă0Ïç¹ ́RXè-SÌ?·O"y?}?v±?ûAÊ*dwvÙð'Vh3L+È1H¢q¹$ã~?èb.yRtªI!øߕä?­¢O¹u °;°­è2SÐlːà&*?ÁV#ۧ~ ¯C?ÌKßdTÉOûÇ(^ä1Ul§?î~I!_Ü
+© BVzěo2u}Lٿæ<E_?õÏ!*¢]ޯ*`ʨºè"ä·<ëF;H¬e{ÈJ WmNsï$Ó0
+© AnÆAjoÿþï2+NëÓpæ'«AjÁq¾æ#+è,ÊúýZ&#ï0« ²JGqSՆýZ?Rܪy]¾բdÕjõêçúgH8ڒ~­?Ê9¶
+©	oWpä¸nA?ñõ⥘¬?ZOÐHÑO±X(ÁªKú?l?Ì.WB3W縁?~^©Û[´ÔҨ·}4uhVmët³?°÷ ºác(äLǵä3³;>éedpQÃ?Ô§?à[?'á^̾£l{t Ð0ó 2º?­;®ø?Ì?û6AfUæb*(r´?»ê?ÿYzÐJ;höz¤³èøêFE»p¢8:á!ÕÖÛH÷?U?Q?t­þ6?Ö?ܭ?¤ÕñS?ërÎU² Wâ?Õr#àJHh#FÈ}{Æ?(­?ÓÈáƮPc5"ë	¦?¡L·Ù?4?ܯ±[ªA?? vYy	k×7	¿eH-­Èl«t?˩¡?å,>ÄÞÑ?å²
+© B¿S¶o?3 ÿAX ¯*?ZY	R¦&/ ÅwA;L,?¸ՠ´?~f,(PĢdGn¬Gð*gÊ2ÆÞJ?öÂ}½ñÂj[Ëvój¹¯ ±¤N[ø% ¡Fûü	û¤¿ ¥?zmOoޗ	!ս$¤EÑ?b«ò]
+©	A¨Oß`AeêhKEãǒHVÖ?±?e?"0õc'*9$ò?¶pyÅÉ(µÈJå^º°ZWG«e^þò?¤OH?ßù®BÅÂL«?¯ðsz hÂGE^v­¥9]B ¨»¸ò¾c?q?Lé´ròôG$ ÇÑxÝ}C%ЮY·^?õ¤ã?"D?Ì<ÐcÛ ð~¿Äf9/ă0Ïç¹ ́RXè-SÌ?·O"y?}?v±?ûAÊ*dwvÙð'Vh3L+È1H¢q¹$ã~?èb.yRtªI!øߕä?­¢O¹u °;°­è2SÐlːà&*?ÁV#ۧ~ ¯C?ÌKßdTÉOûÇ(^ä1Ul§?î~I!_Ü
+© BVzěo2u}Lٿæ<E_?õÏ!*¢]ޯ*`ʨºè"ä·<ëF;H¬e{ÈJ WmNsï$Ó0
+© AnÆAjoÿþï2+NëÓpæ'«AjÁq¾æ#+è,ÊúýZ&#ï0« ²JGqSՆýZ?Rܪy]¾բdÕjõêçúgH8ڒ~­?Ê9¶
+© 2
+© B_4cAs²ëI!,¸<?`¥/!*%Töʟÿ3
+©	V¯+Dé 9W?oge]?RmÍ8?A|͓v¹ õ¢MîK qHÙ¾ì.SåÊEߒt?u}ð?m
+©	6û1orÎ^t? GÁE\¢ëU r99Ù?FÒê\ü©z"/?Ó
+© y/i S¢hm¹6 éëä f(¯|«t?(:?´e6öSo³÷Vp~­a?Øá$d?aí4Ϣp§ìÇVh&µNÌÒ4P¯˭e	nèjñkÀ?]?Tj?+?þOtVç« 9e$ú?«÷GÑ:òºȉ?ÀFïõUÐe=H½õIt)e~vړ¬?¸$?y»cÙ됱Wân~©w+A5µ`ø:áëä?"*}k%çz±?^÷5y¶b?TôN¥3ïý»?ÕeDjè´Ï.þj? ©!+?YúʒèKrE|?õpRþÈ%»?ve'h,??Uú¼ÆԌËö	(¥Î?û¿®B¼Ҽmò£QK¡-ìÎá35Ï!*n¥écc È'ÿ>x?TÉjîö </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/bitstream/tile_B.apv
+SPDXID: SPDXRef-item15212566
+FileChecksum: SHA1: 8114f440c719d5993ca7836ad2265f71b14f67f7
+FileChecksum: SHA256: c64e147b181dd9fe9a6e810bb7c90cc9b36e11fd2eecfc5d2a8537593ff23a15
+FileChecksum: MD5: 7d626cea95f8d7a4b3f1f6e3d10e923c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	pÉxÿÕKhÏ8ò©z°&ï~âaR×7W¼èÌ?¢WYèKª.¡¤¹Ç꜖?¿rv ªVKgCçûoríí%¥ ý3Õì{¹sÅ_-Ý÷æ[åp}F:F³~ÏۯQ?â| 8µ¯ ¼16Æâ.{Ï$4ãð?¤?å?;(üàeké1Åm8Ü<ϼ?
+© oÆ2ÓwãJôR[:µ¬~æ~.ý.~ß?éënfæmޕH?mm HÖy-|É$'åJ?ّ3V?^-?¡Y¤í,r%þF³Ô[:ºð9YkrVKñ çóÝ ~ZÝMϫtó/ۜùf!8±¤?äöqJáQ	ãdȾ?Â@b¹¨ÅÔ¯&?,զ~»اnó¼c|L+Á¾Y¼Dh?tG{u?ÿ?¼À¿Ùúä]åêºê?zäê-xu/>mº¬J8 </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/sequence/pattern1_yuv422p10le_320x240_25fps.y4m
+SPDXID: SPDXRef-item15212568
+FileChecksum: SHA1: 9a6d732ac0e4c55b170a3a7bcb8e9a36a4bfb087
+FileChecksum: SHA256: 4c4625b6044dc783c55f36a3dc036e8571f75c70fe3febb8f79e3a56eb6502bd
+FileChecksum: MD5: 1893ddcec86acc68248425340b7e36ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/sequence/pattern2_yuv422p12le_1920x1080_25fps.y4m
+SPDXID: SPDXRef-item15212569
+FileChecksum: SHA1: b7ebbaa3b0172c85aad49aff19de6a9c9611ec0a
+FileChecksum: SHA256: 7a83bff4e0bf8d4a2642744d8cdf2915f185554b5d8768194ff04a29b997855f
+FileChecksum: MD5: b87dc2f6ba3af5e0349fc33a9fcb5894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?????Ü?Ü?Ü?Ü?¨?¨?¨?¨?©	©	©	©	k?k?k?k 6?6?6?6?ñ	ñ	ñ	ñ	-?-?-?-?¤	¤	¤	¤	m?m?m?m?z?z?z?z?G
+©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?????Ü?Ü?Ü?Ü?¨?¨?¨?¨?©	©	©	©	k?k?k?k 6?6?6?6?ñ	ñ	ñ	ñ	-?-?-?-?¤	¤	¤	¤	m?m?m?m?z?z?z?z?G
+©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?????Ü?Ü?Ü?Ü?¨?¨?¨?¨?©	©	©	©	k?k?k?k 6?6?6?6?ñ	ñ	ñ	ñ	-?-?-?-?¤	¤	¤	¤	m?m?m?m?z?z?z?z?G
+©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?????Ü?Ü?Ü?Ü?¨?¨?¨?¨?©	©	©	©	k?k?k?k 6?6?6?6?ñ	ñ	ñ	ñ	-?-?-?-?¤	¤	¤	¤	m?m?m?m?z?z?z?z?G
+©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?????Ü?Ü?Ü?Ü?¨?¨?¨?¨?©	©	©	©	k?k?k?k 6?6?6?6?ñ	ñ	ñ	ñ	-?-?-?-?¤	¤	¤	¤	m?m?m?m?z?z?z?z?G
+©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?????Ü?Ü?Ü?Ü?¨?¨?¨?¨?©	©	©	©	k?k?k?k 6?6?6?6?ñ	ñ	ñ	ñ	-?-?-?-?¤	¤	¤	¤	m?m?m?m?z?z?z?z?G
+©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?????Ü?Ü?Ü?Ü?¨?¨?¨?¨?©	©	©	©	k?k?k?k 6?6?6?6?ñ	ñ	ñ	ñ	-?-?-?-?¤	¤	¤	¤	m?m?m?m?z?z?z?z?G
+©	E?E?E?E?H?H?H?H?ª?ª?ª?ª?t?t?t?t?¹?¹?¹?¹?¯?¯?¯?¯?k?k?k?k?????????¶?¶?¶?¶?p?p?p?p?u?u?u?u?9	9	9	9	%
+©	a?a?a?a?c
+©	a?a?a?a?c
+©	a?a?a?a?c
+©	a?a?a?a?c
+©	a?a?a?a?c
+©	a?a?a?a?c
+©	a?a?a?a?c
+©	a?a?a?a?c </text>
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/test/README.md
+SPDXID: SPDXRef-item15212570
+FileChecksum: SHA1: 242f86f08d943065ebc04d1350e10ec18c2fe1af
+FileChecksum: SHA256: ce62005c1b0a7cde30175126514896c00d8775357f12a0dd6fe5f355bc79c99b
+FileChecksum: MD5: 64535c3605828ee85ec0441cf7996cff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/CMakeLists.txt
+SPDXID: SPDXRef-item15212571
+FileChecksum: SHA1: 467d0777cd40036274ec7b5d0ce4e93ca9a02f8f
+FileChecksum: SHA256: d28aa03ddbbe43eff748236b0718e1c1ad04b0e304ab0e9e674584e2fe72e77f
+FileChecksum: MD5: a36a8d4c5b8b4101a1bdf6e67387a0d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/.clang-format
+SPDXID: SPDXRef-item15212572
+FileChecksum: SHA1: 0d08fc110f080d18290a4c08bbd36dc1debc90fa
+FileChecksum: SHA256: 5898047ee17eb1c1ad52eeb3cb045bff66a0fb41df8ce7b4de874469ff25d537
+FileChecksum: MD5: 7a54ff6d4cba3e26d94f4162a0b0e0b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/README.md
+SPDXID: SPDXRef-item15212573
+FileChecksum: SHA1: 32787d3a7ce6adc3a88b6ef62c0a3963ac94f3b3
+FileChecksum: SHA256: 61771f06ef41c0260256b355bd9a9cf8b54b952d6dede479819548e88e762c81
+FileChecksum: MD5: f56eb90797b9d4c2d3bd31ad89ab7eca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/app/CMakeLists.txt
+SPDXID: SPDXRef-item15212581
+FileChecksum: SHA1: 092a8e69f6e1351112b5624f05ced33f4b2e8b29
+FileChecksum: SHA256: 71dfcded1b8dede6b38ec2bc633131a78340c67a21a29f947463f0fc5afc35fc
+FileChecksum: MD5: 7867c5a8f52290a1f346e73ed52d3f8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenAPV-2026-09-17.zip/openapv/macos_universal_toolchain.cmake
+SPDXID: SPDXRef-item15212583
+FileChecksum: SHA1: 126d619d9fa0df887a51c424c4980aab71763464
+FileChecksum: SHA256: a2e386c16d40a5be2303e7eab1c34d758def69d56bae22f136c698989dc3cd1a
+FileChecksum: MD5: e0e4093cc90b0b3ea34c14988c2e7e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
