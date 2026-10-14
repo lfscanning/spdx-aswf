@@ -1,0 +1,64 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T08:55:39Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpuu1mxo3_/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpuu1mxo3_/code-6d242d2f-d6e8-46c6-8eab-668a276309ac",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-a56a8c40520f6294",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND (BSD-3-Clause AND MIT)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "aswf.openfx",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-openfx-openfx",
+            "comment": "This package was added to the Trivy analysis for the openfx by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openfx/archive/91e1e166c2ec13de4fd745303e0aee5732e25837.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openfx@91e1e166c2ec13de4fd745303e0aee5732e25837",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND (BSD-3-Clause AND CC-BY-4.0) AND CC-BY-4.0 AND (BSD-3-Clause AND MIT)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "openfx",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "91e1e166c2ec13de4fd745303e0aee5732e25837"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-a56a8c40520f6294",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-a56a8c40520f6294",
+            "relatedSpdxElement": "SPDXRef-aswf-openfx-openfx",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
