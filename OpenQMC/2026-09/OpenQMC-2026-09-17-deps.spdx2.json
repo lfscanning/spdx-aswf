@@ -1,0 +1,64 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T09:02:59Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpuk121zo9/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpuk121zo9/code-5664c252-263b-45d3-b8ac-4c26f7c29d75",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-a6db85c7792eda55",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.OpenQMC",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-OpenQMC-openqmc",
+            "comment": "This package was added to the Trivy analysis for the openqmc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/openqmc/archive/d83ec5970b3cfbd182bb5c13c91cafb5b7546c58.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/openqmc@d83ec5970b3cfbd182bb5c13c91cafb5b7546c58",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openqmc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "d83ec5970b3cfbd182bb5c13c91cafb5b7546c58"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-a6db85c7792eda55",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-a6db85c7792eda55",
+            "relatedSpdxElement": "SPDXRef-aswf-OpenQMC-openqmc",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
