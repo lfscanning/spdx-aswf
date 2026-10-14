@@ -1,0 +1,163 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T08:57:40Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "LicenseRef-Public-domain",
+            "licenseId": "LicenseRef-Public-domain"
+        }
+    ],
+    "name": "/tmp/tmpkpb13knb/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpkpb13knb/code-32d2a024-687c-4db7-ad55-2b813b1d8b08",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-a1df3eb9d3bf828e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "OpenImageIO/src/doc/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "adf67b655da9e7675837b96477a47ae27b724dd5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e81aa90d010d6c54",
+            "description": "Sphinx Doxygen renderer",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/breathe@4.36.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.breathe-doc.org/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "breathe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenImageIO/src/doc/requirements.txt",
+            "supplier": "Organization: Breathe",
+            "versionInfo": "4.36.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9e35287ec32f253c",
+            "description": "A clean customisable Sphinx documentation theme.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/furo@2024.8.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-SA-4.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "furo",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: OpenImageIO/src/doc/requirements.txt",
+            "supplier": "Organization: Pradyun Gedam",
+            "versionInfo": "2024.8.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-4317ffe9c16c31",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 AND MIT) AND (Apache-2.0 AND NCSA) AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND BSD-3-Clause AND CC-BY-4.0) AND MIT AND BSD-3-Clause AND BSD-2-Clause AND (MIT AND Unlicense) AND LicenseRef-Public-domain",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.OpenImageIO",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-OpenImageIO-OpenImageIO",
+            "comment": "This package was added to the Trivy analysis for the OpenImageIO by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/OpenImageIO/archive/adf67b655da9e7675837b96477a47ae27b724dd5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/OpenImageIO@adf67b655da9e7675837b96477a47ae27b724dd5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 AND MIT) AND (Apache-2.0 AND NCSA) AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND BSD-3-Clause AND CC-BY-4.0) AND MIT AND BSD-3-Clause AND BSD-2-Clause AND (MIT AND Unlicense) AND LicenseRef-Public-domain",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenImageIO",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "adf67b655da9e7675837b96477a47ae27b724dd5"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-OpenImageIO-OpenImageIO-images",
+            "comment": "This package was added to the Trivy analysis for the OpenImageIO-images by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/OpenImageIO-images/archive/d13e98f92b4e75ae7cd949cc5aa1df219560fb93.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/OpenImageIO-images@d13e98f92b4e75ae7cd949cc5aa1df219560fb93",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 AND MIT) AND (Apache-2.0 AND NCSA) AND (Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 AND BSD-3-Clause AND CC-BY-4.0) AND MIT AND BSD-3-Clause AND BSD-2-Clause AND (MIT AND Unlicense) AND LicenseRef-Public-domain",
+            "licenseDeclared": "Apache-2.0",
+            "name": "OpenImageIO-images",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "d13e98f92b4e75ae7cd949cc5aa1df219560fb93"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-a1df3eb9d3bf828e",
+            "relatedSpdxElement": "SPDXRef-Package-9e35287ec32f253c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a1df3eb9d3bf828e",
+            "relatedSpdxElement": "SPDXRef-Package-e81aa90d010d6c54",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-aswf-OpenImageIO-OpenImageIO",
+            "relatedSpdxElement": "SPDXRef-Application-a1df3eb9d3bf828e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-4317ffe9c16c31",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-4317ffe9c16c31",
+            "relatedSpdxElement": "SPDXRef-aswf-OpenImageIO-OpenImageIO",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-4317ffe9c16c31",
+            "relatedSpdxElement": "SPDXRef-aswf-OpenImageIO-OpenImageIO-images",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
