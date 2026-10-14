@@ -1,0 +1,76 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T08:53:49Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "LicenseRef-BSD",
+            "licenseId": "LicenseRef-BSD"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "LicenseRef-Python",
+            "licenseId": "LicenseRef-Python"
+        }
+    ],
+    "name": "/tmp/tmpuvte8cil/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpuvte8cil/code-f19edbad-3307-4e38-bde3-4c34c4e96ab2",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-a4b040db033a9bc1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND BSD-3-Clause AND BSD-2-Clause AND BSL-1.0 AND ISC AND PSF-2.0 AND (Apache-2.0 OR LicenseRef-BSD) AND LicenseRef-Python",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.rez",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-rez-rez",
+            "comment": "This package was added to the Trivy analysis for the rez by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/AcademySoftwareFoundation/rez/archive/bacd501159fb38736a5803f73ba22680340c1fb3.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/AcademySoftwareFoundation/rez@bacd501159fb38736a5803f73ba22680340c1fb3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND BSD-3-Clause AND BSD-2-Clause AND BSL-1.0 AND ISC AND PSF-2.0 AND (Apache-2.0 OR LicenseRef-BSD) AND LicenseRef-Python",
+            "licenseDeclared": "Apache-2.0",
+            "name": "rez",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "bacd501159fb38736a5803f73ba22680340c1fb3"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-a4b040db033a9bc1",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-a4b040db033a9bc1",
+            "relatedSpdxElement": "SPDXRef-aswf-rez-rez",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
