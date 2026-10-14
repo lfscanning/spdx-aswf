@@ -1,0 +1,246 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T09:03:17Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "W3C-IP",
+            "licenseId": "LicenseRef-W3C-IP"
+        }
+    ],
+    "name": "/tmp/tmpusr1xbw8/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpusr1xbw8/code-c09ccc3f-a543-4c01-92de-659824348020",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.aces-aswf",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-CTL",
+            "comment": "This package was added to the Trivy analysis for the CTL by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/CTL/archive/e280b6c4cf49726914260f1cf0cb2949d8db1027.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/CTL@e280b6c4cf49726914260f1cf0cb2949d8db1027",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "CTL",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "e280b6c4cf49726914260f1cf0cb2949d8db1027"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-aces",
+            "comment": "This package was added to the Trivy analysis for the aces by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/aces/archive/5269d5f3e8a624252670bb0aa8608509d3c5306e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/aces@5269d5f3e8a624252670bb0aa8608509d3c5306e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aces",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "5269d5f3e8a624252670bb0aa8608509d3c5306e"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-aces-amf",
+            "comment": "This package was added to the Trivy analysis for the aces-amf by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/aces-amf/archive/e2b99012c6f93da29102669216801f224304259a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/aces-amf@e2b99012c6f93da29102669216801f224304259a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aces-amf",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "e2b99012c6f93da29102669216801f224304259a"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-aces-core",
+            "comment": "This package was added to the Trivy analysis for the aces-core by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/aces-core/archive/069b0bc3e1f6c62820f19fdae2fecec3f4fc0f80.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/aces-core@069b0bc3e1f6c62820f19fdae2fecec3f4fc0f80",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aces-core",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "069b0bc3e1f6c62820f19fdae2fecec3f4fc0f80"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-aces-docs",
+            "comment": "This package was added to the Trivy analysis for the aces-docs by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/aces-docs/archive/773f9779bc1aa0fbee10e9ee55aa8efb5686a439.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/aces-docs@773f9779bc1aa0fbee10e9ee55aa8efb5686a439",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aces-docs",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "773f9779bc1aa0fbee10e9ee55aa8efb5686a439"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-aces-input-and-colorspaces",
+            "comment": "This package was added to the Trivy analysis for the aces-input-and-colorspaces by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/aces-input-and-colorspaces/archive/29b722bccd529460696a8382394504cae2e88419.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/aces-input-and-colorspaces@29b722bccd529460696a8382394504cae2e88419",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aces-input-and-colorspaces",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "29b722bccd529460696a8382394504cae2e88419"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-aces-look",
+            "comment": "This package was added to the Trivy analysis for the aces-look by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/aces-look/archive/b2b36e80282a85d7939ac8f8de70317742d8ba53.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/aces-look@b2b36e80282a85d7939ac8f8de70317742d8ba53",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aces-look",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "b2b36e80282a85d7939ac8f8de70317742d8ba53"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-aces-aswf-aces-output",
+            "comment": "This package was added to the Trivy analysis for the aces-output by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/aces-aswf/aces-output/archive/6d8f9071a67b044bac0fbcb3d51ad0543f065e66.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/aces-aswf/aces-output@6d8f9071a67b044bac0fbcb3d51ad0543f065e66",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-W3C-IP AND AMPAS",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aces-output",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "6d8f9071a67b044bac0fbcb3d51ad0543f065e66"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-CTL",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-aces",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-aces-amf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-aces-core",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-aces-docs",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-aces-input-and-colorspaces",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-aces-look",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c1bcbc2a867e7109",
+            "relatedSpdxElement": "SPDXRef-aswf-aces-aswf-aces-output",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
