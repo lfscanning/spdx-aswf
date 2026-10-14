@@ -1,0 +1,89 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-14T09:03:40Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpv0emfspw/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpv0emfspw/code-9d63f6af-214f-43b0-b3e6-37028c4a6c44",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-b3ca6ffc0216756b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND (Apache-2.0 AND MIT) AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND BSD-3-Clause AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aswf.OpenPathGuidingLibrary",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-OpenPathGuidingLibrary-openpgl",
+            "comment": "This package was added to the Trivy analysis for the openpgl by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenPathGuidingLibrary/openpgl/archive/b4e4b861bdeaef391cfd4e0a27afa6a60f0d5b53.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenPathGuidingLibrary/openpgl@b4e4b861bdeaef391cfd4e0a27afa6a60f0d5b53",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND (Apache-2.0 AND MIT) AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND BSD-3-Clause AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openpgl",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "b4e4b861bdeaef391cfd4e0a27afa6a60f0d5b53"
+        },
+        {
+            "SPDXID": "SPDXRef-aswf-OpenPathGuidingLibrary-pbrt-v4",
+            "comment": "This package was added to the Trivy analysis for the pbrt-v4 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/OpenPathGuidingLibrary/pbrt-v4/archive/677582a51a692c2ca840490657f2ee56ceb94a80.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/OpenPathGuidingLibrary/pbrt-v4@677582a51a692c2ca840490657f2ee56ceb94a80",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND (Apache-2.0 AND MIT) AND (Apache-2.0 AND BSD-3-Clause) AND MIT AND BSD-3-Clause AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pbrt-v4",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project aswf",
+            "supplier": "Organization: Linux Foundation Project aswf",
+            "versionInfo": "677582a51a692c2ca840490657f2ee56ceb94a80"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-b3ca6ffc0216756b",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b3ca6ffc0216756b",
+            "relatedSpdxElement": "SPDXRef-aswf-OpenPathGuidingLibrary-openpgl",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b3ca6ffc0216756b",
+            "relatedSpdxElement": "SPDXRef-aswf-OpenPathGuidingLibrary-pbrt-v4",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
